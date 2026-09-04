@@ -1,0 +1,3389 @@
+[
+  {
+    "place_id": "ChIJzwNPAaiv5zsRGJwWtgjTuyY",
+    "name": "Aman's Animal Rehabilitation Center",
+    "description": null,
+    "is_spending_on_ads": false,
+    "link": "https://www.google.com/maps/place/Aman's+Animal+Rehabilitation+Center/data=!4m7!3m6!1s0x3be7afa8014f03cf:0x26bbd308b6169c18!8m2!3d19.3574036!4d72.8795212!16s%2Fg%2F11fv1f_3xn!19sChIJzwNPAaiv5zsRGJwWtgjTuyY?authuser=0&rclk=1",
+    "reviews": 168,
+    "rating": 4.5,
+    "competitors": [
+      {
+        "name": "SHARANAM ANIMAL CARE AND RESCUE CENTER",
+        "suggested_link": "https://www.google.com/maps/search/SHARANAM+ANIMAL+CARE+AND+RESCUE+CENTER/@19.2723988,72.96784939999999,19z?authuser=0&entry=ttu",
+        "reviews": 223,
+        "rating": 4.8,
+        "main_category": "Animal rescue service",
+        "categories": [
+          "Animal rescue service",
+          "Dog day care center",
+          "Pet boarding service"
+        ],
+        "coordinates": {
+          "latitude": 19.2723988,
+          "longitude": 72.96784939999999
+        }
+      },
+      {
+        "name": "Panikar auntie's dog shelter",
+        "suggested_link": "https://www.google.com/maps/search/Panikar+auntie's+dog+shelter/@19.2980671,72.8668659,19z?authuser=0&entry=ttu",
+        "reviews": 42,
+        "rating": 4.4,
+        "main_category": "Animal shelter",
+        "categories": [
+          "Animal shelter"
+        ],
+        "coordinates": {
+          "latitude": 19.2980671,
+          "longitude": 72.8668659
+        }
+      }
+    ],
+    "website": "https://www.instagram.com/aarf_official/profilecard/?igsh=aGpwajhhZ2plb2cz",
+    "phone": null,
+    "phone_international": null,
+    "can_claim": true,
+    "owner": {
+      "id": "111699352459657316653",
+      "name": "Aman's Animal Rehabilitation Center (Owner)",
+      "link": "https://www.google.com/maps/contrib/111699352459657316653"
+    },
+    "owner_posts": [],
+    "featured_image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHiH_OWD7d7lgaL5gO-ze6EYWDXnEhL9D4EZ_7jjIcRhQarkqMTGOo7fBZKKA-NxGdqcgiaezJS4Lts2Xl9P0K9kDaaMCTowkd2NO4xWgmz29iXvbiyGEDPoXXACzRigVb1K34=w1920-h1080-k-no",
+    "main_category": "Animal shelter",
+    "categories": [
+      "Animal shelter"
+    ],
+    "workday_timing": "Open 24 hours",
+    "status": null,
+    "is_temporarily_closed": false,
+    "is_permanently_closed": false,
+    "closed_on": [
+      "Saturday",
+      "Sunday"
+    ],
+    "address": "Next to Saibaba Mandir, Chandarpada auto stand, road, Juchandra, Naigaon East, Maharashtra 401208",
+    "price_range": null,
+    "reviews_per_rating": {
+      "1": 14,
+      "2": 1,
+      "3": 9,
+      "4": 15,
+      "5": 129
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJzwNPAaiv5zsRGJwWtgjTuyY&q=Aman's+Animal+Rehabilitation+Center&authuser=0&hl=en&gl=IN",
+    "coordinates": {
+      "latitude": 19.357403599999998,
+      "longitude": 72.8795212
+    },
+    "plus_code": "9V4H+XR Naigaon East, Vasai-Virar, Maharashtra",
+    "detailed_address": {
+      "ward": "Juchandra, Naigaon East",
+      "street": "Next to Saibaba Mandir, Chandarpada auto stand, road",
+      "city": "Vasai-Virar",
+      "postal_code": "401208",
+      "state": "Maharashtra",
+      "country_code": "IN"
+    },
+    "time_zone": "Asia/Calcutta",
+    "is_rental": false,
+    "cid": "2791056428454288408",
+    "data_id": "0x3be7afa8014f03cf:0x26bbd308b6169c18",
+    "kgmid": "/g/11fv1f_3xn",
+    "about": [],
+    "hours": [
+      {
+        "day": "Monday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Friday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "times": [
+          "Closed"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "times": [
+          "Closed"
+        ]
+      }
+    ],
+    "most_popular_times": [
+      {
+        "hour_of_day": 22,
+        "average_popularity": 76,
+        "time_label": "10 pm"
+      },
+      {
+        "hour_of_day": 21,
+        "average_popularity": 72.8,
+        "time_label": "9 pm"
+      },
+      {
+        "hour_of_day": 23,
+        "average_popularity": 64,
+        "time_label": "11 pm"
+      }
+    ],
+    "popular_times": {
+      "Monday": [
+        {
+          "hour_of_day": 0,
+          "time_label": "12 am",
+          "popularity_percentage": 44,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 1,
+          "time_label": "1 am",
+          "popularity_percentage": 23,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 2,
+          "time_label": "2 am",
+          "popularity_percentage": 12,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 3,
+          "time_label": "3 am",
+          "popularity_percentage": 9,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 4,
+          "time_label": "4 am",
+          "popularity_percentage": 12,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 5,
+          "time_label": "5 am",
+          "popularity_percentage": 13,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 6,
+          "time_label": "6 am",
+          "popularity_percentage": 12,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 7,
+          "time_label": "7 am",
+          "popularity_percentage": 11,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 8,
+          "time_label": "8 am",
+          "popularity_percentage": 11,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 9,
+          "time_label": "9 am",
+          "popularity_percentage": 19,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 10,
+          "time_label": "10 am",
+          "popularity_percentage": 29,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 11,
+          "time_label": "11 am",
+          "popularity_percentage": 32,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 12,
+          "time_label": "12 pm",
+          "popularity_percentage": 22,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 13,
+          "time_label": "1 pm",
+          "popularity_percentage": 24,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 14,
+          "time_label": "2 pm",
+          "popularity_percentage": 44,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 15,
+          "time_label": "3 pm",
+          "popularity_percentage": 80,
+          "popularity_description": "Usually as busy as it gets"
+        },
+        {
+          "hour_of_day": 16,
+          "time_label": "4 pm",
+          "popularity_percentage": 89,
+          "popularity_description": "Usually as busy as it gets"
+        },
+        {
+          "hour_of_day": 17,
+          "time_label": "5 pm",
+          "popularity_percentage": 64,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 18,
+          "time_label": "6 pm",
+          "popularity_percentage": 44,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 19,
+          "time_label": "7 pm",
+          "popularity_percentage": 38,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 20,
+          "time_label": "8 pm",
+          "popularity_percentage": 53,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 21,
+          "time_label": "9 pm",
+          "popularity_percentage": 81,
+          "popularity_description": "Usually as busy as it gets"
+        },
+        {
+          "hour_of_day": 22,
+          "time_label": "10 pm",
+          "popularity_percentage": 100,
+          "popularity_description": "Usually as busy as it gets"
+        },
+        {
+          "hour_of_day": 23,
+          "time_label": "11 pm",
+          "popularity_percentage": 85,
+          "popularity_description": "Usually as busy as it gets"
+        }
+      ],
+      "Tuesday": [
+        {
+          "hour_of_day": 0,
+          "time_label": "12 am",
+          "popularity_percentage": 50,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 1,
+          "time_label": "1 am",
+          "popularity_percentage": 30,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 2,
+          "time_label": "2 am",
+          "popularity_percentage": 17,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 3,
+          "time_label": "3 am",
+          "popularity_percentage": 14,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 4,
+          "time_label": "4 am",
+          "popularity_percentage": 10,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 5,
+          "time_label": "5 am",
+          "popularity_percentage": 10,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 6,
+          "time_label": "6 am",
+          "popularity_percentage": 12,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 7,
+          "time_label": "7 am",
+          "popularity_percentage": 14,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 8,
+          "time_label": "8 am",
+          "popularity_percentage": 18,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 9,
+          "time_label": "9 am",
+          "popularity_percentage": 19,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 10,
+          "time_label": "10 am",
+          "popularity_percentage": 21,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 11,
+          "time_label": "11 am",
+          "popularity_percentage": 26,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 12,
+          "time_label": "12 pm",
+          "popularity_percentage": 29,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 13,
+          "time_label": "1 pm",
+          "popularity_percentage": 24,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 14,
+          "time_label": "2 pm",
+          "popularity_percentage": 21,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 15,
+          "time_label": "3 pm",
+          "popularity_percentage": 26,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 16,
+          "time_label": "4 pm",
+          "popularity_percentage": 30,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 17,
+          "time_label": "5 pm",
+          "popularity_percentage": 37,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 18,
+          "time_label": "6 pm",
+          "popularity_percentage": 41,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 19,
+          "time_label": "7 pm",
+          "popularity_percentage": 54,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 20,
+          "time_label": "8 pm",
+          "popularity_percentage": 62,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 21,
+          "time_label": "9 pm",
+          "popularity_percentage": 73,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 22,
+          "time_label": "10 pm",
+          "popularity_percentage": 69,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 23,
+          "time_label": "11 pm",
+          "popularity_percentage": 52,
+          "popularity_description": "Usually a little busy"
+        }
+      ],
+      "Wednesday": [
+        {
+          "hour_of_day": 0,
+          "time_label": "12 am",
+          "popularity_percentage": 33,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 1,
+          "time_label": "1 am",
+          "popularity_percentage": 21,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 2,
+          "time_label": "2 am",
+          "popularity_percentage": 15,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 3,
+          "time_label": "3 am",
+          "popularity_percentage": 12,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 4,
+          "time_label": "4 am",
+          "popularity_percentage": 9,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 5,
+          "time_label": "5 am",
+          "popularity_percentage": 11,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 6,
+          "time_label": "6 am",
+          "popularity_percentage": 15,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 7,
+          "time_label": "7 am",
+          "popularity_percentage": 16,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 8,
+          "time_label": "8 am",
+          "popularity_percentage": 12,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 9,
+          "time_label": "9 am",
+          "popularity_percentage": 14,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 10,
+          "time_label": "10 am",
+          "popularity_percentage": 19,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 11,
+          "time_label": "11 am",
+          "popularity_percentage": 28,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 12,
+          "time_label": "12 pm",
+          "popularity_percentage": 33,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 13,
+          "time_label": "1 pm",
+          "popularity_percentage": 29,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 14,
+          "time_label": "2 pm",
+          "popularity_percentage": 30,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 15,
+          "time_label": "3 pm",
+          "popularity_percentage": 36,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 16,
+          "time_label": "4 pm",
+          "popularity_percentage": 42,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 17,
+          "time_label": "5 pm",
+          "popularity_percentage": 39,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 18,
+          "time_label": "6 pm",
+          "popularity_percentage": 34,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 19,
+          "time_label": "7 pm",
+          "popularity_percentage": 38,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 20,
+          "time_label": "8 pm",
+          "popularity_percentage": 49,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 21,
+          "time_label": "9 pm",
+          "popularity_percentage": 73,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 22,
+          "time_label": "10 pm",
+          "popularity_percentage": 81,
+          "popularity_description": "Usually as busy as it gets"
+        },
+        {
+          "hour_of_day": 23,
+          "time_label": "11 pm",
+          "popularity_percentage": 69,
+          "popularity_description": "Usually a little busy"
+        }
+      ],
+      "Thursday": [
+        {
+          "hour_of_day": 0,
+          "time_label": "12 am",
+          "popularity_percentage": 38,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 1,
+          "time_label": "1 am",
+          "popularity_percentage": 19,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 2,
+          "time_label": "2 am",
+          "popularity_percentage": 11,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 3,
+          "time_label": "3 am",
+          "popularity_percentage": 9,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 4,
+          "time_label": "4 am",
+          "popularity_percentage": 13,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 5,
+          "time_label": "5 am",
+          "popularity_percentage": 15,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 6,
+          "time_label": "6 am",
+          "popularity_percentage": 16,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 7,
+          "time_label": "7 am",
+          "popularity_percentage": 15,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 8,
+          "time_label": "8 am",
+          "popularity_percentage": 15,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 9,
+          "time_label": "9 am",
+          "popularity_percentage": 19,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 10,
+          "time_label": "10 am",
+          "popularity_percentage": 28,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 11,
+          "time_label": "11 am",
+          "popularity_percentage": 38,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 12,
+          "time_label": "12 pm",
+          "popularity_percentage": 34,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 13,
+          "time_label": "1 pm",
+          "popularity_percentage": 23,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 14,
+          "time_label": "2 pm",
+          "popularity_percentage": 20,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 15,
+          "time_label": "3 pm",
+          "popularity_percentage": 27,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 16,
+          "time_label": "4 pm",
+          "popularity_percentage": 42,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 17,
+          "time_label": "5 pm",
+          "popularity_percentage": 50,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 18,
+          "time_label": "6 pm",
+          "popularity_percentage": 48,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 19,
+          "time_label": "7 pm",
+          "popularity_percentage": 51,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 20,
+          "time_label": "8 pm",
+          "popularity_percentage": 54,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 21,
+          "time_label": "9 pm",
+          "popularity_percentage": 63,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 22,
+          "time_label": "10 pm",
+          "popularity_percentage": 55,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 23,
+          "time_label": "11 pm",
+          "popularity_percentage": 45,
+          "popularity_description": "Usually not too busy"
+        }
+      ],
+      "Friday": [
+        {
+          "hour_of_day": 0,
+          "time_label": "12 am",
+          "popularity_percentage": 24,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 1,
+          "time_label": "1 am",
+          "popularity_percentage": 14,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 2,
+          "time_label": "2 am",
+          "popularity_percentage": 8,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 3,
+          "time_label": "3 am",
+          "popularity_percentage": 9,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 4,
+          "time_label": "4 am",
+          "popularity_percentage": 8,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 5,
+          "time_label": "5 am",
+          "popularity_percentage": 9,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 6,
+          "time_label": "6 am",
+          "popularity_percentage": 11,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 7,
+          "time_label": "7 am",
+          "popularity_percentage": 9,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 8,
+          "time_label": "8 am",
+          "popularity_percentage": 15,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 9,
+          "time_label": "9 am",
+          "popularity_percentage": 25,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 10,
+          "time_label": "10 am",
+          "popularity_percentage": 42,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 11,
+          "time_label": "11 am",
+          "popularity_percentage": 51,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 12,
+          "time_label": "12 pm",
+          "popularity_percentage": 41,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 13,
+          "time_label": "1 pm",
+          "popularity_percentage": 29,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 14,
+          "time_label": "2 pm",
+          "popularity_percentage": 24,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 15,
+          "time_label": "3 pm",
+          "popularity_percentage": 24,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 16,
+          "time_label": "4 pm",
+          "popularity_percentage": 24,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 17,
+          "time_label": "5 pm",
+          "popularity_percentage": 21,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 18,
+          "time_label": "6 pm",
+          "popularity_percentage": 28,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 19,
+          "time_label": "7 pm",
+          "popularity_percentage": 40,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 20,
+          "time_label": "8 pm",
+          "popularity_percentage": 55,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 21,
+          "time_label": "9 pm",
+          "popularity_percentage": 74,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 22,
+          "time_label": "10 pm",
+          "popularity_percentage": 75,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 23,
+          "time_label": "11 pm",
+          "popularity_percentage": 69,
+          "popularity_description": "Usually a little busy"
+        }
+      ]
+    },
+    "menu": null,
+    "reservations": [],
+    "order_online_links": [],
+    "gas_prices": [],
+    "image_count": 78,
+    "images": [
+      {
+        "about": "All",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHiH_OWD7d7lgaL5gO-ze6EYWDXnEhL9D4EZ_7jjIcRhQarkqMTGOo7fBZKKA-NxGdqcgiaezJS4Lts2Xl9P0K9kDaaMCTowkd2NO4xWgmz29iXvbiyGEDPoXXACzRigVb1K34=w1920-h1080-k-no",
+        "published_at_date": "2025-03-22T11:00:00"
+      },
+      {
+        "about": "Dog",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGkgOVZW43pIv6QI9r6gpKQnorQnOgGwW6df3P7Iqif_dTcfvLhLfaqf2r8ajTQ_l_HmXEMGOwc4jQ3ZhdnlSKrVnT0_dg5E4muPSpBtYKDL2WAVjZ2-mYomUU8Rff6sZiwZPM=w1920-h1080-k-no",
+        "published_at_date": "2022-02-02T13:00:00"
+      },
+      {
+        "about": "Videos",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGRzp1A2py1C4707SD0vXghLMUG0QLgHQoSDix1L6fEql_dA4nhamkRVRAM0q2eI-BwGjYvIZXVVkAyhgHD56F5wFwOmbEUrRENeAQm4mElrjpukd5wxGDSXmjzpwIvHRlELDg=w1920-h1080-k-no",
+        "published_at_date": "2025-03-22T11:00:00"
+      },
+      {
+        "about": "Cat",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE8PameZEu9VQ_LibHBM-ZoGMrTCsuH_yeJD7e3y7lh9wGC1BtmLQnS6262-ipfFCPoktfwyY4dspARJhL1k1GyOYmP1mluxzcuQ45sJCouOkZE7u0qxIIy1-TcBDuQFTi8PvPFDw=w1920-h1080-k-no",
+        "published_at_date": "2021-10-18T14:00:00"
+      }
+    ],
+    "featured_images": [
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHiH_OWD7d7lgaL5gO-ze6EYWDXnEhL9D4EZ_7jjIcRhQarkqMTGOo7fBZKKA-NxGdqcgiaezJS4Lts2Xl9P0K9kDaaMCTowkd2NO4xWgmz29iXvbiyGEDPoXXACzRigVb1K34=w1920-h1080-k-no",
+        "published_at_date": "2025-03-22T11:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEBqFdYUrGoNQwxVOS5ufqlNA25qed3f7MqqaOHTnorhDNozjS5Xn3gvVP1RSWw7P1aoWPi8LO6cBZdzRg72FoqmN1LKoPLqt5fRTSGzSYKN7c3na2jEduVs9mEmdkCIPjbYYue=w1920-h1080-k-no",
+        "published_at_date": "2023-04-17T18:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGkgOVZW43pIv6QI9r6gpKQnorQnOgGwW6df3P7Iqif_dTcfvLhLfaqf2r8ajTQ_l_HmXEMGOwc4jQ3ZhdnlSKrVnT0_dg5E4muPSpBtYKDL2WAVjZ2-mYomUU8Rff6sZiwZPM=w1920-h1080-k-no",
+        "published_at_date": "2022-02-02T13:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHkeQWbjrTahZfb0iGVBqUAJxUQUoAr7GJ0Q79sUl7bLCHL48QYWb89HDcLKFQR0csP1jFxuNNPzDm4FRVwKviJLgSoEFcOI5SGbhoLFW29T7llMMnzxjO8LUghBu_9WG6NkTM=w1920-h1080-k-no",
+        "published_at_date": "2021-10-18T14:00:00"
+      }
+    ],
+    "on_site_places": [],
+    "customer_updates": [
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHRjRjlvT2tsdE5HRjVSWGx2VUhaTVRYcG5OMkZtV1ZCT01IYxAB",
+        "link": "https://www.google.com/maps/@/data=!4m7!23m6!1m5!1sCi9DQUlRQUNvZENodHRjRjlvT2tsdE5HRjVSWGx2VUhaTVRYcG5OMkZtV1ZCT01IYxAB!2m1!1s0x0:0x26bbd308b6169c18!3m1!1s2@1:CAIQACodChttcF9oOkltNGF5RXlvUHZMTXpnN2FmWVBOMHc%7C%7C?hl=en",
+        "name": "Sandesh Gaikwad",
+        "reviewer_id": "103038807508788802306",
+        "reviewer_profile": "https://www.google.com/maps/contrib/103038807508788802306?hl=en-GB",
+        "rating": null,
+        "text": "Hii Sir plc contacts नंबर",
+        "original_language": "en",
+        "translated_text": null,
+        "translated_language": null,
+        "published_at": "9 months ago",
+        "published_at_date": "2025-09-29T11:43:38",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocKECtB6GScS7vviHK8ODDyay1dh9prpSHTP8iEJpsOg_ezUKhw=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 1,
+        "is_local_guide": false,
+        "experience_details": [],
+        "photos": [
+          {
+            "id": "CIABIhAiHkDkxdGqZ_QKgNQLGLJF",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn0Gt4ENJwFCngpehEXvqP0ByHFsjcIekdC7-rLQbICI4J3CNszXGH9wuYJWmMXbhwp9pJhybK8RlSG02rdkSVoX4RmTXvusa7OtzcDZ4V6o9L9mM4mabimSBiTo-NRGNIv-HxHdMPe5mZY=k-no",
+            "caption": null,
+            "width": 3000,
+            "height": 4000
+          }
+        ],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHRjRjlvT214RFZqaFNUMm96YzFwbGMwRk5ZM2czTlZSd1RWRRAB",
+        "link": "https://www.google.com/maps/@/data=!4m7!23m6!1m5!1sCi9DQUlRQUNvZENodHRjRjlvT214RFZqaFNUMm96YzFwbGMwRk5ZM2czTlZSd1RWRRAB!2m1!1s0x0:0x26bbd308b6169c18!3m1!1s2@1:CAIQACodChttcF9oOmxDVjhST2ozc1plc0FNY3g3NVRwTVE%7C%7C?hl=en",
+        "name": "Dnyanesh Ubhayakar",
+        "reviewer_id": "104069391202625973709",
+        "reviewer_profile": "https://www.google.com/maps/contrib/104069391202625973709?hl=en-GB",
+        "rating": null,
+        "text": "Dog with hind legs impacted by accident at Aai Gavdevi Temple Wakipada Naigaon",
+        "original_language": "en",
+        "translated_text": null,
+        "translated_language": null,
+        "published_at": "11 months ago",
+        "published_at_date": "2025-07-11T02:52:29",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocKY_0bLZ5Lj8KoR0I4wl2e1uUinfyoXHFh3uxuRu7T_r56W0g=s1920",
+        "total_number_of_reviews_by_reviewer": 4,
+        "total_number_of_photos_by_reviewer": 1,
+        "is_local_guide": false,
+        "experience_details": [],
+        "photos": [
+          {
+            "id": "CIABIhClVRfp3nL1JbvE3b05EmlG",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn1DLt3bUKkfTktU77pt0SWMdAjV5M5S7xRXywN-7be6sxTJzbgREMNxZhA-43ALzl-0pl8Uc_QcA9FESzITSQxjt2l44Zb2Mjrn-H-H4u35lZzl16yLPAmH3iAFL3jLZdczfEPExaNYUtt6=k-no",
+            "caption": null,
+            "width": 1080,
+            "height": 1440
+          }
+        ],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNOMTlMdGpRRRAB",
+        "link": "https://www.google.com/maps/@/data=!4m7!23m6!1m5!1sChdDSUhNMG9nS0VJQ0FnSUNOMTlMdGpRRRAB!2m1!1s0x0:0x26bbd308b6169c18!3m1!1s2@1:CIHM0ogKEICAgICN19LtjQE%7C%7C?hl=en",
+        "name": "Himanshu Malgaonkar",
+        "reviewer_id": "117082145962967452125",
+        "reviewer_profile": "https://www.google.com/maps/contrib/117082145962967452125?hl=en-GB",
+        "rating": null,
+        "text": "I have this dog ( German shepherd cross breed) his owner throwout that poor dog plz rescue him 😢",
+        "original_language": "en",
+        "translated_text": null,
+        "translated_language": null,
+        "published_at": "2 years ago",
+        "published_at_date": "2024-01-18T19:21:05",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocKr2eU1gnp_JNd83VN-wPgEFOU5RLUnibm_wbn2mQfqlU04mKQ=s1920",
+        "total_number_of_reviews_by_reviewer": 0,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "photos": [
+          {
+            "id": "CIHM0ogKEICAgICN19LtzQE",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn2kYLLHpWbER63WqmH_SYeS_pcOFB5OVni5fB1eBuSLtX44zRsVMwzG6frbGwMICicifCFl56Pdq0OP6G9qeAB0pym_u1CsstnlbXitck9mgM4Xmu8HizqMUJsv0nYHi0LIsz8woA=k-no",
+            "caption": "Contact number: 7840956626\nJeevan chetna society D/03 nallasopara east near mother mary School",
+            "width": 5760,
+            "height": 4312
+          }
+        ],
+        "review_origin": "google"
+      }
+    ],
+    "featured_question": null,
+    "review_keywords": [
+      {
+        "keyword": "feeding stray dogs",
+        "count": 5
+      },
+      {
+        "keyword": "dog rescue",
+        "count": 6
+      },
+      {
+        "keyword": "paralysed dogs",
+        "count": 3
+      },
+      {
+        "keyword": "injured dogs",
+        "count": 2
+      },
+      {
+        "keyword": "stray cats",
+        "count": 2
+      },
+      {
+        "keyword": "polite staff",
+        "count": 2
+      },
+      {
+        "keyword": "pet adoption",
+        "count": 2
+      },
+      {
+        "keyword": "cat adoption",
+        "count": 2
+      },
+      {
+        "keyword": "handicapped",
+        "count": 3
+      },
+      {
+        "keyword": "kitty",
+        "count": 2
+      }
+    ],
+    "featured_reviews": [
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSURodGJ1NWJBEAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURodGJ1NWJBEAE!2m1!1s0x0:0x26bbd308b6169c18!3m1!1s2@1:CIHM0ogKEICAgIDhtbu5bA%7C%7C?hl=en",
+        "name": "Lo Loneo3006",
+        "reviewer_id": "109376595613523848402",
+        "reviewer_profile": "https://www.google.com/maps/contrib/109376595613523848402?hl=en-GB",
+        "rating": 5,
+        "review_text": "Simran and Aman are running this rescue centre exceptionally.\nThey are fantastic with the animals, and take care of even the most critical cases. Not only they rescue, dogs, cats, birds...but also, they feed stray dogs (around 300 every night).\n\nI am a french volunteer, I spent two days with them and really wished I could have stayed longer. They hosted me, fed me, welcome me into their home as if I was family. If you have the chance to be in Mumbai, go visit them, spent time their, participate and if you can donate/adopt to support their continuing effort to make Mumbai a better place for dogs and cats.\n\n@Simran, next time I am in Mumbai, count on me to spend more time with your shelter.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "Edited 3 years ago",
+        "published_at_date": "2023-03-14T11:06:08",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjXTpUViBOD1WF5OpizBxhO6Lq91-7GDoAC7HrndVEULB43fraU=s1920",
+        "total_number_of_reviews_by_reviewer": 17,
+        "total_number_of_photos_by_reviewer": 20,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [
+          {
+            "id": "CIHM0ogKEICAgIDhnaOojQE",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn19pqfdKcMiCQfROU1T6k1N6v3NtMQPJzCMv6xBCxav3vDcTwobLvjfeSArYtBSoO2aQFqqKVv8efF0sf4WDsadhEH1f3oUoOnmIPIfkHRBNIvsUk9eCMdnX-2Ih7teSnGRbvyr=k-no",
+            "caption": null,
+            "width": 3264,
+            "height": 2448
+          },
+          {
+            "id": "CIHM0ogKEICAgIDhnaOoTQ",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn0jmp8zl_E9AJymY_9iQfMoJrpsPnyTGVmITgRF6_rjCVfXNY86nt6GigWSlPWAS8yQYsBk3IlJEZvSuBECyihhCulf8oE3SCVel1fKUDnMNXJc4WQC8gvNR4I9zySljPjvyyE=k-no",
+            "caption": null,
+            "width": 3024,
+            "height": 4032
+          },
+          {
+            "id": "CIHM0ogKEICAgIDhnaOozQE",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn38GEsf9JGZ0vtd9TUvO5hIyvRIwhx7tpM4ihMQeZSUSx5wCTrXRNIpzmzfrSbiAhAWsT7oG304QJN00b08SN9jsbJvYRQtzfW2U11UPexETNjswxLte0rYSBR14TNF8yHsodxC5Q=k-no",
+            "caption": null,
+            "width": 3024,
+            "height": 4032
+          },
+          {
+            "id": "CIHM0ogKEICAgIDhnaOoLQ",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn3Nu3DPzDCQbZv3ml0tWGVg6BXBj15ucbn___yjDzXTKyK9-DXOTbK4tdd95bIT38e26_jmPx7rf-3O-Hei2dRJYTULExkijNcUVch7O0AH3EFIcLoMK4l-qfCkeaAPYe1gFh3q=k-no",
+            "caption": null,
+            "width": 4032,
+            "height": 3024
+          },
+          {
+            "id": "CIHM0ogKEICAgIDhnaOorQE",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn3m-vnhHJBZciw2sn1c8C1oh_wg-L4lb7bx-aGPLYcQPVn4jL0QbESUihgU0uuE45_mudQI7TtC2rJB6TGInBkOY4009ILndCJ3uA-wlOELVIeMUWCtvpwJfMOE3yw8iZwGh78zWw=k-no",
+            "caption": null,
+            "width": 4032,
+            "height": 3024
+          },
+          {
+            "id": "CIHM0ogKEICAgIDhnaOobQ",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn1E-VEMsO6zslKZL_cod_Ps_f-vjQqaEgBk2Zm-5tE1z2URPBEUwsiICNNgxW_UKNZ3g3eFMryMok0LIC2Xu_ptnt67asIDCWQiVzrcqG-8GiFV8sCVDemiOUCtn-w9C1AHQoY=k-no",
+            "caption": null,
+            "width": 4032,
+            "height": 3024
+          },
+          {
+            "id": "CIHM0ogKEICAgIDhnaOo7QE",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn03qM2njdD16tkM2jOSJhoRhbbX5cNDKW0Jrr0aEw0d2ltdZdtUYFmmG5b2O5a2Wp7Yvc9BKYdcELS3a7auEVLPSEJX6mG7MDt2Lbho2LFuG-t3KIwun8I7EafBeIhEM_4N21-8Ew=k-no",
+            "caption": null,
+            "width": 4032,
+            "height": 3024
+          }
+        ],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NMFdrdENhQzAyWkVGb1MzZzBUVU55TmxKWFkxRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25NMFdrdENhQzAyWkVGb1MzZzBUVU55TmxKWFkxRRAB!2m1!1s0x0:0x26bbd308b6169c18!3m1!1s2@1:CAIQACodChtycF9oOnM0WktCaC02ZEFoS3g0TUNyNlJXY1E%7C%7C?hl=en",
+        "name": "Mariah Cota",
+        "reviewer_id": "116717906632936121316",
+        "reviewer_profile": "https://www.google.com/maps/contrib/116717906632936121316?hl=en-GB",
+        "rating": 4,
+        "review_text": "Could you please help me out. There are 6 beautiful kittens in my building that are currently taking shelter on the 13th floor . I’ve been doing my best to feed them as no one else really does. Could you please help me out to get them a safe shelter and to be adopted. Location Vasai West.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "8 months ago",
+        "published_at_date": "2025-10-13T17:23:27",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjWnZ83bTDKoyEiMKeaI4eaDTocyAwLi2fZzkfDMsT1cP7TcZurV=s1920",
+        "total_number_of_reviews_by_reviewer": 12,
+        "total_number_of_photos_by_reviewer": 2,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [
+          {
+            "id": "CIABIhDpa-xRre4kWEJozfDYZkrZ",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn3n7nKGXrHE6wFFRnHGZtnfc64kjIqDFp-h3Hi54djECx7XfIecd-AHbQyi2mjeFu_fcyRcYak-bjxjboG5XzugD12hKSuoQnlnQFD6d0ygZc2fy-WzNqmZl_ASNnyV-cKLRkYJ3EckiJCe=k-no",
+            "caption": null,
+            "width": 4032,
+            "height": 3024
+          }
+        ],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSURtalkyU2xnRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURtalkyU2xnRRAB!2m1!1s0x0:0x26bbd308b6169c18!3m1!1s2@1:CIHM0ogKEICAgIDmjY2SlgE%7C%7C?hl=en",
+        "name": "Rani Surve",
+        "reviewer_id": "106001402739565977058",
+        "reviewer_profile": "https://www.google.com/maps/contrib/106001402739565977058?hl=en-GB",
+        "rating": 5,
+        "review_text": "This rehabilitation Centre is for loving and nurturing animals in need of medical treatment. Mrs Aman walia is the owner of the Centre her daughter Simran, and other staff helps her rescue and take care of the animals, currently she is feeding more than 350  dogs in Naigaon. The centre is clean and small, they need funds so that they can look after more cases.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "Edited 4 years ago",
+        "published_at_date": "2022-02-05T11:13:53",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjURAX-alYde6QGKoVlsiOUAeLhzHyUf2PGSXbvifPutmSnq9MW3=s1920",
+        "total_number_of_reviews_by_reviewer": 73,
+        "total_number_of_photos_by_reviewer": 414,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [
+          {
+            "id": "CIHM0ogKEICAgIDmjYP4fA",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn2_le4bm2bdKVbqht0a_AymtqiIMhpeUscQxKy8xCSQs2vOIjlt0El0OGqeCFmpBy8dmJ9ab7V6jPQ4B0beJrlreqwbzWAcgGvnofIi1Iy9c74feC-svB1bVIWUqnvvXJevK2I=k-no",
+            "caption": null,
+            "width": 1536,
+            "height": 3296
+          },
+          {
+            "id": "CIHM0ogKEICAgIDmjYP4_AE",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn3uMnuwjyEbiHHz20QkOxvHorQedm2xfzCEKt02j1RZ5katDqGIw6T_kYgXCon9JxsNrUXrLtib2o8bLPQLZVZUl6tNvOiFUjfUcHD3kJlsqASOddFjsPfvZ--rsTnlOpyoFzBnXg=k-no",
+            "caption": null,
+            "width": 1536,
+            "height": 3296
+          },
+          {
+            "id": "CIHM0ogKEICAgIDmjYP4Ag",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn0wWcBxryE7F0s0D2TLGcpr-D4X4aEHpbquQuhvDP3XLsvY3sx_rYacZynqHZrmj8su_AJ-svkQVyGiIAnbCgRWqryKcwUFbQr5iLmLSEkTh5nMeD9hnXZTrw9LA-TMr4Aoxs0H=k-no",
+            "caption": null,
+            "width": 1536,
+            "height": 3296
+          },
+          {
+            "id": "CIHM0ogKEICAgIDmjYP4ggE",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn3O0udDvk4mxenB6w6SgWpwAgJCKInRl715M8HJzaS_twv0KLDGiX7somWdTr2_gK-2bZzDr-UKqFpkSi3hdobB6-Fg2MITSADrZajaBMaA2olVnjXw2oVCC0k41zQfa7l1gBNxpQ=k-no",
+            "caption": null,
+            "width": 1536,
+            "height": 3296
+          },
+          {
+            "id": "CIHM0ogKEICAgIDmjYP4Qg",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn1CSQ6oPBfxuafk8SX4w6dvWWuhGkgFj4XmIRI4T9xcqRshVVB0SXglLFTfuwAFoS8WVbWkthcu1SHbe89OolThSkeGjZTocSMhmuai3DuR0Ac9H4K12lmdSbh5ONWbzrnS9JOS=k-no",
+            "caption": null,
+            "width": 1536,
+            "height": 3296
+          }
+        ],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sVlNqbFBMVU5VYTNKUVYyVmljVVpHYmtwc2JFRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25sVlNqbFBMVU5VYTNKUVYyVmljVVpHYmtwc2JFRRAB!2m1!1s0x0:0x26bbd308b6169c18!3m1!1s2@1:CAIQACodChtycF9oOnlVSjlPLUNUa3JQV2VicUZGbkpsbEE%7C%7C?hl=en",
+        "name": "Swapnil Badgire",
+        "reviewer_id": "111185098872983766420",
+        "reviewer_profile": "https://www.google.com/maps/contrib/111185098872983766420?hl=en-GB",
+        "rating": 5,
+        "review_text": "What Simran and her family is doing for animals os truly nobel. Hope they het all the help in the world to continue the work. They take care of animals who jave special needs and have nowhere to go. They also feed many street dogs. Do visit their place to understand more about animals and other side of life.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "9 months ago",
+        "published_at_date": "2025-09-20T10:42:32",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjUE8TDzQr4d5GXx5NB3iZsvntbjjZADk_Lu5WwYLIl40Wj53vcErA=s1920",
+        "total_number_of_reviews_by_reviewer": 20,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGUlZrUjFjV1JzTmtkWlMxVnJXVEk0ZUdkWFUzYxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tGUlZrUjFjV1JzTmtkWlMxVnJXVEk0ZUdkWFUzYxAB!2m1!1s0x0:0x26bbd308b6169c18!3m1!1s2@1:CAIQACodChtycF9oOkFRVkR1cWRsNkdZS1VrWTI4eGdXU3c%7C%7C?hl=en",
+        "name": "Sneha Gurung",
+        "reviewer_id": "113617884791771750925",
+        "reviewer_profile": "https://www.google.com/maps/contrib/113617884791771750925?hl=en-GB",
+        "rating": 5,
+        "review_text": "I personally knw them uncle aunty and Simran as well they do very hard work really I am happy that they got Ngo registred",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "2 months ago",
+        "published_at_date": "2026-04-29T06:17:15",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjUYWdy7Bnccrak5-6UvVxHQJylv68QUNe2mke9mg_ruHdmJDuRzQQ=s1920",
+        "total_number_of_reviews_by_reviewer": 10,
+        "total_number_of_photos_by_reviewer": 6,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21odVFuRk1OVGxMTlVGNWN6UTRjMDlwU214eWNFRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21odVFuRk1OVGxMTlVGNWN6UTRjMDlwU214eWNFRRAB!2m1!1s0x0:0x26bbd308b6169c18!3m1!1s2@1:CAIQACodChtycF9oOmhuQnFMNTlLNUF5czQ4c09pSmxycEE%7C%7C?hl=en",
+        "name": "Aafiya ashfaque",
+        "reviewer_id": "110827737562569511335",
+        "reviewer_profile": "https://www.google.com/maps/contrib/110827737562569511335?hl=en-GB",
+        "rating": 1,
+        "review_text": "I have three 4 month old kittens for adoption..2 white females and a black and grey colour male..in Naigaon..",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "3 weeks ago",
+        "published_at_date": "2026-06-03T18:47:41",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjV5VjQW_mp5epTKZK0eCjzA65Dq5EL_MifVRzO9uOVwyHy97Bk6=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNGdWRMX3Z3RRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNGdWRMX3Z3RRAB!2m1!1s0x0:0x26bbd308b6169c18!3m1!1s2@1:CIHM0ogKEICAgICFudL_vwE%7C%7C?hl=en",
+        "name": "Niteesha Tolani",
+        "reviewer_id": "113769206664856146997",
+        "reviewer_profile": "https://www.google.com/maps/contrib/113769206664856146997?hl=en-GB",
+        "rating": 5,
+        "review_text": "Salute to the Walia family for sheltering over 120 handicapped stray dogs and many cats. Over and above they step out every evening to feed 350 strays in their neighbourhood. Selflessly and fearless they have given their lives to revive and shelter and take care of these innocent animals. Each dog has a story. Some with broken legs, lost eyes, infested fur coats, neurological disorders and more. It’s not easy to do what the Walias do. Day and Night 365 days.\nAll and any support would benefit the Anil and and support the family in their wonderful work. Even a visit would the family and dogs so happy.\nAfter all we are all creatures made up of love ❤️",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "2 years ago",
+        "published_at_date": "2023-10-29T12:12:32",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocJGpObWVBE7iyn18GmYOiW8dgo3n4Uz_QlQOONB9lCj_uKxfQ=s1920",
+        "total_number_of_reviews_by_reviewer": 5,
+        "total_number_of_photos_by_reviewer": 1,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [
+          {
+            "id": "CIHM0ogKEICAgICFuTI",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn25mPQ78ptdSpSQVkEWZN_HgG07UwSOx87GO564JJDQ67cPb7ScrgNjWeOJyZNZ92Wk1sthcNxqYMfw3m-KX6XfSqw2n5Rc9q8sqcTNWQJyRRiYAlBxPQySlA6YDWidsa7b=k-no",
+            "caption": null,
+            "width": 1024,
+            "height": 768
+          }
+        ],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xrNU0yVmxZVGhUUTB0Q1QxbERNRmxrY21GMVlYYxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xrNU0yVmxZVGhUUTB0Q1QxbERNRmxrY21GMVlYYxAB!2m1!1s0x0:0x26bbd308b6169c18!3m1!1s2@1:CAIQACodChtycF9oOlk5M2VlYThTQ0tCT1lDMFlkcmF1YXc%7C%7C?hl=en",
+        "name": "Sudhir Rawat",
+        "reviewer_id": "109875033427584398468",
+        "reviewer_profile": "https://www.google.com/maps/contrib/109875033427584398468?hl=en-GB",
+        "rating": 1,
+        "review_text": "Sir/mam in Someshwar there is one puppy Hi is injured and from injury removeing worms pls help this puppy thank you 🙏",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "6 months ago",
+        "published_at_date": "2025-12-05T07:26:44",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocI-KE-4lk92llOLe-KZ0rb_h4TWIssA9b4T-Cre0FCeK_Z_NQ=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 1,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [
+          {
+            "id": "CIABIhCCPjARs8n7_4KSVG8QGxR6",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn1HrdZPeWzWVhCAZ5Hu-oLZDJHM7wCsPehBtp8UBP5SoYKewhAL3yJY0ADU7Pjhj8kRLMfHrOlJrg6LmMmVdIdN6InXXatmFZpzvkwkZ-qOjr45NPGFwS9d7QqCfmmOAXz2K12YENT-0Eg=k-no",
+            "caption": null,
+            "width": 3072,
+            "height": 4080
+          }
+        ],
+        "review_origin": "google"
+      }
+    ],
+    "query": "animal shelters in naigaon east"
+  },
+  {
+    "place_id": "ChIJC5Aar1ep5zsROkYvgBVeRbw",
+    "name": "Project Vaani Animal Rescue ( Not an NGO )",
+    "description": "Founded in Nalasopara East, Project Vaani Animal Rescue is dedicated to providing compassionate care for local animals in need. Opening its doors in late 2016, this animal rescue service focuses on the well-being and safety of every creature it assists. With a commitment to the Vasai-Virar community, Project Vaani strives to create a nurturing environment and a second chance for every animal. Located near Agarwal Residency, its mission is to protect and serve the beloved animals of the area.",
+    "is_spending_on_ads": false,
+    "link": "https://www.google.com/maps/place/Project+Vaani+Animal+Rescue+(+Not+an+NGO+)/data=!4m7!3m6!1s0x3be7a957af1a900b:0xbc455e15802f463a!8m2!3d19.405396!4d72.823147!16s%2Fg%2F11yv45m1f3!19sChIJC5Aar1ep5zsROkYvgBVeRbw?authuser=0&rclk=1",
+    "reviews": 19,
+    "rating": 4.2,
+    "competitors": [],
+    "website": null,
+    "phone": null,
+    "phone_international": null,
+    "can_claim": false,
+    "owner": {
+      "id": "104091286120134130439",
+      "name": "Project Vaani Animal Rescue ( Not an NGO ) (Owner)",
+      "link": "https://www.google.com/maps/contrib/104091286120134130439"
+    },
+    "owner_posts": [],
+    "featured_image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFCTypOe98dlqOVPluc-5ENRQq5nzK1l8QVfKbmlhYNNNnHu6hyt06EnL1NkK3ymZ0g5Gn2DzRLtQKOmVY-s2tc1POHEnE2Mce49CF1XR9iDFVCUN-zyko_S6hvT2NBYLxtLqTmPV5Rl8gR=w1920-h1080-k-no",
+    "main_category": "Animal rescue service",
+    "categories": [
+      "Animal rescue service"
+    ],
+    "workday_timing": "Open 24 hours",
+    "status": null,
+    "is_temporarily_closed": false,
+    "is_permanently_closed": false,
+    "closed_on": "Open All Days",
+    "address": "Agarwal Residency, B 702, near Dmart, Nala Sopara, Yashvant Viva Twp, Nalasopara East, Vasai-Virar, Maharashtra 401209",
+    "price_range": null,
+    "reviews_per_rating": {
+      "1": 3,
+      "2": 1,
+      "3": 0,
+      "4": 0,
+      "5": 15
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJC5Aar1ep5zsROkYvgBVeRbw&q=Project+Vaani+Animal+Rescue+(+Not+an+NGO+)&authuser=0&hl=en&gl=IN",
+    "coordinates": {
+      "latitude": 19.405396,
+      "longitude": 72.82314699999999
+    },
+    "plus_code": "CR4F+57 Vasai-Virar, Maharashtra",
+    "detailed_address": {
+      "ward": "Nala Sopara, Yashvant Viva Township, Nalasopara East",
+      "street": "Agarwal Residency, B 702, near Dmart",
+      "city": "Vasai-Virar",
+      "postal_code": "401209",
+      "state": "Maharashtra",
+      "country_code": "IN"
+    },
+    "time_zone": "Asia/Calcutta",
+    "is_rental": false,
+    "cid": "13566352898961393210",
+    "data_id": "0x3be7a957af1a900b:0xbc455e15802f463a",
+    "kgmid": "/g/11yv45m1f3",
+    "about": [
+      {
+        "id": "service_options",
+        "name": "Service options",
+        "options": [
+          {
+            "name": "On-site services",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "accessibility",
+        "name": "Accessibility",
+        "options": [
+          {
+            "name": "Assistive hearing loop",
+            "enabled": true
+          },
+          {
+            "name": "Wheelchair-accessible car park",
+            "enabled": true
+          },
+          {
+            "name": "Wheelchair-accessible entrance",
+            "enabled": true
+          },
+          {
+            "name": "Wheelchair-accessible seating",
+            "enabled": true
+          },
+          {
+            "name": "Wheelchair-accessible toilet",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "amenities",
+        "name": "Amenities",
+        "options": [
+          {
+            "name": "Gender-neutral toilets",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "crowd",
+        "name": "Crowd",
+        "options": [
+          {
+            "name": "LGBTQ+ friendly",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "parking",
+        "name": "Parking",
+        "options": [
+          {
+            "name": "Free parking lot",
+            "enabled": true
+          },
+          {
+            "name": "On-site parking",
+            "enabled": true
+          },
+          {
+            "name": "Paid parking lot",
+            "enabled": true
+          },
+          {
+            "name": "Paid street parking",
+            "enabled": true
+          }
+        ]
+      }
+    ],
+    "hours": [
+      {
+        "day": "Monday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Friday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "times": [
+          "Open 24 hours"
+        ]
+      }
+    ],
+    "most_popular_times": [
+      {
+        "hour_of_day": 20,
+        "average_popularity": 65.85714285714286,
+        "time_label": "8 pm"
+      },
+      {
+        "hour_of_day": 16,
+        "average_popularity": 60,
+        "time_label": "4 pm"
+      },
+      {
+        "hour_of_day": 8,
+        "average_popularity": 59.142857142857146,
+        "time_label": "8 am"
+      }
+    ],
+    "popular_times": {
+      "Monday": [
+        {
+          "hour_of_day": 4,
+          "time_label": "4 am",
+          "popularity_percentage": 35,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 5,
+          "time_label": "5 am",
+          "popularity_percentage": 47,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 6,
+          "time_label": "6 am",
+          "popularity_percentage": 47,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 7,
+          "time_label": "7 am",
+          "popularity_percentage": 70,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 8,
+          "time_label": "8 am",
+          "popularity_percentage": 82,
+          "popularity_description": "Usually as busy as it gets"
+        },
+        {
+          "hour_of_day": 9,
+          "time_label": "9 am",
+          "popularity_percentage": 82,
+          "popularity_description": "Usually as busy as it gets"
+        },
+        {
+          "hour_of_day": 10,
+          "time_label": "10 am",
+          "popularity_percentage": 76,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 11,
+          "time_label": "11 am",
+          "popularity_percentage": 52,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 12,
+          "time_label": "12 pm",
+          "popularity_percentage": 35,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 13,
+          "time_label": "1 pm",
+          "popularity_percentage": 23,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 14,
+          "time_label": "2 pm",
+          "popularity_percentage": 35,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 15,
+          "time_label": "3 pm",
+          "popularity_percentage": 58,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 16,
+          "time_label": "4 pm",
+          "popularity_percentage": 76,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 17,
+          "time_label": "5 pm",
+          "popularity_percentage": 70,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 18,
+          "time_label": "6 pm",
+          "popularity_percentage": 64,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 19,
+          "time_label": "7 pm",
+          "popularity_percentage": 58,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 20,
+          "time_label": "8 pm",
+          "popularity_percentage": 76,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 21,
+          "time_label": "9 pm",
+          "popularity_percentage": 64,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 22,
+          "time_label": "10 pm",
+          "popularity_percentage": 58,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 23,
+          "time_label": "11 pm",
+          "popularity_percentage": 35,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 0,
+          "time_label": "12 am",
+          "popularity_percentage": 23,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 1,
+          "time_label": "1 am",
+          "popularity_percentage": 17,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 2,
+          "time_label": "2 am",
+          "popularity_percentage": 35,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 3,
+          "time_label": "3 am",
+          "popularity_percentage": 29,
+          "popularity_description": "Usually not too busy"
+        }
+      ],
+      "Tuesday": [
+        {
+          "hour_of_day": 4,
+          "time_label": "4 am",
+          "popularity_percentage": 29,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 5,
+          "time_label": "5 am",
+          "popularity_percentage": 29,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 6,
+          "time_label": "6 am",
+          "popularity_percentage": 35,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 7,
+          "time_label": "7 am",
+          "popularity_percentage": 47,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 8,
+          "time_label": "8 am",
+          "popularity_percentage": 76,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 9,
+          "time_label": "9 am",
+          "popularity_percentage": 64,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 10,
+          "time_label": "10 am",
+          "popularity_percentage": 52,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 11,
+          "time_label": "11 am",
+          "popularity_percentage": 47,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 12,
+          "time_label": "12 pm",
+          "popularity_percentage": 58,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 13,
+          "time_label": "1 pm",
+          "popularity_percentage": 41,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 14,
+          "time_label": "2 pm",
+          "popularity_percentage": 52,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 15,
+          "time_label": "3 pm",
+          "popularity_percentage": 35,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 16,
+          "time_label": "4 pm",
+          "popularity_percentage": 35,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 17,
+          "time_label": "5 pm",
+          "popularity_percentage": 23,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 18,
+          "time_label": "6 pm",
+          "popularity_percentage": 23,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 19,
+          "time_label": "7 pm",
+          "popularity_percentage": 35,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 20,
+          "time_label": "8 pm",
+          "popularity_percentage": 35,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 21,
+          "time_label": "9 pm",
+          "popularity_percentage": 41,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 22,
+          "time_label": "10 pm",
+          "popularity_percentage": 47,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 23,
+          "time_label": "11 pm",
+          "popularity_percentage": 64,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 0,
+          "time_label": "12 am",
+          "popularity_percentage": 76,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 1,
+          "time_label": "1 am",
+          "popularity_percentage": 52,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 2,
+          "time_label": "2 am",
+          "popularity_percentage": 29,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 3,
+          "time_label": "3 am",
+          "popularity_percentage": 23,
+          "popularity_description": "Usually not too busy"
+        }
+      ],
+      "Wednesday": [
+        {
+          "hour_of_day": 4,
+          "time_label": "4 am",
+          "popularity_percentage": 41,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 5,
+          "time_label": "5 am",
+          "popularity_percentage": 29,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 6,
+          "time_label": "6 am",
+          "popularity_percentage": 29,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 7,
+          "time_label": "7 am",
+          "popularity_percentage": 41,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 8,
+          "time_label": "8 am",
+          "popularity_percentage": 52,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 9,
+          "time_label": "9 am",
+          "popularity_percentage": 52,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 10,
+          "time_label": "10 am",
+          "popularity_percentage": 52,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 11,
+          "time_label": "11 am",
+          "popularity_percentage": 52,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 12,
+          "time_label": "12 pm",
+          "popularity_percentage": 58,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 13,
+          "time_label": "1 pm",
+          "popularity_percentage": 52,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 14,
+          "time_label": "2 pm",
+          "popularity_percentage": 41,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 15,
+          "time_label": "3 pm",
+          "popularity_percentage": 47,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 16,
+          "time_label": "4 pm",
+          "popularity_percentage": 76,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 17,
+          "time_label": "5 pm",
+          "popularity_percentage": 70,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 18,
+          "time_label": "6 pm",
+          "popularity_percentage": 82,
+          "popularity_description": "Usually as busy as it gets"
+        },
+        {
+          "hour_of_day": 19,
+          "time_label": "7 pm",
+          "popularity_percentage": 64,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 20,
+          "time_label": "8 pm",
+          "popularity_percentage": 64,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 21,
+          "time_label": "9 pm",
+          "popularity_percentage": 41,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 22,
+          "time_label": "10 pm",
+          "popularity_percentage": 29,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 23,
+          "time_label": "11 pm",
+          "popularity_percentage": 35,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 0,
+          "time_label": "12 am",
+          "popularity_percentage": 47,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 1,
+          "time_label": "1 am",
+          "popularity_percentage": 64,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 2,
+          "time_label": "2 am",
+          "popularity_percentage": 76,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 3,
+          "time_label": "3 am",
+          "popularity_percentage": 58,
+          "popularity_description": "Usually a little busy"
+        }
+      ],
+      "Thursday": [
+        {
+          "hour_of_day": 4,
+          "time_label": "4 am",
+          "popularity_percentage": 58,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 5,
+          "time_label": "5 am",
+          "popularity_percentage": 47,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 6,
+          "time_label": "6 am",
+          "popularity_percentage": 41,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 7,
+          "time_label": "7 am",
+          "popularity_percentage": 35,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 8,
+          "time_label": "8 am",
+          "popularity_percentage": 35,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 9,
+          "time_label": "9 am",
+          "popularity_percentage": 47,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 10,
+          "time_label": "10 am",
+          "popularity_percentage": 52,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 11,
+          "time_label": "11 am",
+          "popularity_percentage": 70,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 12,
+          "time_label": "12 pm",
+          "popularity_percentage": 52,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 13,
+          "time_label": "1 pm",
+          "popularity_percentage": 52,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 14,
+          "time_label": "2 pm",
+          "popularity_percentage": 35,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 15,
+          "time_label": "3 pm",
+          "popularity_percentage": 41,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 16,
+          "time_label": "4 pm",
+          "popularity_percentage": 41,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 17,
+          "time_label": "5 pm",
+          "popularity_percentage": 58,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 18,
+          "time_label": "6 pm",
+          "popularity_percentage": 64,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 19,
+          "time_label": "7 pm",
+          "popularity_percentage": 82,
+          "popularity_description": "Usually as busy as it gets"
+        },
+        {
+          "hour_of_day": 20,
+          "time_label": "8 pm",
+          "popularity_percentage": 76,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 21,
+          "time_label": "9 pm",
+          "popularity_percentage": 76,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 22,
+          "time_label": "10 pm",
+          "popularity_percentage": 76,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 23,
+          "time_label": "11 pm",
+          "popularity_percentage": 70,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 0,
+          "time_label": "12 am",
+          "popularity_percentage": 47,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 1,
+          "time_label": "1 am",
+          "popularity_percentage": 41,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 2,
+          "time_label": "2 am",
+          "popularity_percentage": 47,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 3,
+          "time_label": "3 am",
+          "popularity_percentage": 47,
+          "popularity_description": "Usually not too busy"
+        }
+      ],
+      "Friday": [
+        {
+          "hour_of_day": 4,
+          "time_label": "4 am",
+          "popularity_percentage": 41,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 5,
+          "time_label": "5 am",
+          "popularity_percentage": 41,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 6,
+          "time_label": "6 am",
+          "popularity_percentage": 47,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 7,
+          "time_label": "7 am",
+          "popularity_percentage": 41,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 8,
+          "time_label": "8 am",
+          "popularity_percentage": 41,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 9,
+          "time_label": "9 am",
+          "popularity_percentage": 41,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 10,
+          "time_label": "10 am",
+          "popularity_percentage": 52,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 11,
+          "time_label": "11 am",
+          "popularity_percentage": 41,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 12,
+          "time_label": "12 pm",
+          "popularity_percentage": 47,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 13,
+          "time_label": "1 pm",
+          "popularity_percentage": 35,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 14,
+          "time_label": "2 pm",
+          "popularity_percentage": 47,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 15,
+          "time_label": "3 pm",
+          "popularity_percentage": 52,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 16,
+          "time_label": "4 pm",
+          "popularity_percentage": 70,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 17,
+          "time_label": "5 pm",
+          "popularity_percentage": 70,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 18,
+          "time_label": "6 pm",
+          "popularity_percentage": 76,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 19,
+          "time_label": "7 pm",
+          "popularity_percentage": 76,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 20,
+          "time_label": "8 pm",
+          "popularity_percentage": 82,
+          "popularity_description": "Usually as busy as it gets"
+        },
+        {
+          "hour_of_day": 21,
+          "time_label": "9 pm",
+          "popularity_percentage": 82,
+          "popularity_description": "Usually as busy as it gets"
+        },
+        {
+          "hour_of_day": 22,
+          "time_label": "10 pm",
+          "popularity_percentage": 70,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 23,
+          "time_label": "11 pm",
+          "popularity_percentage": 52,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 0,
+          "time_label": "12 am",
+          "popularity_percentage": 41,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 1,
+          "time_label": "1 am",
+          "popularity_percentage": 29,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 2,
+          "time_label": "2 am",
+          "popularity_percentage": 23,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 3,
+          "time_label": "3 am",
+          "popularity_percentage": 35,
+          "popularity_description": "Usually not too busy"
+        }
+      ],
+      "Saturday": [
+        {
+          "hour_of_day": 4,
+          "time_label": "4 am",
+          "popularity_percentage": 52,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 5,
+          "time_label": "5 am",
+          "popularity_percentage": 64,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 6,
+          "time_label": "6 am",
+          "popularity_percentage": 52,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 7,
+          "time_label": "7 am",
+          "popularity_percentage": 64,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 8,
+          "time_label": "8 am",
+          "popularity_percentage": 52,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 9,
+          "time_label": "9 am",
+          "popularity_percentage": 52,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 10,
+          "time_label": "10 am",
+          "popularity_percentage": 58,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 11,
+          "time_label": "11 am",
+          "popularity_percentage": 52,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 12,
+          "time_label": "12 pm",
+          "popularity_percentage": 76,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 13,
+          "time_label": "1 pm",
+          "popularity_percentage": 70,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 14,
+          "time_label": "2 pm",
+          "popularity_percentage": 100,
+          "popularity_description": "Usually as busy as it gets"
+        },
+        {
+          "hour_of_day": 15,
+          "time_label": "3 pm",
+          "popularity_percentage": 64,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 16,
+          "time_label": "4 pm",
+          "popularity_percentage": 58,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 17,
+          "time_label": "5 pm",
+          "popularity_percentage": 41,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 18,
+          "time_label": "6 pm",
+          "popularity_percentage": 52,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 19,
+          "time_label": "7 pm",
+          "popularity_percentage": 47,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 20,
+          "time_label": "8 pm",
+          "popularity_percentage": 58,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 21,
+          "time_label": "9 pm",
+          "popularity_percentage": 58,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 22,
+          "time_label": "10 pm",
+          "popularity_percentage": 64,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 23,
+          "time_label": "11 pm",
+          "popularity_percentage": 58,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 0,
+          "time_label": "12 am",
+          "popularity_percentage": 52,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 1,
+          "time_label": "1 am",
+          "popularity_percentage": 70,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 2,
+          "time_label": "2 am",
+          "popularity_percentage": 70,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 3,
+          "time_label": "3 am",
+          "popularity_percentage": 70,
+          "popularity_description": "Usually a little busy"
+        }
+      ],
+      "Sunday": [
+        {
+          "hour_of_day": 4,
+          "time_label": "4 am",
+          "popularity_percentage": 70,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 5,
+          "time_label": "5 am",
+          "popularity_percentage": 58,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 6,
+          "time_label": "6 am",
+          "popularity_percentage": 58,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 7,
+          "time_label": "7 am",
+          "popularity_percentage": 64,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 8,
+          "time_label": "8 am",
+          "popularity_percentage": 76,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 9,
+          "time_label": "9 am",
+          "popularity_percentage": 64,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 10,
+          "time_label": "10 am",
+          "popularity_percentage": 47,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 11,
+          "time_label": "11 am",
+          "popularity_percentage": 23,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 12,
+          "time_label": "12 pm",
+          "popularity_percentage": 23,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 13,
+          "time_label": "1 pm",
+          "popularity_percentage": 41,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 14,
+          "time_label": "2 pm",
+          "popularity_percentage": 64,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 15,
+          "time_label": "3 pm",
+          "popularity_percentage": 64,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 16,
+          "time_label": "4 pm",
+          "popularity_percentage": 64,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 17,
+          "time_label": "5 pm",
+          "popularity_percentage": 47,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 18,
+          "time_label": "6 pm",
+          "popularity_percentage": 52,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 19,
+          "time_label": "7 pm",
+          "popularity_percentage": 52,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 20,
+          "time_label": "8 pm",
+          "popularity_percentage": 70,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 21,
+          "time_label": "9 pm",
+          "popularity_percentage": 47,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 22,
+          "time_label": "10 pm",
+          "popularity_percentage": 47,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 23,
+          "time_label": "11 pm",
+          "popularity_percentage": 41,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 0,
+          "time_label": "12 am",
+          "popularity_percentage": 70,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 1,
+          "time_label": "1 am",
+          "popularity_percentage": 58,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 2,
+          "time_label": "2 am",
+          "popularity_percentage": 76,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 3,
+          "time_label": "3 am",
+          "popularity_percentage": 76,
+          "popularity_description": "Usually a little busy"
+        }
+      ]
+    },
+    "menu": null,
+    "reservations": [],
+    "order_online_links": [],
+    "gas_prices": [],
+    "image_count": 27,
+    "images": [
+      {
+        "about": "All",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFCTypOe98dlqOVPluc-5ENRQq5nzK1l8QVfKbmlhYNNNnHu6hyt06EnL1NkK3ymZ0g5Gn2DzRLtQKOmVY-s2tc1POHEnE2Mce49CF1XR9iDFVCUN-zyko_S6hvT2NBYLxtLqTmPV5Rl8gR=w1920-h1080-k-no",
+        "published_at_date": "2026-02-27T18:00:00"
+      },
+      {
+        "about": "By owner",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHTLtWmBaH149U9fYjpG610oC2NjGEozVyKOjdqLcjc8gvTBSVJwl-cxuWhM7-_2FtXuPvSAt00xkZgoyyDvtamBD1q_2zYY7hGmvZ-SF2xaoQLgj4eMfcDf2LZHxGTJ0R38RMKrbWoV8Jz=w1920-h1080-k-no",
+        "published_at_date": "2026-02-27T18:00:00"
+      },
+      {
+        "about": "Videos",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHPi_Kh8dnnKh6bxnAaNhLFcu021-kBrjZUnjO8x4LZylXmpOxBj7IzABKlFzbZ8cK3oirWV8seZMV5xah5K95MqRQ54gC2VZjYFasCWwjzyCR3zOwsb8ayZqCsb9W1kmJrLkSSKYSmKkOy=w1920-h1080-k-no",
+        "published_at_date": "2026-02-27T18:00:00"
+      },
+      {
+        "about": "Street View & 360°",
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XYDpapH7e36awrqinRRBPg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=233.51857&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-08T05:00:00"
+      }
+    ],
+    "featured_images": [
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFCTypOe98dlqOVPluc-5ENRQq5nzK1l8QVfKbmlhYNNNnHu6hyt06EnL1NkK3ymZ0g5Gn2DzRLtQKOmVY-s2tc1POHEnE2Mce49CF1XR9iDFVCUN-zyko_S6hvT2NBYLxtLqTmPV5Rl8gR=w1920-h1080-k-no",
+        "published_at_date": "2026-02-27T18:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHTLtWmBaH149U9fYjpG610oC2NjGEozVyKOjdqLcjc8gvTBSVJwl-cxuWhM7-_2FtXuPvSAt00xkZgoyyDvtamBD1q_2zYY7hGmvZ-SF2xaoQLgj4eMfcDf2LZHxGTJ0R38RMKrbWoV8Jz=w1920-h1080-k-no",
+        "published_at_date": "2026-02-27T18:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHfYcHGlYCBmyw_uTcv_D2SHYjBXOmbhkY8wb7ZF51_NBgOWiY06EoA0Ei8W5a2xuGaZ0WUtButZ3LWJ6sx5CW12oEoufSdyrYH7JB-64kzKdTliA4kkFzOHUpatbqlcz6WtWQs6x1CEiM=w1920-h1080-k-no",
+        "published_at_date": "2026-02-27T18:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGW3BypeTY4CZa2iX8kgYy6RGykqGL7uhv61CjTT1MNzrK9mNFeRjimwToDj6VZGcyiSFwE9VINwIS1s174nAbLAw-olMrAMoZMRcesxCHTmZtmyf66e_2JJw80emx436Li8vYg7uiHRD5G=w1920-h1080-k-no",
+        "published_at_date": "2026-02-27T18:00:00"
+      }
+    ],
+    "on_site_places": [],
+    "customer_updates": [],
+    "featured_question": null,
+    "review_keywords": [
+      {
+        "keyword": "prompt reply",
+        "count": 2
+      }
+    ],
+    "featured_reviews": [
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xelNFbGljMVJhWlRKb1IwOTNibU5QZW1OQ00yYxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT20xelNFbGljMVJhWlRKb1IwOTNibU5QZW1OQ00yYxAB!2m1!1s0x0:0xbc455e15802f463a!3m1!1s2@1:CAIQACodChtycF9oOm1zSElic1RaZTJoR093bmNPemNCM2c%7C%7C?hl=en",
+        "name": "pooja khandpur",
+        "reviewer_id": "111958496991180342435",
+        "reviewer_profile": "https://www.google.com/maps/contrib/111958496991180342435?hl=en-GB",
+        "rating": 5,
+        "review_text": "Every time I hve called him for vashi ,viral n all remote area update or help is hve got on time.\nMuch needed  service in that area n m glad stray r been looked upon",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "4 months ago",
+        "published_at_date": "2026-02-11T13:28:14",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocLe9XZm7IYbmQ2R9j0FePuJ_KXg09Lx04KnJeCkNtHjhZIL9M_Y=s1920",
+        "total_number_of_reviews_by_reviewer": 10,
+        "total_number_of_photos_by_reviewer": 1,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SSlNXZzVMVUp5YzNWSFYzbFNSbEkzY1hKNGNIYxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21SSlNXZzVMVUp5YzNWSFYzbFNSbEkzY1hKNGNIYxAB!2m1!1s0x0:0xbc455e15802f463a!3m1!1s2@1:CAIQACodChtycF9oOmRJSWg5LUJyc3VHV3lSRlI3cXJ4cHc%7C%7C?hl=en",
+        "name": "Piriya Aryal",
+        "reviewer_id": "101031794863480796904",
+        "reviewer_profile": "https://www.google.com/maps/contrib/101031794863480796904?hl=en-GB",
+        "rating": 5,
+        "review_text": "Though i belong to central side of I've always received help from the group for my rescues as well as fund's for my feeding drive, And what to say about Prem bhai his work is incredible towards these voiceless soul's",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "3 months ago",
+        "published_at_date": "2026-03-04T22:14:08",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocJZWv8TMAZwla64EwthBnrOMgvHeAC_jVHpDLOttKWFqw2sJw=s1920",
+        "total_number_of_reviews_by_reviewer": 3,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaSlYxQjFZek5XVERsTldGUTJWR3BKUkROR2FYYxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xaSlYxQjFZek5XVERsTldGUTJWR3BKUkROR2FYYxAB!2m1!1s0x0:0xbc455e15802f463a!3m1!1s2@1:CAIQACodChtycF9oOlZJV1B1YzNWTDlNWFQ2VGpJRDNGaXc%7C%7C?hl=en",
+        "name": "Nesil Rebelo",
+        "reviewer_id": "102694220710936667246",
+        "reviewer_profile": "https://www.google.com/maps/contrib/102694220710936667246?hl=en-GB",
+        "rating": 5,
+        "review_text": "Ever ready for help and prompt reply.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "4 months ago",
+        "published_at_date": "2026-02-11T17:18:39",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjWhTLHIl-tB9lR8twlX2EJpj2b51gOXEzPg_BBG4zKROQFj4eZ-=s1920",
+        "total_number_of_reviews_by_reviewer": 11,
+        "total_number_of_photos_by_reviewer": 10,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWbFRYRkJlakpOVWxwd2FGUmtOSE5yV1ZkTGEyYxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tWbFRYRkJlakpOVWxwd2FGUmtOSE5yV1ZkTGEyYxAB!2m1!1s0x0:0xbc455e15802f463a!3m1!1s2@1:CAIQACodChtycF9oOkVlTXFBejJNUlpwaFRkNHNrWVdLa2c%7C%7C?hl=en",
+        "name": "Cyrus E",
+        "reviewer_id": "106983661366191883953",
+        "reviewer_profile": "https://www.google.com/maps/contrib/106983661366191883953?hl=en-GB",
+        "rating": 5,
+        "review_text": "Always available for any Animal related trouble. Thanks Prem Goradia",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "4 months ago",
+        "published_at_date": "2026-02-11T18:01:54",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjXNqe27sJQ0tqSAiiAhSGzd_5bNPSwNCuW9m1cg6cuz-_towCg=s1920",
+        "total_number_of_reviews_by_reviewer": 31,
+        "total_number_of_photos_by_reviewer": 7,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sVU1GOHpTelIzVDBablVrRlBPSGRwVERaU1duYxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25sVU1GOHpTelIzVDBablVrRlBPSGRwVERaU1duYxAB!2m1!1s0x0:0xbc455e15802f463a!3m1!1s2@1:CAIQACodChtycF9oOnlUMF8zSzR3T0ZnUkFPOHdpTDZSWnc%7C%7C?hl=en",
+        "name": "Noone",
+        "reviewer_id": "114342040515497708657",
+        "reviewer_profile": "https://www.google.com/maps/contrib/114342040515497708657?hl=en-GB",
+        "rating": 2,
+        "review_text": "Why there is no contact options how we can contact anyone in emergency service's?",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "4 months ago",
+        "published_at_date": "2026-02-24T06:49:07",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocIEpyp9L97-URY3UQV8gToRUoFGJKSOs-brPI94ldA5yv6dcA=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSaVdGY3pSRU51UkdaUFIxUkVMWGRWZUhwV1luYxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pSaVdGY3pSRU51UkdaUFIxUkVMWGRWZUhwV1luYxAB!2m1!1s0x0:0xbc455e15802f463a!3m1!1s2@1:CAIQACodChtycF9oOjRiWFczRENuRGZPR1RELXdVeHpWYnc%7C%7C?hl=en",
+        "name": "Sharad Kohli",
+        "reviewer_id": "106899992052115665069",
+        "reviewer_profile": "https://www.google.com/maps/contrib/106899992052115665069?hl=en-GB",
+        "rating": 5,
+        "review_text": "2 different instances 1 of virar and the other of another in Ghatkopar of Dogs in rail accidents.\nPrem would be one of the few people to go through the wrenching exercise of going to tracks, removING the immobile animals from tracks and get them medical help required\n\nOnly the most dedicated would have the commitment to do such",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "3 months ago",
+        "published_at_date": "2026-03-06T10:17:42",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocIUPU5yD9XllA9wHlZ3PivuWXWDKwkpaiIRP87ydMKIYs4Gpw=s1920",
+        "total_number_of_reviews_by_reviewer": 3,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sVWJuWlljR1l0ZERadFRFUklaR0pXTW1wcWRtYxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25sVWJuWlljR1l0ZERadFRFUklaR0pXTW1wcWRtYxAB!2m1!1s0x0:0xbc455e15802f463a!3m1!1s2@1:CAIQACodChtycF9oOnlUbnZYcGYtdDZtTERIZGJWMmpqdmc%7C%7C?hl=en",
+        "name": "Siddhesha Gholap",
+        "reviewer_id": "108528482920606996792",
+        "reviewer_profile": "https://www.google.com/maps/contrib/108528482920606996792?hl=en-GB",
+        "rating": 5,
+        "review_text": "Very helpful, Quick response and swift action",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "4 months ago",
+        "published_at_date": "2026-02-28T07:11:02",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocKD1K1Sfz6UG9-CAC3cD4YGVIW4l960uivyKWAANFQwaIsb_w=s1920",
+        "total_number_of_reviews_by_reviewer": 3,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKbkxXcDZRV3RYZUhFMFluZzViV3RUVGxCTmVGRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pKbkxXcDZRV3RYZUhFMFluZzViV3RUVGxCTmVGRRAB!2m1!1s0x0:0xbc455e15802f463a!3m1!1s2@1:CAIQACodChtycF9oOjJnLWp6QWtXeHE0Yng5bWtTTlBNeFE%7C%7C?hl=en",
+        "name": "Aniket Gudekar",
+        "reviewer_id": "114917421953771018512",
+        "reviewer_profile": "https://www.google.com/maps/contrib/114917421953771018512?hl=en-GB",
+        "rating": 5,
+        "review_text": "Doing a grate job for the voiceless..",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "4 months ago",
+        "published_at_date": "2026-02-11T18:32:39",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjX93Ay0_2fBt8s2G6iz4rmhCAm0C3wcuTovwZI2VnvhKJbKoEwe=s1920",
+        "total_number_of_reviews_by_reviewer": 4,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      }
+    ],
+    "query": "animal shelters in naigaon east"
+  },
+  {
+    "place_id": "ChIJC_wZl9ex5zsRTeZmF64T3B4",
+    "name": "Panikar auntie's dog shelter",
+    "description": null,
+    "is_spending_on_ads": false,
+    "link": "https://www.google.com/maps/place/Panikar+auntie's+dog+shelter/data=!4m7!3m6!1s0x3be7b1d79719fc0b:0x1edc13ae1766e64d!8m2!3d19.2980671!4d72.8668659!16s%2Fg%2F11hyfsy4wk!19sChIJC_wZl9ex5zsRTeZmF64T3B4?authuser=0&rclk=1",
+    "reviews": 42,
+    "rating": 4.4,
+    "competitors": [
+      {
+        "name": "Animal Rescue & Shelter Foundation",
+        "suggested_link": "https://www.google.com/maps/search/Animal+Rescue+%26+Shelter+Foundation/@19.281103299999998,72.9455485,19z?authuser=0&entry=ttu",
+        "reviews": 425,
+        "rating": 3.7,
+        "main_category": "Animal rescue service",
+        "categories": [
+          "Animal rescue service"
+        ],
+        "coordinates": {
+          "latitude": 19.281103299999998,
+          "longitude": 72.9455485
+        }
+      },
+      {
+        "name": "Aman's Animal Rehabilitation Center",
+        "suggested_link": "https://www.google.com/maps/search/Aman's+Animal+Rehabilitation+Center/@19.357403599999998,72.8795212,19z?authuser=0&entry=ttu",
+        "reviews": 168,
+        "rating": 4.5,
+        "main_category": "Animal shelter",
+        "categories": [
+          "Animal shelter"
+        ],
+        "coordinates": {
+          "latitude": 19.357403599999998,
+          "longitude": 72.8795212
+        }
+      },
+      {
+        "name": "About Doggy",
+        "suggested_link": "https://www.google.com/maps/search/About+Doggy/@19.2869954,72.865625,19z?authuser=0&entry=ttu",
+        "reviews": 35,
+        "rating": 4.3,
+        "main_category": "Pet store",
+        "categories": [
+          "Pet store"
+        ],
+        "coordinates": {
+          "latitude": 19.2869954,
+          "longitude": 72.865625
+        }
+      },
+      {
+        "name": "Helping Paws Foundation",
+        "suggested_link": "https://www.google.com/maps/search/Helping+Paws+Foundation/@19.267232399999997,72.8707739,19z?authuser=0&entry=ttu",
+        "reviews": 22,
+        "rating": 3.7,
+        "main_category": "Animal rescue service",
+        "categories": [
+          "Animal rescue service"
+        ],
+        "coordinates": {
+          "latitude": 19.267232399999997,
+          "longitude": 72.8707739
+        }
+      }
+    ],
+    "website": null,
+    "phone": null,
+    "phone_international": null,
+    "can_claim": true,
+    "owner": {
+      "id": "102161512482164141142",
+      "name": "Panikar auntie's dog shelter (Owner)",
+      "link": "https://www.google.com/maps/contrib/102161512482164141142"
+    },
+    "owner_posts": [],
+    "featured_image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHUQd8WN9KnwFMMIIfzb3R3pecCa6BUUyTtKWdrJE6KksrqkFy-e543XwqKDBRRxYm09EFD8NQscdzh9-usGdkynL7y-hnAXCAxDCPU3T0co2xpnjz0Epen1jTMCCYg6BIqzy3feg=w1920-h1080-k-no",
+    "main_category": "Animal shelter",
+    "categories": [
+      "Animal shelter"
+    ],
+    "workday_timing": "9 am–5:30 pm",
+    "status": null,
+    "is_temporarily_closed": false,
+    "is_permanently_closed": false,
+    "closed_on": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "address": "7, Ramdev Park Rd, Ramdev Park, Panchamratna Park, Mira Road East, Mira Bhayandar, Maharashtra 401105",
+    "price_range": null,
+    "reviews_per_rating": {
+      "1": 4,
+      "2": 0,
+      "3": 2,
+      "4": 5,
+      "5": 31
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJC_wZl9ex5zsRTeZmF64T3B4&q=Panikar+auntie's+dog+shelter&authuser=0&hl=en&gl=IN",
+    "coordinates": {
+      "latitude": 19.2980671,
+      "longitude": 72.8668659
+    },
+    "plus_code": "7VX8+6P Mira Bhayandar, Maharashtra",
+    "detailed_address": {
+      "ward": "Ramdev Park, Panchamratna Park, Mira Road East",
+      "street": "7, Ramdev Park Rd",
+      "city": "Mira Bhayandar",
+      "postal_code": "401105",
+      "state": "Maharashtra",
+      "country_code": "IN"
+    },
+    "time_zone": "Asia/Calcutta",
+    "is_rental": false,
+    "cid": "2223673954452039245",
+    "data_id": "0x3be7b1d79719fc0b:0x1edc13ae1766e64d",
+    "kgmid": "/g/11hyfsy4wk",
+    "about": [],
+    "hours": [
+      {
+        "day": "Monday",
+        "times": [
+          "Closed"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "times": [
+          "Closed"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "times": [
+          "Closed"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "times": [
+          "9 am–5:30 pm"
+        ]
+      },
+      {
+        "day": "Friday",
+        "times": [
+          "Closed"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "times": [
+          "Closed"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "times": [
+          "Closed"
+        ]
+      }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "menu": null,
+    "reservations": [],
+    "order_online_links": [],
+    "gas_prices": [],
+    "image_count": 16,
+    "images": [
+      {
+        "about": "All",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHUQd8WN9KnwFMMIIfzb3R3pecCa6BUUyTtKWdrJE6KksrqkFy-e543XwqKDBRRxYm09EFD8NQscdzh9-usGdkynL7y-hnAXCAxDCPU3T0co2xpnjz0Epen1jTMCCYg6BIqzy3feg=w1920-h1080-k-no",
+        "published_at_date": "2023-09-12T19:00:00"
+      },
+      {
+        "about": "Exterior",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGWULGvTS_b7KGZ76Sxu86qUXpT2OiGEqX4VkDa9MwAfzgWn2pwCowFGj8fU7cdbTm3CTcwRuhWkFnj_dVV8LoSzmoTqn-HaAxSOe7oLaPunshGp_4gymdZ18TjqIfxmiY_5Aha=w1920-h1080-k-no",
+        "published_at_date": "2024-04-16T13:00:00"
+      },
+      {
+        "about": "Videos",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEgzGysuvs3tsY3ON3E6M8mAfj7SAm1tJP4ZuwcgtmhgaLQLdEl-TjUiWpWAluf3t6ALVAjqJqWODR7rxZM-A_FWHe-n_RNsitoSbRO3UZjBefRK7l4fjY1fBal5v8RoCFUOrtNhQ=w1920-h1080-k-no",
+        "published_at_date": "2022-08-18T10:00:00"
+      },
+      {
+        "about": "Street View & 360°",
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jRBMRm8l7WBy5tnfWiG-HQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=137.04175&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-07T05:00:00"
+      }
+    ],
+    "featured_images": [
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHUQd8WN9KnwFMMIIfzb3R3pecCa6BUUyTtKWdrJE6KksrqkFy-e543XwqKDBRRxYm09EFD8NQscdzh9-usGdkynL7y-hnAXCAxDCPU3T0co2xpnjz0Epen1jTMCCYg6BIqzy3feg=w1920-h1080-k-no",
+        "published_at_date": "2023-09-12T19:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF7P0MpobkUEyIksbTs_dq9rTGWsMy-THF2VwnbzNFg0Zb7tw2lPeBeMV4TTLCzm60gg_Se27YoWfrEbjfIShsc2nEq10LYK-zFiH285Rs880E7na3_cu3HAtN6Qs3T8f-UHGK6=w1920-h1080-k-no",
+        "published_at_date": "2022-01-08T19:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGz5p3OvZewSKKL7dS7JrWPxwL9R3WoRc6p6CownpKW89Hz8Lnw7n_xAvASaPXFv0mQ_dxc2halRLU6I3HMS0lTdugXMURP-ftiA_HJouoXSwwB1nfMvIdEftyYu2GmD_0bmrSaTw=w1920-h1080-k-no",
+        "published_at_date": "2023-02-17T12:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGWULGvTS_b7KGZ76Sxu86qUXpT2OiGEqX4VkDa9MwAfzgWn2pwCowFGj8fU7cdbTm3CTcwRuhWkFnj_dVV8LoSzmoTqn-HaAxSOe7oLaPunshGp_4gymdZ18TjqIfxmiY_5Aha=w1920-h1080-k-no",
+        "published_at_date": "2024-04-16T13:00:00"
+      }
+    ],
+    "on_site_places": [],
+    "customer_updates": [
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQycllXVEVnEAE",
+        "link": "https://www.google.com/maps/@/data=!4m7!23m6!1m5!1sChZDSUhNMG9nS0VJQ0FnSUQycllXVEVnEAE!2m1!1s0x0:0x1edc13ae1766e64d!3m1!1s2@1:CIHM0ogKEICAgID2rYWTEg%7C%7C?hl=en",
+        "name": "Amir Khan",
+        "reviewer_id": "116200450896200042703",
+        "reviewer_profile": "https://www.google.com/maps/contrib/116200450896200042703?hl=en-GB",
+        "rating": null,
+        "text": "Irani chai opp cafe coffee day  near rassaz Mira road thane 401107 plz help this dog plz",
+        "original_language": "en",
+        "translated_text": null,
+        "translated_language": null,
+        "published_at": "4 years ago",
+        "published_at_date": "2022-05-22T02:01:26",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjVlSzyrahuNPD1J-IHtJ_hmHPQG-yPM03Ylmfc7j044orkFj4IyOQ=s1920",
+        "total_number_of_reviews_by_reviewer": 0,
+        "total_number_of_photos_by_reviewer": 1,
+        "is_local_guide": false,
+        "experience_details": [],
+        "photos": [
+          {
+            "id": "CIHM0ogKEICAgID2rYWTUg",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn3f_abqxIWG2N3eWmlG4BZerX6EeT1OXnYMOzSjDStj0h5enRX0Yl6T5PB4rYOyTPbScwyj33ERH-oWt6zrfz0rjqxdM1_Fdp8LlbxAwhN34LDc84kUW-Z9DpHmS8AjISU4d_it=k-no",
+            "caption": null,
+            "width": 3000,
+            "height": 4000
+          }
+        ],
+        "review_origin": "google"
+      }
+    ],
+    "featured_question": null,
+    "review_keywords": [
+      {
+        "keyword": "sterilisation",
+        "count": 2
+      },
+      {
+        "keyword": "skin diseases",
+        "count": 2
+      },
+      {
+        "keyword": "adopt",
+        "count": 2
+      },
+      {
+        "keyword": "babies",
+        "count": 2
+      },
+      {
+        "keyword": "helpful staff",
+        "count": 3
+      },
+      {
+        "keyword": "location",
+        "count": 3
+      },
+      {
+        "keyword": "animal rescue",
+        "count": 3
+      },
+      {
+        "keyword": "condition",
+        "count": 2
+      },
+      {
+        "keyword": "suffering",
+        "count": 4
+      },
+      {
+        "keyword": "heart",
+        "count": 2
+      }
+    ],
+    "featured_reviews": [
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxS2R6QktNa2hhTkRoNUxWSlZNbE5VVW05cmJGRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2kxS2R6QktNa2hhTkRoNUxWSlZNbE5VVW05cmJGRRAB!2m1!1s0x0:0x1edc13ae1766e64d!3m1!1s2@1:CAIQACodChtycF9oOi1KdzBKMkhaNDh5LVJVMlNUUm9rbFE%7C%7C?hl=en",
+        "name": "Padmaja Elamarthi",
+        "reviewer_id": "100067927906649944770",
+        "reviewer_profile": "https://www.google.com/maps/contrib/100067927906649944770?hl=en-GB",
+        "rating": 3,
+        "review_text": "Is she really doing a good job plz provide contact no , so that any need animals can be rescued. Without  contact no how will we communicate\ne.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "8 months ago",
+        "published_at_date": "2025-10-22T04:28:51",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjUzCbH7OBEVJKasikIf_0_iTI5WTuVVpbSyv-oVD3HpEbSFoIas=s1920",
+        "total_number_of_reviews_by_reviewer": 20,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQxOC1tU2R3EAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQxOC1tU2R3EAE!2m1!1s0x0:0x1edc13ae1766e64d!3m1!1s2@1:CIHM0ogKEICAgID18-mSdw%7C%7C?hl=en",
+        "name": "Shailesh Keswani",
+        "reviewer_id": "109216703124358300665",
+        "reviewer_profile": "https://www.google.com/maps/contrib/109216703124358300665?hl=en-GB",
+        "rating": 5,
+        "review_text": "If some one want to see.... What is the real life.... Visit this place....",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "2 years ago",
+        "published_at_date": "2024-01-10T04:09:27",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocLLskR-1eEzdJeXncqwFyAwUTtzX3kamzlOTJGwTCc9WRwKmw=s1920",
+        "total_number_of_reviews_by_reviewer": 14,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [
+          {
+            "id": "CIHM0ogKEICAgID18-mSjwE",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn1FwDv9TsOot3yThuBpowxERvjo4UUmESqSMNQk-IZzPhvHkSKTe8aCSCVs326-hbPVPuugFj1C9d6cjSX7Ce0Sru4cQRcPVm-peR7zqe1vX6a04N4je6Jta2EKr07KynoANSgJLA=k-no",
+            "caption": null,
+            "width": 720,
+            "height": 1280
+          },
+          {
+            "id": "CIHM0ogKEICAgID18-mSTw",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn3rX5moOc0gmUoFUVt6rV3orWVrKVFFpEAeIxbgkxbbIKOVHQBvjR2jKR_o2Zd62IV5Jt6pmR3M2Ek5ilTArva_lILpv2yG8n_DQXKyObm4NeB2n9lp41PG95FUdIhj1073OLtJ=k-no",
+            "caption": null,
+            "width": 720,
+            "height": 1440
+          },
+          {
+            "id": "CIHM0ogKEICAgID18-mSzwE",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn2hL6YX39__q_N7OidWK7iLq-NrdobL1ZM0sYDs8hLf7eatFk6mjfSc2VzmEfJ1Br-65AvudADp_V7P9gm0X3UbDiDHsS7i5JqWlnO5NXcYQxtaoQO8I_HX60y_7wR5ordorIAjhg=k-no",
+            "caption": null,
+            "width": 720,
+            "height": 1440
+          }
+        ],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNGanFHS29RRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNGanFHS29RRRAB!2m1!1s0x0:0x1edc13ae1766e64d!3m1!1s2@1:CIHM0ogKEICAgICFjqGKoQE%7C%7C?hl=en",
+        "name": "Tushar Mody",
+        "reviewer_id": "105153642778849300631",
+        "reviewer_profile": "https://www.google.com/maps/contrib/105153642778849300631?hl=en-GB",
+        "rating": 5,
+        "review_text": "Panikar Aunty is doing an excellent service with limited manpower for the stray cats and dogs. Currently she has around 55+ cats and dogs with medical conditions.\nDaily food requirement for her shelter is 10kg of rice and 14kg of chicken. She welcomes Chappie dog food.\nGod bless her, her solitary helping hand and her couple of friends who assist her during morning and evening.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "Edited 2 years ago",
+        "published_at_date": "2023-10-28T03:55:28",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjVfAa38Sv0pkyeyfjqhIlElxVGmQx_gwxkOgQQYaFjZl6lfD_9F=s1920",
+        "total_number_of_reviews_by_reviewer": 8,
+        "total_number_of_photos_by_reviewer": 3,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSMXJDcFVREAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURSMXJDcFVREAE!2m1!1s0x0:0x1edc13ae1766e64d!3m1!1s2@1:CIHM0ogKEICAgIDR1rCpUQ%7C%7C?hl=en",
+        "name": "FYMCOM22Maitri Shah",
+        "reviewer_id": "101807697983121870600",
+        "reviewer_profile": "https://www.google.com/maps/contrib/101807697983121870600?hl=en-GB",
+        "rating": 5,
+        "review_text": "We have one cat in our building with her two babies kindly you can shelter as we are very much scared of them that they are too small they can come between tyre of activa shubhlaxmi, bhayander west",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "3 years ago",
+        "published_at_date": "2023-04-24T16:42:51",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocLO96o6LHu_Ah7fvoqyIYFLNx4rOnAsSCGxzyF_9l6I3ooIMQ=s1920",
+        "total_number_of_reviews_by_reviewer": 2,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHeEt6b3p3RRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNHeEt6b3p3RRAB!2m1!1s0x0:0x1edc13ae1766e64d!3m1!1s2@1:CIHM0ogKEICAgICGxKzozwE%7C%7C?hl=en",
+        "name": "Sunil K",
+        "reviewer_id": "107138622706219187447",
+        "reviewer_profile": "https://www.google.com/maps/contrib/107138622706219187447?hl=en-GB",
+        "rating": 5,
+        "review_text": "Here is welfare request👇\n\nDear sir\nwe have rescued stray KALU Nr Ayappa temple Miraroad.. he got his nail of one front leg very badly damaged and bone behind nail is visible. we found the surgeon for cutting his exposed bone behind nail and do stitches .. plus blood test, sheltering and food expenses with sterilisation of cat. The total expenses are completed. any extra amount will be donated to the fostering and sheltering person. Please feel great to come forward to raise the funds to complete treatment of stray cat KALU..\n\nKindly share this with your network Friend2s.\n\nA small contribution of Rs 100 or more will be helpful too. Pls refer to pics 👇Thank you for all your support and contribution to complete the treatment of Kalu cat.\n\nThank you.\nKalu cat lover",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "Edited 4 years ago",
+        "published_at_date": "2021-10-20T13:32:40",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjUWIsBUBybKZ89KjYZYgRRnIbqkSx2472MausdxUdWQLut9duHj=s1920",
+        "total_number_of_reviews_by_reviewer": 30,
+        "total_number_of_photos_by_reviewer": 1,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNldXIzanVRRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNldXIzanVRRRAB!2m1!1s0x0:0x1edc13ae1766e64d!3m1!1s2@1:CIHM0ogKEICAgICeur3juQE%7C%7C?hl=en",
+        "name": "Ashish Chavan",
+        "reviewer_id": "111900481584996776804",
+        "reviewer_profile": "https://www.google.com/maps/contrib/111900481584996776804?hl=en-GB",
+        "rating": 5,
+        "review_text": "One of the dog is in bad condition.....he is suffering from skin diseases.....if you could help he will get another chance to live.....location near Ganesh aanand building Aanand nagar c s road dahisar..east please help him and give your best.. thanks\n\n1",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "3 years ago",
+        "published_at_date": "2022-09-12T05:35:22",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocJ_QideabTu1TSIQ15z9VVo0N8f8INj2kCLs-Xmd1vZMEAqTA=s1920",
+        "total_number_of_reviews_by_reviewer": 12,
+        "total_number_of_photos_by_reviewer": 1,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPMm9POTNBRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNPMm9POTNBRRAB!2m1!1s0x0:0x1edc13ae1766e64d!3m1!1s2@1:CIHM0ogKEICAgICO2oO93AE%7C%7C?hl=en",
+        "name": "VIJAY DAREKAR",
+        "reviewer_id": "106258785659017547687",
+        "reviewer_profile": "https://www.google.com/maps/contrib/106258785659017547687?hl=en-GB",
+        "rating": 5,
+        "review_text": "One of the dog is in bad condition.....he is suffering from skin diseases.....if you could help he will get another chance to live.....location at Khau Galli Jangid Tower....dog is in front of Tambi Dosa and D Food Lab Hotel.....",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "4 years ago",
+        "published_at_date": "2022-06-07T17:47:13",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjWze3d9UAJYq1oxaGCh58LUE3Kim5g2aKOw_av9RkKABx4o_PMz=s1920",
+        "total_number_of_reviews_by_reviewer": 34,
+        "total_number_of_photos_by_reviewer": 6,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlMmFyR253RRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNlMmFyR253RRAB!2m1!1s0x0:0x1edc13ae1766e64d!3m1!1s2@1:CIHM0ogKEICAgICe2arGnwE%7C%7C?hl=en",
+        "name": "Sakshee",
+        "reviewer_id": "107610289924416566766",
+        "reviewer_profile": "https://www.google.com/maps/contrib/107610289924416566766?hl=en-GB",
+        "rating": 5,
+        "review_text": "One of the dog is in bad condition.....he is suffering could not get up.... if you could help he will get another chance to live.....location near harias dream park building B wing near indian bank mira road e please help him and give your best.. thanks",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "3 years ago",
+        "published_at_date": "2022-09-18T06:41:21",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocKl3KUg0kbIVj_xqU0xPlHmEA8HmmhZWrnfph6s95lHTe0kEdg=s1920",
+        "total_number_of_reviews_by_reviewer": 6,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      }
+    ],
+    "query": "animal shelters in naigaon east"
+  }
+]

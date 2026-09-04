@@ -1,0 +1,37 @@
+export default function TemperaturePopulation({ population, weather }) {
+  return (
+    <div className="stats">
+      {/* Population */}
+      <div>
+        <div className="st-n">Est. Popl</div>
+
+        <div className="st-l">{population}</div>
+      </div>
+
+      {/* Temperature */}
+      <div>
+        <div className="st-n">🌡 TEMP</div>
+
+        <div className="st-l">
+          {weather?.temp ? `${weather.temp}°C` : "--°C"}
+        </div>
+      </div>
+
+      {/* Condition */}
+      <div>
+        <div className="st-n">☁ Weather</div>
+
+        <div className="st-l">{weather?.condition || "--"}</div>
+      </div>
+
+      {/* Rain */}
+      <div>
+        <div className="st-n">🌧 Rain Chance</div>
+
+        <div className="st-l">
+          {weather?.rainChance !== undefined ? `${weather.rainChance}%` : "--"}
+        </div>
+      </div>
+    </div>
+  );
+}

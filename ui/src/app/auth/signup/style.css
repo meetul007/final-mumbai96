@@ -1,0 +1,466 @@
+/* ── LAYOUT ── */
+.page {
+  position: relative;
+  z-index: 1;
+  min-height: 100vh;
+  display: flex;
+  align-items: stretch;
+}
+
+/* Right decorative panel */
+.right-deco {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 100px 60px 60px;
+  position: relative;
+  overflow: hidden;
+  order: 2;
+}
+.right-deco::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 1px;
+  background: linear-gradient(
+    transparent,
+    rgba(255, 255, 255, 0.08) 30%,
+    rgba(255, 255, 255, 0.08) 70%,
+    transparent
+  );
+}
+.rd-watermark {
+  position: absolute;
+  bottom: -30px;
+  right: -20px;
+  font-family: "Bebas Neue", sans-serif;
+  font-size: 18vw;
+  letter-spacing: 0.08em;
+  color: rgba(255, 255, 255, 0.022);
+  pointer-events: none;
+  line-height: 1;
+  white-space: nowrap;
+}
+.rd-kicker {
+  font-size: 9px;
+  font-weight: 800;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.35);
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.rd-kicker::before {
+  content: "";
+  display: inline-block;
+  width: 22px;
+  height: 2px;
+  background: var(--gold);
+}
+.rd-title {
+  font-family: "Bebas Neue", sans-serif;
+  font-size: clamp(3.2rem, 5.5vw, 6rem);
+  line-height: 0.95;
+  letter-spacing: 0.02em;
+  color: #fff;
+  margin-bottom: 24px;
+}
+.rd-title em {
+  color: var(--gold);
+  font-style: normal;
+}
+.rd-desc {
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.45);
+  font-weight: 300;
+  line-height: 1.85;
+  max-width: 380px;
+  margin-bottom: 40px;
+}
+
+/* Steps */
+.steps {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+.step {
+  display: flex;
+  gap: 18px;
+  align-items: flex-start;
+  padding: 18px 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+}
+.step:last-child {
+  border-bottom: none;
+}
+.step-num {
+  font-family: "Bebas Neue", sans-serif;
+  font-size: 2rem;
+  color: rgba(255, 107, 0, 0.3);
+  letter-spacing: 0.05em;
+  line-height: 1;
+  flex-shrink: 0;
+  width: 32px;
+  transition: color 0.3s;
+}
+.step:hover .step-num {
+  color: var(--red);
+}
+.step-text strong {
+  display: block;
+  font-size: 13px;
+  font-weight: 800;
+  color: #fff;
+  margin-bottom: 3px;
+}
+.step-text span {
+  font-size: 12px;
+  color: rgba(255, 255, 255, 0.4);
+  font-weight: 300;
+}
+
+/* ── FORM PANEL ── */
+.left-panel {
+  width: 560px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 80px 52px 50px;
+  order: 1;
+}
+.form-card {
+  width: 100%;
+  max-width: 440px;
+}
+
+.form-head {
+  margin-bottom: 28px;
+}
+.form-head h1 {
+  font-family: "Bebas Neue", sans-serif;
+  font-size: 2.6rem;
+  letter-spacing: 0.04em;
+  color: #fff;
+  margin-bottom: 6px;
+}
+.form-head h1 em {
+  color: var(--gold);
+  font-style: normal;
+}
+.form-head p {
+  font-size: 13px;
+  color: rgba(255, 255, 255, 0.45);
+  font-weight: 300;
+  line-height: 1.6;
+}
+.form-head p a {
+  color: var(--red);
+  font-weight: 600;
+  transition: color 0.2s;
+}
+.form-head p a:hover {
+  color: var(--gold);
+}
+
+/* Google button */
+.btn-google {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  width: 100%;
+  padding: 14px 20px;
+  border-radius: 12px;
+  background: #fff;
+  color: #111;
+  font-family: "Sora", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  border: none;
+  cursor: pointer;
+  transition:
+    transform 0.2s,
+    box-shadow 0.2s;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);
+}
+.btn-google:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.25);
+}
+
+/* Divider */
+.or-divider {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin: 20px 0;
+}
+.or-divider::before,
+.or-divider::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: rgba(255, 255, 255, 0.1);
+}
+.or-divider span {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.3);
+}
+
+/* Two-col row */
+.f-row-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+
+/* Form fields */
+.f-group {
+  margin-bottom: 14px;
+  position: relative;
+}
+.f-label {
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.5);
+  margin-bottom: 7px;
+  display: block;
+}
+.f-input {
+  width: 100%;
+  background: rgba(255, 255, 255, 0.07);
+  border: 1.5px solid rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+  padding: 13px 16px;
+  font-family: "Sora", sans-serif;
+  font-size: 13px;
+  color: #fff;
+  outline: none;
+  transition:
+    border-color 0.2s,
+    background 0.2s;
+}
+.f-input::placeholder {
+  color: rgba(255, 255, 255, 0.25);
+  font-weight: 300;
+}
+.f-input:focus {
+  border-color: rgba(245, 166, 35, 0.6);
+  background: rgba(255, 255, 255, 0.1);
+}
+.f-input.err {
+  border-color: rgba(239, 68, 68, 0.6);
+  background: rgba(239, 68, 68, 0.05);
+}
+.f-input.ok {
+  border-color: rgba(16, 185, 129, 0.5);
+}
+
+/* Password strength */
+.f-pass-wrap {
+  position: relative;
+}
+.f-pass-wrap .f-input {
+  padding-right: 48px;
+}
+.f-pass-eye {
+  position: absolute;
+  right: 14px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: rgba(255, 255, 255, 0.35);
+  transition: color 0.2s;
+  display: flex;
+  align-items: center;
+}
+.f-pass-eye:hover {
+  color: rgba(255, 255, 255, 0.7);
+}
+.strength-bar {
+  display: flex;
+  gap: 4px;
+  margin-top: 8px;
+}
+.sb-seg {
+  flex: 1;
+  height: 3px;
+  border-radius: 2px;
+  background: rgba(255, 255, 255, 0.1);
+  transition: background 0.3s;
+}
+.strength-label {
+  font-size: 10px;
+  color: rgba(255, 255, 255, 0.35);
+  margin-top: 5px;
+}
+
+/* Select */
+.f-select {
+  width: 100%;
+  background: rgba(255, 255, 255, 0.07);
+  border: 1.5px solid rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+  padding: 13px 16px;
+  font-family: "Sora", sans-serif;
+  font-size: 13px;
+  color: rgba(255, 255, 255, 0.7);
+  outline: none;
+  transition: border-color 0.2s;
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='rgba(255,255,255,0.4)' stroke-width='1.8' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 16px center;
+  padding-right: 40px;
+  cursor: pointer;
+}
+.f-select:focus {
+  border-color: rgba(245, 166, 35, 0.6);
+}
+.f-select option {
+  background: #2d1255;
+  color: #fff;
+}
+
+/* Error */
+.f-error {
+  font-size: 11px;
+  color: #f87171;
+  margin-top: 5px;
+  display: none;
+}
+.f-error.show {
+  display: block;
+}
+
+/* Terms checkbox */
+.f-check {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  cursor: pointer;
+  margin-bottom: 4px;
+}
+.f-check input[type="checkbox"] {
+  width: 16px;
+  height: 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  accent-color: var(--gold);
+  flex-shrink: 0;
+  margin-top: 1px;
+}
+.f-check span {
+  font-size: 12px;
+  color: rgba(255, 255, 255, 0.45);
+  font-weight: 300;
+  line-height: 1.6;
+}
+.f-check a {
+  color: var(--gold);
+  font-weight: 600;
+}
+
+/* Submit */
+.btn-submit {
+  width: 100%;
+  padding: 16px;
+  border-radius: 12px;
+  background: var(--gold);
+  color: #111;
+  border: none;
+  cursor: pointer;
+  font-family: "Sora", sans-serif;
+  font-size: 14px;
+  font-weight: 900;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  transition:
+    transform 0.2s,
+    box-shadow 0.2s,
+    background 0.2s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  margin-top: 10px;
+}
+.btn-submit:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 32px rgba(245, 166, 35, 0.4);
+  background: #e09a1a;
+}
+.btn-submit:active {
+  transform: translateY(0);
+}
+
+/* Bottom */
+.form-bottom {
+  margin-top: 18px;
+  text-align: center;
+}
+.form-bottom p {
+  font-size: 13px;
+  color: rgba(255, 255, 255, 0.4);
+  font-weight: 300;
+}
+.form-bottom a {
+  color: var(--red);
+  font-weight: 700;
+  transition: color 0.2s;
+}
+.form-bottom a:hover {
+  color: var(--gold);
+}
+.form-terms {
+  margin-top: 16px;
+  padding-top: 16px;
+  border-top: 1px solid rgba(255, 255, 255, 0.07);
+  font-size: 10px;
+  color: rgba(255, 255, 255, 0.22);
+  text-align: center;
+  line-height: 1.7;
+}
+.form-terms a {
+  color: rgba(255, 255, 255, 0.38);
+  transition: color 0.2s;
+}
+.form-terms a:hover {
+  color: var(--gold);
+}
+
+/* Benefits badge row */
+.badge-row {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 16px;
+}
+.benefit-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.5);
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  padding: 5px 12px;
+  border-radius: 100px;
+}

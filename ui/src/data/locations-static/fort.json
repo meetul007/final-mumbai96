@@ -1,0 +1,1379 @@
+{
+  "name": "Fort",
+  "seo_title": "Fort Mumbai - Complete Local Guide 2026 | Places, Food, Property, Schools, Hospitals | Mumbai96",
+  "seo_description": "Complete guide to Fort, Mumbai - sub-areas (Ballard Estate, Horniman Circle, Flora Fountain, Hutatma Chowk, Kala Ghoda), property prices, top schools, hospitals, banks, markets, commute, employers, events and 100+ local services. Mumbai96 - Mumbaikars' Very Own Platform.",
+  "seo_keywords": "Fort Mumbai, Fort guide, things to do in Fort, places in Fort, restaurants in Fort, property prices Fort, schools in Fort, hospitals in Fort, Ballard Estate Mumbai, Horniman Circle Mumbai, Flora Fountain Mumbai, Kala Ghoda Mumbai, Hutatma Chowk Mumbai, dentists in Fort, salons in Fort, gyms in Fort, plumbers in Fort, electricians in Fort, tiffin services Fort, banks in Fort, commute from Fort, Fort pin code, Fort area guide 2026",
+  "location_icon": "https://mumbai96.vercel.app/fort/images/og-fort.jpg",
+  "image": "https://mumbai96.vercel.app/fort/images/og-fort.jpg",
+  "about": "Fort is Mumbai's historic commercial and legal district, home to the Bombay High Court, the Reserve Bank of India, the iconic Flora Fountain, Horniman Circle, Kala Ghoda's art district and some of the finest heritage buildings in Asia. It is the original heart of Bombay and carries pin code 400001.",
+  "population": "100+l",
+  "municipal_body": "",
+  "food_tags": "",
+  "sub_areas": [],
+  "character_vibe": [],
+  "property_prices": [],
+  "places_to_visit": [],
+  "food": [],
+  "night_life": [],
+  "resident_profile": [],
+  "schools": [],
+  "hospitals": [],
+  "major_employers": [],
+  "grouped_listings": {},
+  "category_groups": [],
+  "travelling_connectivity": [],
+  "residential_societies": [],
+  "local_events": [],
+  "upcoming_projects": [],
+  "civic_data": {
+    "region": "South Mumbai",
+    "ward": "",
+    "assembly_constituency": ""
+  },
+  "area_report_card": {},
+  "living_style": [],
+  "faq": [
+    {
+      "question": "What is Fort Mumbai known for?",
+      "answer": "Fort is known as Mumbai's historic commercial and legal district, home to the Bombay High Court, the Reserve Bank of India, the iconic Flora Fountain (Hutatma Chowk), Horniman Circle, Kala Ghoda's art district, Ballard Estate's colonial architecture and some of the finest heritage buildings in Asia. It is the original heart of Bombay."
+    },
+    {
+      "question": "What is the pin code of Fort?",
+      "answer": "Fort uses the pin code 400001 - the most prestigious pin code in Mumbai and one of the most recognisable in India."
+    },
+    {
+      "question": "What are the sub-areas within Fort?",
+      "answer": "The main micro-localities within Fort are Ballard Estate, Horniman Circle, Flora Fountain (Hutatma Chowk), Kala Ghoda, Mint Road, Medows Street, Veer Nariman Road fringe, and the Bombay High Court belt."
+    },
+    {
+      "question": "What is the property price in Fort?",
+      "answer": "Property prices in Fort are primarily commercial - office space ranges from ₹200 to ₹500 per sqft for lease. Residential properties are rare and range from ₹3–8 Cr for a 2BHK in the limited residential pockets. Rental rates for commercial space range from ₹80,000 to ₹5 lakh per month (as of May 2026)."
+    },
+    {
+      "question": "How to commute from Fort?",
+      "answer": "Fort is served by CST (Chhatrapati Shivaji Maharaj Terminus) - the Central Railway terminus - and is walkable to Churchgate (Western Railway). BEST bus routes 1, 3, 63, 66, 83, 124 serve the area. Metro Line 3 has a station at CST. The area is also walkable to Colaba and Kalbadevi."
+    },
+    {
+      "question": "Which hospitals are in Fort?",
+      "answer": "Major hospitals in and near Fort include St. George's Hospital, Bombay Hospital, J.J. Hospital, Wockhardt Hospital, and Saifee Hospital."
+    },
+    {
+      "question": "Which schools are in Fort?",
+      "answer": "Notable schools in Fort include Cathedral & John Connon School, St. Xavier's College, Elphinstone College, K.C. College, and the University of Mumbai (Fort Campus)."
+    },
+    {
+      "question": "How do I find the best dentists in Fort?",
+      "answer": "Browse Mumbai96's Fort listings, read reviews from locals and call directly. Our verified directory makes it easy."
+    }
+  ],
+  "categories": [
+    {
+      "slug": "street-food",
+      "name": "Street Food",
+      "emoji": "🌮",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "biryani-restaurants",
+      "name": "Biryani Restaurants",
+      "emoji": "🍚",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "chinese-restaurants",
+      "name": "Chinese Restaurants",
+      "emoji": "🥢",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "south-indian-restaurants",
+      "name": "South Indian Restaurants",
+      "emoji": "🥘",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "cafes-coffee-shops",
+      "name": "Cafes & Coffee Shops",
+      "emoji": "☕",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "bakeries",
+      "name": "Bakeries",
+      "emoji": "🥐",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "sweet-shops",
+      "name": "Sweet Shops",
+      "emoji": "🍬",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "ice-cream-shops",
+      "name": "Ice Cream Shops",
+      "emoji": "🍦",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "juice-shops",
+      "name": "Juice Shops",
+      "emoji": "🥤",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "seafood-restaurants",
+      "name": "Seafood Restaurants",
+      "emoji": "🦞",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "vegetarian-restaurants",
+      "name": "Vegetarian Restaurants",
+      "emoji": "🥗",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "fast-food-restaurants",
+      "name": "Fast Food Restaurants",
+      "emoji": "🍔",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "real-estate-agents",
+      "name": "Real Estate Agents",
+      "emoji": "🏠",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "flats-for-rent",
+      "name": "Flats for Rent",
+      "emoji": "🏢",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "flats-for-sale",
+      "name": "Flats for Sale",
+      "emoji": "🔑",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "paying-guest-accommodation",
+      "name": "Paying Guest Accommodation",
+      "emoji": "🛏️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "office-space-for-rent",
+      "name": "Office Space for Rent",
+      "emoji": "🏬",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "property-management",
+      "name": "Property Management",
+      "emoji": "📋",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "pharmacies",
+      "name": "Pharmacies",
+      "emoji": "💊",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "eye-doctors",
+      "name": "Eye Doctors",
+      "emoji": "👁️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "physiotherapists",
+      "name": "Physiotherapists",
+      "emoji": "🩹",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "ayurvedic-doctors",
+      "name": "Ayurvedic Doctors",
+      "emoji": "🌿",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "homeopathy-doctors",
+      "name": "Homeopathy Doctors",
+      "emoji": "🫙",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "blood-banks",
+      "name": "Blood Banks",
+      "emoji": "🩸",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "diagnostic-centres",
+      "name": "Diagnostic Centres",
+      "emoji": "🔬",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "dental-clinics",
+      "name": "Dental Clinics",
+      "emoji": "🪥",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "deaddiction-centres",
+      "name": "Deaddiction Centres",
+      "emoji": "🫁",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "clothing-stores",
+      "name": "Clothing Stores",
+      "emoji": "👗",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "jewellery-shops",
+      "name": "Jewellery Shops",
+      "emoji": "💍",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "mobile-phone-shops",
+      "name": "Mobile Phone Shops",
+      "emoji": "📱",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "electronics-stores",
+      "name": "Electronics Stores",
+      "emoji": "💻",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "optical-shops",
+      "name": "Optical Shops",
+      "emoji": "👓",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "grocery-stores",
+      "name": "Grocery Stores",
+      "emoji": "🛒",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "shoe-stores",
+      "name": "Shoe Stores",
+      "emoji": "👟",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "sports-goods-stores",
+      "name": "Sports Goods Stores",
+      "emoji": "⚽",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "book-stores",
+      "name": "Book Stores",
+      "emoji": "📚",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "stationery-stores",
+      "name": "Stationery Stores",
+      "emoji": "✏️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "baby-products-stores",
+      "name": "Baby Products Stores",
+      "emoji": "🍼",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "hardware-stores",
+      "name": "Hardware Stores",
+      "emoji": "🪛",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "pest-control",
+      "name": "Pest Control",
+      "emoji": "🐛",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "home-cleaning-services",
+      "name": "Home Cleaning Services",
+      "emoji": "🧹",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "painting-services",
+      "name": "Painting Services",
+      "emoji": "🖌️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "laundry-dry-cleaners",
+      "name": "Laundry & Dry Cleaners",
+      "emoji": "👕",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "water-purifier-services",
+      "name": "Water Purifier Services",
+      "emoji": "💧",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "cctv-installation",
+      "name": "CCTV Installation",
+      "emoji": "📷",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "false-ceiling-contractors",
+      "name": "False Ceiling Contractors",
+      "emoji": "🏗️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "sofa-repair-services",
+      "name": "Sofa Repair Services",
+      "emoji": "🪜",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "car-dealers",
+      "name": "Car Dealers",
+      "emoji": "🚕",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "bike-dealers",
+      "name": "Bike Dealers",
+      "emoji": "🛵",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "car-wash-services",
+      "name": "Car Wash Services",
+      "emoji": "🚿",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "second-hand-cars",
+      "name": "Second Hand Cars",
+      "emoji": "🚐",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "auto-parts-stores",
+      "name": "Auto Parts Stores",
+      "emoji": "⚙️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "petrol-pumps",
+      "name": "Petrol Pumps",
+      "emoji": "⛽",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "ev-charging-stations",
+      "name": "EV Charging Stations",
+      "emoji": "🔋",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "photographers",
+      "name": "Photographers",
+      "emoji": "📸",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "videographers",
+      "name": "Videographers",
+      "emoji": "🎥",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "photo-studios",
+      "name": "Photo Studios",
+      "emoji": "🎞️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "printing-shops",
+      "name": "Printing Shops",
+      "emoji": "🖨️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "movie-theatres",
+      "name": "Movie Theatres",
+      "emoji": "🎬",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "bowling-alleys",
+      "name": "Bowling Alleys",
+      "emoji": "🎳",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "gaming-zones",
+      "name": "Gaming Zones",
+      "emoji": "🎮",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "escape-rooms",
+      "name": "Escape Rooms",
+      "emoji": "🗝️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "stand-up-comedy-shows",
+      "name": "Stand-Up Comedy Shows",
+      "emoji": "🎤",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "creches-daycare",
+      "name": "Creches & Daycare",
+      "emoji": "🪆",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "playschools",
+      "name": "Playschools",
+      "emoji": "🧸",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "schools",
+      "name": "Schools",
+      "emoji": "🏫",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "colleges",
+      "name": "Colleges",
+      "emoji": "🎓",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "spoken-english-classes",
+      "name": "Spoken English Classes",
+      "emoji": "🗣️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "computer-classes",
+      "name": "Computer Classes",
+      "emoji": "⌨️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "swimming-classes",
+      "name": "Swimming Classes",
+      "emoji": "🏊",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "courier-services",
+      "name": "Courier Services",
+      "emoji": "🚚",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "co-working-spaces",
+      "name": "Co-Working Spaces",
+      "emoji": "💼",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "event-photographers",
+      "name": "Event Photographers",
+      "emoji": "🤳",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "digital-marketing-agencies",
+      "name": "Digital Marketing Agencies",
+      "emoji": "📣",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "web-designers",
+      "name": "Web Designers",
+      "emoji": "🌐",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "astrologers",
+      "name": "Astrologers",
+      "emoji": "🔮",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "vastu-consultants",
+      "name": "Vastu Consultants",
+      "emoji": "🧭",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "temples",
+      "name": "Temples",
+      "emoji": "🛕",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "churches",
+      "name": "Churches",
+      "emoji": "⛪",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "gurudwaras",
+      "name": "Gurudwaras",
+      "emoji": "🪯",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "detective-agencies-spy-agents",
+      "name": "Detective Agencies",
+      "emoji": "🕵️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "heritage-walks",
+      "name": "Heritage Walks",
+      "emoji": "🏛️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "fishing-community",
+      "name": "Fishing Community",
+      "emoji": "🎣",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "slum-tours",
+      "name": "Slum Tours",
+      "emoji": "🗺️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "dabbawalas",
+      "name": "Dabbawalas",
+      "emoji": "🍱",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "bollywood-studios",
+      "name": "Bollywood Studios",
+      "emoji": "🎪",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "dentists",
+      "name": "Dentists",
+      "emoji": "🦷",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "skin-doctors",
+      "name": "Skin Doctors",
+      "emoji": "🧴",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "ent-doctors",
+      "name": "ENT Doctors",
+      "emoji": "👂",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "spine-doctors",
+      "name": "Spine Doctors",
+      "emoji": "🦴",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "ortho-doctors",
+      "name": "Ortho Doctors",
+      "emoji": "🩼",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "heart-doctors",
+      "name": "Heart Doctors",
+      "emoji": "❤️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "gynecologist-obstetricians",
+      "name": "Gynecologists",
+      "emoji": "👩‍⚕️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "pediatrician-child-doctors",
+      "name": "Pediatricians",
+      "emoji": "🧒",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "maternity-hospitals",
+      "name": "Maternity Hospitals",
+      "emoji": "🤰",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "ivf-centers",
+      "name": "IVF Centers",
+      "emoji": "🧬",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "hospitals",
+      "name": "Hospitals",
+      "emoji": "🏥",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "medical-pathology-labs",
+      "name": "Pathology Labs",
+      "emoji": "🫧",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "psychologists",
+      "name": "Psychologists",
+      "emoji": "🧠",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "psychiatrists",
+      "name": "Psychiatrists",
+      "emoji": "💬",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "xray-sonography-centres",
+      "name": "X-Ray & Sonography",
+      "emoji": "🩻",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "spas",
+      "name": "Spas",
+      "emoji": "💆",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "salons",
+      "name": "Salons",
+      "emoji": "✂️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "beauty-parlours",
+      "name": "Beauty Parlours",
+      "emoji": "💄",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "makeover-artists",
+      "name": "Makeover Artists",
+      "emoji": "🪞",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "tattoo-artists",
+      "name": "Tattoo Artists",
+      "emoji": "🪡",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "gyms",
+      "name": "Gyms",
+      "emoji": "💪",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "personal-trainers",
+      "name": "Personal Trainers",
+      "emoji": "🏋️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "dietitians-nutritionists",
+      "name": "Dietitians & Nutritionists",
+      "emoji": "🥦",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "bridal-makeup-artists",
+      "name": "Bridal Makeup Artists",
+      "emoji": "👰",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "groom-makeup-artists",
+      "name": "Groom Makeup Artists",
+      "emoji": "🤵",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "dance-classes",
+      "name": "Dance Classes",
+      "emoji": "💃",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "zumba-classes",
+      "name": "Zumba Classes",
+      "emoji": "🕺",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "yoga-classes",
+      "name": "Yoga Classes",
+      "emoji": "🧘",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "music-classes",
+      "name": "Music Classes",
+      "emoji": "🎵",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "drawing-classes",
+      "name": "Drawing Classes",
+      "emoji": "🖍️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "wedding-planners",
+      "name": "Wedding Planners",
+      "emoji": "💒",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "destination-wedding-planners",
+      "name": "Destination Wedding Planners",
+      "emoji": "✈️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "birthday-event-planners",
+      "name": "Birthday Event Planners",
+      "emoji": "🎈",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "anniversary-event-planners",
+      "name": "Anniversary Planners",
+      "emoji": "🎊",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "baby-shower-planners",
+      "name": "Baby Shower Planners",
+      "emoji": "🎀",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "caterers",
+      "name": "Caterers",
+      "emoji": "🍽️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "banquet-halls",
+      "name": "Banquet Halls",
+      "emoji": "🏩",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "cars-on-rent",
+      "name": "Cars on Rent",
+      "emoji": "🚘",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "costumes-on-rent",
+      "name": "Costumes on Rent",
+      "emoji": "🎭",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "pet-shops",
+      "name": "Pet Shops",
+      "emoji": "🐾",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "veterinary-clinics",
+      "name": "Veterinary Clinics",
+      "emoji": "🐶",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "pet-grooming",
+      "name": "Pet Grooming",
+      "emoji": "🛁",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "dog-trainers",
+      "name": "Dog Trainers",
+      "emoji": "🦮",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "ngos-social-organisations",
+      "name": "NGOs & Social Orgs",
+      "emoji": "🤝",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "legal-aid-services",
+      "name": "Legal Aid Services",
+      "emoji": "⚖️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "police-stations",
+      "name": "Police Stations",
+      "emoji": "🚔",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "fire-stations",
+      "name": "Fire Stations",
+      "emoji": "🚒",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "ambulance-services",
+      "name": "Ambulance Services",
+      "emoji": "🚑",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "old-age-homes",
+      "name": "Old Age Homes",
+      "emoji": "🏡",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "mobile-repair-shops",
+      "name": "Mobile Repair Shops",
+      "emoji": "📲",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "laptop-repair-shops",
+      "name": "Laptop Repair Shops",
+      "emoji": "🖥️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "ac-repair-services",
+      "name": "AC Repair Services",
+      "emoji": "❄️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "refrigerator-repair",
+      "name": "Refrigerator Repair",
+      "emoji": "🧊",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "washing-machine-repair",
+      "name": "Washing Machine Repair",
+      "emoji": "🫧",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "tv-repair-services",
+      "name": "TV Repair Services",
+      "emoji": "📺",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "watch-repair-shops",
+      "name": "Watch Repair Shops",
+      "emoji": "⌚",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "shoe-repair-shops",
+      "name": "Shoe Repair Shops",
+      "emoji": "👞",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "tailors-alteration-shops",
+      "name": "Tailors",
+      "emoji": "🧵",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "home-tutors",
+      "name": "Home Tutors",
+      "emoji": "📖",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "maths-tutors",
+      "name": "Maths Tutors",
+      "emoji": "🔢",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "science-tutors",
+      "name": "Science Tutors",
+      "emoji": "🔭",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "english-tutors",
+      "name": "English Tutors",
+      "emoji": "📝",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "ias-coaching-classes",
+      "name": "IAS Coaching Classes",
+      "emoji": "🏛️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "ca-coaching-classes",
+      "name": "CA Coaching Classes",
+      "emoji": "📊",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "neet-coaching-classes",
+      "name": "NEET Coaching Classes",
+      "emoji": "🩺",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "jee-coaching-classes",
+      "name": "JEE Coaching Classes",
+      "emoji": "⚗️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "hotels",
+      "name": "Hotels",
+      "emoji": "🏨",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "budget-hotels",
+      "name": "Budget Hotels",
+      "emoji": "🛌",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "service-apartments",
+      "name": "Service Apartments",
+      "emoji": "🏙️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "hostels",
+      "name": "Hostels",
+      "emoji": "🎒",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "travel-agents",
+      "name": "Travel Agents",
+      "emoji": "🗺️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "visa-consultants",
+      "name": "Visa Consultants",
+      "emoji": "🛂",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "packers-movers",
+      "name": "Packers & Movers",
+      "emoji": "📦",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "storage-facilities",
+      "name": "Storage Facilities",
+      "emoji": "🗄️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "ca-chartered-accountants",
+      "name": "Chartered Accountants",
+      "emoji": "🧾",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "tax-consultants",
+      "name": "Tax Consultants",
+      "emoji": "📑",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "gst-consultants",
+      "name": "GST Consultants",
+      "emoji": "🗂️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "lawyers-advocates",
+      "name": "Lawyers & Advocates",
+      "emoji": "⚖️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "company-registration",
+      "name": "Company Registration",
+      "emoji": "🏢",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "insurance-agents",
+      "name": "Insurance Agents",
+      "emoji": "🛡️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "life-insurance",
+      "name": "Life Insurance",
+      "emoji": "❤️‍🩹",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "health-insurance",
+      "name": "Health Insurance",
+      "emoji": "🏥",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "vehicle-insurance",
+      "name": "Vehicle Insurance",
+      "emoji": "🚗",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "mutual-funds",
+      "name": "Mutual Funds",
+      "emoji": "📈",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "stock-brokers",
+      "name": "Stock Brokers",
+      "emoji": "📉",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "interior-designers",
+      "name": "Interior Designers",
+      "emoji": "🛋️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "architects",
+      "name": "Architects",
+      "emoji": "📐",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "modular-kitchen",
+      "name": "Modular Kitchen",
+      "emoji": "🍳",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "wardrobe-manufacturers",
+      "name": "Wardrobe Manufacturers",
+      "emoji": "🚪",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "furniture-shops",
+      "name": "Furniture Shops",
+      "emoji": "🪑",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "curtain-blinds-shops",
+      "name": "Curtain & Blinds Shops",
+      "emoji": "🪟",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "flooring-shops",
+      "name": "Flooring Shops",
+      "emoji": "🪵",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "tiles-shops",
+      "name": "Tiles Shops",
+      "emoji": "🔲",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "sanitary-ware-shops",
+      "name": "Sanitary Ware Shops",
+      "emoji": "🚿",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "lighting-shops",
+      "name": "Lighting Shops",
+      "emoji": "💡",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "wallpaper-shops",
+      "name": "Wallpaper Shops",
+      "emoji": "🖼️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "home-decor-shops",
+      "name": "Home Decor Shops",
+      "emoji": "🏺",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "gift-shops",
+      "name": "Gift Shops",
+      "emoji": "🎁",
+      "image": "",
+      "description": ""
+    }
+  ],
+  "best_services": [
+    {
+      "heading": "The Original Heart of Bombay",
+      "text": "Fort is where Bombay began. The original walled settlement of the British East India Company - built around the Fort of Good Hope in the 17th century - is now Mumbai's most historically significant commercial and legal district. The walls are long gone, but the name remains, and so does the extraordinary concentration of Victorian Gothic and Art Deco architecture that makes Fort one of the most architecturally significant urban precincts in Asia. Pin code 400001 is not just an address. It is a statement - the most prestigious postal code in India, carrying the weight of over three centuries of Bombay's history."
+    },
+    {
+      "heading": "Institutions That Define India",
+      "text": "Fort is home to institutions that define India's legal, financial and cultural life. The Bombay High Court - established in 1862 in a magnificent Victorian Gothic building - is one of the oldest and most respected courts in Asia. The Reserve Bank of India, headquartered in Fort since 1935, sets monetary policy for the world's most populous nation. The State Bank of India, HDFC, ICICI and virtually every major Indian and international bank have their head offices or flagship branches in Fort. The University of Mumbai's Fort campus, the Government Law College and the Asiatic Society Library have educated generations of India's finest minds. And the Chhatrapati Shivaji Maharaj Terminus - a UNESCO World Heritage Site - is one of the world's most magnificent railway stations, handling over 3 million commuters every day."
+    },
+    {
+      "heading": "Kala Ghoda - Mumbai's Cultural Soul",
+      "text": "Within Fort lies Kala Ghoda - Mumbai's premier art district and one of the most culturally alive precincts in Asia. Named after the black equestrian statue of King Edward VII that once stood here (now removed), Kala Ghoda is home to the Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (the Prince of Wales Museum), the Jehangir Art Gallery, the National Gallery of Modern Art and dozens of private galleries, design boutiques and cultural spaces. The annual Kala Ghoda Arts Festival - nine days of visual arts, music, dance, theatre, cinema, literature and heritage walks - is Mumbai's most celebrated cultural event, drawing hundreds of thousands of visitors every February. Fort without Kala Ghoda would be like Paris without the Left Bank."
+    },
+    {
+      "heading": "Living and Working in Fort",
+      "text": "Fort is primarily a commercial and institutional district - its daytime population of hundreds of thousands dwarfs its small residential community. But those who do live in Fort - the Parsi families in their heritage buildings, the advocates with chambers and homes within walking distance of the High Court, the artists and gallery owners of Kala Ghoda - would not trade their address for anything in Mumbai. The connectivity is unmatched: CST and Churchgate within walking distance, Metro Line 3 at CST, BEST buses covering every corner of the city. The food is legendary: Britannia & Co. in Ballard Estate, the Irani cafés near Flora Fountain, the Kala Ghoda café scene. And the sheer beauty of the built environment - the Victorian Gothic spires, the Art Deco facades, the wide boulevards of Ballard Estate - makes Fort one of the most extraordinary places to live and work in the world. Mumbai96 is proud to serve Fort's community - from the advocate who needs a reliable plumber for her heritage flat to the banker who wants the best dentist near his Ballard Estate office."
+    }
+  ],
+  "nearby_locations": [],
+  "source_file": "/home/bpl_borivali/mumbai96/ui/src/data/location/75 locations pages/south/fort.html"
+}

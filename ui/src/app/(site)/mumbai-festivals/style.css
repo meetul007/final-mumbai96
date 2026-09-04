@@ -1,0 +1,66 @@
+/* ============================================================
+   MUMBAI FESTIVALS PAGE — SPECIFIC STYLES ONLY
+   Global styles are in styles.combined.css
+   ============================================================ */
+
+/* Festival List */
+.festival-list {
+  margin: 16px 0;
+}
+
+/* Festival Card */
+.festival-card {
+  background: #fff;
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--border);
+  border-radius: 8px;
+  padding: 16px 18px;
+  margin-bottom: 12px;
+  transition: all 0.22s;
+}
+
+.festival-card:hover {
+  box-shadow: var(--sh-lg);
+  transform: translateY(-2px);
+}
+
+.fc-month {
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 4px;
+}
+
+.fc-name {
+  font-size: 14px;
+  font-weight: 800;
+  color: var(--ink);
+  margin-bottom: 8px;
+  line-height: 1.4;
+}
+
+.fc-body {
+  font-size: 13px;
+  color: #374151;
+  line-height: 1.7;
+  font-weight: 300;
+  margin-bottom: 0;
+  padding: 0%;
+}
+
+@media (max-width: 760px) {
+  .festival-card {
+    padding: 14px 16px;
+    margin-bottom: 10px;
+  }
+
+  .fc-name {
+    font-size: 13px;
+  }
+
+  .fc-body {
+    font-size: 12px;
+  }
+}

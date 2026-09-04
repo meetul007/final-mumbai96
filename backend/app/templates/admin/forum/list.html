@@ -1,0 +1,118 @@
+{% extends "base.html" %}
+
+{% block title %}Forum Questions | Admin{% endblock %}
+
+{% block content %}
+
+    <div class="d-flex justify-content-between align-items-center mb-3 flex-wrap gap-2">
+        <h1 class="h3 mb-0">Forum Questions</h1>
+    </div>
+
+    <form method="get" class="row gx-2 gy-2 align-items-center mb-3">
+        <div class="col-8 col-sm-4 col-md-3">
+            <input type="text" name="q" value="{{ search or '' }}" class="form-control form-control-sm" placeholder="Search questions...">
+        </div>
+        <div class="col-auto">
+            <select name="category" class="form-select form-select-sm">
+                <option value="">All Categories</option>
+                <option value="Property & Housing" {% if category_filter == 'Property & Housing' %}selected{% endif %}>Property & Housing</option>
+                <option value="Transport & Commute" {% if category_filter == 'Transport & Commute' %}selected{% endif %}>Transport & Commute</option>
+                <option value="Health & Medical" {% if category_filter == 'Health & Medical' %}selected{% endif %}>Health & Medical</option>
+                <option value="Schools & Education" {% if category_filter == 'Schools & Education' %}selected{% endif %}>Schools & Education</option>
+                <option value="Food & Restaurants" {% if category_filter == 'Food & Restaurants' %}selected{% endif %}>Food & Restaurants</option>
+                <option value="Government & Civic" {% if category_filter == 'Government & Civic' %}selected{% endif %}>Government & Civic</option>
+                <option value="Jobs & Business" {% if category_filter == 'Jobs & Business' %}selected{% endif %}>Jobs & Business</option>
+                <option value="Safety & Legal" {% if category_filter == 'Safety & Legal' %}selected{% endif %}>Safety & Legal</option>
+                <option value="Shopping & Services" {% if category_filter == 'Shopping & Services' %}selected{% endif %}>Shopping & Services</option>
+                <option value="Community & Social" {% if category_filter == 'Community & Social' %}selected{% endif %}>Community & Social</option>
+            </select>
+        </div>
+        <div class="col-auto">
+            <select name="approved" class="form-select form-select-sm">
+                <option value="">All Status</option>
+                <option value="yes" {% if approved_filter == 'yes' %}selected{% endif %}>Approved</option>
+                <option value="no" {% if approved_filter == 'no' %}selected{% endif %}>Pending</option>
+            </select>
+        </div>
+        <div class="col-auto">
+            <button class="btn btn-primary btn-sm"><i class="bi bi-search"></i></button>
+        </div>
+    </form>
+
+    <div class="card">
+        <div class="table-responsive">
+            <table class="table mb-0 align-middle">
+                <thead>
+                <tr>
+                    <th>Question</th>
+                    <th class="d-none d-md-table-cell">Category</th>
+                    <th class="d-none d-sm-table-cell">Area</th>
+                    <th>Author</th>
+                    <th>Answers</th>
+                    <th>Approved</th>
+                    <th class="d-none d-sm-table-cell">Date</th>
+                    <th class="text-end">Actions</th>
+                </tr>
+                </thead>
+                <tbody>
+                {% for q in questions %}
+                    <tr>
+                        <td>
+                            <div class="fw-semibold">{{ q.title }}</div>
+                            <div class="text-muted small d-md-none">{{ q.category }} · {{ q.area }}</div>
+                        </td>
+                        <td class="d-none d-md-table-cell text-muted">{{ q.category }}</td>
+                        <td class="d-none d-sm-table-cell">{{ q.area }}</td>
+                        <td class="text-muted small">{{ q.author_name or 'Anonymous' }}</td>
+                        <td>{{ q.answers.count() }}</td>
+                        <td>
+                            {% if q.is_approved %}
+                                <span class="badge bg-success">Yes</span>
+                            {% else %}
+                                <span class="badge bg-warning text-dark">No</span>
+                            {% endif %}
+                        </td>
+                        <td class="d-none d-sm-table-cell text-muted small">{{ q.created_at.strftime('%d-%m-%Y') if q.created_at else '—' }}</td>
+                        <td class="text-end">
+                            <a href="{{ url_for('admin.edit_forum_question', question_id=q.id) }}" class="btn btn-sm btn-outline-secondary">
+                                <i class="bi bi-pencil"></i>
+                            </a>
+                            <button type="button" class="btn btn-sm btn-outline-danger ms-1" data-bs-toggle="modal" data-bs-target="#deleteModal{{ q.id }}">
+                                <i class="bi bi-trash"></i>
+                            </button>
+
+                            <div class="modal fade" id="deleteModal{{ q.id }}" tabindex="-1" aria-hidden="true">
+                                <div class="modal-dialog modal-dialog-centered">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <h5 class="modal-title">Delete Question</h5>
+                                            <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                                        </div>
+                                        <div class="modal-body">
+                                            Are you sure you want to delete <strong>{{ q.title }}</strong>? This will also remove all answers. This cannot be undone.
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-light btn-sm" data-bs-dismiss="modal">Cancel</button>
+                                            <form method="post" action="{{ url_for('admin.delete_forum_question', question_id=q.id) }}">
+                                                <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+                                                <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                                            </form>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                {% else %}
+                    <tr>
+                        <td colspan="8" class="text-center text-muted py-4">No forum questions found</td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    {% include "admin/components/pagination.html" %}
+
+{% endblock %}

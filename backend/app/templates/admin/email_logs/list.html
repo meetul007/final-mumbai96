@@ -1,0 +1,141 @@
+{% extends "base.html" %}
+{% block title %}Email Logs | Admin{% endblock %}
+
+{% block content %}
+
+<div class="mb-3">
+  <h1 class="h4 mb-0">Email Logs</h1>
+  <small class="text-muted">Transactional email delivery records</small>
+</div>
+
+<form method="get"
+      class="row gx-2 gy-2 align-items-center mb-3">
+
+  <div class="col-8 col-sm-6 col-md-4">
+    <input type="text"
+           name="q"
+           value="{{ search or '' }}"
+           class="form-control form-control-sm"
+           placeholder="Search by email...">
+  </div>
+
+  <div class="col-auto">
+    <select name="status" class="form-select form-select-sm">
+      <option value="">All status</option>
+      <option value="sent" {% if status_filter == 'sent' %}selected{% endif %}>Sent</option>
+      <option value="failed" {% if status_filter == 'failed' %}selected{% endif %}>Failed</option>
+    </select>
+  </div>
+
+  <div class="col-auto">
+    <button class="btn btn-primary btn-sm">
+      <i class="bi bi-search"></i>
+    </button>
+  </div>
+
+</form>
+
+<div class="card d-none d-md-block">
+  <div class="table-responsive">
+    <table class="table table-sm table-hover align-middle mb-0">
+
+      <thead>
+        <tr>
+          <th>Time</th>
+          <th>To</th>
+          <th>Subject</th>
+          <th>Status</th>
+          <th>Response</th>
+          <th>Error</th>
+        </tr>
+      </thead>
+
+      <tbody>
+      {% for l in logs %}
+        <tr>
+          <td class="text-muted small">
+            {{ l.created_at.strftime("%Y-%m-%d %H:%M") }}
+          </td>
+
+          <td>{{ l.to_email }}</td>
+
+          <td class="text-truncate" style="max-width:200px">
+            {{ l.subject }}
+          </td>
+
+          <td>
+            {% if l.status == 'sent' %}
+              <span class="badge bg-success">Sent</span>
+            {% else %}
+              <span class="badge bg-danger">Failed</span>
+            {% endif %}
+          </td>
+
+          <td class="text-muted small">
+            {{ l.response_code or '-' }}
+          </td>
+
+          <td class="text-muted small text-truncate" style="max-width:250px">
+            {{ l.error_message or '-' }}
+          </td>
+        </tr>
+      {% else %}
+        <tr>
+          <td colspan="6" class="text-center text-muted py-4">
+            No email logs found
+          </td>
+        </tr>
+      {% endfor %}
+      </tbody>
+
+    </table>
+  </div>
+</div>
+
+<div class="d-md-none">
+
+  {% for l in logs %}
+    <div class="card mb-2">
+      <div class="card-body p-2">
+
+        <div class="d-flex justify-content-between align-items-start">
+          <div>
+            <div class="fw-semibold">{{ l.subject }}</div>
+            <div class="text-muted small">
+              {{ l.to_email }}
+            </div>
+          </div>
+
+          <span class="text-muted small">
+            {{ l.created_at.strftime("%H:%M") }}
+          </span>
+        </div>
+
+        <div class="mt-2 d-flex align-items-center gap-2">
+          {% if l.status == 'sent' %}
+            <span class="badge bg-success">Sent</span>
+          {% else %}
+            <span class="badge bg-danger">Failed</span>
+          {% endif %}
+          <span class="text-muted small">Code: {{ l.response_code or '-' }}</span>
+        </div>
+
+        {% if l.error_message %}
+          <div class="mt-1 text-muted small">
+            {{ l.error_message[:120] }}
+          </div>
+        {% endif %}
+
+      </div>
+    </div>
+  {% else %}
+    <div class="text-center text-muted py-4">
+      No email logs found
+    </div>
+  {% endfor %}
+
+</div>
+
+{% include "admin/components/pagination.html" %}
+
+{% endblock %}

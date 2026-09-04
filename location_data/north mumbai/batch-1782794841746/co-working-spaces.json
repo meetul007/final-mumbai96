@@ -1,0 +1,1389 @@
+[
+  {
+    "place_id": "ChIJ3dkZ4pOu5zsRmg_HTAdTDsw",
+    "name": "Dfactory (Co Working Space)",
+    "description": "Welcome to Dfactory, a vibrant co-working space in Vasai West, Powered by Collablabs Coworks Private Limited. Ideal for freelancers, startups, and small businesses, we offer flexible workstations, private cabins, meeting rooms, and high-speed Wi-Fi in a calm and professional setting.\n\nWork at your convenience with flexible timings, modern amenities, and an inspiring atmosphere that fuels productivity and collaboration.\n\nDfactory – Where Ideas Come to Life. Schedule a visit today!",
+    "is_spending_on_ads": false,
+    "link": "https://www.google.com/maps/place/Dfactory+(Co+Working+Space)/data=!4m7!3m6!1s0x3be7ae93e219d9dd:0xcc0e53074cc70f9a!8m2!3d19.3837333!4d72.8257681!16s%2Fg%2F11f39vy1jt!19sChIJ3dkZ4pOu5zsRmg_HTAdTDsw?authuser=0&rclk=1",
+    "reviews": 186,
+    "rating": 4.5,
+    "competitors": [
+      {
+        "name": "Rebooth | Coworking Space in Vasai Virar",
+        "suggested_link": "https://www.google.com/maps/search/Rebooth+%7C+Coworking+Space+in+Vasai+Virar/@19.3860864,72.8265157,19z?authuser=0&entry=ttu",
+        "reviews": 43,
+        "rating": 4.9,
+        "main_category": "Coworking space",
+        "categories": [
+          "Coworking space"
+        ],
+        "coordinates": {
+          "latitude": 19.3860864,
+          "longitude": 72.8265157
+        }
+      },
+      {
+        "name": "Colab Central",
+        "suggested_link": "https://www.google.com/maps/search/Colab+Central/@19.359205499999998,72.8111833,19z?authuser=0&entry=ttu",
+        "reviews": 15,
+        "rating": 4.9,
+        "main_category": "Coworking space",
+        "categories": [
+          "Coworking space"
+        ],
+        "coordinates": {
+          "latitude": 19.359205499999998,
+          "longitude": 72.8111833
+        }
+      },
+      {
+        "name": "Efficacy Global Sales Solutions",
+        "suggested_link": "https://www.google.com/maps/search/Efficacy+Global+Sales+Solutions/@19.3821939,72.8302245,19z?authuser=0&entry=ttu",
+        "reviews": 12,
+        "rating": 4.7,
+        "main_category": "Coworking space",
+        "categories": [
+          "Coworking space"
+        ],
+        "coordinates": {
+          "latitude": 19.3821939,
+          "longitude": 72.8302245
+        }
+      },
+      {
+        "name": "CEASAR DIAS PREMISES",
+        "suggested_link": "https://www.google.com/maps/search/CEASAR+DIAS+PREMISES/@19.3467241,72.9141053,19z?authuser=0&entry=ttu",
+        "reviews": 0,
+        "rating": 0,
+        "main_category": "Coworking space",
+        "categories": [
+          "Coworking space",
+          "Fabrication Engineer",
+          "Sharpening service",
+          "Storage facility",
+          "Warehouse"
+        ],
+        "coordinates": {
+          "latitude": 19.3467241,
+          "longitude": 72.9141053
+        }
+      }
+    ],
+    "website": "http://www.dfactory.org/",
+    "phone": "077418 11222",
+    "phone_international": "+91 77418 11222",
+    "can_claim": false,
+    "owner": {
+      "id": "100738994503789069943",
+      "name": "Dfactory (Co Working Space) (Owner)",
+      "link": "https://www.google.com/maps/contrib/100738994503789069943"
+    },
+    "owner_posts": [],
+    "featured_image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH2YVOZJJBEUooREweHAXuDSVXUilOMpNrhk_Kn0sP9RpEqVgj-3F8E6jn15ZMmlhHr7F0HZ7GrdQ4AMU1ZcsAJy83F4ut3rIUJ1n9nenMwCH2aQ7nEWWPPp8NMRdLfOMOWOIty=w1920-h1080-k-no",
+    "main_category": "Coworking space",
+    "categories": [
+      "Coworking space",
+      "Office space rental agency"
+    ],
+    "workday_timing": "6 am–11 pm",
+    "status": null,
+    "is_temporarily_closed": false,
+    "is_permanently_closed": false,
+    "closed_on": "Open All Days",
+    "address": "1st Floor, Swaminarayan Building, Above IDBI Bank, 60ft road, Ambadi Rd, Vasai West, Vasai-Virar, Maharashtra 401202",
+    "price_range": null,
+    "reviews_per_rating": {
+      "1": 9,
+      "2": 2,
+      "3": 10,
+      "4": 34,
+      "5": 131
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ3dkZ4pOu5zsRmg_HTAdTDsw&q=Dfactory+(Co+Working+Space)&authuser=0&hl=en&gl=IN",
+    "coordinates": {
+      "latitude": 19.3837333,
+      "longitude": 72.82576809999999
+    },
+    "plus_code": "9RMG+F8 Vasai-Virar, Maharashtra",
+    "detailed_address": {
+      "ward": "Navghar Manikpur, Sai Nagar, Vasai West",
+      "street": "1st Floor, Swaminarayan Building, Above IDBI Bank, 60ft road, Ambadi Rd",
+      "city": "Vasai-Virar",
+      "postal_code": "401202",
+      "state": "Maharashtra",
+      "country_code": "IN"
+    },
+    "time_zone": "Asia/Calcutta",
+    "is_rental": false,
+    "cid": "14703781124229238682",
+    "data_id": "0x3be7ae93e219d9dd:0xcc0e53074cc70f9a",
+    "kgmid": "/g/11f39vy1jt",
+    "about": [],
+    "hours": [
+      {
+        "day": "Monday",
+        "times": [
+          "6 am–11 pm"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "times": [
+          "6 am–11 pm"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "times": [
+          "6 am–11 pm"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "times": [
+          "6 am–11 pm"
+        ]
+      },
+      {
+        "day": "Friday",
+        "times": [
+          "6 am–11 pm"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "times": [
+          "6 am–11 pm"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "times": [
+          "9 am–9 pm"
+        ]
+      }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "menu": null,
+    "reservations": [],
+    "order_online_links": [],
+    "gas_prices": [],
+    "image_count": 45,
+    "images": [
+      {
+        "about": "All",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH2YVOZJJBEUooREweHAXuDSVXUilOMpNrhk_Kn0sP9RpEqVgj-3F8E6jn15ZMmlhHr7F0HZ7GrdQ4AMU1ZcsAJy83F4ut3rIUJ1n9nenMwCH2aQ7nEWWPPp8NMRdLfOMOWOIty=w1920-h1080-k-no",
+        "published_at_date": "2020-03-06T14:00:00"
+      },
+      {
+        "about": "By owner",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGziCT82RzTQ5UFQ_Jow51B8MXKRit6l_u1m5zbERhtGU5ptEvvInwz-DNlthZEkTNXwqIOO0tiVYInxeL6YXAdwEr6Sk4aZFSsKdPrOPldIA8vYXPGZ8MhMp74aH940_ushA6f=w1920-h1080-k-no",
+        "published_at_date": "2020-06-25T15:00:00"
+      },
+      {
+        "about": "Videos",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFwVURxKgyxW_Pcy2gykkczZDKN-GEkfzj-7H2PNgXwOm8YVpqWOKXem53jQWXoUjREwox36BohZGSnQlIo7FTO9XAkE-F3uTW-tbSktXf5-WVWcg8xluFypH7dZKcl1s9LzKokz2dz-DHA=w1920-h1080-k-no",
+        "published_at_date": "2025-06-09T12:00:00"
+      },
+      {
+        "about": "Street View & 360°",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE2qPR-HXsgg4k3fwwnMGjT5b2UgfOaChVgPqJ_c9MBYJYBG7Yg33upXDZYK5QtQ9PVXUoAbkx8l6SYnxfidc5mPDrcS00yH53uZ_meZya8wAmSce0eR2oiU7nJjlDTxY7QoQLD=w1920-h1080-k-no-pi-0-ya199.99998-ro-0-fo100",
+        "published_at_date": "2018-03-18T04:00:00"
+      }
+    ],
+    "featured_images": [
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH2YVOZJJBEUooREweHAXuDSVXUilOMpNrhk_Kn0sP9RpEqVgj-3F8E6jn15ZMmlhHr7F0HZ7GrdQ4AMU1ZcsAJy83F4ut3rIUJ1n9nenMwCH2aQ7nEWWPPp8NMRdLfOMOWOIty=w1920-h1080-k-no",
+        "published_at_date": "2020-03-06T14:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGj1oHol5PKGGoQpQ6CZgkx-Bxlt5gs9k_1x1TSPGFnKLZ5wJcm_DiHzDeoRXO-YYzAm_ptCPUHJrjsVsfxUEtw6bQ7BOxesFOFfBoMFBtBLI7XWg6rVhVkNrQwI5KDqWdqNc7DZ4qehtpE=w1920-h1080-k-no",
+        "published_at_date": "2025-06-09T12:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAExSBXrDOr-XAgaH5DaHzJV86uchpeEGpNfo5SVr-KZVWrRfWsytr844zlxp3iaRql4LdMK7pa37Me-ZgdD1z8a2uSO9T1hslQfKESE7I5hwS7sOMiBaVUiWQZEt9wfqKx2gJWq=w1920-h1080-k-no",
+        "published_at_date": "2020-02-19T07:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGoTjhPueZZBULzLUr2NO9hIH9RJjgffclnKsWzBDIYIKFCFErmR3oat3TGE1bNdiq_GG4QsPOHkIJ1gBjNvyUJW5Z5BFTi68NMmyn80MVk_Tqs6fthHw2hBy1uncYHjOtoiYAg=w1920-h1080-k-no",
+        "published_at_date": "2019-12-13T15:00:00"
+      }
+    ],
+    "on_site_places": [],
+    "customer_updates": [],
+    "featured_question": null,
+    "review_keywords": [
+      {
+        "keyword": "conference rooms",
+        "count": 8
+      },
+      {
+        "keyword": "meeting pods",
+        "count": 2
+      },
+      {
+        "keyword": "helpful management",
+        "count": 6
+      },
+      {
+        "keyword": "startup office",
+        "count": 2
+      },
+      {
+        "keyword": "startups",
+        "count": 12
+      },
+      {
+        "keyword": "internet connectivity",
+        "count": 6
+      },
+      {
+        "keyword": "helpful staff",
+        "count": 14
+      },
+      {
+        "keyword": "supportive staff",
+        "count": 6
+      },
+      {
+        "keyword": "cabins",
+        "count": 7
+      },
+      {
+        "keyword": "modern design",
+        "count": 2
+      }
+    ],
+    "featured_reviews": [
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGc055MHlOVWwzYTI1eFFuUnJZWGhIZUhKdlVrRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xGc055MHlOVWwzYTI1eFFuUnJZWGhIZUhKdlVrRRAB!2m1!1s0x0:0xcc0e53074cc70f9a!3m1!1s2@1:CAIQACodChtycF9oOlFsNy0yNUl3a25xQnRrYXhHeHJvUkE%7C%7C?hl=en",
+        "name": "Madhumita Panigrahi",
+        "reviewer_id": "104538195292236603674",
+        "reviewer_profile": "https://www.google.com/maps/contrib/104538195292236603674?hl=en-GB",
+        "rating": 5,
+        "review_text": "Experience is amazing. Staffs are friendly and great. Spacious, comfortable, modern design  and with all the amenities.\nPerfect place to get things done.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "4 months ago",
+        "published_at_date": "2026-02-09T13:05:21",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocLNNd_06GMS7UwZnzZpG8DgdDum0zpgnJ-I2Mqxq-mtL0vsxw=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3allHcjZ3RRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnTUR3allHcjZ3RRAB!2m1!1s0x0:0xcc0e53074cc70f9a!3m1!1s2@1:CIHM0ogKEICAgMDwjYGr6wE%7C%7C?hl=en",
+        "name": "AVM Global Logistics",
+        "reviewer_id": "102047493251012920850",
+        "reviewer_profile": "https://www.google.com/maps/contrib/102047493251012920850?hl=en-GB",
+        "rating": 5,
+        "review_text": "Dfactory has everything you’d want in a workspace—great infrastructure, supportive staff, and a vibrant environment. It could be the smart, plug-and-play option to hit the ground running without wasting time or money setting up a new space. We have been here since more than a month and it's a good decision for us. Highly recommend.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2025-03-27T13:06:15",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjVhH_v69OhmMYmWaAFidYKh_csob6cwhDCBg8SLhMhQNS7t6iu2=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 1,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [
+          {
+            "id": "CIHM0ogKEICAgMDwjYGrWw",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn3Z_yD1TTWHB6RpzhoK1HrlHXIsSknql4C4Vbxn5UYY0niFlDX6MtbCkBb4n7tGv6ka_tDLfBjfA9FrmmT1ZMa94rk2PA72iDTuV5jcI5I7bsk1bVyVMFnsYxJJFSop2PgJEB8=k-no",
+            "caption": null,
+            "width": 3000,
+            "height": 4000
+          }
+        ],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3OC1UdVl3EAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnTUR3OC1UdVl3EAE!2m1!1s0x0:0xcc0e53074cc70f9a!3m1!1s2@1:CIHM0ogKEICAgMDw8-TuYw%7C%7C?hl=en",
+        "name": "Shelef Gonsalves",
+        "reviewer_id": "117048008881431038733",
+        "reviewer_profile": "https://www.google.com/maps/contrib/117048008881431038733?hl=en-GB",
+        "rating": 5,
+        "review_text": "The rented office provides excellent amenities, and the staff is professional and supportive. The workplace is well-maintained, with regular cleaning ensuring a pleasant environment. I truly appreciate the space and enjoy working here.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2025-03-28T05:34:35",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocLhWn8bsx5CFZX_FLAWjvd89PCCVZmJsZb7aAG8GhiQNyFsiGz1=s1920",
+        "total_number_of_reviews_by_reviewer": 5,
+        "total_number_of_photos_by_reviewer": 1,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [
+          {
+            "id": "CIHM0ogKEICAgMDw8-TukwE",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn1WSc1mI_hQ8bTr6Ac8CvBOuo6Kgbr6ZjUo5wxylREAxTJEC_WTJcKI8HuQhFu3QUOeMA_RZ_ji7ktPDEvr106LEMrTrcRs4mtiqmNXKShugQLfv_4DNFa5Ymkth7ll1ZJdKXstAw=k-no",
+            "caption": null,
+            "width": 3024,
+            "height": 4032
+          }
+        ],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM4MUl6YlF3EAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM4MUl6YlF3EAE!2m1!1s0x0:0xcc0e53074cc70f9a!3m1!1s2@1:CIHM0ogKEICAgIC81IzbQw%7C%7C?hl=en",
+        "name": "shravan sao",
+        "reviewer_id": "111365855853034521297",
+        "reviewer_profile": "https://www.google.com/maps/contrib/111365855853034521297?hl=en-GB",
+        "rating": 5,
+        "review_text": "Its a perfect place to be!\nIts as good as having an office near your place with all the bells and whistles along with it as it is not just about internet, table and chair that you need, its about the whole work place feel which I had missed post this lock-down. its a complete package that these people offer at a very minimal cost. The support from the staff is also great.\nLoved the concept. good work.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "6 years ago",
+        "published_at_date": "2020-06-25T09:59:41",
+        "response_from_owner_text": "Hi Shravan,\nThank you so much for your kind words, We really appreciate you taking the time out to share your experience with us. Please follow us on Facebook, Instagram and Linkedin.\nRegards,\nDfactory.",
+        "response_from_owner_ago": "5 years ago",
+        "response_from_owner_date": "2020-07-01T11:46:52",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjWp0Jh1I7lR4Orng-nzdGj3qjhXHOSjkTfXzKmYbZZG0ZJBkD6m=s1920",
+        "total_number_of_reviews_by_reviewer": 11,
+        "total_number_of_photos_by_reviewer": 3,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhNW9pTURnEAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNhNW9pTURnEAE!2m1!1s0x0:0xcc0e53074cc70f9a!3m1!1s2@1:CIHM0ogKEICAgICa5oiMDg%7C%7C?hl=en",
+        "name": "AMIT V",
+        "reviewer_id": "101631576725282439016",
+        "reviewer_profile": "https://www.google.com/maps/contrib/101631576725282439016?hl=en-GB",
+        "rating": 4,
+        "review_text": "Good place with decent facilities. I have been visiting here frequently. It’s great if you are a small start up or a team operating remotely. They do provide ample space. As much as I value dfactory, there are few improvements required. I will definitely mention that it is not very quiet here, if you are sitting in an open space. The front office staff needs to be a bit more mannered, often they get into arguments among themselves which makes the decorum non-conducive to calls. WiFi breakage is frequent, but largely works fine. They do a good job of cleaning and sanitizing, but sometimes i feel toilets needs to better managed.\n\nWill recommend it to everyone in Vasai, overall i enjoy coming here.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "4 years ago",
+        "published_at_date": "2021-07-30T12:24:43",
+        "response_from_owner_text": "Hey Amit V\n\nthank you for your rating. We are delighted to hear that you had a positive experience with us.                                 We hope to see you soon and thank you once again\n\nRegards\nTeam Dfactory",
+        "response_from_owner_ago": "3 years ago",
+        "response_from_owner_date": "2022-10-27T07:17:47",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocLxZGSFkA9NGehnWjDeQXias6LjhS8uCTsPUbbZnTZ4fDWW5HU=s1920",
+        "total_number_of_reviews_by_reviewer": 5,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wb01sWTJUV3A0VkVGVVRtZzNSVTluZUVWMmQxRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21wb01sWTJUV3A0VkVGVVRtZzNSVTluZUVWMmQxRRAB!2m1!1s0x0:0xcc0e53074cc70f9a!3m1!1s2@1:CAIQACodChtycF9oOmpoMlY2TWp4VEFUTmg3RU9neEV2d1E%7C%7C?hl=en",
+        "name": "Amit Kadam",
+        "reviewer_id": "111070245080844939263",
+        "reviewer_profile": "https://www.google.com/maps/contrib/111070245080844939263?hl=en-GB",
+        "rating": 3,
+        "review_text": "Best Co working space but expensive\nHope it should be cheaper",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "2 weeks ago",
+        "published_at_date": "2026-06-12T19:05:17",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjXRD4cDDjorZz7khJYkie5_eJDSq_DG4KtfwhscGmJa7FXLjBCK8g=s1920",
+        "total_number_of_reviews_by_reviewer": 12,
+        "total_number_of_photos_by_reviewer": 3,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5NTlYWXd3RRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR5NTlYWXd3RRAB!2m1!1s0x0:0xcc0e53074cc70f9a!3m1!1s2@1:CIHM0ogKEICAgIDy59XYwwE%7C%7C?hl=en",
+        "name": "Harshal Parmar",
+        "reviewer_id": "100626914273404039326",
+        "reviewer_profile": "https://www.google.com/maps/contrib/100626914273404039326?hl=en-GB",
+        "rating": 5,
+        "review_text": "Do you want to focus on your work? Do you need your own co-working space as well? I had mine and having a great experience. High speed secured internet.\nThey have cabins, conference rooms, cafeteria and what else do you need. A perfect workspace. Thank you D-Factory!!",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "5 years ago",
+        "published_at_date": "2021-03-20T10:52:47",
+        "response_from_owner_text": "Hey Harshal Parmar\nThanks for your valuable feedback and choosing D Factory as your workspace partner.\nWe look forward to continuing hosting you.\n\nRegards,\nTeam Dfactory",
+        "response_from_owner_ago": "3 years ago",
+        "response_from_owner_date": "2022-10-27T07:33:02",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocKYZkWOgTDdNF53JAVnp7Lt_zC16swND2IP22hzwQtCqv7hxA=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtNVBpM2RREAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUMtNVBpM2RREAE!2m1!1s0x0:0xcc0e53074cc70f9a!3m1!1s2@1:CIHM0ogKEICAgIC-5Pi3dQ%7C%7C?hl=en",
+        "name": "Sheetal Lahare",
+        "reviewer_id": "110685232574413196550",
+        "reviewer_profile": "https://www.google.com/maps/contrib/110685232574413196550?hl=en-GB",
+        "rating": 5,
+        "review_text": "Awesome place and a great working environment. I love working here. Dfactory is wonderfully responsive and maintains a very relaxed but professional atmosphere, with fantastic staff, as well as a strong internet connection and conference rooms. I couldn't ask for more. :)",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "3 years ago",
+        "published_at_date": "2022-10-27T15:17:50",
+        "response_from_owner_text": "Hey  Sheetal Lahare\nThanks for your valuable feedback and choosing D Factory as your workspace partner.\nWe look forward to continuing hosting you.\n\nRegards,\nTeam Dfactory",
+        "response_from_owner_ago": "3 years ago",
+        "response_from_owner_date": "2022-10-28T07:08:47",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocJYUTYWw6cumo4kOmXC498T1XII_JdLHLjHeMpUYqve7luSWr0=s1920",
+        "total_number_of_reviews_by_reviewer": 13,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      }
+    ],
+    "query": "co working spaces in naigaon west"
+  },
+  {
+    "place_id": "ChIJmWq_xQuv5zsR9VB5k7_BNZQ",
+    "name": "Rebooth | Coworking Space in Vasai Virar",
+    "description": "REBOOTH IS A COWORKING SPACE FOR ENTREPRENEURS, ARTISTS, CREATORS, CODERS, BUILDERS WHO WANTS TO RE-IMAGINE THE STATUS QUO. A PLACE TO RESET, TO RETHINK AND TO REBOOTH-H.",
+    "is_spending_on_ads": false,
+    "link": "https://www.google.com/maps/place/Rebooth+%7C+Coworking+Space+in+Vasai+Virar/data=!4m7!3m6!1s0x3be7af0bc5bf6a99:0x9435c1bf937950f5!8m2!3d19.3860864!4d72.8265157!16s%2Fg%2F11l36fsvcb!19sChIJmWq_xQuv5zsR9VB5k7_BNZQ?authuser=0&rclk=1",
+    "reviews": 43,
+    "rating": 4.9,
+    "competitors": [
+      {
+        "name": "Dfactory (Co Working Space)",
+        "suggested_link": "https://www.google.com/maps/search/Dfactory+(Co+Working+Space)/@19.3837333,72.82576809999999,19z?authuser=0&entry=ttu",
+        "reviews": 186,
+        "rating": 4.5,
+        "main_category": "Coworking space",
+        "categories": [
+          "Coworking space",
+          "Office space rental agency"
+        ],
+        "coordinates": {
+          "latitude": 19.3837333,
+          "longitude": 72.82576809999999
+        }
+      },
+      {
+        "name": "Colab Central",
+        "suggested_link": "https://www.google.com/maps/search/Colab+Central/@19.359205499999998,72.8111833,19z?authuser=0&entry=ttu",
+        "reviews": 15,
+        "rating": 4.9,
+        "main_category": "Coworking space",
+        "categories": [
+          "Coworking space"
+        ],
+        "coordinates": {
+          "latitude": 19.359205499999998,
+          "longitude": 72.8111833
+        }
+      },
+      {
+        "name": "Gaurisha",
+        "suggested_link": "https://www.google.com/maps/search/Gaurisha/@19.4543952,72.8115985,19z?authuser=0&entry=ttu",
+        "reviews": 11,
+        "rating": 4.3,
+        "main_category": "Coworking space",
+        "categories": [
+          "Coworking space"
+        ],
+        "coordinates": {
+          "latitude": 19.4543952,
+          "longitude": 72.8115985
+        }
+      },
+      {
+        "name": "Rebooth",
+        "suggested_link": "https://www.google.com/maps/search/Rebooth/@19.3855888,72.8264609,19z?authuser=0&entry=ttu",
+        "reviews": 0,
+        "rating": 0,
+        "main_category": "Computer support and services",
+        "categories": [
+          "Computer support and services"
+        ],
+        "coordinates": {
+          "latitude": 19.3855888,
+          "longitude": 72.8264609
+        }
+      }
+    ],
+    "website": "https://rebooth.co/index.html",
+    "phone": "084592 10240",
+    "phone_international": "+91 84592 10240",
+    "can_claim": false,
+    "owner": {
+      "id": "104490113114738539287",
+      "name": "Rebooth | Coworking Space in Vasai Virar (Owner)",
+      "link": "https://www.google.com/maps/contrib/104490113114738539287"
+    },
+    "owner_posts": [],
+    "featured_image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFPb9YGvJZ8nab808OjlmJby4rpJoQ4-Ub0mUc2vcXlufqn8R39Nx6fHZbdwyzV1YIiVYCM07KZsLCDwUOAGB3Rcasyk0Y5xMxrshhxQbA3MTGT3Vz0hZWm3E3bUbQtuzffFxmD=w1920-h1080-k-no",
+    "main_category": "Coworking space",
+    "categories": [
+      "Coworking space"
+    ],
+    "workday_timing": "10 am–7 pm",
+    "status": null,
+    "is_temporarily_closed": false,
+    "is_permanently_closed": false,
+    "closed_on": [
+      "Sunday"
+    ],
+    "address": "8, Trimurti Centre, Ambadi Rd, beside Astha Hospital, Navghar Manikpur, Sai Nagar, Vasai West, Vasai-Virar, Maharashtra 401202",
+    "price_range": null,
+    "reviews_per_rating": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 2,
+      "5": 40
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJmWq_xQuv5zsR9VB5k7_BNZQ&q=Rebooth+%7C+Coworking+Space+in+Vasai+Virar&authuser=0&hl=en&gl=IN",
+    "coordinates": {
+      "latitude": 19.3860864,
+      "longitude": 72.8265157
+    },
+    "plus_code": "9RPG+CJ Vasai-Virar, Maharashtra",
+    "detailed_address": {
+      "ward": "Navghar Manikpur, Sai Nagar, Vasai West",
+      "street": "8, Trimurti Centre, Ambadi Rd, beside Astha Hospital",
+      "city": "Vasai-Virar",
+      "postal_code": "401202",
+      "state": "Maharashtra",
+      "country_code": "IN"
+    },
+    "time_zone": "Asia/Calcutta",
+    "is_rental": false,
+    "cid": "10679655119936114933",
+    "data_id": "0x3be7af0bc5bf6a99:0x9435c1bf937950f5",
+    "kgmid": "/g/11l36fsvcb",
+    "about": [],
+    "hours": [
+      {
+        "day": "Monday",
+        "times": [
+          "10 am–7 pm"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "times": [
+          "10 am–7 pm"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "times": [
+          "10 am–7 pm"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "times": [
+          "10 am–7 pm"
+        ]
+      },
+      {
+        "day": "Friday",
+        "times": [
+          "10 am–7 pm"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "times": [
+          "10 am–7 pm"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "times": [
+          "Closed"
+        ]
+      }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "menu": null,
+    "reservations": [],
+    "order_online_links": [],
+    "gas_prices": [],
+    "image_count": 10,
+    "images": [
+      {
+        "about": "All",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFPb9YGvJZ8nab808OjlmJby4rpJoQ4-Ub0mUc2vcXlufqn8R39Nx6fHZbdwyzV1YIiVYCM07KZsLCDwUOAGB3Rcasyk0Y5xMxrshhxQbA3MTGT3Vz0hZWm3E3bUbQtuzffFxmD=w1920-h1080-k-no",
+        "published_at_date": "2024-05-18T06:00:00"
+      },
+      {
+        "about": "By owner",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH1Lzb8BTbwp4Xj0wQWl64hKuPBe7HyZMSx3Tl1wt6BuMqVxByNvscuLGDbAkS2tjn6kHyC-wmHu2DUONi1ZKJ03IldSRLi0TxBUSJZMv3gaZZ6xtWV3IvQW8K_-Qa6MrAlA6QEUQ=w1920-h1080-k-no",
+        "published_at_date": "2024-05-18T06:00:00"
+      },
+      {
+        "about": "Street View & 360°",
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=S3iL8EzKqkmIZWTaGyIn2A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=268.35788&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-02T09:00:00"
+      }
+    ],
+    "featured_images": [
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFPb9YGvJZ8nab808OjlmJby4rpJoQ4-Ub0mUc2vcXlufqn8R39Nx6fHZbdwyzV1YIiVYCM07KZsLCDwUOAGB3Rcasyk0Y5xMxrshhxQbA3MTGT3Vz0hZWm3E3bUbQtuzffFxmD=w1920-h1080-k-no",
+        "published_at_date": "2024-05-18T06:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH1Lzb8BTbwp4Xj0wQWl64hKuPBe7HyZMSx3Tl1wt6BuMqVxByNvscuLGDbAkS2tjn6kHyC-wmHu2DUONi1ZKJ03IldSRLi0TxBUSJZMv3gaZZ6xtWV3IvQW8K_-Qa6MrAlA6QEUQ=w1920-h1080-k-no",
+        "published_at_date": "2024-05-18T06:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEBoQ4_MXbSWUDu-AT_kSG5cydmuAmpjbrDAXy1CeF9Kz8WcMri8f-fqVI4a5gev65J40TTp7qGcLUJ_cnbS_6gIRKAeI4XO-W5dCTIttvnL_htcuMf1q2Ym11tUAzL2vblHXqH=w1920-h1080-k-no",
+        "published_at_date": "2024-05-18T06:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH_izZdiGe4VtCGE5yJa2IR3_XoS42ktTeLZVNAf-nHuHKaZEM_k383dVuhu_0O2F6WqkXKVAcUo-DEBENWpg5rtHZy59IjkDSVhxyrt-XSiQn9jKrLZMAKbPg0zdYQc0VbymNmoA=w1920-h1080-k-no",
+        "published_at_date": "2024-05-18T06:00:00"
+      }
+    ],
+    "on_site_places": [],
+    "customer_updates": [],
+    "featured_question": null,
+    "review_keywords": [
+      {
+        "keyword": "collaborative workspace",
+        "count": 4
+      },
+      {
+        "keyword": "spacious",
+        "count": 2
+      },
+      {
+        "keyword": "calm place",
+        "count": 2
+      },
+      {
+        "keyword": "affordable",
+        "count": 2
+      },
+      {
+        "keyword": "convenient location",
+        "count": 2
+      },
+      {
+        "keyword": "meeting rooms",
+        "count": 2
+      },
+      {
+        "keyword": "flexibility",
+        "count": 2
+      },
+      {
+        "keyword": "ambiance",
+        "count": 19
+      },
+      {
+        "keyword": "friendly staff",
+        "count": 8
+      },
+      {
+        "keyword": "networking",
+        "count": 2
+      }
+    ],
+    "featured_reviews": [
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsWVJuRmlWekZRUzNacVdrMDBSQzFYT1dzMFRYYxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tsWVJuRmlWekZRUzNacVdrMDBSQzFYT1dzMFRYYxAB!2m1!1s0x0:0x9435c1bf937950f5!3m1!1s2@1:CAIQACodChtycF9oOklYRnFiVzFQS3ZqWk00RC1XOWs0TXc%7C%7C?hl=en",
+        "name": "Dharam Pandey",
+        "reviewer_id": "103943400631855890513",
+        "reviewer_profile": "https://www.google.com/maps/contrib/103943400631855890513?hl=en-GB",
+        "rating": 1,
+        "review_text": "Sorry for this review but it very difficult to reach you guys over the phone. I spoke to a person in afternoon and he assured that he will call back with the pricing.. Since I then I have more than 20 times but no one called back. This is not what is expected.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "4 weeks ago",
+        "published_at_date": "2026-05-30T12:20:49",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjWFMxGP91rLG_AtdpRydiSGkeYhcGLtz1r4aNluY20wOkWZBzQ_=s1920",
+        "total_number_of_reviews_by_reviewer": 11,
+        "total_number_of_photos_by_reviewer": 5,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VObWp4Skt2NGVlZ1J3EAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VObWp4Skt2NGVlZ1J3EAE!2m1!1s0x0:0x9435c1bf937950f5!3m1!1s2@1:CIHM0ogKENmjxJKv4eegRw%7C%7C?hl=en",
+        "name": "Prachi Keni",
+        "reviewer_id": "114305447233451081493",
+        "reviewer_profile": "https://www.google.com/maps/contrib/114305447233451081493?hl=en-GB",
+        "rating": 4,
+        "review_text": "I had a power cut at home and urgently needed a place to work for the day. I found this coworking space nearby, and it turned out to be a great find! The place is spacious, well-lit, and comes with all the amenities you would need—definitely worth the price. The staff is super accommodating and helpful, which made the experience even better. It's affordable, efficient, and a perfect spot to get things done.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2025-05-16T02:52:49",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjVN_bORSmj7eUBuUM3U0sUhX3fEgzV4Y_iOciawa7B2lKJMQwgcxg=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvNFAtN2Z3EAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnTUNvNFAtN2Z3EAE!2m1!1s0x0:0x9435c1bf937950f5!3m1!1s2@1:CIHM0ogKEICAgMCo4P-7fw%7C%7C?hl=en",
+        "name": "Ashwini Gaikwad",
+        "reviewer_id": "104471428407339023514",
+        "reviewer_profile": "https://www.google.com/maps/contrib/104471428407339023514?hl=en-GB",
+        "rating": 5,
+        "review_text": "Rebooth is an excellent co-working space! The environment is clean, modern, and very comfortable for working. The staff is friendly and helpful, and the amenities are well-maintained. It's a great place for focus and collaboration.Highly recommended for anyone seeking a dynamic workspace.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2025-04-14T10:03:27",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocJgv3AWzYiNOj-KteSS8TyJ25b8-bA_PX_uUfH0mEP6d42kVw=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VNM0l4SUNHMWVTeHp3RRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VNM0l4SUNHMWVTeHp3RRAB!2m1!1s0x0:0x9435c1bf937950f5!3m1!1s2@1:CIHM0ogKEM3IxICG1eSxzwE%7C%7C?hl=en",
+        "name": "Nishant Mestry",
+        "reviewer_id": "107812256044514003089",
+        "reviewer_profile": "https://www.google.com/maps/contrib/107812256044514003089?hl=en-GB",
+        "rating": 5,
+        "review_text": "Great co-working space with a calm and professional environment. Clean, well-designed, and perfect for focused work. Fast Wi-Fi, helpful staff, and all the necessary amenities. Highly recommend!",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2025-05-15T10:38:46",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjVCl5322S7B7vdyszH3xHAQLYGUmtJg8oqbfm6BQDAJfV-7Cl_ClA=s1920",
+        "total_number_of_reviews_by_reviewer": 2,
+        "total_number_of_photos_by_reviewer": 7,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyalBDYkZBEAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNyalBDYkZBEAE!2m1!1s0x0:0x9435c1bf937950f5!3m1!1s2@1:CIHM0ogKEICAgICrjPCbFA%7C%7C?hl=en",
+        "name": "Steffi mathew",
+        "reviewer_id": "117642483839523894407",
+        "reviewer_profile": "https://www.google.com/maps/contrib/117642483839523894407?hl=en-GB",
+        "rating": 5,
+        "review_text": "I’ve had an excellent experience at Rebooth .The environment is vibrant and inspiring, making it the perfect place to work and network. The facilities are top-notch, with high-speed internet, comfortable seating, and plenty of meeting rooms. The staff is incredibly friendly and always willing to help with any needs. Plus, the community events are a great way to meet other professionals and expand your network. Highly recommend for anyone looking for a productive and collaborative workspace!",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2024-07-04T14:30:59",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjWuvforRboukr_Qb9KIS2MFu8j7Hlim4Z8Pn1cPmn5EyYg1TsiZ=s1920",
+        "total_number_of_reviews_by_reviewer": 14,
+        "total_number_of_photos_by_reviewer": 3,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqeElUVGtRRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURqeElUVGtRRRAB!2m1!1s0x0:0x9435c1bf937950f5!3m1!1s2@1:CIHM0ogKEICAgIDjxITTkQE%7C%7C?hl=en",
+        "name": "Chirag Mhatre",
+        "reviewer_id": "115441325830538212262",
+        "reviewer_profile": "https://www.google.com/maps/contrib/115441325830538212262?hl=en-GB",
+        "rating": 5,
+        "review_text": "I've been using this co-working space for the past few months, and I couldn't be happier with it. The ambience is vibrant and conducive to productivity. The staff is always friendly and helpful, and there are plenty of networking opportunities with other professionals. Plus, the location is convenient with easy access to public transportation. Highly recommended for anyone looking for a modern and collaborative workspace!",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "2 years ago",
+        "published_at_date": "2024-04-29T12:02:38",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjUywolsGdQcKZZ1tO0A_5qbG0rK5W7JGOXX7LBo94nsnWUqzxmh=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pRMFVHY3RRMkZwU0hWWWEyVmlUUzFXY3pOVkxWRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pRMFVHY3RRMkZwU0hWWWEyVmlUUzFXY3pOVkxWRRAB!2m1!1s0x0:0x9435c1bf937950f5!3m1!1s2@1:CAIQACodChtycF9oOjQ0UGctQ2FpSHVYa2ViTS1WczNVLVE%7C%7C?hl=en",
+        "name": "Tanay Naik",
+        "reviewer_id": "102098257236924895994",
+        "reviewer_profile": "https://www.google.com/maps/contrib/102098257236924895994?hl=en-GB",
+        "rating": 5,
+        "review_text": "Good place to work from. Equipped with remote working necessities. Meeting rooms, high speed wifi, a toilet, a pantry.\n\nA small cabin for 4 people is also available.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2025-06-05T13:05:48",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjWK37lS4v6ocQI07QgLH_97yN6rAWEnmJcGJ024_aEbFL5Z2W06nA=s1920",
+        "total_number_of_reviews_by_reviewer": 30,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ka1RVMDBWMDF2U3pOWWRqUkVXSFZwY1hCTlVWRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21ka1RVMDBWMDF2U3pOWWRqUkVXSFZwY1hCTlVWRRAB!2m1!1s0x0:0x9435c1bf937950f5!3m1!1s2@1:CAIQACodChtycF9oOmdkTU00V01vSzNYdjREWHVpcXBNUVE%7C%7C?hl=en",
+        "name": "preeti",
+        "reviewer_id": "105949092034004547481",
+        "reviewer_profile": "https://www.google.com/maps/contrib/105949092034004547481?hl=en-GB",
+        "rating": 5,
+        "review_text": "Rebooth is a nice and comfortable place to work. The people are friendly, and the space has a great vibe for getting things done.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "8 months ago",
+        "published_at_date": "2025-10-28T07:29:01",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocJgee3-gpJ8GoH33gGAotcxXiulLqX1znOgnuggzVe8o30-Qg=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      }
+    ],
+    "query": "co working spaces in naigaon west"
+  },
+  {
+    "place_id": "ChIJ55PWbwiv5zsRSM1YzC7O0tY",
+    "name": "Colab Central",
+    "description": "Welcome to Colab Central, your premier destination for co-working in Vasai. Our space is designed to inspire collaboration, creativity, and productivity. With modern amenities, flexible workspaces, and a vibrant community of professionals, we provide the ideal environment for entrepreneurs, freelancers, and remote workers. Join us at Colab Central and experience a dynamic co-working space where ideas flourish and connections thrive. Visit us today and be a part of something extraordinary",
+    "is_spending_on_ads": false,
+    "link": "https://www.google.com/maps/place/Colab+Central/data=!4m7!3m6!1s0x3be7af086fd693e7:0xd6d2ce2ecc58cd48!8m2!3d19.3592055!4d72.8111833!16s%2Fg%2F11l5nhhvh5!19sChIJ55PWbwiv5zsRSM1YzC7O0tY?authuser=0&rclk=1",
+    "reviews": 15,
+    "rating": 4.9,
+    "competitors": [
+      {
+        "name": "Dfactory (Co Working Space)",
+        "suggested_link": "https://www.google.com/maps/search/Dfactory+(Co+Working+Space)/@19.3837333,72.82576809999999,19z?authuser=0&entry=ttu",
+        "reviews": 186,
+        "rating": 4.5,
+        "main_category": "Coworking space",
+        "categories": [
+          "Coworking space",
+          "Office space rental agency"
+        ],
+        "coordinates": {
+          "latitude": 19.3837333,
+          "longitude": 72.82576809999999
+        }
+      },
+      {
+        "name": "Rebooth | Coworking Space in Vasai Virar",
+        "suggested_link": "https://www.google.com/maps/search/Rebooth+%7C+Coworking+Space+in+Vasai+Virar/@19.3860864,72.8265157,19z?authuser=0&entry=ttu",
+        "reviews": 43,
+        "rating": 4.9,
+        "main_category": "Coworking space",
+        "categories": [
+          "Coworking space"
+        ],
+        "coordinates": {
+          "latitude": 19.3860864,
+          "longitude": 72.8265157
+        }
+      },
+      {
+        "name": "Efficacy Global Sales Solutions",
+        "suggested_link": "https://www.google.com/maps/search/Efficacy+Global+Sales+Solutions/@19.3821939,72.8302245,19z?authuser=0&entry=ttu",
+        "reviews": 12,
+        "rating": 4.7,
+        "main_category": "Coworking space",
+        "categories": [
+          "Coworking space"
+        ],
+        "coordinates": {
+          "latitude": 19.3821939,
+          "longitude": 72.8302245
+        }
+      },
+      {
+        "name": "Collab Cospace",
+        "suggested_link": "https://www.google.com/maps/search/Collab+Cospace/@19.2529288,72.98035089999999,19z?authuser=0&entry=ttu",
+        "reviews": 3,
+        "rating": 4.7,
+        "main_category": "Coworking space",
+        "categories": [
+          "Coworking space"
+        ],
+        "coordinates": {
+          "latitude": 19.2529288,
+          "longitude": 72.98035089999999
+        }
+      }
+    ],
+    "website": null,
+    "phone": "098331 85846",
+    "phone_international": "+91 98331 85846",
+    "can_claim": false,
+    "owner": {
+      "id": "112550480207856542664",
+      "name": "Colab Central (Owner)",
+      "link": "https://www.google.com/maps/contrib/112550480207856542664"
+    },
+    "owner_posts": [],
+    "featured_image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGf65d4fbhWlScgWmYLoU4Lg8xZQVAIzYdhVhPr5g-esgNVgwSCUEw4W-PgHqiDI12wMYcZ5zVTz9KqiMWnCJXdprOdbrWiitdnPomxQTfryPQsuABrYU3h1PZgZQ4tC2ac8hWFIw=w1920-h1080-k-no",
+    "main_category": "Coworking space",
+    "categories": [
+      "Coworking space"
+    ],
+    "workday_timing": "9 am–10 pm",
+    "status": null,
+    "is_temporarily_closed": false,
+    "is_permanently_closed": false,
+    "closed_on": [
+      "Sunday"
+    ],
+    "address": "Dattani Prism 1, 213, above Janseva Hospital, behind Dattani Mall Road, Umelman, Vasai West, Vasai-Virar, Maharashtra 401207",
+    "price_range": null,
+    "reviews_per_rating": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 14
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ55PWbwiv5zsRSM1YzC7O0tY&q=Colab+Central&authuser=0&hl=en&gl=IN",
+    "coordinates": {
+      "latitude": 19.359205499999998,
+      "longitude": 72.8111833
+    },
+    "plus_code": "9R56+MF Vasai-Virar, Maharashtra",
+    "detailed_address": {
+      "ward": "Umelman, Vasai West",
+      "street": "Dattani Prism 1, 213, above Janseva Hospital, behind Dattani Mall Road",
+      "city": "Vasai-Virar",
+      "postal_code": "401207",
+      "state": "Maharashtra",
+      "country_code": "IN"
+    },
+    "time_zone": "Asia/Calcutta",
+    "is_rental": false,
+    "cid": "15479661569618005320",
+    "data_id": "0x3be7af086fd693e7:0xd6d2ce2ecc58cd48",
+    "kgmid": "/g/11l5nhhvh5",
+    "about": [],
+    "hours": [
+      {
+        "day": "Monday",
+        "times": [
+          "9 am–10 pm"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "times": [
+          "9 am–10 pm"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "times": [
+          "9 am–10 pm"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "times": [
+          "9 am–10 pm"
+        ]
+      },
+      {
+        "day": "Friday",
+        "times": [
+          "9 am–10 pm"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "times": [
+          "9 am–10 pm"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "times": [
+          "Closed"
+        ]
+      }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "menu": null,
+    "reservations": [],
+    "order_online_links": [],
+    "gas_prices": [],
+    "image_count": 5,
+    "images": [
+      {
+        "about": "All",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGf65d4fbhWlScgWmYLoU4Lg8xZQVAIzYdhVhPr5g-esgNVgwSCUEw4W-PgHqiDI12wMYcZ5zVTz9KqiMWnCJXdprOdbrWiitdnPomxQTfryPQsuABrYU3h1PZgZQ4tC2ac8hWFIw=w1920-h1080-k-no",
+        "published_at_date": "2024-06-11T08:00:00"
+      },
+      {
+        "about": "By owner",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHlrLtyUbbO_78pLw_PWXnbZ6WBZsShnE7mUIpD5HF8yOCGkjQ_O_uNCKVKrOnLXtj5wNyMM9sMHe6HzbNuFqdnh3fBHWabXDmrqcpLIQrEBX7HVPwkf0NkI1azxfVxjK0K56F1aA=w1920-h1080-k-no",
+        "published_at_date": "2023-11-25T09:00:00"
+      }
+    ],
+    "featured_images": [
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGf65d4fbhWlScgWmYLoU4Lg8xZQVAIzYdhVhPr5g-esgNVgwSCUEw4W-PgHqiDI12wMYcZ5zVTz9KqiMWnCJXdprOdbrWiitdnPomxQTfryPQsuABrYU3h1PZgZQ4tC2ac8hWFIw=w1920-h1080-k-no",
+        "published_at_date": "2024-06-11T08:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHlrLtyUbbO_78pLw_PWXnbZ6WBZsShnE7mUIpD5HF8yOCGkjQ_O_uNCKVKrOnLXtj5wNyMM9sMHe6HzbNuFqdnh3fBHWabXDmrqcpLIQrEBX7HVPwkf0NkI1azxfVxjK0K56F1aA=w1920-h1080-k-no",
+        "published_at_date": "2023-11-25T09:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGSJbqxXkDGUW6vxgGll94ftWR4Ws-6X-Jt6alTWanuI8NDVKjXvDXX2tg08j_pKrEAO5MgZB8kmjmZjQ_UnjhALiHbT4qRI1jBtslxxorxEhBs5MzwWWfPMmFHyJneX1WXBCAf=w1920-h1080-k-no",
+        "published_at_date": "2024-06-11T08:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEg-SwRJC4_GqNk7EfH3HzOihLDqsQWNWEBRN5I62Ap1LalfFP7e394R0SDRpK7FeZmkto2j5pnJIFl-9MJ6ZPH8v7iv4aCf5HWH-gaH9arvHROlkOv2NqwLTDw-Ih9tdr_q_V7zw=w1920-h1080-k-no",
+        "published_at_date": "2023-10-21T12:00:00"
+      }
+    ],
+    "on_site_places": [],
+    "customer_updates": [],
+    "featured_question": null,
+    "review_keywords": [
+      {
+        "keyword": "high speed internet",
+        "count": 2
+      },
+      {
+        "keyword": "freelancer friendly",
+        "count": 2
+      },
+      {
+        "keyword": "conference room",
+        "count": 2
+      },
+      {
+        "keyword": "ambiance",
+        "count": 7
+      },
+      {
+        "keyword": "amenities",
+        "count": 5
+      },
+      {
+        "keyword": "focus",
+        "count": 2
+      },
+      {
+        "keyword": "workplace",
+        "count": 4
+      }
+    ],
+    "featured_reviews": [
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KWGNsVTVPVWt4Ykc0MmEwcDNhazVKTm5aSFFrRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21KWGNsVTVPVWt4Ykc0MmEwcDNhazVKTm5aSFFrRRAB!2m1!1s0x0:0xd6d2ce2ecc58cd48!3m1!1s2@1:CAIQACodChtycF9oOmJXclU5OUkxbG42a0p3ak5JNnZHQkE%7C%7C?hl=en",
+        "name": "Manoj Chavan",
+        "reviewer_id": "115494966104973942051",
+        "reviewer_profile": "https://www.google.com/maps/contrib/115494966104973942051?hl=en-GB",
+        "rating": 5,
+        "review_text": "I recently hired a co-working space and conference room at CoLab Vasai Center for a client presentation. The premises are well-maintained, spacious, and come at a very reasonable rate. They have all the essentials — projector, writing pad, AC conference room, and ample seating arrangements. If you’re in Vasai and looking for a good, budget-friendly co-working or meeting space, you should definitely try it!",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "7 months ago",
+        "published_at_date": "2025-11-04T12:03:47",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjXUESsT8HU3kSeKRrouJkCE8Ii-4UyRIZqxKkbb6o0pTuURXXiB=s1920",
+        "total_number_of_reviews_by_reviewer": 175,
+        "total_number_of_photos_by_reviewer": 33,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6MWRxZk1BEAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR6MWRxZk1BEAE!2m1!1s0x0:0xd6d2ce2ecc58cd48!3m1!1s2@1:CIHM0ogKEICAgIDz1dqfMA%7C%7C?hl=en",
+        "name": "Reine Furtado",
+        "reviewer_id": "101411914915880936640",
+        "reviewer_profile": "https://www.google.com/maps/contrib/101411914915880936640?hl=en-GB",
+        "rating": 5,
+        "review_text": "My team and I have worked from Colab Central for the past 6 months. The place is cozy, has all necessary amenities and a warm host that ensures you get all the work feels while being comfortable and taken care of.\n\nLove the space!",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "Edited a year ago",
+        "published_at_date": "2024-06-11T08:42:22",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjXnDa04iF6tuxOGEOEBMtk3BmIJPA3qahf14x3hcu3tpqkbwXMj8A=s1920",
+        "total_number_of_reviews_by_reviewer": 13,
+        "total_number_of_photos_by_reviewer": 236,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [
+          {
+            "id": "CIHM0ogKEICAgIDz1dqf8AE",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn3AjF_x6WIfH6C0SF1UnEfxfltsd_phBuKzF3vqKCqLxPHTIxLBWAkrrPDKxr0MkaZ5aYAzGh9rMHEuWOVfLcs9r1nT7JbVg9YjU_P1-bkWKz1b8sAO25WZUn0mNv3342u5Kr7d=k-no",
+            "caption": null,
+            "width": 3024,
+            "height": 4032
+          },
+          {
+            "id": "CIHM0ogKEICAgIDz1dqfCA",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn2tas4dvvJP8VXIOA8v2y1P9HzMjiTHbWjiSdaR0Y1EiEVFME5dN2U-z_aj0mlOTxCr5KZ3HpFrUR6nuQBmVNBWBoLHaHESKiwF_7S0VoQZ-9japaSm8AbRlplMwyuxMB9YluMo=k-no",
+            "caption": null,
+            "width": 3024,
+            "height": 4032
+          },
+          {
+            "id": "CIHM0ogKEICAgIDz1dqfiAE",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn0js9HeURX6289A35GxfeZkhray7zO4IAiG_dV1NlsMTc5wD4LduDWvcfu-dYErEkJ01ptUzbdKGFkVqlUn30xZzJvPsPMTVGTA2IlabwlXGmaHeAgkkR7oMkrwhqabMBMbL8fPZw=k-no",
+            "caption": null,
+            "width": 3024,
+            "height": 4032
+          }
+        ],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ZMGVtSnZUalZ2TTNSaU9VSTVhRjh6U1VWNFIwRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21ZMGVtSnZUalZ2TTNSaU9VSTVhRjh6U1VWNFIwRRAB!2m1!1s0x0:0xd6d2ce2ecc58cd48!3m1!1s2@1:CAIQACodChtycF9oOmY0emJvTjVvM3RiOUI5aF8zSUV4R0E%7C%7C?hl=en",
+        "name": "James Dsouza",
+        "reviewer_id": "105624022552654197856",
+        "reviewer_profile": "https://www.google.com/maps/contrib/105624022552654197856?hl=en-GB",
+        "rating": 5,
+        "review_text": "Good co-working space available in Vasai. Nice location, service, ambiance and overall experience. Highly recommend it.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "5 months ago",
+        "published_at_date": "2026-01-07T15:18:58",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocKXJPrQaJnp66ovTT-ZF8ZFKfWiSRznl_eDi3J64bpDq743Uw=s1920",
+        "total_number_of_reviews_by_reviewer": 7,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsdmZIZml3RRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNsdmZIZml3RRAB!2m1!1s0x0:0xd6d2ce2ecc58cd48!3m1!1s2@1:CIHM0ogKEICAgIClvfHfiwE%7C%7C?hl=en",
+        "name": "Rutvi Naik",
+        "reviewer_id": "100250018617178373459",
+        "reviewer_profile": "https://www.google.com/maps/contrib/100250018617178373459?hl=en-GB",
+        "rating": 5,
+        "review_text": "A great place to focus on your work/studies without any distractions!\n- Atmosphere: The co-working space has a modern, bright, and vibrant ambiance that helps create a focused work environment.\n- Amenities: It offers well-equipped meeting rooms, private desks, high-speed internet, and maintains a disciplined atmosphere of silence.\n- Location: The co-working space is conveniently located with nearby parking areas, cafes, and easy access to public transportation.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "2 years ago",
+        "published_at_date": "2023-11-25T06:15:39",
+        "response_from_owner_text": "Dear Rutvi,\n\nThank you so much for taking the time to leave us such a glowing review! We are thrilled to hear that you enjoyed your experience at our co-working space. Our team works hard to ensure that our clients have the best possible experience, and we are so glad that we were able to exceed your expectations.\n\nWe hope to see you again soon and please don’t hesitate to reach out if there is anything else we can do for you.\n\n- Team Colab",
+        "response_from_owner_ago": "2 years ago",
+        "response_from_owner_date": "2023-11-25T08:16:29",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjUbOeULJwpkJCI0UZMrFruzcPj8cNz4_x9DWJjvrQCqYhMuZQCA=s1920",
+        "total_number_of_reviews_by_reviewer": 8,
+        "total_number_of_photos_by_reviewer": 188,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6dGNxWGJREAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR6dGNxWGJREAE!2m1!1s0x0:0xd6d2ce2ecc58cd48!3m1!1s2@1:CIHM0ogKEICAgIDztcqXbQ%7C%7C?hl=en",
+        "name": "Ruben Lopes",
+        "reviewer_id": "115538390454917640390",
+        "reviewer_profile": "https://www.google.com/maps/contrib/115538390454917640390?hl=en-GB",
+        "rating": 5,
+        "review_text": "Colab Central is an excellent co-working space! The environment is bright and modern, with all the amenities you need, including high-speed internet and comfortable seating. Perfect for freelancers and teams alike. Highly recommend!",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "2 years ago",
+        "published_at_date": "2024-06-11T09:33:44",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocLMPvaQhAG3N5eiT9_KtRtnhp0Q9yYWPL_Z4QpE2aIF67_6Xw=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6cmNxSHZRRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR6cmNxSHZRRRAB!2m1!1s0x0:0xd6d2ce2ecc58cd48!3m1!1s2@1:CIHM0ogKEICAgIDzrcqHvQE%7C%7C?hl=en",
+        "name": "Nilma Pais",
+        "reviewer_id": "114516806839843779964",
+        "reviewer_profile": "https://www.google.com/maps/contrib/114516806839843779964?hl=en-GB",
+        "rating": 5,
+        "review_text": "Colab central is a highly recommended co-work space for everyone who is struggling with work from home or is a freelancer and in need of a perfect work space with all the necessary amenities including high speed internet and comfy cozy ambience.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "2 years ago",
+        "published_at_date": "2024-06-11T14:33:05",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocLO4Vk8L3C4HT1G45_EnL9p_ZvByHBWdmjDtFIc6hKk7ru0qF0=s1920",
+        "total_number_of_reviews_by_reviewer": 15,
+        "total_number_of_photos_by_reviewer": 10,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6MWJfUnlRRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR6MWJfUnlRRRAB!2m1!1s0x0:0xd6d2ce2ecc58cd48!3m1!1s2@1:CIHM0ogKEICAgIDz1b_RyQE%7C%7C?hl=en",
+        "name": "Amrutaa Joshii",
+        "reviewer_id": "116282992001489221081",
+        "reviewer_profile": "https://www.google.com/maps/contrib/116282992001489221081?hl=en-GB",
+        "rating": 5,
+        "review_text": "Best place to work, 100% positive and friendly environment, also founder of colab Ms. salomee takes care of each and every one, it's really  appreciating ...\n\nThank u for giving nice space to work in vasai virar",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "2 years ago",
+        "published_at_date": "2024-06-11T09:15:07",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjWizsmhf1jsSBDpYZ1xVuamGEUKfXRd4FOa94K7Af2u1YBuIETIeQ=s1920",
+        "total_number_of_reviews_by_reviewer": 10,
+        "total_number_of_photos_by_reviewer": 1,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6dGFUOWxnRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR6dGFUOWxnRRAB!2m1!1s0x0:0xd6d2ce2ecc58cd48!3m1!1s2@1:CIHM0ogKEICAgIDztaT9lgE%7C%7C?hl=en",
+        "name": "Annarita Ferreira",
+        "reviewer_id": "101251329621466031637",
+        "reviewer_profile": "https://www.google.com/maps/contrib/101251329621466031637?hl=en-GB",
+        "rating": 5,
+        "review_text": "It is a very cozy place and provides all the necessary amenities, and the work can also be done peacefully.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "2 years ago",
+        "published_at_date": "2024-06-11T09:24:10",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjXO6uRULM7vALpfavmLwzhijGf73jYHHX6TDjrvqSeOTNr3mf6d=s1920",
+        "total_number_of_reviews_by_reviewer": 6,
+        "total_number_of_photos_by_reviewer": 1,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      }
+    ],
+    "query": "co working spaces in naigaon west"
+  }
+]

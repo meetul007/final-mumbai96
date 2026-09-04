@@ -1,0 +1,1354 @@
+{
+  "name": "Bandra Kurla Complex",
+  "seo_title": "BKC (Bandra Kurla Complex) Mumbai - Complete Local Guide 2026 | Offices, Food, Hotels, Events, Services | Mumbai96",
+  "seo_description": "Complete guide to BKC (Bandra Kurla Complex), Mumbai - business blocks (G Block, E Block, Diamond Bureau), Jio World Centre, MMRDA Grounds, office space, hotels, restaurants, banks, commute, employers, events and 100+ local services. Mumbai96 - Mumbaikars' Very Own Platform.",
+  "seo_keywords": "BKC Mumbai, Bandra Kurla Complex, things to do in BKC, places in BKC, restaurants in BKC, office space BKC, hotels in BKC, Jio World Centre, MMRDA Grounds, Diamond Bureau BKC, NSE BKC, US Consulate BKC, BKC G Block, BKC E Block, co-working spaces BKC, salons in BKC, gyms in BKC, banks in BKC, commute from BKC, BKC pin code, BKC area guide 2026",
+  "location_icon": "https://mumbai96.vercel.app/bkc/images/og-bkc.jpg",
+  "image": "https://mumbai96.vercel.app/bkc/images/og-bkc.jpg",
+  "about": "BKC is Mumbai's premier planned commercial and financial district, home to bank and MNC headquarters, the NSE, the Bharat Diamond Bourse, the US Consulate, the Jio World Centre and MMRDA Grounds.",
+  "population": "100+l",
+  "municipal_body": "",
+  "food_tags": "",
+  "sub_areas": [],
+  "character_vibe": [],
+  "property_prices": [],
+  "places_to_visit": [],
+  "food": [],
+  "night_life": [],
+  "resident_profile": [],
+  "schools": [],
+  "hospitals": [],
+  "major_employers": [],
+  "grouped_listings": {},
+  "category_groups": [],
+  "travelling_connectivity": [],
+  "residential_societies": [],
+  "local_events": [],
+  "upcoming_projects": [],
+  "civic_data": {
+    "region": "South Mumbai",
+    "ward": "",
+    "assembly_constituency": ""
+  },
+  "area_report_card": {},
+  "living_style": [],
+  "faq": [
+    {
+      "question": "What is BKC known for?",
+      "answer": "BKC (Bandra Kurla Complex) is Mumbai's premier planned business district, home to the headquarters of major banks and MNCs, the National Stock Exchange (NSE), the Bharat Diamond Bourse, the US Consulate, the Jio World Centre and MMRDA Grounds for major concerts and events."
+    },
+    {
+      "question": "What is the pin code of BKC?",
+      "answer": "BKC primarily uses the pin code 400051 (Bandra East / BKC), with parts under 400098 (Kalina / Santacruz East side) and 400070 (Kurla side)."
+    },
+    {
+      "question": "What are the sub-areas within BKC?",
+      "answer": "BKC is organised into planned blocks - G Block (banks, MNCs, NSE), E Block (Diamond Bourse, consulates), the Jio World Centre / Maker Maxity belt, and fringe residential pockets like Bharat Nagar, Kalanagar and the Kurla-side edge."
+    },
+    {
+      "question": "What is the property price in BKC?",
+      "answer": "BKC is primarily commercial. Grade A office space leases at ₹250–₹450 per sqft per month, among Mumbai's highest. Residential options on the fringe (Bharat Nagar / Kalanagar) range from ₹2.5 Cr for a 2BHK to ₹6–10 Cr+ for premium apartments, with rents from ₹60,000 to ₹2,50,000+ per month (as of May 2026)."
+    },
+    {
+      "question": "How to commute to BKC?",
+      "answer": "BKC is served by the Mumbai Metro (Line 2B / Line 3 underground stations), nearby Bandra and Kurla railway stations, the BKC bus depot and BEST routes, and direct access via the BKC Connector, SCLR, the Eastern Express Highway and the Western Express Highway."
+    },
+    {
+      "question": "Which hotels are in BKC?",
+      "answer": "Major hotels in BKC include Trident BKC, Sofitel Mumbai BKC, The St. Regis (nearby Lower Parel) connections, and several business hotels and serviced apartments catering to corporate travellers."
+    },
+    {
+      "question": "Which hospitals are near BKC?",
+      "answer": "Major hospitals near BKC include Asian Heart Institute (within BKC), Sir H.N. Reliance Foundation Hospital (nearby), Holy Family Hospital (Bandra), and Guru Nanak Hospital (Bandra East)."
+    },
+    {
+      "question": "How do I find the best restaurants in BKC?",
+      "answer": "Browse Mumbai96's BKC listings, read reviews from locals and professionals, and call directly. Our verified directory makes it easy."
+    }
+  ],
+  "categories": [
+    {
+      "slug": "fine-dining-restaurants",
+      "name": "Fine Dining Restaurants",
+      "emoji": "🍷",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "biryani-restaurants",
+      "name": "Biryani Restaurants",
+      "emoji": "🍚",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "chinese-restaurants",
+      "name": "Chinese Restaurants",
+      "emoji": "🥢",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "south-indian-restaurants",
+      "name": "South Indian Restaurants",
+      "emoji": "🥘",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "cafes-coffee-shops",
+      "name": "Cafes & Coffee Shops",
+      "emoji": "☕",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "bakeries",
+      "name": "Bakeries",
+      "emoji": "🥐",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "food-trucks",
+      "name": "Food Trucks",
+      "emoji": "🚚",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "ice-cream-shops",
+      "name": "Ice Cream Shops",
+      "emoji": "🍦",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "juice-shops",
+      "name": "Juice Shops",
+      "emoji": "🥤",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "bars-and-lounges",
+      "name": "Bars & Lounges",
+      "emoji": "🍸",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "vegetarian-restaurants",
+      "name": "Vegetarian Restaurants",
+      "emoji": "🥗",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "quick-service-restaurants",
+      "name": "Quick Service Restaurants",
+      "emoji": "🍔",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "commercial-real-estate-agents",
+      "name": "Commercial Real Estate Agents",
+      "emoji": "🏢",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "office-space-for-rent",
+      "name": "Office Space for Rent",
+      "emoji": "🏬",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "co-working-spaces",
+      "name": "Co-Working Spaces",
+      "emoji": "💼",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "serviced-apartments",
+      "name": "Serviced Apartments",
+      "emoji": "🛏️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "meeting-rooms",
+      "name": "Meeting Rooms",
+      "emoji": "📋",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "property-management",
+      "name": "Property Management",
+      "emoji": "🗂️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "pharmacies",
+      "name": "Pharmacies",
+      "emoji": "💊",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "eye-doctors",
+      "name": "Eye Doctors",
+      "emoji": "👁️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "physiotherapists",
+      "name": "Physiotherapists",
+      "emoji": "🩹",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "corporate-wellness",
+      "name": "Corporate Wellness",
+      "emoji": "🌿",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "general-physicians",
+      "name": "General Physicians",
+      "emoji": "🩺",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "blood-banks",
+      "name": "Blood Banks",
+      "emoji": "🩸",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "diagnostic-centres",
+      "name": "Diagnostic Centres",
+      "emoji": "🔬",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "dental-clinics",
+      "name": "Dental Clinics",
+      "emoji": "🪥",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "corporate-gifting",
+      "name": "Corporate Gifting",
+      "emoji": "🎁",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "clothing-stores",
+      "name": "Clothing Stores",
+      "emoji": "👗",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "jewellery-shops",
+      "name": "Jewellery Shops",
+      "emoji": "💍",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "mobile-phone-shops",
+      "name": "Mobile Phone Shops",
+      "emoji": "📱",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "electronics-stores",
+      "name": "Electronics Stores",
+      "emoji": "💻",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "optical-shops",
+      "name": "Optical Shops",
+      "emoji": "👓",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "supermarkets",
+      "name": "Supermarkets",
+      "emoji": "🛒",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "shoe-stores",
+      "name": "Shoe Stores",
+      "emoji": "👟",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "luxury-brands",
+      "name": "Luxury Brands",
+      "emoji": "👜",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "book-stores",
+      "name": "Book Stores",
+      "emoji": "📚",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "stationery-suppliers",
+      "name": "Stationery Suppliers",
+      "emoji": "✏️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "printing-and-signage",
+      "name": "Printing & Signage",
+      "emoji": "🖨️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "office-furniture",
+      "name": "Office Furniture",
+      "emoji": "🪑",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "facility-management",
+      "name": "Facility Management",
+      "emoji": "🧹",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "office-cleaning-services",
+      "name": "Office Cleaning Services",
+      "emoji": "🧽",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "interior-fit-out-contractors",
+      "name": "Interior Fit-Out Contractors",
+      "emoji": "🖌️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "laundry-dry-cleaners",
+      "name": "Laundry & Dry Cleaners",
+      "emoji": "👕",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "water-suppliers",
+      "name": "Water Suppliers",
+      "emoji": "💧",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "cctv-and-security-systems",
+      "name": "CCTV & Security Systems",
+      "emoji": "📷",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "it-amc-services",
+      "name": "IT AMC Services",
+      "emoji": "🖥️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "valet-and-parking",
+      "name": "Valet & Parking",
+      "emoji": "🅿️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "car-rentals-chauffeur",
+      "name": "Car Rentals & Chauffeur",
+      "emoji": "🚖",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "bike-taxi-services",
+      "name": "Bike Taxi Services",
+      "emoji": "🛵",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "car-wash-services",
+      "name": "Car Wash Services",
+      "emoji": "🚿",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "luxury-car-dealers",
+      "name": "Luxury Car Dealers",
+      "emoji": "🚗",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "car-service-centres",
+      "name": "Car Service Centres",
+      "emoji": "⚙️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "petrol-pumps",
+      "name": "Petrol Pumps",
+      "emoji": "⛽",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "ev-charging-stations",
+      "name": "EV Charging Stations",
+      "emoji": "🔋",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "corporate-photographers",
+      "name": "Corporate Photographers",
+      "emoji": "📸",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "videographers",
+      "name": "Videographers",
+      "emoji": "🎥",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "event-management",
+      "name": "Event Management",
+      "emoji": "🎪",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "conference-venues",
+      "name": "Conference Venues",
+      "emoji": "🏛️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "movie-theatres",
+      "name": "Movie Theatres",
+      "emoji": "🎬",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "art-galleries",
+      "name": "Art Galleries",
+      "emoji": "🖼️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "gaming-zones",
+      "name": "Gaming Zones",
+      "emoji": "🎮",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "concert-tickets",
+      "name": "Concert Tickets",
+      "emoji": "🎟️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "corporate-training",
+      "name": "Corporate Training",
+      "emoji": "📊",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "business-schools",
+      "name": "Business Schools",
+      "emoji": "🎓",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "finance-certifications",
+      "name": "Finance Certifications",
+      "emoji": "📈",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "language-classes",
+      "name": "Language Classes",
+      "emoji": "🗣️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "computer-classes",
+      "name": "Computer Classes",
+      "emoji": "⌨️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "soft-skills-training",
+      "name": "Soft Skills Training",
+      "emoji": "🤝",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "courier-services",
+      "name": "Courier Services",
+      "emoji": "🚚",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "logistics-providers",
+      "name": "Logistics Providers",
+      "emoji": "📦",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "event-photographers",
+      "name": "Event Photographers",
+      "emoji": "🤳",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "digital-marketing-agencies",
+      "name": "Digital Marketing Agencies",
+      "emoji": "📣",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "branding-agencies",
+      "name": "Branding Agencies",
+      "emoji": "🎨",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "web-designers",
+      "name": "Web Designers",
+      "emoji": "🌐",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "management-consultants",
+      "name": "Management Consultants",
+      "emoji": "📊",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "hr-recruitment-firms",
+      "name": "HR & Recruitment Firms",
+      "emoji": "🧑‍💼",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "company-registration",
+      "name": "Company Registration",
+      "emoji": "📝",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "trademark-ip-lawyers",
+      "name": "Trademark & IP Lawyers",
+      "emoji": "⚖️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "corporate-lawyers",
+      "name": "Corporate Lawyers",
+      "emoji": "📜",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "notary-services",
+      "name": "Notary Services",
+      "emoji": "🖊️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "translation-services",
+      "name": "Translation Services",
+      "emoji": "🌐",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "visa-immigration-consultants",
+      "name": "Visa & Immigration Consultants",
+      "emoji": "🛂",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "consulate-services",
+      "name": "Consulate Services",
+      "emoji": "🏛️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "concierge-services",
+      "name": "Concierge Services",
+      "emoji": "🛎️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "business-centres",
+      "name": "Business Centres",
+      "emoji": "🏢",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "dentists",
+      "name": "Dentists",
+      "emoji": "🦷",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "skin-doctors",
+      "name": "Skin Doctors",
+      "emoji": "🧴",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "ent-doctors",
+      "name": "ENT Doctors",
+      "emoji": "👂",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "spine-doctors",
+      "name": "Spine Doctors",
+      "emoji": "🦴",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "ortho-doctors",
+      "name": "Ortho Doctors",
+      "emoji": "🩼",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "heart-doctors",
+      "name": "Heart Doctors",
+      "emoji": "❤️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "gynecologist-obstetricians",
+      "name": "Gynecologists",
+      "emoji": "👩‍⚕️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "pediatrician-child-doctors",
+      "name": "Pediatricians",
+      "emoji": "🧒",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "eye-hospitals",
+      "name": "Eye Hospitals",
+      "emoji": "👁️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "health-checkup-centres",
+      "name": "Health Checkup Centres",
+      "emoji": "🩺",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "hospitals",
+      "name": "Hospitals",
+      "emoji": "🏥",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "medical-pathology-labs",
+      "name": "Pathology Labs",
+      "emoji": "🫧",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "psychologists",
+      "name": "Psychologists",
+      "emoji": "🧠",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "psychiatrists",
+      "name": "Psychiatrists",
+      "emoji": "💬",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "diagnostic-imaging",
+      "name": "Diagnostic Imaging",
+      "emoji": "🩻",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "spas",
+      "name": "Spas",
+      "emoji": "💆",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "salons",
+      "name": "Salons",
+      "emoji": "✂️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "luxury-salons",
+      "name": "Luxury Salons",
+      "emoji": "💄",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "grooming-studios",
+      "name": "Grooming Studios",
+      "emoji": "🪞",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "wellness-centres",
+      "name": "Wellness Centres",
+      "emoji": "🌸",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "gyms",
+      "name": "Gyms",
+      "emoji": "💪",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "personal-trainers",
+      "name": "Personal Trainers",
+      "emoji": "🏋️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "dietitians-nutritionists",
+      "name": "Dietitians & Nutritionists",
+      "emoji": "🥦",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "corporate-event-planners",
+      "name": "Corporate Event Planners",
+      "emoji": "🎯",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "wedding-planners",
+      "name": "Wedding Planners",
+      "emoji": "💒",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "dance-classes",
+      "name": "Dance Classes",
+      "emoji": "💃",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "zumba-classes",
+      "name": "Zumba Classes",
+      "emoji": "🕺",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "yoga-classes",
+      "name": "Yoga Classes",
+      "emoji": "🧘",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "music-classes",
+      "name": "Music Classes",
+      "emoji": "🎵",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "art-classes",
+      "name": "Art Classes",
+      "emoji": "🖍️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "exhibition-organisers",
+      "name": "Exhibition Organisers",
+      "emoji": "🎪",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "product-launch-venues",
+      "name": "Product Launch Venues",
+      "emoji": "🚀",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "award-night-planners",
+      "name": "Award Night Planners",
+      "emoji": "🏆",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "conference-planners",
+      "name": "Conference Planners",
+      "emoji": "🎤",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "florists",
+      "name": "Florists",
+      "emoji": "💐",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "corporate-caterers",
+      "name": "Corporate Caterers",
+      "emoji": "🍽️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "banquet-halls",
+      "name": "Banquet Halls",
+      "emoji": "🏩",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "luxury-car-rentals",
+      "name": "Luxury Car Rentals",
+      "emoji": "🚘",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "av-equipment-rentals",
+      "name": "AV Equipment Rentals",
+      "emoji": "🎛️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "corporate-tie-ups",
+      "name": "Corporate Tie-Ups",
+      "emoji": "🤝",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "pet-care-services",
+      "name": "Pet Care Services",
+      "emoji": "🐶",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "creches-daycare",
+      "name": "Creches & Daycare",
+      "emoji": "🧸",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "elder-care-services",
+      "name": "Elder Care Services",
+      "emoji": "👴",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "corporate-wellness-programs",
+      "name": "Corporate Wellness Programs",
+      "emoji": "🩷",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "counselling-services",
+      "name": "Counselling Services",
+      "emoji": "💬",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "csr-and-ngos",
+      "name": "CSR & NGOs",
+      "emoji": "🌍",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "ambulance-services",
+      "name": "Ambulance Services",
+      "emoji": "🚑",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "security-services",
+      "name": "Security Services",
+      "emoji": "🔐",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "art-and-decor-suppliers",
+      "name": "Art & Decor Suppliers",
+      "emoji": "🏺",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "office-carpenters",
+      "name": "Office Carpenters",
+      "emoji": "🪚",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "plumbing-services",
+      "name": "Plumbing Services",
+      "emoji": "🪠",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "electricians",
+      "name": "Electricians",
+      "emoji": "⚡",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "corporate-gift-shops",
+      "name": "Corporate Gift Shops",
+      "emoji": "🎁",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "cake-shops",
+      "name": "Cake Shops",
+      "emoji": "🎂",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "business-hotels",
+      "name": "Business Hotels",
+      "emoji": "🛏️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "corporate-tiffin-services",
+      "name": "Corporate Tiffin Services",
+      "emoji": "🥡",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "driving-services",
+      "name": "Driving Services",
+      "emoji": "🚦",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "office-movers",
+      "name": "Office Movers",
+      "emoji": "🏚️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "ac-service-and-repair",
+      "name": "AC Service & Repair",
+      "emoji": "❄️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "mobile-phone-repair",
+      "name": "Mobile Phone Repair",
+      "emoji": "🔩",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "laptop-repair-services",
+      "name": "Laptop Repair Services",
+      "emoji": "💾",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "printer-amc",
+      "name": "Printer AMC",
+      "emoji": "🖨️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "it-support",
+      "name": "IT Support",
+      "emoji": "🖥️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "data-entry-services",
+      "name": "Data Entry Services",
+      "emoji": "⌨️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "executive-coaching",
+      "name": "Executive Coaching",
+      "emoji": "📈",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "cfa-frm-classes",
+      "name": "CFA & FRM Classes",
+      "emoji": "📊",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "data-science-courses",
+      "name": "Data Science Courses",
+      "emoji": "🔢",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "public-speaking-training",
+      "name": "Public Speaking Training",
+      "emoji": "🎤",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "gmat-classes",
+      "name": "GMAT Classes",
+      "emoji": "🎯",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "gre-classes",
+      "name": "GRE Classes",
+      "emoji": "🏆",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "ielts-classes",
+      "name": "IELTS Classes",
+      "emoji": "📝",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "corporate-language-training",
+      "name": "Corporate Language Training",
+      "emoji": "🗣️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "restaurants",
+      "name": "Wealth Management",
+      "emoji": "💰",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "stock-brokers",
+      "name": "Stock Brokers",
+      "emoji": "📈",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "investment-advisors",
+      "name": "Investment Advisors",
+      "emoji": "📊",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "chartered-accountants-ca",
+      "name": "Chartered Accountants",
+      "emoji": "🧾",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "audit-firms",
+      "name": "Audit Firms",
+      "emoji": "🔍",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "private-banking",
+      "name": "Private Banking",
+      "emoji": "💳",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "forex-services",
+      "name": "Forex Services",
+      "emoji": "💱",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "home-loan-providers",
+      "name": "Home Loan Providers",
+      "emoji": "🏡",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "business-loan-providers",
+      "name": "Business Loan Providers",
+      "emoji": "🏦",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "venture-capital-firms",
+      "name": "Venture Capital Firms",
+      "emoji": "🚀",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "insurance-brokers",
+      "name": "Insurance Brokers",
+      "emoji": "📜",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "health-insurance-providers",
+      "name": "Health Insurance",
+      "emoji": "🛡️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "life-insurance-providers",
+      "name": "Life Insurance",
+      "emoji": "🌱",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "corporate-insurance",
+      "name": "Corporate Insurance",
+      "emoji": "🏢",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "tax-advisory",
+      "name": "Tax Advisory",
+      "emoji": "🧮",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "corporate-travel-agents",
+      "name": "Corporate Travel Agents",
+      "emoji": "🧳",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "visa-consultants",
+      "name": "Visa Consultants",
+      "emoji": "🛂",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "passport-services",
+      "name": "Passport Services",
+      "emoji": "🛃",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "relocation-services",
+      "name": "Relocation Services",
+      "emoji": "🌅",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "compliance-consultants",
+      "name": "Compliance Consultants",
+      "emoji": "🏨",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "commercial-architects",
+      "name": "Commercial Architects",
+      "emoji": "📐",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "office-interior-designers",
+      "name": "Office Interior Designers",
+      "emoji": "🪟",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "office-furniture-suppliers",
+      "name": "Office Furniture Suppliers",
+      "emoji": "🪵",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "office-lighting-suppliers",
+      "name": "Office Lighting Suppliers",
+      "emoji": "💡",
+      "image": "",
+      "description": ""
+    }
+  ],
+  "best_services": [
+    {
+      "heading": "Why BKC professionals trust Mumbai96",
+      "text": "Unlike generic national directories, Mumbai96 focuses exclusively on Mumbai localities. Every listing in BKC is verified for contact accuracy, and our review system ensures only genuine reviews. Whether you work in G Block, run a startup in a co-working space, or visit BKC for events, Mumbai96 is your local companion."
+    },
+    {
+      "heading": "Services available in BKC",
+      "text": "From business essentials (co-working, caterers, CAs, lawyers, event management) to lifestyle (fine dining, salons, gyms, wellness) and corporate support (facility management, IT, gifting) - Mumbai96 covers everything BKC needs, all in one place."
+    },
+    {
+      "heading": "About BKC",
+      "text": "BKC is the commercial heart of Mumbai - a meticulously planned business district anchored by the NSE, the Bharat Diamond Bourse, the Jio World Centre and the headquarters of corporate India. With a daily workforce of 3L+ and world-class events, the demand for quality services has never been higher. Mumbai96 is here to bridge that gap - making it easier for BKC businesses to be found and for professionals to find exactly what they need."
+    }
+  ],
+  "nearby_locations": [],
+  "source_file": "/home/bpl_borivali/mumbai96/ui/src/data/location/75 locations pages/south/bkc.html"
+}

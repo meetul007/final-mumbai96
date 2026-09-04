@@ -1,0 +1,2147 @@
+[
+  {
+    "place_id": "ChIJeQN7KECv5zsRl8GVAwgEIhw",
+    "name": "Bowling Machine",
+    "description": null,
+    "is_spending_on_ads": false,
+    "link": "https://www.google.com/maps/place/Bowling+Machine/data=!4m7!3m6!1s0x3be7af40287b0379:0x1c2204080395c197!8m2!3d19.3423888!4d72.8346117!16s%2Fg%2F11sk302j0b!19sChIJeQN7KECv5zsRl8GVAwgEIhw?authuser=0&rclk=1",
+    "reviews": 0,
+    "rating": 0,
+    "competitors": [],
+    "website": null,
+    "phone": null,
+    "phone_international": null,
+    "can_claim": true,
+    "owner": {
+      "id": "108574020115848992474",
+      "name": "Bowling Machine (Owner)",
+      "link": "https://www.google.com/maps/contrib/108574020115848992474"
+    },
+    "owner_posts": [],
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SnkNcbklTumaXwY6P7phcQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=348.82104&pitch=0&thumbfov=100",
+    "main_category": "Indoor playground",
+    "categories": [
+      "Indoor playground"
+    ],
+    "workday_timing": null,
+    "status": null,
+    "is_temporarily_closed": false,
+    "is_permanently_closed": true,
+    "closed_on": "Open All Days",
+    "address": "8RRM+XR5, Naigaon Station Rd, Rose Nagar, Naigaon West, Vasai-Virar, Maharashtra 401207",
+    "price_range": null,
+    "reviews_per_rating": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJeQN7KECv5zsRl8GVAwgEIhw&q=Bowling+Machine&authuser=0&hl=en&gl=IN",
+    "coordinates": {
+      "latitude": 19.3423888,
+      "longitude": 72.8346117
+    },
+    "plus_code": null,
+    "detailed_address": {
+      "ward": "Rose Nagar, Naigaon West",
+      "street": "8RRM+XR5, Naigaon Station Rd",
+      "city": "Vasai-Virar",
+      "postal_code": "401207",
+      "state": "Maharashtra",
+      "country_code": "IN"
+    },
+    "time_zone": "Asia/Calcutta",
+    "is_rental": false,
+    "cid": "2027187214736540055",
+    "data_id": "0x3be7af40287b0379:0x1c2204080395c197",
+    "kgmid": "/g/11sk302j0b",
+    "about": [],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "menu": null,
+    "reservations": [],
+    "order_online_links": [],
+    "gas_prices": [],
+    "image_count": 1,
+    "images": [
+      {
+        "about": "All",
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SnkNcbklTumaXwY6P7phcQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=348.82104&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-03T06:00:00"
+      },
+      {
+        "about": "Street View & 360°",
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SnkNcbklTumaXwY6P7phcQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=348.82104&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-03T06:00:00"
+      }
+    ],
+    "featured_images": [
+      {
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SnkNcbklTumaXwY6P7phcQ&cb_client=search.gws-prod.gps&w=203&h=100&yaw=348.82104&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-03T06:00:00"
+      }
+    ],
+    "on_site_places": [],
+    "customer_updates": [],
+    "featured_question": null,
+    "review_keywords": [],
+    "featured_reviews": [],
+    "query": "bowling alleys in naigaon east"
+  },
+  {
+    "place_id": "ChIJ141DZIG35zsRYdx-HSaMr4U",
+    "name": "PlayPark Family Entertainment Center",
+    "description": "PlayPark is a complete family entertainment center. With world class 4 lane Bowling Alley, Arcade Games, Dashing Car & Kiddy Park for kids and toddlers.\nHost your birthday party or celebrate your weekend, it is a fun place for all age groups. Win redemption tickets from Games and redeem them for exciting gifts. A perfect enjoyment destination for your kids & family.\nFor more information call on 8277705777",
+    "is_spending_on_ads": false,
+    "link": "https://www.google.com/maps/place/PlayPark+Family+Entertainment+Center/data=!4m7!3m6!1s0x3be7b78164438dd7:0x85af8c261d7edc61!8m2!3d19.21352!4d72.8490694!16s%2Fg%2F11sx4nk61q!19sChIJ141DZIG35zsRYdx-HSaMr4U?authuser=0&rclk=1",
+    "reviews": 230,
+    "rating": 3.9,
+    "competitors": [
+      {
+        "name": "Playy Around",
+        "suggested_link": "https://www.google.com/maps/search/Playy+Around/@19.206935299999998,72.8478054,19z?authuser=0&entry=ttu",
+        "reviews": 1244,
+        "rating": 4.2,
+        "main_category": "Children's amusement center",
+        "categories": [
+          "Children's amusement center"
+        ],
+        "coordinates": {
+          "latitude": 19.206935299999998,
+          "longitude": 72.8478054
+        }
+      },
+      {
+        "name": "FunOkids Raghuleela Mall",
+        "suggested_link": "https://www.google.com/maps/search/FunOkids+Raghuleela+Mall/@19.2142555,72.84890589999999,19z?authuser=0&entry=ttu",
+        "reviews": 26,
+        "rating": 4,
+        "main_category": "Children's amusement center",
+        "categories": [
+          "Children's amusement center",
+          "Children's party buffet",
+          "Children's party service",
+          "Indoor playground"
+        ],
+        "coordinates": {
+          "latitude": 19.2142555,
+          "longitude": 72.84890589999999
+        }
+      }
+    ],
+    "website": null,
+    "phone": "082777 05777",
+    "phone_international": "+91 82777 05777",
+    "can_claim": false,
+    "owner": {
+      "id": "102035152039896354585",
+      "name": "PlayPark Family Entertainment Center (Owner)",
+      "link": "https://www.google.com/maps/contrib/102035152039896354585"
+    },
+    "owner_posts": [],
+    "featured_image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEdXX7OEpnBhCyMgWFhtUEIcF1coL503RRC9IFHZNnawboudjvBWGjX7kJKJhqzKyVpjJECRmOQI-bk0k6f7O9a0ObH5mOt9D97ymnIlN0X_eIkFou7UDd0S7kNwcxZfQ5jgW7b=w1920-h1080-k-no",
+    "main_category": "Bowling alley",
+    "categories": [
+      "Bowling alley",
+      "Video arcade"
+    ],
+    "workday_timing": "11 am–10 pm",
+    "status": null,
+    "is_temporarily_closed": false,
+    "is_permanently_closed": false,
+    "closed_on": "Open All Days",
+    "address": "3rd Floor, Gaming Zone, Raghuleela Mall, behind Poisar Bus Depot, Kandivali West, Mumbai, Maharashtra 400067",
+    "price_range": null,
+    "reviews_per_rating": {
+      "1": 29,
+      "2": 13,
+      "3": 21,
+      "4": 66,
+      "5": 101
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ141DZIG35zsRYdx-HSaMr4U&q=PlayPark+Family+Entertainment+Center&authuser=0&hl=en&gl=IN",
+    "coordinates": {
+      "latitude": 19.21352,
+      "longitude": 72.84906939999999
+    },
+    "plus_code": "6R7X+CJ Mumbai, Maharashtra",
+    "detailed_address": {
+      "ward": "Kandivali, Jai Bhim Sanjay Nagar, Kandivali West",
+      "street": "3rd Floor, Gaming Zone, Raghuleela Mall, behind Poisar Bus Depot",
+      "city": "Mumbai",
+      "postal_code": "400067",
+      "state": "Maharashtra",
+      "country_code": "IN"
+    },
+    "time_zone": "Asia/Calcutta",
+    "is_rental": false,
+    "cid": "9633072223300279393",
+    "data_id": "0x3be7b78164438dd7:0x85af8c261d7edc61",
+    "kgmid": "/g/11sx4nk61q",
+    "about": [
+      {
+        "id": "service_options",
+        "name": "Service options",
+        "options": [
+          {
+            "name": "On-site services",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "accessibility",
+        "name": "Accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible car park",
+            "enabled": true
+          },
+          {
+            "name": "Wheelchair-accessible entrance",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "offerings",
+        "name": "Offerings",
+        "options": [
+          {
+            "name": "Food",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "payments",
+        "name": "Payments",
+        "options": [
+          {
+            "name": "Credit cards",
+            "enabled": true
+          },
+          {
+            "name": "Debit cards",
+            "enabled": true
+          },
+          {
+            "name": "Google Pay",
+            "enabled": true
+          },
+          {
+            "name": "NFC mobile payments",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "children",
+        "name": "Children",
+        "options": [
+          {
+            "name": "Good for kids birthday",
+            "enabled": true
+          }
+        ]
+      }
+    ],
+    "hours": [
+      {
+        "day": "Monday",
+        "times": [
+          "11 am–10 pm"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "times": [
+          "11 am–10 pm"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "times": [
+          "11 am–10 pm"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "times": [
+          "11 am–10 pm"
+        ]
+      },
+      {
+        "day": "Friday",
+        "times": [
+          "11 am–10 pm"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "times": [
+          "11 am–10:30 pm"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "times": [
+          "11 am–10:30 pm"
+        ]
+      }
+    ],
+    "most_popular_times": [
+      {
+        "hour_of_day": 21,
+        "average_popularity": 67.85714285714286,
+        "time_label": "9 pm"
+      },
+      {
+        "hour_of_day": 19,
+        "average_popularity": 67.14285714285714,
+        "time_label": "7 pm"
+      },
+      {
+        "hour_of_day": 20,
+        "average_popularity": 67.14285714285714,
+        "time_label": "8 pm"
+      }
+    ],
+    "popular_times": {
+      "Monday": [
+        {
+          "hour_of_day": 6,
+          "time_label": "6 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 7,
+          "time_label": "7 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 8,
+          "time_label": "8 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 9,
+          "time_label": "9 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 10,
+          "time_label": "10 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 11,
+          "time_label": "11 am",
+          "popularity_percentage": 33,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 12,
+          "time_label": "12 pm",
+          "popularity_percentage": 41,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 13,
+          "time_label": "1 pm",
+          "popularity_percentage": 44,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 14,
+          "time_label": "2 pm",
+          "popularity_percentage": 46,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 15,
+          "time_label": "3 pm",
+          "popularity_percentage": 47,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 16,
+          "time_label": "4 pm",
+          "popularity_percentage": 48,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 17,
+          "time_label": "5 pm",
+          "popularity_percentage": 48,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 18,
+          "time_label": "6 pm",
+          "popularity_percentage": 47,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 19,
+          "time_label": "7 pm",
+          "popularity_percentage": 47,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 20,
+          "time_label": "8 pm",
+          "popularity_percentage": 47,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 21,
+          "time_label": "9 pm",
+          "popularity_percentage": 50,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 22,
+          "time_label": "10 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 23,
+          "time_label": "11 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        }
+      ],
+      "Tuesday": [
+        {
+          "hour_of_day": 6,
+          "time_label": "6 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 7,
+          "time_label": "7 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 8,
+          "time_label": "8 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 9,
+          "time_label": "9 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 10,
+          "time_label": "10 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 11,
+          "time_label": "11 am",
+          "popularity_percentage": 32,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 12,
+          "time_label": "12 pm",
+          "popularity_percentage": 41,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 13,
+          "time_label": "1 pm",
+          "popularity_percentage": 47,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 14,
+          "time_label": "2 pm",
+          "popularity_percentage": 50,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 15,
+          "time_label": "3 pm",
+          "popularity_percentage": 52,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 16,
+          "time_label": "4 pm",
+          "popularity_percentage": 60,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 17,
+          "time_label": "5 pm",
+          "popularity_percentage": 68,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 18,
+          "time_label": "6 pm",
+          "popularity_percentage": 73,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 19,
+          "time_label": "7 pm",
+          "popularity_percentage": 76,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 20,
+          "time_label": "8 pm",
+          "popularity_percentage": 76,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 21,
+          "time_label": "9 pm",
+          "popularity_percentage": 78,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 22,
+          "time_label": "10 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 23,
+          "time_label": "11 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        }
+      ],
+      "Wednesday": [
+        {
+          "hour_of_day": 6,
+          "time_label": "6 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 7,
+          "time_label": "7 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 8,
+          "time_label": "8 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 9,
+          "time_label": "9 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 10,
+          "time_label": "10 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 11,
+          "time_label": "11 am",
+          "popularity_percentage": 26,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 12,
+          "time_label": "12 pm",
+          "popularity_percentage": 35,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 13,
+          "time_label": "1 pm",
+          "popularity_percentage": 40,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 14,
+          "time_label": "2 pm",
+          "popularity_percentage": 43,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 15,
+          "time_label": "3 pm",
+          "popularity_percentage": 46,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 16,
+          "time_label": "4 pm",
+          "popularity_percentage": 51,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 17,
+          "time_label": "5 pm",
+          "popularity_percentage": 52,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 18,
+          "time_label": "6 pm",
+          "popularity_percentage": 52,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 19,
+          "time_label": "7 pm",
+          "popularity_percentage": 51,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 20,
+          "time_label": "8 pm",
+          "popularity_percentage": 49,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 21,
+          "time_label": "9 pm",
+          "popularity_percentage": 48,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 22,
+          "time_label": "10 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 23,
+          "time_label": "11 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        }
+      ],
+      "Thursday": [
+        {
+          "hour_of_day": 6,
+          "time_label": "6 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 7,
+          "time_label": "7 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 8,
+          "time_label": "8 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 9,
+          "time_label": "9 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 10,
+          "time_label": "10 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 11,
+          "time_label": "11 am",
+          "popularity_percentage": 35,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 12,
+          "time_label": "12 pm",
+          "popularity_percentage": 46,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 13,
+          "time_label": "1 pm",
+          "popularity_percentage": 54,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 14,
+          "time_label": "2 pm",
+          "popularity_percentage": 54,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 15,
+          "time_label": "3 pm",
+          "popularity_percentage": 51,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 16,
+          "time_label": "4 pm",
+          "popularity_percentage": 50,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 17,
+          "time_label": "5 pm",
+          "popularity_percentage": 51,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 18,
+          "time_label": "6 pm",
+          "popularity_percentage": 52,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 19,
+          "time_label": "7 pm",
+          "popularity_percentage": 56,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 20,
+          "time_label": "8 pm",
+          "popularity_percentage": 56,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 21,
+          "time_label": "9 pm",
+          "popularity_percentage": 56,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 22,
+          "time_label": "10 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 23,
+          "time_label": "11 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        }
+      ],
+      "Friday": [
+        {
+          "hour_of_day": 6,
+          "time_label": "6 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 7,
+          "time_label": "7 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 8,
+          "time_label": "8 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 9,
+          "time_label": "9 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 10,
+          "time_label": "10 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 11,
+          "time_label": "11 am",
+          "popularity_percentage": 33,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 12,
+          "time_label": "12 pm",
+          "popularity_percentage": 43,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 13,
+          "time_label": "1 pm",
+          "popularity_percentage": 51,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 14,
+          "time_label": "2 pm",
+          "popularity_percentage": 52,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 15,
+          "time_label": "3 pm",
+          "popularity_percentage": 51,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 16,
+          "time_label": "4 pm",
+          "popularity_percentage": 51,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 17,
+          "time_label": "5 pm",
+          "popularity_percentage": 55,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 18,
+          "time_label": "6 pm",
+          "popularity_percentage": 59,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 19,
+          "time_label": "7 pm",
+          "popularity_percentage": 60,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 20,
+          "time_label": "8 pm",
+          "popularity_percentage": 58,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 21,
+          "time_label": "9 pm",
+          "popularity_percentage": 59,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 22,
+          "time_label": "10 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 23,
+          "time_label": "11 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        }
+      ],
+      "Saturday": [
+        {
+          "hour_of_day": 6,
+          "time_label": "6 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 7,
+          "time_label": "7 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 8,
+          "time_label": "8 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 9,
+          "time_label": "9 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 10,
+          "time_label": "10 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 11,
+          "time_label": "11 am",
+          "popularity_percentage": 37,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 12,
+          "time_label": "12 pm",
+          "popularity_percentage": 45,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 13,
+          "time_label": "1 pm",
+          "popularity_percentage": 53,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 14,
+          "time_label": "2 pm",
+          "popularity_percentage": 57,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 15,
+          "time_label": "3 pm",
+          "popularity_percentage": 60,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 16,
+          "time_label": "4 pm",
+          "popularity_percentage": 65,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 17,
+          "time_label": "5 pm",
+          "popularity_percentage": 69,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 18,
+          "time_label": "6 pm",
+          "popularity_percentage": 74,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 19,
+          "time_label": "7 pm",
+          "popularity_percentage": 80,
+          "popularity_description": "Usually as busy as it gets"
+        },
+        {
+          "hour_of_day": 20,
+          "time_label": "8 pm",
+          "popularity_percentage": 85,
+          "popularity_description": "Usually as busy as it gets"
+        },
+        {
+          "hour_of_day": 21,
+          "time_label": "9 pm",
+          "popularity_percentage": 89,
+          "popularity_description": "Usually as busy as it gets"
+        },
+        {
+          "hour_of_day": 22,
+          "time_label": "10 pm",
+          "popularity_percentage": 85,
+          "popularity_description": "Usually as busy as it gets"
+        },
+        {
+          "hour_of_day": 23,
+          "time_label": "11 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        }
+      ],
+      "Sunday": [
+        {
+          "hour_of_day": 6,
+          "time_label": "6 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 7,
+          "time_label": "7 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 8,
+          "time_label": "8 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 9,
+          "time_label": "9 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 10,
+          "time_label": "10 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 11,
+          "time_label": "11 am",
+          "popularity_percentage": 57,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 12,
+          "time_label": "12 pm",
+          "popularity_percentage": 73,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 13,
+          "time_label": "1 pm",
+          "popularity_percentage": 83,
+          "popularity_description": "Usually as busy as it gets"
+        },
+        {
+          "hour_of_day": 14,
+          "time_label": "2 pm",
+          "popularity_percentage": 86,
+          "popularity_description": "Usually as busy as it gets"
+        },
+        {
+          "hour_of_day": 15,
+          "time_label": "3 pm",
+          "popularity_percentage": 86,
+          "popularity_description": "Usually as busy as it gets"
+        },
+        {
+          "hour_of_day": 16,
+          "time_label": "4 pm",
+          "popularity_percentage": 89,
+          "popularity_description": "Usually as busy as it gets"
+        },
+        {
+          "hour_of_day": 17,
+          "time_label": "5 pm",
+          "popularity_percentage": 93,
+          "popularity_description": "Usually as busy as it gets"
+        },
+        {
+          "hour_of_day": 18,
+          "time_label": "6 pm",
+          "popularity_percentage": 96,
+          "popularity_description": "Usually as busy as it gets"
+        },
+        {
+          "hour_of_day": 19,
+          "time_label": "7 pm",
+          "popularity_percentage": 100,
+          "popularity_description": "Usually as busy as it gets"
+        },
+        {
+          "hour_of_day": 20,
+          "time_label": "8 pm",
+          "popularity_percentage": 99,
+          "popularity_description": "Usually as busy as it gets"
+        },
+        {
+          "hour_of_day": 21,
+          "time_label": "9 pm",
+          "popularity_percentage": 95,
+          "popularity_description": "Usually as busy as it gets"
+        },
+        {
+          "hour_of_day": 22,
+          "time_label": "10 pm",
+          "popularity_percentage": 80,
+          "popularity_description": "Usually as busy as it gets"
+        },
+        {
+          "hour_of_day": 23,
+          "time_label": "11 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        }
+      ]
+    },
+    "menu": null,
+    "reservations": [],
+    "order_online_links": [],
+    "gas_prices": [],
+    "image_count": 126,
+    "images": [
+      {
+        "about": "All",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEdXX7OEpnBhCyMgWFhtUEIcF1coL503RRC9IFHZNnawboudjvBWGjX7kJKJhqzKyVpjJECRmOQI-bk0k6f7O9a0ObH5mOt9D97ymnIlN0X_eIkFou7UDd0S7kNwcxZfQ5jgW7b=w1920-h1080-k-no",
+        "published_at_date": "2022-04-14T15:00:00"
+      },
+      {
+        "about": "Latest",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFHIfsk3GRXrXAgHeuymacOlUkH9zwbEQrOyMVoG58F6Ur-UWDYibDL9Aas2m0imjnOhCYGbBzp5Fh_eCMoQNP7UqlSF2N8ANBU8VFIx96lVeRdef9o6nxyo7Mzm-1inMaSEmoBA20kVAGP=w1920-h1080-k-no",
+        "published_at_date": "2026-06-21T17:00:00"
+      },
+      {
+        "about": "Videos",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAENWd8RaYLDWMdLT6TxJQ87FsBqZEV0tgYgh5BsibWnnyvgos-AYKTGQurPSbAszR07aN-dPiwL34r0Dz84ud4PyUQwoNuOgBl8JfCJ0ewm9kg0RhsumFD3gnJ-DqJ7TCXA7RmPXq9d2Br4=w1920-h1080-k-no",
+        "published_at_date": "2025-04-09T06:00:00"
+      },
+      {
+        "about": "Bowling",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF0xHsrknH7Omk45fLM0sQWiL5OzPN8qwAVDTSEbQrj4KDe1D4P9Rb8---drcwwvPYhnjQwD0Y7K0LN-iVG8VGMnVUnAIncnf5XJPXz_UtGoAm0KQtVbj-0eXrI5VHN6-WPRgdh=w1920-h1080-k-no",
+        "published_at_date": "2022-11-11T15:00:00"
+      },
+      {
+        "about": "By owner",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEKFv-tQCXR-mffzwtiCTrMhJq4Pd1fBPAFHq51O1HzPUSMVhE7yGelfKV9F5a1eb8ufevptoZO9RZOh2H-i-wfLdiIkpR5MoKP-Bv5Jm8XYYYD3YuDe-SfoBWqJUtjgeCzcvg=w1920-h1080-k-no",
+        "published_at_date": "2022-06-22T08:00:00"
+      }
+    ],
+    "featured_images": [
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEdXX7OEpnBhCyMgWFhtUEIcF1coL503RRC9IFHZNnawboudjvBWGjX7kJKJhqzKyVpjJECRmOQI-bk0k6f7O9a0ObH5mOt9D97ymnIlN0X_eIkFou7UDd0S7kNwcxZfQ5jgW7b=w1920-h1080-k-no",
+        "published_at_date": "2022-04-14T15:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF0xHsrknH7Omk45fLM0sQWiL5OzPN8qwAVDTSEbQrj4KDe1D4P9Rb8---drcwwvPYhnjQwD0Y7K0LN-iVG8VGMnVUnAIncnf5XJPXz_UtGoAm0KQtVbj-0eXrI5VHN6-WPRgdh=w1920-h1080-k-no",
+        "published_at_date": "2022-11-11T15:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEtzJdUqAH65tbb8KFEkvI-YQPU9zMxBbfP6-QNK5zWK33kZuChMz5bYjX2Lkbgj4Glj-temqG4xYgHyoC69aVr6vkamDJYaaWLHKdDXWtOYj5TeVU_N0i1CizVD58QdTNPhRfw=w1920-h1080-k-no",
+        "published_at_date": "2022-06-22T08:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFEBEOcajIfmXQoEStIgaumBi3s_qxiNpNB3Ps3f5AXDigM6o0ej99WW_cUGjm3U1m8F7eBb1CnH1GESai4AaQ_aIwNnTdM_wkVA6mcX4NIm6CJREorOcZSYPdk4Nrs0EgvdOU=w1920-h1080-k-no",
+        "published_at_date": "2022-06-27T15:00:00"
+      }
+    ],
+    "on_site_places": [],
+    "customer_updates": [
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEMHZTRWxBRRAB",
+        "link": "https://www.google.com/maps/@/data=!4m7!23m6!1m5!1sChdDSUhNMG9nS0VJQ0FnSUNEMHZTRWxBRRAB!2m1!1s0x0:0x85af8c261d7edc61!3m1!1s2@1:CIHM0ogKEICAgICD0vSElAE%7C%7C?hl=en",
+        "name": "KARAN PATEL",
+        "reviewer_id": "115881543873295267936",
+        "reviewer_profile": "https://www.google.com/maps/contrib/115881543873295267936?hl=en-GB",
+        "rating": null,
+        "text": "Hi All,\nWe visited this place in the month of March and it was not at all a good experience, we needed to call the operator 3-4 times to update the points as it was showing incorrect. Even if we do strike it was showing an error.",
+        "original_language": "en",
+        "translated_text": null,
+        "translated_language": null,
+        "published_at": "2 years ago",
+        "published_at_date": "2024-03-26T10:30:47",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjVp_EjewJB5KzqVAIMtFhStDcePglQaFCA5W5PZAFijq_etVjOvZw=s1920",
+        "total_number_of_reviews_by_reviewer": 112,
+        "total_number_of_photos_by_reviewer": 168,
+        "is_local_guide": true,
+        "experience_details": [],
+        "photos": [
+          {
+            "id": "CIHM0ogKEICAgICD0vSE1AE",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn14vdG323ELllI5MuIwbeB5tyYJecMqS3C7y2inIKs9QRjh7QWB0JeO11ltZJsLac51nYFvdecXKr-HpjjU0jgdRd6M0-RfgigkIzXSw6qQXdnNZPg2Xot1AobHzNMCeJ2IE2b6sw=k-no",
+            "caption": null,
+            "width": 4624,
+            "height": 3468
+          }
+        ],
+        "review_origin": "google"
+      }
+    ],
+    "featured_question": null,
+    "review_keywords": [
+      {
+        "keyword": "game zone",
+        "count": 6
+      },
+      {
+        "keyword": "games for adults",
+        "count": 2
+      },
+      {
+        "keyword": "bowling arena",
+        "count": 2
+      },
+      {
+        "keyword": "affordability",
+        "count": 5
+      },
+      {
+        "keyword": "play area",
+        "count": 5
+      },
+      {
+        "keyword": "arcade games",
+        "count": 6
+      },
+      {
+        "keyword": "adult activities",
+        "count": 2
+      },
+      {
+        "keyword": "reasonable rate",
+        "count": 3
+      },
+      {
+        "keyword": "loud music",
+        "count": 3
+      },
+      {
+        "keyword": "hygiene",
+        "count": 2
+      }
+    ],
+    "featured_reviews": [
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyaU56Z1J3EAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNyaU56Z1J3EAE!2m1!1s0x0:0x85af8c261d7edc61!3m1!1s2@1:CIHM0ogKEICAgICriNzgRw%7C%7C?hl=en",
+        "name": "Noel Nadar",
+        "reviewer_id": "113491893041549086770",
+        "reviewer_profile": "https://www.google.com/maps/contrib/113491893041549086770?hl=en-GB",
+        "rating": 4,
+        "review_text": "Visited this place with friends for bowling. It was fun. The bowling alley has quite a groovy vibe! The prices are quite reasonable and are slightly higher on weekends. It is one of the main attractions located in Raghuleela Mall. The music is very loud sometimes but sets in with the lively ambience.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2024-07-03T13:30:38",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocLLk_J9_BM5lIjKxqhE9vF2ut-xN8eaC8iHYeMi4PG7Q-moF1U=s1920",
+        "total_number_of_reviews_by_reviewer": 372,
+        "total_number_of_photos_by_reviewer": 2357,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [
+          {
+            "id": "CIHM0ogKEICAgICriNzgFw",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn00ydRFSzM3Wj5rG1IdMP0HVpSD0DM-tUj3VxhJqLt8wzCKvb2OqN9Okn8gy1p66elQILPNORoWF9GdTZckd2lAZXFhQkI5nKYt7E-VpR8o07_2jLDKQgZgMtOprvAowtkQZNqT=k-no",
+            "caption": null,
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "CIHM0ogKEICAgICriNzgpwE",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn0dsLcYJTQX1aguLQI8N2xWtM0yQeaN8t0tDCpMv6Uk4ApsXkCTdR-8-XaB0K815M6crkbWXXjCzz42BsnMw3c885rVnAwCwaj4ZyJ92kWPQNABYQWTZK1nc3zCPiTbXhMCf3IRwg=k-no",
+            "caption": null,
+            "width": 1080,
+            "height": 1440
+          },
+          {
+            "id": "CIHM0ogKEICAgICriNzgZw",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn0h492au7UfiKkOUdM8lO816BeivfFK3ExloENiKArSC0RuUBxKW3zQwzV7kl7L3zXnENSqT3xMZR7EwFZSh17JlZogxkLFPPHvEG2oieBA7jSXeFE12XawS6HEY47Z6rkVDm-_=k-no",
+            "caption": null,
+            "width": 1440,
+            "height": 1080
+          },
+          {
+            "id": "CIHM0ogKEICAgICriNzg5wE",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn3u9hm8MjZblTpNOhUGZLfEVIB01jm1i_k1lCsDv2i3j6VWmdOXxkbR2KV46BuD6io-om9Xz1TWfqDZqIeoKAvOUA4Y-DfVtO6narX2oSwxTfdbRUVEY5gBHUHBf1dhnN9_IUb5FA=k-no",
+            "caption": null,
+            "width": 3472,
+            "height": 4640
+          },
+          {
+            "id": "CIHM0ogKEICAgICriNzglwE",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn3IDOTzLqk34mL5-X9bquMXi6OQIuqQJrg-7trS3MZFqohIwlD9ofWqHD7DHFZubvr-upDSf83tZlGhR3ZzS0dK5K-2zbVHb7oSZbsAT5arMcK18CsCYSS0HaBxPXLp0b1R45cy=k-no",
+            "caption": null,
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "CIHM0ogKEICAgICriNzgVw",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn15vnLGdyQ_SXnW22W-FXqfMeouuK2wPCGhyP5NUqjX9mWPxg0CJpO15NW_2Z3Cn9mxJMIhHkKB8zBOVlRxtJRQTt-2cHvTAhLpg09DOCVZ8bP5tg27Kb4ALcPsSgUcZGWBmRyN=k-no",
+            "caption": null,
+            "width": 3472,
+            "height": 4640
+          }
+        ],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOVE0xSXRkMlpoTWpOME9XOU1aVUpFYTFaamFsRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tOVE0xSXRkMlpoTWpOME9XOU1aVUpFYTFaamFsRRAB!2m1!1s0x0:0x85af8c261d7edc61!3m1!1s2@1:CAIQACodChtycF9oOkNTM1Itd2ZhMjN0OW9MZUJEa1ZjalE%7C%7C?hl=en",
+        "name": "Joshua D'Souza",
+        "reviewer_id": "115846709824312021593",
+        "reviewer_profile": "https://www.google.com/maps/contrib/115846709824312021593?hl=en-GB",
+        "rating": 5,
+        "review_text": "PlayPark is an excellent gaming zone with activities for all age groups! From bowling and the exciting Tomb Raider adventure game to arcade machines and VR setups, there’s something fun for everyone. The place is well-maintained, lively, and gives complete mall gaming area vibes. A perfect spot to hang out with friends or family and enjoy a mix of thrill and relaxation. Highly recommended!",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "8 months ago",
+        "published_at_date": "2025-10-21T19:37:06",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjWPIUe8bh1OSXtR4JwgJq3k1XkUBx4doztjBCwP8akSuXTQYuev=s1920",
+        "total_number_of_reviews_by_reviewer": 7,
+        "total_number_of_photos_by_reviewer": 185,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WcU1VMHpVRkExVUMxeFJqUkRhV1p4TWpSNmRXYxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21WcU1VMHpVRkExVUMxeFJqUkRhV1p4TWpSNmRXYxAB!2m1!1s0x0:0x85af8c261d7edc61!3m1!1s2@1:CAIQACodChtycF9oOmVqMU0zUFA1UC1xRjRDaWZxMjR6dWc%7C%7C?hl=en",
+        "name": "neelam rawat",
+        "reviewer_id": "114287291895107045139",
+        "reviewer_profile": "https://www.google.com/maps/contrib/114287291895107045139?hl=en-GB",
+        "rating": 1,
+        "review_text": "The reason to give one star is, they are not at all taking care of  small kids pathetic service, they don’t care of kids hygiene  problem is also there for an hour I left my kid the staff was busy in chatting and talking to her colleage they dont even now that small kid has done  potty and lu they hand over the kid with full  of potty and lu all clothes were dirty ,then to they  are not At all Interested in kids, they don’t bothered then why the hell the game zone is open close if u charge and u cant take care then shut down the game zone it is not at all tolerated stop doing it",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "2 months ago",
+        "published_at_date": "2026-04-18T12:34:00",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocK4PgXRdFAO7RD236Kg10xH_q7EQzCVP0zJDC4mq-Tp0GUF1J0=s1920",
+        "total_number_of_reviews_by_reviewer": 5,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM1NllfdG9BRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUM1NllfdG9BRRAB!2m1!1s0x0:0x85af8c261d7edc61!3m1!1s2@1:CIHM0ogKEICAgIC56Y_toAE%7C%7C?hl=en",
+        "name": "Kaushal Sheth",
+        "reviewer_id": "111339459062565887607",
+        "reviewer_profile": "https://www.google.com/maps/contrib/111339459062565887607?hl=en-GB",
+        "rating": 3,
+        "review_text": "I have visited this game zone with my kid. It is in Raghuleela mall. This Mall is one of the first few mall which was popular back then now it is, not that great due you big malls in town. This game zone is also very old. Games are few. And the points benefit are also very less. I suggest you keep you kid in playzone for hour and you shop thats the only thing kid will enjoy",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "2 years ago",
+        "published_at_date": "2023-10-15T15:47:36",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjXFRjK_NouFrHuWvMwOoRwpCYXT7z1J8GL08SS5_6tdvTj25QU=s1920",
+        "total_number_of_reviews_by_reviewer": 111,
+        "total_number_of_photos_by_reviewer": 265,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [
+          {
+            "id": "CIHM0ogKEICAgIC5mYTDLQ",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn2p9qvVvhyAX9_JMDrU9t5ma8VzdOayLq966XzyaXggch8gb531jY6as4aC6yXk27ZrPCcli4Gk-1JAxjQJ6YUC6vs-3_Wj3EemejoLb-AP9wdn_GE-6K3qwhraL-dkTVn5ymkf=k-no",
+            "caption": null,
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "CIHM0ogKEICAgIC5mYTD9QE",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn0hSz7q8Rr1SG-XBGoN0g4o1R-0Uk6NV4I2uZyUyD5KS63duVWepaApXMWNInQ7H0dB8_7NXA-X-qnFqPDk1cWxXyJ9BF_krmXRi7WwVqqnLjvXvLFh3g77yJRcgsgObEOVJqb-GA=k-no",
+            "caption": null,
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "CIHM0ogKEICAgIC5mYTDDQ",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn0BXExGwwQUj8Shj8e-xWDLjNQxN17Q6YzjdkKE7n9rANWj-xUMGQVFZQ9wbE9Y_JA_NHMuntil5ah_l34ojKhXNxQPU5iGhdqQ7kwVy-IIHAyPPMVBpy2O4kI5yM1O7B-fGYJr=k-no",
+            "caption": null,
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "CIHM0ogKEICAgIC5mYTDjQE",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn2arXuKaRRz7KejGS1s_4r1gliIIem0V7FUA_EsN8vzhakOxsIZaSZKCXkZ9ueCvHmPKQqtLoGYVjKbZYEFNRkNIW0Vczk4U-5CpWy6ja7wd4gdccSgf7F3aEL76fM660QjyU3B8Q=k-no",
+            "caption": null,
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "CIHM0ogKEICAgIC5mYTDTQ",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn18Lrwaoi39GAZ0nXDs9DXPrEH-YDTIezdY2IMYQZhqdDYqwrvsHVKaAtgBybFbWB1r8NkXFOBWWdDPe7KdgYZWuiFyXA7vXpEcEHb7uA3HO08Mu6MyT4VrehjupxryekSd6SU=k-no",
+            "caption": null,
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "CIHM0ogKEICAgIC5mYTDzQE",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn26CUGX5emgHWxLsMAF-Iv_gM1XKB--HiYZrjX_Ib714MrILP-xNOHaIHi0vC9235vVXxSKx2MjDyeCRPIVpu1HiaSEqtRljnUltl1m0KqSu7F9N3Y_n6GctPGCUyDXbCkMZYvoeQ=k-no",
+            "caption": null,
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCX0pLMmhBRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNCX0pLMmhBRRAB!2m1!1s0x0:0x85af8c261d7edc61!3m1!1s2@1:CIHM0ogKEICAgICB_JK2hAE%7C%7C?hl=en",
+        "name": "Zidane Dcosta",
+        "reviewer_id": "109772361440533902852",
+        "reviewer_profile": "https://www.google.com/maps/contrib/109772361440533902852?hl=en-GB",
+        "rating": 4,
+        "review_text": "It is a good entertainment place for kids as well adults.\nFor kids :- A variety of arcade games, well organised and clean. Small place but good for a quick visit for a kid.\nFor adults :- The only place for adults is the bowling alley. Well managed and superb ambience.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "3 years ago",
+        "published_at_date": "2022-12-20T07:51:18",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjXaxVuud9OAoDr0Kr6VHNbbfSyDITN16nTJKbQyDPJwIvkqoMnf=s1920",
+        "total_number_of_reviews_by_reviewer": 111,
+        "total_number_of_photos_by_reviewer": 223,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [
+          {
+            "id": "CIHM0ogKEICAgICB_LL8nQE",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn0WcOkBP7Na2pXRsiXvohsLlsLP9OuZJa1lzE6Xfh9Y0PF2ZaGUlN-bcDFmRf4QaI6eCF2mUiFUWRbM32RlVI2fRorHdAmIF87151CkAMQBHOzZPNfsJiqJOuQ4VI8g3_yqkFFyIQ=k-no",
+            "caption": null,
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "CIHM0ogKEICAgICB_LL8zQE",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn0FkGxInVDbKR7OM-ROdf7hlXh0c1CsHyXExUxJ1l4Npu2beo1Afi2jSNEHCQsxcnl7qJ4dVVoyDsQobYO3wgEJy6TIMioIUlQ4pWLgpFIRUvO9QXarDaqE8OkYD7iF4XcCmbmj=k-no",
+            "caption": null,
+            "width": 1600,
+            "height": 1200
+          },
+          {
+            "id": "CIHM0ogKEICAgICB_LL8LQ",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn1uh3yu9q-nxpeZI6bZxGcpViy6py49q4gkOWpk1ahAgmsthc7RKqhU9a-o_Q6Ji1Hd7-Ys2pn2iImN2cBWWEnc0D75umXuw-oH5GpevowzZzWMMQK42258IjmN9HDsD2O_tpI=k-no",
+            "caption": null,
+            "width": 4000,
+            "height": 2252
+          },
+          {
+            "id": "CIHM0ogKEICAgICB_LL8rQE",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn045VoE9_NGPrzUz_Eq__-5EBYHVpgUixYfoFghx-XGZ05qL3aqbQAXEyMcXp45dpg16c1Tkco52prBAY1ewIGmo8Frb4l19vNB_fH9BrT10iIra6nRRm8odVduFQlH3gUXcgaQTA=k-no",
+            "caption": null,
+            "width": 4000,
+            "height": 2252
+          },
+          {
+            "id": "CIHM0ogKEICAgICB_LL8bQ",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn1Pwme-OA4l6loS_wr65J1Iey2CjOYpFS4Z5aWDlcC_mZRLvEoNVk2cIKqB8gaTjKy7sxmw0w_GnAINFpwL1PFPlp0KGHaUDWr3ZqcAf4ER3UC75uQzhk-s2nMziRsf-JfEjKc=k-no",
+            "caption": null,
+            "width": 4000,
+            "height": 2252
+          },
+          {
+            "id": "CIHM0ogKEICAgICB_LL87QE",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn3kTSV0xzj7Ovbs499pMKTsZdGb9Q7FcNhZp2w70ZYBW76iL9nOplJYFkZ8WG9EOAJRBrLEvsGZvAYVMDHV5cywsAbgsBgIDbfheNZ6buhAQ-sm_rRATU_XNEg4uaUSrGs-cx97=k-no",
+            "caption": null,
+            "width": 9000,
+            "height": 12000
+          },
+          {
+            "id": "CIHM0ogKEICAgICB_LL8HQ",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn1kC3Ry1RpN-_81OTruaDKpfrHu196OUw9AkD7aOVzoHVe9Rnpfn8gPgyJJ89-yFwLVuSEu1PSec99kGf0Ismld-jQmDJcIb9H4JBLQAUTcXMb9L6JdoB2PDAfNGLjbNSiFfyY=k-no",
+            "caption": null,
+            "width": 4000,
+            "height": 2252
+          }
+        ],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCc1plenl3RRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNCc1plenl3RRAB!2m1!1s0x0:0x85af8c261d7edc61!3m1!1s2@1:CIHM0ogKEICAgICBsZezywE%7C%7C?hl=en",
+        "name": "Sandeep Kadam",
+        "reviewer_id": "115900405702931456420",
+        "reviewer_profile": "https://www.google.com/maps/contrib/115900405702931456420?hl=en-GB",
+        "rating": 4,
+        "review_text": "Nice gaming zone, several electronic games available but not much well maintained, support staff is good but still space for improvement, dashing car also available, you can enjoy bowling with 4 lanes available, overall nice gaming zone for youngsters and kid's.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "3 years ago",
+        "published_at_date": "2022-12-28T15:25:31",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjXKNDzwtzT8-wBIMroFM4P8X9fdWCfcKsKhYST32YwMWEFg_jtr=s1920",
+        "total_number_of_reviews_by_reviewer": 118,
+        "total_number_of_photos_by_reviewer": 283,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [
+          {
+            "id": "CIHM0ogKEICAgICBsY_DCw",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn3W0gbiDQw1G-ItKHefsQxcWz3S06jlacPr7ZSZu92RSGOzIMhciRuQE3XuL1bWSTU_2KeLsbVKtvdiCHvrxSaPhLwPh008jTCmAqCV_gmfhmwiKBo9mlBs9I0E5FebrgbonbAq=k-no",
+            "caption": null,
+            "width": 480,
+            "height": 848
+          },
+          {
+            "id": "CIHM0ogKEICAgICBsY_DiwE",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn08HVn2URlOu8fhuGHM_1ZvyAx3vUK4MZnIPSWLoKnk8GAExd0kN88VJ_y323rtSoKcmYlpogBeN8Rqcd2ab3GQPxwr7HZhYpX2dtVkijSk0T0DwWlWyAZckgazFoNSTqJLejRZCg=k-no",
+            "caption": null,
+            "width": 480,
+            "height": 848
+          },
+          {
+            "id": "CIHM0ogKEICAgICBsY_DSw",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn2Oh5daFRymhV3tW5tYjU1w1VI9tQvp7Zjdwm9DUJnqh0x5T6NEXb68acIXVsGPc776MzfVD_W9wSTGQPJk0AVDkVJIgdqSsFj30EtRd6vOnOqUUqJzcFgBUpMHTwp1jLEWtwU=k-no",
+            "caption": null,
+            "width": 768,
+            "height": 1024
+          },
+          {
+            "id": "CIHM0ogKEICAgICBsY_DywE",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn2j53C3i2xzhYMPEZjlmv9hWmybQqwmG_UsmDJc25oVzMwAyX0woy-iHaAU82knHcpOPsE_kF0dsUkaQaSN9XVmoV_c8Fi0dNITZhWH2Tmb1JN6CIOQycDu8jcElukzrzckGsYB=k-no",
+            "caption": null,
+            "width": 720,
+            "height": 1280
+          },
+          {
+            "id": "CIHM0ogKEICAgICBsY_DKw",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn1Eicm5f516iVAAcgB-TzVAVyTQzR1cj-Sle2Rbb6S1TNZ8zT6iZ7mMzVQdwZpwpCIWOWKmOHt0LNShOph4oPBi7GyG36ubkLLyqSFqdCKX-QmHL8u1Tq1zb9chejg-dGeHu13X=k-no",
+            "caption": null,
+            "width": 900,
+            "height": 1600
+          },
+          {
+            "id": "CIHM0ogKEICAgICBsY_DqwE",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn0_OytUkByU4Q__PUFGoyTc6TRSxKIn0PD9LCQfaqIwN2y64C2XkHG8P-l24hfb1jt4tlsFK6hKPSKYxmGw4p3KzJLT7bONbApt7_1DdfqtjCAI-AZ-KkDk2JrwMl6D7cCRl-uyKQ=k-no",
+            "caption": null,
+            "width": 1280,
+            "height": 576
+          }
+        ],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJLXJ2RFBnEAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnTURJLXJ2RFBnEAE!2m1!1s0x0:0x85af8c261d7edc61!3m1!1s2@1:CIHM0ogKEICAgMDI-rvDPg%7C%7C?hl=en",
+        "name": "Varsha",
+        "reviewer_id": "104437918447676322123",
+        "reviewer_profile": "https://www.google.com/maps/contrib/104437918447676322123?hl=en-GB",
+        "rating": 4,
+        "review_text": "We had a great time at this bowling alley!The ambiance was spot on fun, vibrant, and perfect for hangout with friends. The lighting and music added a really cool vibe.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2025-04-09T06:19:58",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocK7fEU6bOT1XOPjzOH3erwF2eHNatuI89rXmDmdX3fcnGrJBQ=s1920",
+        "total_number_of_reviews_by_reviewer": 13,
+        "total_number_of_photos_by_reviewer": 2,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [
+          {
+            "id": "CIHM0ogKEICAgMDI3r245QE",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn3NkOy8KiGeudI4XZJmxaNGXyWZ46TTFLQ4ahq6r_KuF-ngv1rIJaMN39Cdgxnr5vVVgYgm4-xsvz9fvr_Xn3Srl5uLTNSb3R0Vlypv4zyriBBCcPfU4T_T4_YAZ07YQ_thl8blyg=k-no",
+            "caption": null,
+            "width": 544,
+            "height": 960
+          }
+        ],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5YWNVbFNMV2gyYUdObVNqbG5RbGRYTURBeGQxRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s5YWNVbFNMV2gyYUdObVNqbG5RbGRYTURBeGQxRRAB!2m1!1s0x0:0x85af8c261d7edc61!3m1!1s2@1:CAIQACodChtycF9oOk9acUlSLWh2aGNmSjlnQldXMDAxd1E%7C%7C?hl=en",
+        "name": "Piyu Gamot",
+        "reviewer_id": "115493989065494415236",
+        "reviewer_profile": "https://www.google.com/maps/contrib/115493989065494415236?hl=en-GB",
+        "rating": 5,
+        "review_text": "Very budget friendly must visit",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "5 months ago",
+        "published_at_date": "2026-01-06T21:43:30",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjWv-bCFRsYIwNdBHYS1Nm-b7gnE6AZluqRz3eDnSjU5MNTxBpQmTA=s1920",
+        "total_number_of_reviews_by_reviewer": 18,
+        "total_number_of_photos_by_reviewer": 24,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [
+          {
+            "id": "CIABIhBik8kinpqriwr6x81L0Q6E",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn05_vCww3N65wUyjfaSFVjeKbnAkDjaL7l6SlKK_3OZDZ5QNa6E4eQSPXA-IktvXXa9OyKkrVw498Gi-SOXVwEG0LIDkVa-KmQeOBagBjeLMjF1wbZdSmjmPtPT9J-A1Noju7bQv65ND1jp=k-no",
+            "caption": null,
+            "width": 3024,
+            "height": 4032
+          },
+          {
+            "id": "CIABIhA9wH6D397yoZ96zimYM-E3",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn2JGUopKDcIMwMkEzYWjcEnu_3NSv1mKk8QWzdJcQ7lEa6KAzBVH4-ZZTaOYKLLKoi5Im6dQezXiH0UXm0141jrF-OC7icg8Uo5Uo_jYQCskgRV1j6wBGLpAtDjKjFGtXa9-U_F3MyxezmJ=k-no",
+            "caption": null,
+            "width": 1980,
+            "height": 3520
+          }
+        ],
+        "review_origin": "google"
+      }
+    ],
+    "query": "bowling alleys in naigaon east"
+  },
+  {
+    "place_id": "ChIJb9u4iV2w5zsR9wEnjtgXgUY",
+    "name": "TECHSOL BOWLING",
+    "description": "Global Products Marketing & Service\nTenpin Bowling,Dashing car, Softplay, Pool table, Videogame, solar products,LED Lights, Windmills,etc.",
+    "is_spending_on_ads": false,
+    "link": "https://www.google.com/maps/place/TECHSOL+BOWLING/data=!4m7!3m6!1s0x3be7b05d89b8db6f:0x468117d88e2701f7!8m2!3d19.2931609!4d72.8774177!16s%2Fg%2F11fyx5q03c!19sChIJb9u4iV2w5zsR9wEnjtgXgUY?authuser=0&rclk=1",
+    "reviews": 20,
+    "rating": 3.8,
+    "competitors": [
+      {
+        "name": "Maxus Fun World",
+        "suggested_link": "https://www.google.com/maps/search/Maxus+Fun+World/@19.295945,72.8485276,19z?authuser=0&entry=ttu",
+        "reviews": 3451,
+        "rating": 4.1,
+        "main_category": "Children's amusement center",
+        "categories": [
+          "Children's amusement center",
+          "Game store"
+        ],
+        "coordinates": {
+          "latitude": 19.295945,
+          "longitude": 72.8485276
+        }
+      },
+      {
+        "name": "Fun blast",
+        "suggested_link": "https://www.google.com/maps/search/Fun+blast/@19.2898125,72.8676875,19z?authuser=0&entry=ttu",
+        "reviews": 17,
+        "rating": 4.2,
+        "main_category": "Board game club",
+        "categories": [
+          "Board game club"
+        ],
+        "coordinates": {
+          "latitude": 19.2898125,
+          "longitude": 72.8676875
+        }
+      },
+      {
+        "name": "Techbowling",
+        "suggested_link": "https://www.google.com/maps/search/Techbowling/@19.2966406,72.85601,19z?authuser=0&entry=ttu",
+        "reviews": 8,
+        "rating": 5,
+        "main_category": "Cricket ground",
+        "categories": [
+          "Cricket ground"
+        ],
+        "coordinates": {
+          "latitude": 19.2966406,
+          "longitude": 72.85601
+        }
+      }
+    ],
+    "website": null,
+    "phone": "098690 01511",
+    "phone_international": "+91 98690 01511",
+    "can_claim": false,
+    "owner": {
+      "id": "101509698296342815582",
+      "name": "TECHSOL BOWLING (Owner)",
+      "link": "https://www.google.com/maps/contrib/101509698296342815582"
+    },
+    "owner_posts": [],
+    "featured_image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFYt5TZBJjI0iWlDw7Zy4X9qe0zdYMg9SKgcIyNbzSZYl3e23y714yj90gKc3ux2NVzIEjvyYlFhoqGQjX24vq76lQ2cAFFlCIeaGGrZDUzKRNCtgEa4xv6IQ9e1tkqSyY8WPk=w1920-h1080-k-no",
+    "main_category": "Bowling supply shop",
+    "categories": [
+      "Bowling supply shop",
+      "Billiards supply store",
+      "Children's amusement center",
+      "Leisure center",
+      "Outdoor sports store",
+      "Sporting goods store",
+      "Video arcade"
+    ],
+    "workday_timing": "10 am–6 pm",
+    "status": null,
+    "is_temporarily_closed": false,
+    "is_permanently_closed": false,
+    "closed_on": [
+      "Sunday"
+    ],
+    "address": "Shop no 35, SHREE SHARNAM SOCIETY, opp. LA GARDENIA, Unique Gardens, Gaurav City, Mira Road East, Mira Bhayandar, Maharashtra 401107",
+    "price_range": null,
+    "reviews_per_rating": {
+      "1": 3,
+      "2": 1,
+      "3": 2,
+      "4": 5,
+      "5": 9
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJb9u4iV2w5zsR9wEnjtgXgUY&q=TECHSOL+BOWLING&authuser=0&hl=en&gl=IN",
+    "coordinates": {
+      "latitude": 19.2931609,
+      "longitude": 72.8774177
+    },
+    "plus_code": "7VVG+7X Mira Bhayandar, Maharashtra",
+    "detailed_address": {
+      "ward": "Unique Gardens, Gaurav City, Mira Road East",
+      "street": "Shop no 35, SHREE SHARNAM SOCIETY, opp. LA GARDENIA",
+      "city": "Mira Bhayandar",
+      "postal_code": "401107",
+      "state": "Maharashtra",
+      "country_code": "IN"
+    },
+    "time_zone": "Asia/Calcutta",
+    "is_rental": false,
+    "cid": "5080368073515926007",
+    "data_id": "0x3be7b05d89b8db6f:0x468117d88e2701f7",
+    "kgmid": "/g/11fyx5q03c",
+    "about": [
+      {
+        "id": "payments",
+        "name": "Payments",
+        "options": [
+          {
+            "name": "Credit cards",
+            "enabled": true
+          },
+          {
+            "name": "Debit cards",
+            "enabled": true
+          },
+          {
+            "name": "NFC mobile payments",
+            "enabled": true
+          }
+        ]
+      }
+    ],
+    "hours": [
+      {
+        "day": "Monday",
+        "times": [
+          "10 am–6 pm"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "times": [
+          "10 am–6 pm"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "times": [
+          "10 am–6 pm"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "times": [
+          "10 am–6 pm"
+        ]
+      },
+      {
+        "day": "Friday",
+        "times": [
+          "10 am–6 pm"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "times": [
+          "10 am–6 pm"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "times": [
+          "Closed"
+        ]
+      }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "menu": null,
+    "reservations": [],
+    "order_online_links": [],
+    "gas_prices": [],
+    "image_count": 134,
+    "images": [
+      {
+        "about": "All",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFYt5TZBJjI0iWlDw7Zy4X9qe0zdYMg9SKgcIyNbzSZYl3e23y714yj90gKc3ux2NVzIEjvyYlFhoqGQjX24vq76lQ2cAFFlCIeaGGrZDUzKRNCtgEa4xv6IQ9e1tkqSyY8WPk=w1920-h1080-k-no",
+        "published_at_date": "2018-06-01T16:00:00"
+      },
+      {
+        "about": "Inside",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH-F-4r_r7oDzbxTuZ8Y-L8UgqA3FMa66pAtJkIkzll9aTDjEWTtFKHUw9nb5zwW07JsfHBDgEdrWUOPlbd1naOw736AHEJzSdSTyFIejrq1s4xcUM_ftnD7Bws6f3IMhWBIsWL=w1920-h1080-k-no",
+        "published_at_date": "2018-06-01T16:00:00"
+      },
+      {
+        "about": "Videos",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEUkY2VqXpwqLDmIQyl26-IUFysUNWEKHemutpHTQ_fdlqHVUT7K-bY392iqwFxPci7rMdEw4YtwfqMm9IHXP2PyF5ZadbIWwx2xAVm7KEKp_UqySXIzV23cko2-aiYvxb79p4V=w1920-h1080-k-no",
+        "published_at_date": "2023-05-05T07:00:00"
+      },
+      {
+        "about": "By owner",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF-vzUL8nMbk3rSI2mCPYOFMfFjop9gZvUNwRtC--3fK6oQHi_pkeCkgINY0-NmQj24RrPguGeCwwCOw9qOSMhg6P8MBoGF5DCr5M46tn-qBnWuFiDQJU4JScc3wSGh13udXB-MNA=w1920-h1080-k-no",
+        "published_at_date": "2024-11-07T14:00:00"
+      },
+      {
+        "about": "Street View & 360°",
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Vi7FsRN6N_ig4323PhMSyg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=72.88202&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-07T06:00:00"
+      }
+    ],
+    "featured_images": [
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFYt5TZBJjI0iWlDw7Zy4X9qe0zdYMg9SKgcIyNbzSZYl3e23y714yj90gKc3ux2NVzIEjvyYlFhoqGQjX24vq76lQ2cAFFlCIeaGGrZDUzKRNCtgEa4xv6IQ9e1tkqSyY8WPk=w1920-h1080-k-no",
+        "published_at_date": "2018-06-01T16:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEUkY2VqXpwqLDmIQyl26-IUFysUNWEKHemutpHTQ_fdlqHVUT7K-bY392iqwFxPci7rMdEw4YtwfqMm9IHXP2PyF5ZadbIWwx2xAVm7KEKp_UqySXIzV23cko2-aiYvxb79p4V=w1920-h1080-k-no",
+        "published_at_date": "2023-05-05T07:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHpQvkaJUrEHp9-CI7QVW1G3gezENrAvjb0lHJy8d5P68tXEKunXO6zGDO6kngT0v2iwLPIRO3GEACc9trcni-WyIYeQD22uQbd79cpdxz4JjvVQmlmk9d7062af3YCUtkvymBhuA=w1920-h1080-k-no",
+        "published_at_date": "2018-06-01T16:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH8-nrj5VYUYCjlPewBIHCF27INzVRZ4OVWR57LfX9Co6qfvRlxgu2Q3Y9OLP3r9t2hbQwmhwRRgx8udYoEvSIwqVguWDA_ni3SSuQF-KWblcvhtMIyfT3634g3wrdvLewcH1E5=w1920-h1080-k-no",
+        "published_at_date": "2023-05-05T07:00:00"
+      }
+    ],
+    "on_site_places": [],
+    "customer_updates": [],
+    "featured_question": null,
+    "review_keywords": [],
+    "featured_reviews": [
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3a2JLRTJBRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQ3a2JLRTJBRRAB!2m1!1s0x0:0x468117d88e2701f7!3m1!1s2@1:CIHM0ogKEICAgID7kbKE2AE%7C%7C?hl=en",
+        "name": "Selwin Kolge",
+        "reviewer_id": "105681610024515915854",
+        "reviewer_profile": "https://www.google.com/maps/contrib/105681610024515915854?hl=en-GB",
+        "rating": 1,
+        "review_text": "How can you be closed on Sundays when people have time to do some arcade gaming on holidays you are closed haha",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2024-08-25T07:50:16",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjUsFialg1LpP9OHgLXFg2HiOkUEHgTmUy7PttenNj1eGqXUFJyGPA=s1920",
+        "total_number_of_reviews_by_reviewer": 8,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZekpyS1NREAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURZekpyS1NREAE!2m1!1s0x0:0x468117d88e2701f7!3m1!1s2@1:CIHM0ogKEICAgIDYzJrKSQ%7C%7C?hl=en",
+        "name": "vinod vishwakarma",
+        "reviewer_id": "107767172987569552839",
+        "reviewer_profile": "https://www.google.com/maps/contrib/107767172987569552839?hl=en-GB",
+        "rating": 3,
+        "review_text": "This not a bowling alley. It's an office that deals in bowling equipments.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "7 years ago",
+        "published_at_date": "2019-05-02T11:17:53",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjU0KAgo3b8NId5bofd1kTEGyxHiBtae9_46alxdm_0M2EU2bnUX=s1920",
+        "total_number_of_reviews_by_reviewer": 19,
+        "total_number_of_photos_by_reviewer": 39,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSURod0ktMGR3EAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURod0ktMGR3EAE!2m1!1s0x0:0x468117d88e2701f7!3m1!1s2@1:CIHM0ogKEICAgIDhwI-0dw%7C%7C?hl=en",
+        "name": "Varun Gotecha",
+        "reviewer_id": "112787848720873186976",
+        "reviewer_profile": "https://www.google.com/maps/contrib/112787848720873186976?hl=en-GB",
+        "rating": 4,
+        "review_text": "Must try",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "3 years ago",
+        "published_at_date": "2023-02-26T19:38:47",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocKo-1ra4psj2GNacEKX2ErNdbHGsaLLvJnFhU21RpMZe46e9klI=s1920",
+        "total_number_of_reviews_by_reviewer": 17,
+        "total_number_of_photos_by_reviewer": 1,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLb1pxX3d3RRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNLb1pxX3d3RRAB!2m1!1s0x0:0x468117d88e2701f7!3m1!1s2@1:CIHM0ogKEICAgICKoZq_wwE%7C%7C?hl=en",
+        "name": "Rushabh Savla",
+        "reviewer_id": "114398485054730906838",
+        "reviewer_profile": "https://www.google.com/maps/contrib/114398485054730906838?hl=en-GB",
+        "rating": 5,
+        "review_text": "Grt",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "5 years ago",
+        "published_at_date": "2021-04-08T05:20:22",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjUgTSjEjyxmeMKINHmQu6SWYH-Y9MtiWLFJqmwoc52X6nmoAEtVTw=s1920",
+        "total_number_of_reviews_by_reviewer": 11,
+        "total_number_of_photos_by_reviewer": 5,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtbjhUbkZnEAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUMtbjhUbkZnEAE!2m1!1s0x0:0x468117d88e2701f7!3m1!1s2@1:CIHM0ogKEICAgIC-n8TnFg%7C%7C?hl=en",
+        "name": "P S",
+        "reviewer_id": "114288994059852580588",
+        "reviewer_profile": "https://www.google.com/maps/contrib/114288994059852580588?hl=en-GB",
+        "rating": 5,
+        "review_text": "Great experience",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "3 years ago",
+        "published_at_date": "2022-11-17T07:49:53",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocL_i4fXzjBhtDyVSgwPFVs969hZYivjNGDRenUkNsaXJEALUQ=s1920",
+        "total_number_of_reviews_by_reviewer": 2,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmLWJfdW13RRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURmLWJfdW13RRAB!2m1!1s0x0:0x468117d88e2701f7!3m1!1s2@1:CIHM0ogKEICAgIDf-b_umwE%7C%7C?hl=en",
+        "name": "Babu Patta",
+        "reviewer_id": "117569672838555178413",
+        "reviewer_profile": "https://www.google.com/maps/contrib/117569672838555178413?hl=en-GB",
+        "rating": 5,
+        "review_text": "बहुत अच्छा",
+        "original_language": "hi",
+        "review_translated_text": "Very good",
+        "translated_language": "en",
+        "published_at": "a year ago",
+        "published_at_date": "2025-01-08T10:46:54",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjUX9fGfGDo5IGf8d5UOxQ-lZ3Pd90OOR5YHpLNG-2P7KmySRPMX=s1920",
+        "total_number_of_reviews_by_reviewer": 3,
+        "total_number_of_photos_by_reviewer": 22,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR0cXNXRmtBRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR0cXNXRmtBRRAB!2m1!1s0x0:0x468117d88e2701f7!3m1!1s2@1:CIHM0ogKEICAgIDtqsWFkAE%7C%7C?hl=en",
+        "name": "Abhishek Mewada",
+        "reviewer_id": "106568158047665889224",
+        "reviewer_profile": "https://www.google.com/maps/contrib/106568158047665889224?hl=en-GB",
+        "rating": 4,
+        "review_text": null,
+        "original_language": null,
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "2 years ago",
+        "published_at_date": "2024-02-03T20:20:49",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjVeFGSyol3QHhsSDoCjPa51RyUwnyX6V7opAqIowrQ3rS5MlMnQKg=s1920",
+        "total_number_of_reviews_by_reviewer": 4,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNWaV9DaUtBEAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNWaV9DaUtBEAE!2m1!1s0x0:0x468117d88e2701f7!3m1!1s2@1:CIHM0ogKEICAgICVi_CiKA%7C%7C?hl=en",
+        "name": "leeladhar salian",
+        "reviewer_id": "110203505451239741434",
+        "reviewer_profile": "https://www.google.com/maps/contrib/110203505451239741434?hl=en-GB",
+        "rating": 5,
+        "review_text": null,
+        "original_language": null,
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "2 years ago",
+        "published_at_date": "2023-12-09T09:09:20",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjUHDWrBnDnlb2q8n6qUaafhSjBzl5TuW3yjx11znV7w19Vp1zmc=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 1,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      }
+    ],
+    "query": "bowling alleys in naigaon east"
+  },
+  {
+    "place_id": "ChIJQV_9QP6v5zsRfgqWHUW125A",
+    "name": "Bowling Machine",
+    "description": null,
+    "is_spending_on_ads": false,
+    "link": "https://www.google.com/maps/place/Bowling+Machine/data=!4m7!3m6!1s0x3be7affe40fd5f41:0x90dbb5451d960a7e!8m2!3d19.3601761!4d72.8333651!16s%2Fg%2F11kbyhjzl3!19sChIJQV_9QP6v5zsRfgqWHUW125A?authuser=0&rclk=1",
+    "reviews": 0,
+    "rating": 0,
+    "competitors": [],
+    "website": null,
+    "phone": null,
+    "phone_international": null,
+    "can_claim": false,
+    "owner": {
+      "id": "104572129781434700353",
+      "name": "Bowling Machine (Owner)",
+      "link": "https://www.google.com/maps/contrib/104572129781434700353"
+    },
+    "owner_posts": [],
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OIdyErEtJG3iDPVjbTRN_w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=317.7321&pitch=0&thumbfov=100",
+    "main_category": "Indoor playground",
+    "categories": [
+      "Indoor playground"
+    ],
+    "workday_timing": null,
+    "status": null,
+    "is_temporarily_closed": false,
+    "is_permanently_closed": true,
+    "closed_on": "Open All Days",
+    "address": "station road, Umela, Vasai West, naigaon, Mumbai, Maharashtra 401202",
+    "price_range": null,
+    "reviews_per_rating": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJQV_9QP6v5zsRfgqWHUW125A&q=Bowling+Machine&authuser=0&hl=en&gl=IN",
+    "coordinates": {
+      "latitude": 19.3601761,
+      "longitude": 72.8333651
+    },
+    "plus_code": "9R6M+38 Vasai West, Vasai-Virar, Maharashtra",
+    "detailed_address": {
+      "ward": "Umela, Vasai West",
+      "street": "station road",
+      "city": "naigaon, Mumbai",
+      "postal_code": "401202",
+      "state": "Maharashtra",
+      "country_code": "IN"
+    },
+    "time_zone": "Asia/Calcutta",
+    "is_rental": false,
+    "cid": "10438135869814999678",
+    "data_id": "0x3be7affe40fd5f41:0x90dbb5451d960a7e",
+    "kgmid": "/g/11kbyhjzl3",
+    "about": [],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "menu": null,
+    "reservations": [],
+    "order_online_links": [],
+    "gas_prices": [],
+    "image_count": 2,
+    "images": [
+      {
+        "about": "All",
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OIdyErEtJG3iDPVjbTRN_w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=317.7321&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-03T05:00:00"
+      },
+      {
+        "about": "Street View & 360°",
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OIdyErEtJG3iDPVjbTRN_w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=317.7321&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-03T05:00:00"
+      }
+    ],
+    "featured_images": [
+      {
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OIdyErEtJG3iDPVjbTRN_w&cb_client=search.gws-prod.gps&w=203&h=100&yaw=317.7321&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-03T05:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEcOJ62p3sPi0C66z-oCo00lEl0Tt9YPgVfdHWm-t1usiIRn-T0BzxxqzRAtshb-oaatJrNYWHlG8VZcipMKEuVzb1LqELn8KBsGfb41SLtUeR9K8BmhcEk0UtNVhv0EIqTV3LAIg=w1920-h1080-k-no",
+        "published_at_date": "2023-03-02T15:00:00"
+      }
+    ],
+    "on_site_places": [],
+    "customer_updates": [],
+    "featured_question": null,
+    "review_keywords": [],
+    "featured_reviews": [],
+    "query": "bowling alleys in naigaon east"
+  }
+]

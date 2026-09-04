@@ -1,0 +1,1412 @@
+<style>
+
+:root{--red:#E8242A;--dark:#0E0E0E;--ink:#1A1A1A;--muted:#6B7280;--light:#F5F5F0;--cream:#FAFAF7;--border:#E5E5E0;--gold:#D4A017;--r:12px;--sh:0 4px 24px rgba(0,0,0,0.08)}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif;background:var(--cream);color:var(--ink);line-height:1.6;font-size:15px}
+.hero{position:relative;height:594px;display:flex;align-items:center;overflow:hidden;background:linear-gradient(135deg,#1a0a2e 0%,#371b58 40%,#4a1a6e 70%,#2d0f4a 100%)}
+.hero-c{position:relative;z-index:3;padding:48px 40px;max-width:500px}
+.badge{display:inline-flex;align-items:center;gap:8px;background:var(--red);color:#fff;font-size:11px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;padding:6px 14px;border-radius:100px;margin-bottom:16px}
+h1{font-size:clamp(1.4rem,5vw,3rem);font-weight:800;color:#fff;line-height:1.1;margin-bottom:16px}
+.bc{background:#fff;border-bottom:1px solid var(--border);padding:12px 40px;font-size:12px;color:var(--muted)}
+.bc a{color:var(--red);text-decoration:none}
+.con{max-width:1140px;margin:0 auto;padding:0 24px}
+.sl{font-size:11px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--red);margin-bottom:8px}
+.st{font-size:clamp(1.3rem,3vw,1.9rem);font-weight:800;color:var(--ink);line-height:1.2}
+.st em{color:var(--red);font-style:normal}
+.sd{color:var(--muted);font-size:14px;max-width:600px;margin-top:8px;font-weight:300}
+.about{background:#fff;border-bottom:1px solid var(--border);padding:48px 0}
+.ag{display:grid;grid-template-columns:1fr 1fr;gap:48px;align-items:center}
+.ag h2{font-size:1.5rem;font-weight:800;margin-bottom:12px;line-height:1.25}
+.ag p{color:#4B5563;font-size:14px;line-height:1.8;margin-bottom:12px;font-weight:300}
+.ahs{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:20px}
+.ahc{background:var(--light);border-radius:var(--r);padding:16px;border-left:3px solid var(--red)}
+.ahc strong{display:block;font-size:1.1rem;font-weight:800}
+.ahc span{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
+.ai{border-radius:16px;overflow:hidden;aspect-ratio:4/3;position:relative;box-shadow:var(--sh);background:#e5e5e0;display:flex;align-items:center;justify-content:center;font-size:3rem}
+.ai img{width:100%;height:100%;object-fit:cover}
+.aic{position:absolute;bottom:0;left:0;right:0;padding:12px 16px;background:linear-gradient(transparent,rgba(0,0,0,.7));color:rgba(255,255,255,.8);font-size:11px}
+.cs{padding:52px 0;border-bottom:1px solid var(--border)}
+.cs:nth-child(even){background:#fff}
+.ch{display:flex;align-items:flex-start;justify-content:space-between;gap:24px;margin-bottom:28px;flex-wrap:wrap}
+.chl{flex:1}
+.cl{display:inline-flex;align-items:center;gap:8px;color:var(--red);font-size:13px;font-weight:700;text-decoration:none;border:1.5px solid var(--red);padding:8px 18px;border-radius:100px;transition:all .2s;white-space:nowrap;margin-top:8px}
+.cl:hover{background:var(--red);color:#fff}
+.cg{display:grid;grid-template-columns:1fr 1fr;gap:32px;align-items:start}
+.cg.r{direction:rtl}.cg.r>*{direction:ltr}
+.ci{border-radius:16px;overflow:hidden;aspect-ratio:3/2;position:relative;box-shadow:var(--sh);background:var(--light);display:flex;align-items:center;justify-content:center;font-size:2.5rem}
+.ci img{width:100%;height:100%;object-fit:cover;transition:transform .4s}
+.ci:hover img{transform:scale(1.04)}
+.it{position:absolute;top:12px;left:12px;background:var(--red);color:#fff;font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;padding:5px 12px;border-radius:100px}
+.cb h3{font-size:1.2rem;font-weight:800;margin-bottom:12px;line-height:1.25}
+.cb p{color:#4B5563;font-size:14px;line-height:1.8;font-weight:300;margin-bottom:14px}
+.tb{background:var(--light);border-radius:var(--r);padding:18px 20px;margin:16px 0;border-left:3px solid var(--gold)}
+.tb h4{font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--gold);margin-bottom:10px}
+.tb ul{list-style:none}
+.tb ul li{font-size:13px;color:var(--ink);padding:5px 0;border-bottom:1px solid var(--border);display:flex;align-items:center;gap:8px;font-weight:400}
+.tb ul li:last-child{border-bottom:none}
+.tb ul li::before{content:"✓";color:#059669;font-weight:800;font-size:12px;flex-shrink:0}
+.faq{margin-top:14px}
+.fqi{border:1px solid var(--border);border-radius:10px;margin-bottom:8px;overflow:hidden}
+.fqq{padding:13px 16px;font-size:13px;font-weight:600;cursor:pointer;display:flex;justify-content:space-between;align-items:center;gap:12px;background:#fff}
+.fqa{padding:0 16px 13px;font-size:13px;color:var(--muted);background:#fff;font-weight:300;line-height:1.7;display:none}
+.why{padding:52px 0;background:var(--light)}
+.wg{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;margin-top:32px}
+.wc{background:#fff;border-radius:16px;padding:26px 22px;box-shadow:var(--sh);border-top:3px solid var(--red);transition:transform .2s}
+.wc .ic{font-size:1.8rem;margin-bottom:14px}
+.wc h3{font-size:.95rem;font-weight:700;margin-bottom:8px}
+.wc p{font-size:13px;color:var(--muted);line-height:1.7;font-weight:300}
+.prose{padding:52px 0}
+.prose-i{max-width:800px;margin:0 auto}
+.prose-i h2{font-size:1.5rem;font-weight:800;margin-bottom:14px;line-height:1.3}
+.prose-i h3{font-size:1rem;font-weight:700;margin:22px 0 9px;color:var(--red)}
+.prose-i p{font-size:14px;color:#4B5563;line-height:1.9;margin-bottom:12px;font-weight:300}
+.nearby{padding:44px 0;border-top:1px solid var(--border)}
+.ng{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:24px}
+.nc{background:#fff;border:1px solid var(--border);border-radius:var(--r);padding:13px 15px;text-decoration:none;color:var(--ink);font-size:13px;font-weight:600;transition:all .2s;display:flex;align-items:center;gap:10px}
+.nc:hover{border-color:var(--red);color:var(--red);background:rgba(232,36,42,.04)}
+.guide-sec{padding:52px 0;border-bottom:1px solid var(--border)}
+.guide-sec:nth-child(odd){background:#fff}
+.guide-sec:nth-child(even){background:var(--cream)}
+.guide-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;margin-top:28px}
+.guide-card{background:#fff;border-radius:16px;overflow:hidden;box-shadow:var(--sh);transition:transform .2s;border:1px solid var(--border)}
+.guide-card-ph{width:100%;aspect-ratio:4/3;display:flex;align-items:center;justify-content:center;font-size:3rem;background:var(--light)}
+.guide-card-body{padding:16px}
+.guide-card-body h3{font-size:.95rem;font-weight:700;margin-bottom:6px}
+.guide-card-body p{font-size:12px;color:var(--muted);line-height:1.6;font-weight:300}
+.guide-card-tag{display:inline-block;font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--red);margin-bottom:8px}
+.list-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:24px}
+.list-item{background:#fff;border:1px solid var(--border);border-radius:var(--r);padding:14px 16px;display:flex;align-items:flex-start;gap:12px}
+.list-item .li-icon{font-size:1.4rem;flex-shrink:0;margin-top:2px}
+.list-item img{width:80px;height:80px;object-fit:cover;border-radius:8px;flex-shrink:0}
+.list-item h3{font-size:.88rem;font-weight:700;margin-bottom:4px}
+.list-item p{font-size:12px;color:var(--muted);font-weight:300;line-height:1.5}
+.tip-box{background:linear-gradient(135deg,#371b58 0%,#5a2d8a 100%);border-radius:16px;padding:28px 32px;margin-top:28px;color:#fff}
+.tip-box h4{font-size:1rem;font-weight:700;margin-bottom:12px;color:#FFD700}
+.tip-box ul{list-style:none;display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.tip-box ul li{font-size:13px;font-weight:300;padding-left:16px;position:relative;color:rgba(255,255,255,.85)}
+.tip-box ul li::before{content:"→";position:absolute;left:0;color:#FFD700;font-weight:700}
+.food-tags{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
+.food-tag{background:var(--light);border:1px solid var(--border);border-radius:100px;padding:6px 14px;font-size:12px;font-weight:600;color:var(--ink)}
+.commute-box{background:var(--dark);border-radius:16px;padding:28px 32px;margin-top:28px;color:#fff;display:grid;grid-template-columns:repeat(4,1fr);gap:20px}
+.cb2 .cb2-icon{font-size:1.6rem;margin-bottom:8px}
+.cb2 .cb2-val{font-size:1.2rem;font-weight:800;color:#FFD700}
+.cb2 .cb2-lbl{font-size:11px;color:rgba(255,255,255,.55);text-transform:uppercase;letter-spacing:.06em;margin-top:4px}
+.subarea-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:28px}
+.subarea-card{border-radius:16px;overflow:hidden;position:relative;aspect-ratio:4/3;box-shadow:var(--sh)}
+.subarea-card img{width:100%;height:100%;object-fit:cover;transition:transform .4s}
+.subarea-card:hover img{transform:scale(1.05)}
+.subarea-ov{position:absolute;inset:0;background:linear-gradient(to top,rgba(10,10,10,.82) 0%,rgba(10,10,10,.2) 60%,transparent 100%)}
+.subarea-body{position:absolute;bottom:0;left:0;right:0;padding:18px}
+.subarea-body h3{color:#fff;font-size:.95rem;font-weight:800;margin-bottom:4px;text-shadow:0 1px 4px rgba(0,0,0,.5)}
+.subarea-body p{color:rgba(255,255,255,.75);font-size:11px;line-height:1.5;font-weight:300}
+.subarea-tag{display:inline-block;background:var(--red);color:#fff;font-size:9px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:3px 9px;border-radius:100px;margin-bottom:8px}
+.prop-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:16px;margin-top:24px}
+.prop-card{background:#fff;border:1px solid var(--border);border-radius:var(--r);padding:18px 20px;display:flex;gap:14px;align-items:flex-start}
+.prop-card img{width:70px;height:70px;object-fit:cover;border-radius:10px;flex-shrink:0}
+.prop-card .price{font-size:1.1rem;font-weight:800;color:var(--red)}
+.prop-card .price-lbl{font-size:11px;color:var(--muted);margin-top:2px}
+.prop-note{font-size:12px;color:var(--muted);margin-top:14px;font-style:italic}
+.school-list{display:grid;grid-template-columns:repeat(2,1fr);gap:14px;margin-top:24px}
+.school-item{background:#fff;border:1px solid var(--border);border-radius:var(--r);overflow:hidden;display:flex;box-shadow:0 2px 8px rgba(0,0,0,.05)}
+.school-item img{width:80px;height:80px;object-fit:cover;flex-shrink:0}
+.school-item-body{padding:12px 14px}
+.school-item-body h3{font-size:.88rem;font-weight:700;margin-bottom:3px}
+.school-item-body span{font-size:11px;color:var(--muted)}
+.school-badge{display:inline-block;font-size:9px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;background:var(--light);color:var(--muted);padding:2px 8px;border-radius:100px;margin-top:5px}
+.hosp-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:24px}
+.hosp-card{background:#fff;border:1px solid var(--border);border-radius:var(--r);overflow:hidden;box-shadow:0 2px 8px rgba(0,0,0,.05);transition:transform .2s}
+.hosp-card img{width:100%;height:120px;object-fit:cover}
+.hosp-card-body{padding:14px}
+.hosp-card-body h3{font-size:.88rem;font-weight:700;margin-bottom:4px}
+.hosp-card-body p{font-size:11px;color:var(--muted);line-height:1.5}
+.hosp-type{display:inline-block;font-size:9px;font-weight:700;text-transform:uppercase;color:var(--red);letter-spacing:.07em;margin-bottom:6px}
+.bank-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-top:24px}
+.bank-chip{background:#fff;border:1px solid var(--border);border-radius:var(--r);padding:14px 12px;text-align:center;font-size:12px;font-weight:600;color:var(--ink)}
+.bank-chip img{width:100%;height:60px;object-fit:cover;border-radius:8px;margin-bottom:8px}
+.market-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:24px}
+.market-card{border-radius:14px;overflow:hidden;position:relative;aspect-ratio:3/2;box-shadow:var(--sh)}
+.market-card img{width:100%;height:100%;object-fit:cover;transition:transform .4s}
+.market-ov{position:absolute;inset:0;background:linear-gradient(to top,rgba(10,10,10,.78) 0%,transparent 60%)}
+.market-body{position:absolute;bottom:0;left:0;right:0;padding:14px}
+.market-body h3{color:#fff;font-size:.9rem;font-weight:700;margin-bottom:3px;text-shadow:0 1px 4px rgba(0,0,0,.5)}
+.market-body p{color:rgba(255,255,255,.72);font-size:11px;font-weight:300}
+.commute-detail-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:16px;margin-top:24px}
+.commute-card{background:#fff;border:1px solid var(--border);border-radius:var(--r);overflow:hidden;display:flex}
+.commute-card img{width:90px;height:90px;object-fit:cover;flex-shrink:0}
+.commute-card-body{padding:14px}
+.commute-card-body h3{font-size:.88rem;font-weight:700;margin-bottom:4px}
+.commute-card-body p{font-size:12px;color:var(--muted);line-height:1.55}
+.employer-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:24px}
+.employer-card{background:#fff;border:1px solid var(--border);border-radius:var(--r);overflow:hidden;box-shadow:0 2px 8px rgba(0,0,0,.05)}
+.employer-card img{width:100%;height:110px;object-fit:cover}
+.employer-card-body{padding:14px}
+.employer-card-body h3{font-size:.88rem;font-weight:700;margin-bottom:3px}
+.employer-card-body p{font-size:11px;color:var(--muted);line-height:1.5}
+.employer-sector{font-size:9px;font-weight:700;text-transform:uppercase;color:var(--red);letter-spacing:.07em;margin-bottom:6px;display:block}
+.soc-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;margin-top:24px}
+.soc-item{background:#fff;border:1px solid var(--border);border-radius:var(--r);padding:14px 16px;display:flex;gap:12px;align-items:center}
+.soc-item img{width:56px;height:56px;object-fit:cover;border-radius:10px;flex-shrink:0}
+.soc-item h3{font-size:.85rem;font-weight:700;margin-bottom:2px}
+.soc-item span{font-size:11px;color:var(--muted)}
+.report-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:28px}
+.report-card{background:#fff;border-radius:16px;padding:22px 18px;box-shadow:var(--sh);border-top:3px solid var(--red);text-align:center}
+.report-card .rc-icon img{width:56px;height:56px;object-fit:cover;border-radius:50%;margin:0 auto 12px}
+.report-card h3{font-size:.88rem;font-weight:700;margin-bottom:10px}
+.stars{display:flex;justify-content:center;gap:3px;margin-bottom:6px}
+.stars span{font-size:1.1rem}
+.report-card .rc-note{font-size:11px;color:var(--muted)}
+.vibe-wrap{display:grid;grid-template-columns:1fr 1fr;gap:40px;align-items:center;margin-top:24px}
+.vibe-img{border-radius:16px;overflow:hidden;aspect-ratio:4/3;box-shadow:var(--sh)}
+.vibe-img img{width:100%;height:100%;object-fit:cover}
+.vibe-tags{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
+.vibe-tag{background:var(--dark);color:rgba(255,255,255,.85);font-size:11px;font-weight:600;padding:5px 14px;border-radius:100px}
+.events-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:24px}
+.event-card{border-radius:14px;overflow:hidden;position:relative;box-shadow:var(--sh)}
+.event-card img{width:100%;height:160px;object-fit:cover;display:block}
+.event-body{padding:14px;background:#fff;border:1px solid var(--border);border-top:none;border-radius:0 0 14px 14px}
+.event-body h3{font-size:.88rem;font-weight:700;margin-bottom:4px}
+.event-body p{font-size:11px;color:var(--muted);line-height:1.5}
+.event-month{display:inline-block;font-size:10px;font-weight:700;text-transform:uppercase;color:var(--red);margin-bottom:5px;letter-spacing:.06em}
+.dev-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:24px}
+.dev-card{background:#fff;border:1px solid var(--border);border-radius:var(--r);overflow:hidden;box-shadow:0 2px 8px rgba(0,0,0,.05)}
+.dev-card img{width:100%;height:110px;object-fit:cover}
+.dev-card-body{padding:14px}
+.dev-card-body h3{font-size:.88rem;font-weight:700;margin-bottom:4px}
+.dev-card-body p{font-size:11px;color:var(--muted);line-height:1.5}
+.dev-status{display:inline-block;font-size:9px;font-weight:700;text-transform:uppercase;padding:2px 8px;border-radius:100px;margin-bottom:7px}
+.dev-status.ongoing{background:#FEF3C7;color:#92400E}
+.dev-status.upcoming{background:#D1FAE5;color:#065F46}
+.dev-status.planned{background:#EDE9FE;color:#5B21B6}
+.civic-wrap{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-top:24px}
+.civic-chip{background:#fff;border:1px solid var(--border);border-radius:var(--r);padding:16px 14px;text-align:center}
+.civic-chip img{width:100%;height:50px;object-fit:cover;border-radius:8px;margin-bottom:10px}
+.civic-chip .cv-label{font-size:10px;color:var(--muted);text-transform:uppercase;letter-spacing:.07em;margin-bottom:4px}
+.civic-chip .cv-val{font-size:.85rem;font-weight:700;color:var(--ink)}
+.profile-wrap{display:grid;grid-template-columns:1fr 1fr;gap:40px;align-items:center;margin-top:24px}
+.profile-img{border-radius:16px;overflow:hidden;aspect-ratio:4/3;box-shadow:var(--sh)}
+.profile-img img{width:100%;height:100%;object-fit:cover}
+.profile-stats{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:20px}
+.profile-stat{background:var(--light);border-radius:var(--r);padding:14px;border-left:3px solid var(--red)}
+.profile-stat strong{display:block;font-size:.95rem;font-weight:800}
+.profile-stat span{font-size:11px;color:var(--muted)}
+@media(max-width:768px){
+  .guide-grid{grid-template-columns:1fr 1fr}
+  .list-grid{grid-template-columns:1fr}
+  .tip-box ul{grid-template-columns:1fr}
+  .commute-box{grid-template-columns:1fr 1fr}
+  .ag,.cg,.cg.r{grid-template-columns:1fr}
+  .wg,.ng{grid-template-columns:1fr 1fr}
+  .subarea-grid,.hosp-grid,.employer-grid,.events-grid,.dev-grid,.report-grid{grid-template-columns:1fr 1fr}
+  .bank-grid,.civic-wrap{grid-template-columns:1fr 1fr}
+  .prop-grid,.school-list,.commute-detail-grid,.soc-grid,.profile-wrap,.vibe-wrap{grid-template-columns:1fr}
+  .market-grid{grid-template-columns:1fr 1fr}
+}
+.cat-grid-sec{padding:52px 0;background:var(--dark)}
+.cat-grid-sec .st{color:#fff}
+.cat-grid-sec .sd{color:rgba(255,255,255,.6)}
+.cat-grid-sec .sl{color:var(--red)}
+.cat-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:12px;margin-top:24px}
+.cat-card{display:flex;flex-direction:column;align-items:center;justify-content:center;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.1);border-radius:var(--r);padding:16px 10px;text-align:center;text-decoration:none;color:rgba(255,255,255,.85);transition:all .2s;min-height:90px}
+.cat-card:hover{background:var(--red);border-color:var(--red);transform:translateY(-3px);color:#fff}
+.cat-emoji{font-size:1.8rem;margin-bottom:8px;display:block;line-height:1}
+.cat-name{font-size:10.5px;font-weight:600;color:inherit;line-height:1.3;letter-spacing:.01em}
+@media(max-width:768px){.cat-grid{grid-template-columns:repeat(3,1fr)}}
+@media(max-width:480px){.cat-grid{grid-template-columns:repeat(2,1fr)}}
+
+</style>
+</head>
+<body>
+<!DOCTYPE html>
+<html lang="en-IN">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+<title>Bhayandar East Mumbai - Complete Local Guide 2026 | Places, Food, Property, Schools, Hospitals | Mumbai96</title>
+<meta name="description" content="Complete guide to Bhayandar East, Mira-Bhayandar - sub-areas (Indralok, Golden Nest, Navghar Road, Kanakia, Maxus belt), property prices, top schools, hospitals, banks, markets, commute and 100+ local services. Mumbai96 - Mumbaikars' Very Own Platform."/>
+<meta name="keywords" content="Bhayandar East Mumbai, Bhayandar East guide, restaurants in Bhayandar East, property prices Bhayandar East, schools in Bhayandar East, hospitals in Bhayandar East, Indralok Bhayandar East, Golden Nest Bhayandar East, Navghar Road Bhayandar East, Kanakia Bhayandar East, dentists in Bhayandar East, salons in Bhayandar East, gyms in Bhayandar East, plumbers in Bhayandar East, tiffin services Bhayandar East, banks in Bhayandar East, commute from Bhayandar East, Bhayandar East pin code, Bhayandar East area guide 2026"/>
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<meta name="author" content="Mumbai96"/>
+<meta name="publisher" content="Mumbai96"/>
+<link rel="canonical" href="https://mumbai96.vercel.app/bhayandar-east"/>
+
+<meta name="geo.region" content="IN-MH"/>
+<meta name="geo.placename" content="Bhayandar East, Mira-Bhayandar, Maharashtra, India"/>
+<meta name="geo.position" content="19.3000;72.8650"/>
+<meta name="ICBM" content="19.3000, 72.8650"/>
+
+<meta property="og:type" content="website"/>
+<meta property="og:site_name" content="Mumbai96"/>
+<meta property="og:locale" content="en_IN"/>
+<meta property="og:title" content="Bhayandar East Mumbai - Complete Local Guide 2026 | Mumbai96"/>
+<meta property="og:description" content="Everything about Bhayandar East - Indralok, Golden Nest, Navghar Road, Kanakia, property prices, schools, hospitals, commute and 100+ local services verified by Mumbaikars."/>
+<meta property="og:url" content="https://mumbai96.vercel.app/bhayandar-east"/>
+<meta property="og:image" content="https://mumbai96.vercel.app/bhayandar-east/images/og-bhayandar-east.jpg"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="630"/>
+<meta property="og:image:alt" content="Bhayandar East Mumbai - Complete Local Area Guide 2026 by Mumbai96"/>
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="@mumbai96"/>
+<meta name="twitter:title" content="Bhayandar East Mumbai - Complete Local Guide 2026 | Mumbai96"/>
+<meta name="twitter:description" content="Everything about Bhayandar East - Indralok, Golden Nest, Navghar Road, Kanakia, property prices, schools, hospitals, commute and 100+ verified local services."/>
+<meta name="twitter:image" content="https://mumbai96.vercel.app/bhayandar-east/images/og-bhayandar-east.jpg"/>
+<meta name="twitter:image:alt" content="Bhayandar East Mumbai local guide by Mumbai96"/>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Bhayandar East Mumbai - Complete Local Area Guide 2026",
+  "description": "Complete local guide to Bhayandar East, Mira-Bhayandar - covering sub-areas, property prices, schools, hospitals, markets, commute, events and 100+ verified local services.",
+  "url": "https://mumbai96.vercel.app/bhayandar-east",
+  "inLanguage": "en-IN",
+  "dateModified": "2026-05-29",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Mumbai96",
+    "url": "https://mumbai96.vercel.app",
+    "logo": { "@type": "ImageObject", "url": "https://mumbai96.vercel.app/logo.png" }
+  },
+  "areaServed": {
+    "@type": "Place",
+    "name": "Bhayandar East",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Bhayandar East",
+      "addressRegion": "Maharashtra",
+      "postalCode": "401105",
+      "addressCountry": "IN"
+    },
+    "geo": { "@type": "GeoCoordinates", "latitude": 19.3000, "longitude": 72.8650 },
+    "containedInPlace": { "@type": "City", "name": "Mira-Bhayandar" }
+  },
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://mumbai96.vercel.app" },
+      { "@type": "ListItem", "position": 2, "name": "Mira-Bhayandar", "item": "https://mumbai96.vercel.app/mira-bhayandar" },
+      { "@type": "ListItem", "position": 3, "name": "Bhayandar East", "item": "https://mumbai96.vercel.app/bhayandar-east" }
+    ]
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Bhayandar East known for?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Bhayandar East is known for its large affordable residential townships like Indralok and Golden Nest, the Navghar Road commercial belt, a strong Gujarati and North Indian community, and being a fast-growing eastern pocket of the Mira-Bhayandar Municipal Corporation." }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the pin code of Bhayandar East?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Bhayandar East comes under pin code 401105, which covers areas like Indralok, Golden Nest, Navghar Road, Kanakia and the surrounding eastern pockets." }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the sub-areas within Bhayandar East?",
+      "acceptedAnswer": { "@type": "Answer", "text": "The main micro-localities within Bhayandar East are Indralok, Golden Nest, Navghar Road, Kanakia Park, Maxus commercial belt and the Bhayandar East station belt." }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the property price in Bhayandar East?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Property prices in Bhayandar East range from ₹42-58 lakh for a 1BHK to ₹68 lakh-1.05 Cr for a 2BHK, making it one of the most affordable pockets in the Mumbai Metropolitan Region. Rental rates range from ₹9,000 to ₹26,000 per month depending on the sub-area and flat size (as of May 2026)." }
+    },
+    {
+      "@type": "Question",
+      "name": "How to commute from Bhayandar East?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Bhayandar East is served by Western Railway's Bhayandar Station (about 60-70 min to Churchgate), MBMC bus routes, abundant auto rickshaws and share autos, and road access toward the Western Express Highway via Mira Road and Ghodbunder Road." }
+    },
+    {
+      "@type": "Question",
+      "name": "Which hospitals are in Bhayandar East?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Major hospitals in and near Bhayandar East include Bhaktivedanta Hospital (Mira Road), Wockhardt Hospital Mira Road, Karuna Hospital, Sai Hospital Bhayandar East and several local multi-speciality nursing homes and 24-hour clinics." }
+    },
+    {
+      "@type": "Question",
+      "name": "Which schools are in Bhayandar East?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Notable schools and colleges in Bhayandar East include Shankar Narayan College, St. Xavier's High School, Sunrise English High School, and several SSC and CBSE schools serving the locality." }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I find the best dentists in Bhayandar East?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Browse Mumbai96's Bhayandar East listings, read reviews from locals and call directly. Our verified directory makes it easy." }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Place",
+  "name": "Bhayandar East",
+  "description": "Bhayandar East is an affordable, fast-growing residential locality in the Mira-Bhayandar Municipal Corporation, north of Mumbai. Known for its large townships like Indralok and Golden Nest, the Navghar Road belt and a diverse community.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bhayandar East",
+    "addressLocality": "Mira-Bhayandar",
+    "addressRegion": "Maharashtra",
+    "postalCode": "401105",
+    "addressCountry": "IN"
+  },
+  "geo": { "@type": "GeoCoordinates", "latitude": 19.3000, "longitude": 72.8650 },
+  "containedInPlace": { "@type": "City", "name": "Mira-Bhayandar", "containedInPlace": { "@type": "State", "name": "Maharashtra" } }
+}
+</script>
+</head>
+<body>
+
+<nav class="bc"><a href="/">Home</a> › <a href="/mira-bhayandar">Mira-Bhayandar</a> › Bhayandar East</nav>
+
+
+<section class="about">
+  <div class="con">
+    <div class="ag">
+      <div>
+        <p class="sl">About the Area</p>
+        <h2>Bhayandar East, Mira-Bhayandar - Affordable Townships & Growing Suburb</h2>
+        <p>Bhayandar East is one of the most affordable and densely populated residential pockets in the northern Mumbai Metropolitan Region. Under the Mira-Bhayandar Municipal Corporation (MBMC), it is known for its large townships, the busy Navghar Road belt, and a diverse, value-conscious community.</p><p>Whether you need a dentist near Indralok, a salon on Navghar Road, or a reliable plumber in Golden Nest - Mumbai96 has verified listings with real reviews, direct numbers and everything a Mumbaikar needs to find the right service fast.</p>
+        <p><strong>Commute:</strong> Western Line - approx 60-70 min to Churchgate &nbsp;|&nbsp; <strong>Tag:</strong> Affordable Township Suburb</p>
+        <div class="ahs">
+          <div class="ahc"><strong>9L+</strong><span>Est. Popul. (MBMC) 2026</span></div>
+          <div class="ahc"><strong>MBMC</strong><span>Municipal Body</span></div>
+          <div class="ahc"><strong>401105</strong><span>Primary Pin Code</span></div>
+          <div class="ahc"><strong>Indralok</strong><span>Major Township</span></div>
+        </div>
+      </div>
+      <div class="ai">
+        <img src="/images/locations/bhayandar-east.webp" alt="Bhayandar East Mira-Bhayandar" width="700" height="525">
+        <div class="aic">📍 Bhayandar East - Mira-Bhayandar, Mumbai Region</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="guide-sec" id="places">
+  <div class="con">
+    <p class="sl">Places to See</p>
+    <h2 class="st">Places to See in <em>Bhayandar East</em></h2>
+    <p class="sd">Landmarks, leisure spots and local gems worth exploring in Bhayandar East.</p>
+    <div class="guide-grid">
+    <div class="guide-card">
+      <div class="guide-card-ph">🏙️</div>
+      <div class="guide-card-body">
+        <div class="guide-card-tag">Township</div>
+        <h3>Indralok Township, Bhayandar East</h3>
+        <p>One of Bhayandar East's largest and best-known residential townships - phased layouts, gardens, markets and a strong community feel.</p>
+      </div>
+    </div>
+    <div class="guide-card">
+      <div class="guide-card-ph">🌳</div>
+      <div class="guide-card-body">
+        <div class="guide-card-tag">Leisure</div>
+        <h3>Kanakia Park & MBMC Gardens, Bhayandar East</h3>
+        <p>Local parks and MBMC-maintained gardens that serve as the green lungs and evening hangouts for Bhayandar East families.</p>
+      </div>
+    </div>
+    <div class="guide-card">
+      <div class="guide-card-ph">🛕</div>
+      <div class="guide-card-body">
+        <div class="guide-card-tag">Spiritual</div>
+        <h3>Temples & Community Shrines, Bhayandar East</h3>
+        <p>Bhayandar East has numerous neighbourhood temples and community shrines that anchor its religious and social calendar.</p>
+      </div>
+    </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="guide-sec" id="food">
+  <div class="con">
+    <p class="sl">Food to Explore</p>
+    <h2 class="st">Food to Explore in <em>Bhayandar East</em></h2>
+    <p class="sd">Bhayandar East is a budget-friendly food belt - Gujarati and Punjabi eateries, chaat corners, farsan shops, South Indian joints and lively street food along Navghar Road.</p>
+    <div class="food-tags"><span class="food-tag">Gujarati Thalis</span><span class="food-tag">Punjabi Dhabas</span><span class="food-tag">Farsan & Snacks</span><span class="food-tag">Chaat Corners</span><span class="food-tag">South Indian</span><span class="food-tag">Street Pav Bhaji</span><span class="food-tag">Chinese Stalls</span><span class="food-tag">Sweet Shops</span></div>
+    <div class="list-grid">
+    <div class="list-item">
+      <span class="li-icon">🍛</span>
+      <div><h3>Gujarati & Punjabi Restaurants, Bhayandar East</h3><p>Affordable thalis and North Indian family restaurants are a Bhayandar East staple along Navghar Road.</p></div>
+    </div>
+    <div class="list-item">
+      <span class="li-icon">🥟</span>
+      <div><h3>Farsan & Snack Shops, Indralok</h3><p>Fresh khaman, samosa, kachori and ganthia - the everyday snack stops for Bhayandar East residents.</p></div>
+    </div>
+    <div class="list-item">
+      <span class="li-icon">🍜</span>
+      <div><h3>Street Chinese & Chaat, Navghar Road</h3><p>Indo-Chinese stalls and chaat corners come alive in the evenings along the Bhayandar East main road.</p></div>
+    </div>
+    <div class="list-item">
+      <span class="li-icon">🥘</span>
+      <div><h3>Tiffin Services, Bhayandar East</h3><p>Home-style tiffins delivered across Indralok, Golden Nest and the station belt - a lifeline for working residents.</p></div>
+    </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="guide-sec" id="nightlife">
+  <div class="con">
+    <p class="sl">Nightlife</p>
+    <h2 class="st">Evenings in <em>Bhayandar East</em></h2>
+    <p class="sd">Bhayandar East is a family-first suburb - evenings revolve around cinemas, late-night street food, garden walks and the buzz of the Navghar Road market rather than clubs.</p>
+    <div class="list-grid">
+    <div class="list-item">
+      <span class="li-icon">🎬</span>
+      <div><h3>Cinemas & Multiplexes, Bhayandar East</h3><p>Local multiplexes screen the latest Bollywood, Hollywood and regional films - a popular evening outing.</p></div>
+    </div>
+    <div class="list-item">
+      <span class="li-icon">🍴</span>
+      <div><h3>Navghar Road Food Street, Bhayandar East</h3><p>The main road comes alive after dark with chaat, pav bhaji, dosa and Chinese stalls.</p></div>
+    </div>
+    <div class="list-item">
+      <span class="li-icon">🌳</span>
+      <div><h3>Gardens & Township Greens, Bhayandar East</h3><p>Indralok and Kanakia gardens are popular evening spots for families and senior citizens.</p></div>
+    </div>
+    <div class="list-item">
+      <span class="li-icon">🍦</span>
+      <div><h3>Dessert & Ice Cream Parlours</h3><p>Dessert and ice cream parlours across Bhayandar East stay busy late into the evening with young crowds.</p></div>
+    </div>
+    </div>
+    <div class="tip-box">
+      <h4>After Hours in Bhayandar East</h4>
+      <ul>
+        <li>Auto rickshaws & share autos easily available till late</li>
+        <li>Food delivery apps active till midnight</li>
+        <li>Last local trains - check Western Railway timings</li>
+        <li>Mostly a quiet, safe residential area at night</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+
+<section class="cat-grid-sec" id="categories-1" aria-label="Food, Real Estate & Health in Bhayandar East">
+  <div class="con">
+    <h2 class="st">Food, Real Estate & Health</h2>
+    <p class="sd">From street food to pharmacies — the everyday essentials in Bhayandar East.</p>
+    <nav class="cat-grid" aria-label="Service categories in Bhayandar East, set 1 of 8">
+      <a href="/bhayandar-east/street-food" class="cat-card" title="Street Food in Bhayandar East"><span class="cat-emoji">🌮</span><span class="cat-name">Street Food</span></a>
+      <a href="/bhayandar-east/biryani-restaurants" class="cat-card" title="Biryani Restaurants in Bhayandar East"><span class="cat-emoji">🍚</span><span class="cat-name">Biryani Restaurants</span></a>
+      <a href="/bhayandar-east/chinese-restaurants" class="cat-card" title="Chinese Restaurants in Bhayandar East"><span class="cat-emoji">🥢</span><span class="cat-name">Chinese Restaurants</span></a>
+      <a href="/bhayandar-east/south-indian-restaurants" class="cat-card" title="South Indian Restaurants in Bhayandar East"><span class="cat-emoji">🥘</span><span class="cat-name">South Indian Restaurants</span></a>
+      <a href="/bhayandar-east/cafes-coffee-shops" class="cat-card" title="Cafes & Coffee Shops in Bhayandar East"><span class="cat-emoji">☕</span><span class="cat-name">Cafes & Coffee Shops</span></a>
+      <a href="/bhayandar-east/bakeries" class="cat-card" title="Bakeries in Bhayandar East"><span class="cat-emoji">🥐</span><span class="cat-name">Bakeries</span></a>
+      <a href="/bhayandar-east/sweet-shops" class="cat-card" title="Sweet Shops in Bhayandar East"><span class="cat-emoji">🍬</span><span class="cat-name">Sweet Shops</span></a>
+      <a href="/bhayandar-east/ice-cream-shops" class="cat-card" title="Ice Cream Shops in Bhayandar East"><span class="cat-emoji">🍦</span><span class="cat-name">Ice Cream Shops</span></a>
+      <a href="/bhayandar-east/juice-shops" class="cat-card" title="Juice Shops in Bhayandar East"><span class="cat-emoji">🥤</span><span class="cat-name">Juice Shops</span></a>
+      <a href="/bhayandar-east/seafood-restaurants" class="cat-card" title="Seafood Restaurants in Bhayandar East"><span class="cat-emoji">🦞</span><span class="cat-name">Seafood Restaurants</span></a>
+      <a href="/bhayandar-east/vegetarian-restaurants" class="cat-card" title="Vegetarian Restaurants in Bhayandar East"><span class="cat-emoji">🥗</span><span class="cat-name">Vegetarian Restaurants</span></a>
+      <a href="/bhayandar-east/fast-food-restaurants" class="cat-card" title="Fast Food Restaurants in Bhayandar East"><span class="cat-emoji">🍔</span><span class="cat-name">Fast Food Restaurants</span></a>
+      <a href="/bhayandar-east/real-estate-agents" class="cat-card" title="Real Estate Agents in Bhayandar East"><span class="cat-emoji">🏠</span><span class="cat-name">Real Estate Agents</span></a>
+      <a href="/bhayandar-east/flats-for-rent" class="cat-card" title="Flats for Rent in Bhayandar East"><span class="cat-emoji">🏢</span><span class="cat-name">Flats for Rent</span></a>
+      <a href="/bhayandar-east/flats-for-sale" class="cat-card" title="Flats for Sale in Bhayandar East"><span class="cat-emoji">🔑</span><span class="cat-name">Flats for Sale</span></a>
+      <a href="/bhayandar-east/paying-guest-accommodation" class="cat-card" title="Paying Guest Accommodation in Bhayandar East"><span class="cat-emoji">🛏️</span><span class="cat-name">Paying Guest Accommodation</span></a>
+      <a href="/bhayandar-east/office-space-for-rent" class="cat-card" title="Office Space for Rent in Bhayandar East"><span class="cat-emoji">🏬</span><span class="cat-name">Office Space for Rent</span></a>
+      <a href="/bhayandar-east/property-management" class="cat-card" title="Property Management in Bhayandar East"><span class="cat-emoji">📋</span><span class="cat-name">Property Management</span></a>
+      <a href="/bhayandar-east/pharmacies" class="cat-card" title="Pharmacies in Bhayandar East"><span class="cat-emoji">💊</span><span class="cat-name">Pharmacies</span></a>
+      <a href="/bhayandar-east/eye-doctors" class="cat-card" title="Eye Doctors in Bhayandar East"><span class="cat-emoji">👁️</span><span class="cat-name">Eye Doctors</span></a>
+      <a href="/bhayandar-east/physiotherapists" class="cat-card" title="Physiotherapists in Bhayandar East"><span class="cat-emoji">🩹</span><span class="cat-name">Physiotherapists</span></a>
+      <a href="/bhayandar-east/ayurvedic-doctors" class="cat-card" title="Ayurvedic Doctors in Bhayandar East"><span class="cat-emoji">🌿</span><span class="cat-name">Ayurvedic Doctors</span></a>
+      <a href="/bhayandar-east/homeopathy-doctors" class="cat-card" title="Homeopathy Doctors in Bhayandar East"><span class="cat-emoji">🫙</span><span class="cat-name">Homeopathy Doctors</span></a>
+      <a href="/bhayandar-east/blood-banks" class="cat-card" title="Blood Banks in Bhayandar East"><span class="cat-emoji">🩸</span><span class="cat-name">Blood Banks</span></a>
+      <a href="/bhayandar-east/diagnostic-centres" class="cat-card" title="Diagnostic Centres in Bhayandar East"><span class="cat-emoji">🔬</span><span class="cat-name">Diagnostic Centres</span></a>
+    </nav>
+  </div>
+</section>
+<section class="guide-sec" id="subareas">
+  <div class="con">
+    <p class="sl">Micro-Localities</p>
+    <h2 class="st">Areas Within <em>Bhayandar East</em></h2>
+    <p class="sd">Bhayandar East is a collection of distinct micro-areas, each with its own character, community and livability quotient.</p>
+    <div class="subarea-grid">
+      <div class="subarea-card">
+        <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600&q=80" alt="Indralok township Bhayandar East" width="600" height="450">
+        <div class="subarea-ov"></div>
+        <div class="subarea-body">
+          <div class="subarea-tag">Township</div>
+          <h3>Indralok, Bhayandar East</h3>
+          <p>One of the largest planned townships in Bhayandar East - phased layouts, gardens, markets and a strong family community.</p>
+        </div>
+      </div>
+      <div class="subarea-card">
+        <img src="https://images.unsplash.com/photo-1582560475093-ba66accbc424?w=600&q=80" alt="Golden Nest Bhayandar East" width="600" height="450">
+        <div class="subarea-ov"></div>
+        <div class="subarea-body">
+          <div class="subarea-tag">Residential</div>
+          <h3>Golden Nest, Bhayandar East</h3>
+          <p>A well-known cluster of residential phases popular with middle-income families, with its own market and bus connectivity.</p>
+        </div>
+      </div>
+      <div class="subarea-card">
+        <img src="https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=600&q=80" alt="Navghar Road Bhayandar East market" width="600" height="450">
+        <div class="subarea-ov"></div>
+        <div class="subarea-body">
+          <div class="subarea-tag">Market Hub</div>
+          <h3>Navghar Road, Bhayandar East</h3>
+          <p>The retail and commercial spine of Bhayandar East - shops, eateries, banks and showrooms line this busy stretch.</p>
+        </div>
+      </div>
+      <div class="subarea-card">
+        <img src="https://images.unsplash.com/photo-1486325212027-8081e485255e?w=600&q=80" alt="Kanakia Bhayandar East" width="600" height="450">
+        <div class="subarea-ov"></div>
+        <div class="subarea-body">
+          <div class="subarea-tag">Mixed Use</div>
+          <h3>Kanakia, Bhayandar East</h3>
+          <p>A newer residential-commercial pocket with apartment projects, parks and good access to the station belt.</p>
+        </div>
+      </div>
+      <div class="subarea-card">
+        <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=80" alt="Station belt Bhayandar East" width="600" height="450">
+        <div class="subarea-ov"></div>
+        <div class="subarea-body">
+          <div class="subarea-tag">Transit</div>
+          <h3>Station Belt, Bhayandar East</h3>
+          <p>The busy stretch around the east side of Bhayandar station - shops, autos, eateries and daily commuter buzz.</p>
+        </div>
+      </div>
+      <div class="subarea-card">
+        <img src="https://images.unsplash.com/photo-1559825481-12a05cc00344?w=600&q=80" alt="Salt pan belt Bhayandar East" width="600" height="450">
+        <div class="subarea-ov"></div>
+        <div class="subarea-body">
+          <div class="subarea-tag">Open Belt</div>
+          <h3>Salt Pan & Creek Edge, Bhayandar East</h3>
+          <p>The eastern open belt bordering the salt pans and creek - quieter, with newer developments rising along the edge.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="guide-sec" id="vibe">
+  <div class="con">
+    <p class="sl">Character & Vibe</p>
+    <h2 class="st">What Makes <em>Bhayandar East</em> Tick</h2>
+    <p class="sd">An honest snapshot - the energy, the people, the pace. The kind of thing no other directory tells you.</p>
+    <div class="vibe-wrap">
+      <div class="vibe-img">
+        <img src="https://images.unsplash.com/photo-1561612217-4f5d0b4c6ea8?w=800&q=80" alt="Bhayandar East community street life" width="800" height="600">
+      </div>
+      <div>
+        <p>Bhayandar East is a busy, value-driven township suburb. Mornings begin with the rush to Bhayandar station, snack shops open early, and Navghar Road hums with shoppers through the day. It's affordable Mumbai living - bigger homes for the money, large townships, and a denser, more bustling feel than the western side.</p>
+        <p>The area has a diverse mix - Gujarati, North Indian, Marathi and a growing migrant population drawn by affordable housing. Festivals, society events and community markets are central to life here, giving Bhayandar East a lively, neighbourly energy.</p>
+        <div class="vibe-tags">
+          <span class="vibe-tag">Family-First</span>
+          <span class="vibe-tag">Affordable</span>
+          <span class="vibe-tag">Township Living</span>
+          <span class="vibe-tag">Diverse Community</span>
+          <span class="vibe-tag">Bustling Markets</span>
+          <span class="vibe-tag">Safe & Residential</span>
+          <span class="vibe-tag">Fast Developing</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="cat-grid-sec" id="categories-2" aria-label="Services in Bhayandar East, set 2 of 8">
+  <div class="con">
+    <h2 class="st">Clinics, Shopping & Home Services</h2>
+    <p class="sd">Dental care, retail stores, and home maintenance services in Bhayandar East.</p>
+    <nav class="cat-grid" aria-label="Service categories in Bhayandar East">
+      <a href="/bhayandar-east/dental-clinics" class="cat-card" title="Dental Clinics in Bhayandar East"><span class="cat-emoji">🪥</span><span class="cat-name">Dental Clinics</span></a>
+      <a href="/bhayandar-east/deaddiction-centres" class="cat-card" title="Deaddiction Centres in Bhayandar East"><span class="cat-emoji">🫁</span><span class="cat-name">Deaddiction Centres</span></a>
+      <a href="/bhayandar-east/clothing-stores" class="cat-card" title="Clothing Stores in Bhayandar East"><span class="cat-emoji">👗</span><span class="cat-name">Clothing Stores</span></a>
+      <a href="/bhayandar-east/jewellery-shops" class="cat-card" title="Jewellery Shops in Bhayandar East"><span class="cat-emoji">💍</span><span class="cat-name">Jewellery Shops</span></a>
+      <a href="/bhayandar-east/mobile-phone-shops" class="cat-card" title="Mobile Phone Shops in Bhayandar East"><span class="cat-emoji">📱</span><span class="cat-name">Mobile Phone Shops</span></a>
+      <a href="/bhayandar-east/electronics-stores" class="cat-card" title="Electronics Stores in Bhayandar East"><span class="cat-emoji">💻</span><span class="cat-name">Electronics Stores</span></a>
+      <a href="/bhayandar-east/optical-shops" class="cat-card" title="Optical Shops in Bhayandar East"><span class="cat-emoji">👓</span><span class="cat-name">Optical Shops</span></a>
+      <a href="/bhayandar-east/grocery-stores" class="cat-card" title="Grocery Stores in Bhayandar East"><span class="cat-emoji">🛒</span><span class="cat-name">Grocery Stores</span></a>
+      <a href="/bhayandar-east/shoe-stores" class="cat-card" title="Shoe Stores in Bhayandar East"><span class="cat-emoji">👟</span><span class="cat-name">Shoe Stores</span></a>
+      <a href="/bhayandar-east/sports-goods-stores" class="cat-card" title="Sports Goods Stores in Bhayandar East"><span class="cat-emoji">⚽</span><span class="cat-name">Sports Goods Stores</span></a>
+      <a href="/bhayandar-east/book-stores" class="cat-card" title="Book Stores in Bhayandar East"><span class="cat-emoji">📚</span><span class="cat-name">Book Stores</span></a>
+      <a href="/bhayandar-east/stationery-stores" class="cat-card" title="Stationery Stores in Bhayandar East"><span class="cat-emoji">✏️</span><span class="cat-name">Stationery Stores</span></a>
+      <a href="/bhayandar-east/baby-products-stores" class="cat-card" title="Baby Products Stores in Bhayandar East"><span class="cat-emoji">🍼</span><span class="cat-name">Baby Products Stores</span></a>
+      <a href="/bhayandar-east/hardware-stores" class="cat-card" title="Hardware Stores in Bhayandar East"><span class="cat-emoji">🪛</span><span class="cat-name">Hardware Stores</span></a>
+      <a href="/bhayandar-east/pest-control" class="cat-card" title="Pest Control in Bhayandar East"><span class="cat-emoji">🐛</span><span class="cat-name">Pest Control</span></a>
+      <a href="/bhayandar-east/home-cleaning-services" class="cat-card" title="Home Cleaning Services in Bhayandar East"><span class="cat-emoji">🧹</span><span class="cat-name">Home Cleaning Services</span></a>
+      <a href="/bhayandar-east/painting-services" class="cat-card" title="Painting Services in Bhayandar East"><span class="cat-emoji">🖌️</span><span class="cat-name">Painting Services</span></a>
+      <a href="/bhayandar-east/laundry-dry-cleaners" class="cat-card" title="Laundry & Dry Cleaners in Bhayandar East"><span class="cat-emoji">👕</span><span class="cat-name">Laundry & Dry Cleaners</span></a>
+      <a href="/bhayandar-east/water-purifier-services" class="cat-card" title="Water Purifier Services in Bhayandar East"><span class="cat-emoji">💧</span><span class="cat-name">Water Purifier Services</span></a>
+      <a href="/bhayandar-east/cctv-installation" class="cat-card" title="CCTV Installation in Bhayandar East"><span class="cat-emoji">📷</span><span class="cat-name">CCTV Installation</span></a>
+      <a href="/bhayandar-east/false-ceiling-contractors" class="cat-card" title="False Ceiling Contractors in Bhayandar East"><span class="cat-emoji">🏗️</span><span class="cat-name">False Ceiling Contractors</span></a>
+      <a href="/bhayandar-east/sofa-repair-services" class="cat-card" title="Sofa Repair Services in Bhayandar East"><span class="cat-emoji">🪜</span><span class="cat-name">Sofa Repair Services</span></a>
+      <a href="/bhayandar-east/car-dealers" class="cat-card" title="Car Dealers in Bhayandar East"><span class="cat-emoji">🚕</span><span class="cat-name">Car Dealers</span></a>
+      <a href="/bhayandar-east/bike-dealers" class="cat-card" title="Bike Dealers in Bhayandar East"><span class="cat-emoji">🛵</span><span class="cat-name">Bike Dealers</span></a>
+      <a href="/bhayandar-east/car-wash-services" class="cat-card" title="Car Wash Services in Bhayandar East"><span class="cat-emoji">🚿</span><span class="cat-name">Car Wash Services</span></a>
+    </nav>
+  </div>
+</section>
+
+
+<section class="guide-sec" id="residents">
+  <div class="con">
+    <p class="sl">Resident Profile</p>
+    <h2 class="st">Who Lives in <em>Bhayandar East</em>?</h2>
+    <p class="sd">A diverse, value-driven cross-section of the Mumbai region - here's who you'll find calling Bhayandar East home.</p>
+    <div class="profile-wrap">
+      <div class="profile-img">
+        <img src="https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=800&q=80" alt="Bhayandar East residents community life" width="800" height="600">
+      </div>
+      <div>
+        <p>Bhayandar East draws value-conscious families looking for affordable, spacious homes in large townships. Gujarati and North Indian families form a big share, alongside Marathi households and a growing migrant working population. Many residents are young salaried professionals and small business owners commuting to Andheri, Borivali and BKC.</p>
+        <div class="profile-stats">
+          <div class="profile-stat"><strong>Gujarati Families</strong><span>Large, established trading community across Bhayandar East</span></div>
+          <div class="profile-stat"><strong>North Indian Households</strong><span>Strong, growing presence in Indralok & Golden Nest</span></div>
+          <div class="profile-stat"><strong>Young Professionals</strong><span>Commuters to Andheri, Borivali & BKC offices</span></div>
+          <div class="profile-stat"><strong>Marathi Households</strong><span>Long-term residential presence across the area</span></div>
+          <div class="profile-stat"><strong>Small Business Owners</strong><span>Shopkeepers & traders along Navghar Road</span></div>
+          <div class="profile-stat"><strong>Migrant Workforce</strong><span>Drawn by affordable rentals and connectivity</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="guide-sec" id="property">
+  <div class="con">
+    <p class="sl">Real Estate</p>
+    <h2 class="st">Property Prices in <em>Bhayandar East</em></h2>
+    <p class="sd">An area-by-area breakdown of current property rates in Bhayandar East. Based on local listings data - <em>updated May 2026.</em></p>
+    <div class="prop-grid">
+      <div class="prop-card">
+        <img src="https://images.unsplash.com/photo-1484154218962-a197022b5858?w=200&q=80" alt="1BHK flat Bhayandar East" width="200" height="200">
+        <div>
+          <div class="price-lbl">Golden Nest / Station Belt - 1BHK</div>
+          <div class="price">₹42 – 58 L</div>
+          <div class="price-lbl">Rent: ₹9,000 – ₹15,000/mo</div>
+        </div>
+      </div>
+      <div class="prop-card">
+        <img src="https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=200&q=80" alt="2BHK apartment Indralok Bhayandar East" width="200" height="200">
+        <div>
+          <div class="price-lbl">Indralok - 2BHK</div>
+          <div class="price">₹68 L – 95 L</div>
+          <div class="price-lbl">Rent: ₹16,000 – ₹24,000/mo</div>
+        </div>
+      </div>
+      <div class="prop-card">
+        <img src="https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=200&q=80" alt="Newer 2BHK Kanakia Bhayandar East" width="200" height="200">
+        <div>
+          <div class="price-lbl">Kanakia Area - 2BHK (newer)</div>
+          <div class="price">₹78 L – 1.05 Cr</div>
+          <div class="price-lbl">Rent: ₹18,000 – ₹26,000/mo</div>
+        </div>
+      </div>
+      <div class="prop-card">
+        <img src="https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?w=200&q=80" alt="Shop commercial space Bhayandar East" width="200" height="200">
+        <div>
+          <div class="price-lbl">Navghar Road - Retail Shop (per sqft)</div>
+          <div class="price">₹14,000 – ₹22,000/sqft</div>
+          <div class="price-lbl">Rent: Negotiable, high-footfall stretch</div>
+        </div>
+      </div>
+    </div>
+    <p class="prop-note">* Prices are indicative based on local property listings data, May 2026. Actual rates vary by floor, building age and specific sub-area. Always verify with a registered real estate agent.</p>
+  </div>
+</section>
+
+
+<section class="cat-grid-sec" id="categories-3" aria-label="Services in Bhayandar East, set 3 of 8">
+  <div class="con">
+    <h2 class="st">Automobiles, Entertainment & Education</h2>
+    <p class="sd">From car dealers to gaming zones and coaching classes in Bhayandar East.</p>
+    <nav class="cat-grid" aria-label="Service categories in Bhayandar East">
+      <a href="/bhayandar-east/second-hand-cars" class="cat-card" title="Second Hand Cars in Bhayandar East"><span class="cat-emoji">🚐</span><span class="cat-name">Second Hand Cars</span></a>
+      <a href="/bhayandar-east/auto-parts-stores" class="cat-card" title="Auto Parts Stores in Bhayandar East"><span class="cat-emoji">⚙️</span><span class="cat-name">Auto Parts Stores</span></a>
+      <a href="/bhayandar-east/petrol-pumps" class="cat-card" title="Petrol Pumps in Bhayandar East"><span class="cat-emoji">⛽</span><span class="cat-name">Petrol Pumps</span></a>
+      <a href="/bhayandar-east/ev-charging-stations" class="cat-card" title="EV Charging Stations in Bhayandar East"><span class="cat-emoji">🔋</span><span class="cat-name">EV Charging Stations</span></a>
+      <a href="/bhayandar-east/photographers" class="cat-card" title="Photographers in Bhayandar East"><span class="cat-emoji">📸</span><span class="cat-name">Photographers</span></a>
+      <a href="/bhayandar-east/videographers" class="cat-card" title="Videographers in Bhayandar East"><span class="cat-emoji">🎥</span><span class="cat-name">Videographers</span></a>
+      <a href="/bhayandar-east/photo-studios" class="cat-card" title="Photo Studios in Bhayandar East"><span class="cat-emoji">🎞️</span><span class="cat-name">Photo Studios</span></a>
+      <a href="/bhayandar-east/printing-shops" class="cat-card" title="Printing Shops in Bhayandar East"><span class="cat-emoji">🖨️</span><span class="cat-name">Printing Shops</span></a>
+      <a href="/bhayandar-east/movie-theatres" class="cat-card" title="Movie Theatres in Bhayandar East"><span class="cat-emoji">🎬</span><span class="cat-name">Movie Theatres</span></a>
+      <a href="/bhayandar-east/bowling-alleys" class="cat-card" title="Bowling Alleys in Bhayandar East"><span class="cat-emoji">🎳</span><span class="cat-name">Bowling Alleys</span></a>
+      <a href="/bhayandar-east/gaming-zones" class="cat-card" title="Gaming Zones in Bhayandar East"><span class="cat-emoji">🎮</span><span class="cat-name">Gaming Zones</span></a>
+      <a href="/bhayandar-east/escape-rooms" class="cat-card" title="Escape Rooms in Bhayandar East"><span class="cat-emoji">🗝️</span><span class="cat-name">Escape Rooms</span></a>
+      <a href="/bhayandar-east/stand-up-comedy-shows" class="cat-card" title="Stand-Up Comedy Shows in Bhayandar East"><span class="cat-emoji">🎤</span><span class="cat-name">Stand-Up Comedy Shows</span></a>
+      <a href="/bhayandar-east/creches-daycare" class="cat-card" title="Creches & Daycare in Bhayandar East"><span class="cat-emoji">🪆</span><span class="cat-name">Creches & Daycare</span></a>
+      <a href="/bhayandar-east/playschools" class="cat-card" title="Playschools in Bhayandar East"><span class="cat-emoji">🧸</span><span class="cat-name">Playschools</span></a>
+      <a href="/bhayandar-east/schools" class="cat-card" title="Schools in Bhayandar East"><span class="cat-emoji">🏫</span><span class="cat-name">Schools</span></a>
+      <a href="/bhayandar-east/colleges" class="cat-card" title="Colleges in Bhayandar East"><span class="cat-emoji">🎓</span><span class="cat-name">Colleges</span></a>
+      <a href="/bhayandar-east/spoken-english-classes" class="cat-card" title="Spoken English Classes in Bhayandar East"><span class="cat-emoji">🗣️</span><span class="cat-name">Spoken English Classes</span></a>
+      <a href="/bhayandar-east/computer-classes" class="cat-card" title="Computer Classes in Bhayandar East"><span class="cat-emoji">⌨️</span><span class="cat-name">Computer Classes</span></a>
+      <a href="/bhayandar-east/swimming-classes" class="cat-card" title="Swimming Classes in Bhayandar East"><span class="cat-emoji">🏊</span><span class="cat-name">Swimming Classes</span></a>
+      <a href="/bhayandar-east/courier-services" class="cat-card" title="Courier Services in Bhayandar East"><span class="cat-emoji">🚚</span><span class="cat-name">Courier Services</span></a>
+      <a href="/bhayandar-east/co-working-spaces" class="cat-card" title="Co-Working Spaces in Bhayandar East"><span class="cat-emoji">💼</span><span class="cat-name">Co-Working Spaces</span></a>
+      <a href="/bhayandar-east/event-photographers" class="cat-card" title="Event Photographers in Bhayandar East"><span class="cat-emoji">🤳</span><span class="cat-name">Event Photographers</span></a>
+      <a href="/bhayandar-east/digital-marketing-agencies" class="cat-card" title="Digital Marketing Agencies in Bhayandar East"><span class="cat-emoji">📣</span><span class="cat-name">Digital Marketing Agencies</span></a>
+      <a href="/bhayandar-east/web-designers" class="cat-card" title="Web Designers in Bhayandar East"><span class="cat-emoji">🌐</span><span class="cat-name">Web Designers</span></a>
+    </nav>
+  </div>
+</section>
+
+
+<section class="guide-sec" id="schools">
+  <div class="con">
+    <p class="sl">Education</p>
+    <h2 class="st">Schools & Colleges in <em>Bhayandar East</em></h2>
+    <p class="sd">From reputed SSC and CBSE schools to a well-known degree college - Bhayandar East has solid educational options for every stage.</p>
+    <div class="school-list">
+      <div class="school-item">
+        <img src="https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=200&q=80" alt="Shankar Narayan College Bhayandar East" width="200" height="200">
+        <div class="school-item-body">
+          <h3>Shankar Narayan College, Bhayandar East</h3>
+          <span>Navghar Road, Bhayandar East</span>
+          <div class="school-badge">Degree College</div>
+        </div>
+      </div>
+      <div class="school-item">
+        <img src="https://images.unsplash.com/photo-1588072432836-e10032774350?w=200&q=80" alt="St Xavier school Bhayandar East" width="200" height="200">
+        <div class="school-item-body">
+          <h3>St. Xavier's High School, Bhayandar East</h3>
+          <span>Bhayandar East</span>
+          <div class="school-badge">SSC</div>
+        </div>
+      </div>
+      <div class="school-item">
+        <img src="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=200&q=80" alt="Sunrise school Bhayandar East" width="200" height="200">
+        <div class="school-item-body">
+          <h3>Sunrise English High School, Bhayandar East</h3>
+          <span>Indralok, Bhayandar East</span>
+          <div class="school-badge">SSC</div>
+        </div>
+      </div>
+      <div class="school-item">
+        <img src="https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=200&q=80" alt="CBSE school Bhayandar East" width="200" height="200">
+        <div class="school-item-body">
+          <h3>St. Joseph High School, Bhayandar East</h3>
+          <span>Bhayandar East</span>
+          <div class="school-badge">SSC / CBSE</div>
+        </div>
+      </div>
+      <div class="school-item">
+        <img src="https://images.unsplash.com/photo-1600195077077-7c815b6fd7b5?w=200&q=80" alt="English medium school Golden Nest" width="200" height="200">
+        <div class="school-item-body">
+          <h3>Golden Nest English School, Bhayandar East</h3>
+          <span>Golden Nest, Bhayandar East</span>
+          <div class="school-badge">SSC</div>
+        </div>
+      </div>
+      <div class="school-item">
+        <img src="https://images.unsplash.com/photo-1562774053-701939374585?w=200&q=80" alt="Junior college near Bhayandar East" width="200" height="200">
+        <div class="school-item-body">
+          <h3>RBK School & Jr College (nearby), Mira Road</h3>
+          <span>Close to Bhayandar East</span>
+          <div class="school-badge">CBSE / Jr College</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="guide-sec" id="hospitals">
+  <div class="con">
+    <p class="sl">Healthcare</p>
+    <h2 class="st">Hospitals & Clinics in <em>Bhayandar East</em></h2>
+    <p class="sd">From multi-speciality hospitals to 24-hour clinics - here's where Bhayandar East residents go for medical care.</p>
+    <div class="hosp-grid">
+      <div class="hosp-card">
+        <img src="https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=400&q=80" alt="Multi-speciality hospital Bhayandar East" width="400" height="240">
+        <div class="hosp-card-body">
+          <div class="hosp-type">Multi-speciality</div>
+          <h3>Sai Hospital, Bhayandar East</h3>
+          <p>A well-known local multi-speciality hospital serving Bhayandar East with emergency, ICU, surgery and maternity care.</p>
+        </div>
+      </div>
+      <div class="hosp-card">
+        <img src="https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=400&q=80" alt="Karuna Hospital Bhayandar East" width="400" height="240">
+        <div class="hosp-card-body">
+          <div class="hosp-type">General Hospital</div>
+          <h3>Karuna Hospital, Bhayandar East</h3>
+          <p>An accessible local hospital offering general medicine, surgery, OPD and 24-hour emergency services in Bhayandar East.</p>
+        </div>
+      </div>
+      <div class="hosp-card">
+        <img src="https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=400&q=80" alt="Bhaktivedanta Hospital near Bhayandar East" width="400" height="240">
+        <div class="hosp-card-body">
+          <div class="hosp-type">Super-speciality</div>
+          <h3>Bhaktivedanta Hospital (nearby), Mira Road</h3>
+          <p>A leading super-speciality hospital close to Bhayandar East - trusted for advanced treatment, surgery and emergency care.</p>
+        </div>
+      </div>
+      <div class="hosp-card">
+        <img src="https://images.unsplash.com/photo-1516841273335-e39b37888115?w=400&q=80" alt="Wockhardt Hospital near Bhayandar East" width="400" height="240">
+        <div class="hosp-card-body">
+          <div class="hosp-type">Super-speciality</div>
+          <h3>Wockhardt Hospital (nearby), Mira Road</h3>
+          <p>A major private super-speciality hospital serving the Mira-Bhayandar belt, including Bhayandar East residents.</p>
+        </div>
+      </div>
+      <div class="hosp-card">
+        <img src="https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=400&q=80" alt="Nursing home Indralok Bhayandar East" width="400" height="240">
+        <div class="hosp-card-body">
+          <div class="hosp-type">Nursing Home</div>
+          <h3>Local Nursing Homes, Indralok</h3>
+          <p>Several reliable nursing homes and 24-hour clinics around Indralok and Golden Nest handle everyday medical needs.</p>
+        </div>
+      </div>
+      <div class="hosp-card">
+        <img src="https://images.unsplash.com/photo-1587351021759-3e566b6af7cc?w=400&q=80" alt="Diagnostic centre Bhayandar East" width="400" height="240">
+        <div class="hosp-card-body">
+          <div class="hosp-type">Diagnostics</div>
+          <h3>Dr. Lal PathLabs / Metropolis, Bhayandar East</h3>
+          <p>Multiple diagnostic collection centres across Bhayandar East for blood tests, reports and health packages.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="cat-grid-sec" id="categories-4" aria-label="Services in Bhayandar East, set 4 of 8">
+  <div class="con">
+    <h2 class="st">Culture, Spirituality & Medical Specialists</h2>
+    <p class="sd">Temples, community events, and specialist doctors serving Bhayandar East.</p>
+    <nav class="cat-grid" aria-label="Service categories in Bhayandar East">
+      <a href="/bhayandar-east/astrologers" class="cat-card" title="Astrologers in Bhayandar East"><span class="cat-emoji">🔮</span><span class="cat-name">Astrologers</span></a>
+      <a href="/bhayandar-east/vastu-consultants" class="cat-card" title="Vastu Consultants in Bhayandar East"><span class="cat-emoji">🧭</span><span class="cat-name">Vastu Consultants</span></a>
+      <a href="/bhayandar-east/temples" class="cat-card" title="Temples in Bhayandar East"><span class="cat-emoji">🛕</span><span class="cat-name">Temples</span></a>
+      <a href="/bhayandar-east/churches" class="cat-card" title="Churches in Bhayandar East"><span class="cat-emoji">⛪</span><span class="cat-name">Churches</span></a>
+      <a href="/bhayandar-east/gurudwaras" class="cat-card" title="Gurudwaras in Bhayandar East"><span class="cat-emoji">🪯</span><span class="cat-name">Gurudwaras</span></a>
+      <a href="/bhayandar-east/jain-derasars" class="cat-card" title="Jain Derasars in Bhayandar East"><span class="cat-emoji">🕉️</span><span class="cat-name">Jain Derasars</span></a>
+      <a href="/bhayandar-east/heritage-walks" class="cat-card" title="Heritage Walks in Bhayandar East"><span class="cat-emoji">🏛️</span><span class="cat-name">Heritage Walks</span></a>
+      <a href="/bhayandar-east/community-halls" class="cat-card" title="Community Halls in Bhayandar East"><span class="cat-emoji">🎪</span><span class="cat-name">Community Halls</span></a>
+      <a href="/bhayandar-east/dabbawalas" class="cat-card" title="Dabbawalas in Bhayandar East"><span class="cat-emoji">🍱</span><span class="cat-name">Dabbawalas</span></a>
+      <a href="/bhayandar-east/yoga-meditation-centres" class="cat-card" title="Yoga & Meditation Centres in Bhayandar East"><span class="cat-emoji">🧘‍♂️</span><span class="cat-name">Yoga & Meditation Centres</span></a>
+      <a href="/bhayandar-east/banquet-grounds" class="cat-card" title="Banquet Grounds in Bhayandar East"><span class="cat-emoji">⛺</span><span class="cat-name">Banquet Grounds</span></a>
+      <a href="/bhayandar-east/dentists" class="cat-card" title="Dentists in Bhayandar East"><span class="cat-emoji">🦷</span><span class="cat-name">Dentists</span></a>
+      <a href="/bhayandar-east/skin-doctors" class="cat-card" title="Skin Doctors in Bhayandar East"><span class="cat-emoji">🧴</span><span class="cat-name">Skin Doctors</span></a>
+      <a href="/bhayandar-east/ent-doctors" class="cat-card" title="ENT Doctors in Bhayandar East"><span class="cat-emoji">👂</span><span class="cat-name">ENT Doctors</span></a>
+      <a href="/bhayandar-east/spine-doctors" class="cat-card" title="Spine Doctors in Bhayandar East"><span class="cat-emoji">🦴</span><span class="cat-name">Spine Doctors</span></a>
+      <a href="/bhayandar-east/ortho-doctors" class="cat-card" title="Ortho Doctors in Bhayandar East"><span class="cat-emoji">🩼</span><span class="cat-name">Ortho Doctors</span></a>
+      <a href="/bhayandar-east/heart-doctors" class="cat-card" title="Heart Doctors in Bhayandar East"><span class="cat-emoji">❤️</span><span class="cat-name">Heart Doctors</span></a>
+      <a href="/bhayandar-east/gynecologist-obstetricians" class="cat-card" title="Gynecologists in Bhayandar East"><span class="cat-emoji">👩‍⚕️</span><span class="cat-name">Gynecologists</span></a>
+      <a href="/bhayandar-east/pediatrician-child-doctors" class="cat-card" title="Pediatricians in Bhayandar East"><span class="cat-emoji">🧒</span><span class="cat-name">Pediatricians</span></a>
+      <a href="/bhayandar-east/maternity-hospitals" class="cat-card" title="Maternity Hospitals in Bhayandar East"><span class="cat-emoji">🤰</span><span class="cat-name">Maternity Hospitals</span></a>
+      <a href="/bhayandar-east/ivf-centers" class="cat-card" title="IVF Centers in Bhayandar East"><span class="cat-emoji">🧬</span><span class="cat-name">IVF Centers</span></a>
+      <a href="/bhayandar-east/hospitals" class="cat-card" title="Hospitals in Bhayandar East"><span class="cat-emoji">🏥</span><span class="cat-name">Hospitals</span></a>
+      <a href="/bhayandar-east/medical-pathology-labs" class="cat-card" title="Pathology Labs in Bhayandar East"><span class="cat-emoji">🫧</span><span class="cat-name">Pathology Labs</span></a>
+      <a href="/bhayandar-east/psychologists" class="cat-card" title="Psychologists in Bhayandar East"><span class="cat-emoji">🧠</span><span class="cat-name">Psychologists</span></a>
+      <a href="/bhayandar-east/psychiatrists" class="cat-card" title="Psychiatrists in Bhayandar East"><span class="cat-emoji">💬</span><span class="cat-name">Psychiatrists</span></a>
+    </nav>
+  </div>
+</section>
+
+
+<section class="guide-sec" id="banks">
+  <div class="con">
+    <p class="sl">Banking & Finance</p>
+    <h2 class="st">Banks & ATMs in <em>Bhayandar East</em></h2>
+    <p class="sd">All major Indian banks are well-represented across Bhayandar East - branches along Navghar Road, Indralok, Golden Nest and the station belt.</p>
+    <div class="bank-grid">
+      <div class="bank-chip"><img src="https://images.unsplash.com/photo-1556742031-c6961e8560b0?w=300&q=80" alt="SBI Bank branch Bhayandar East" width="300" height="180">State Bank of India</div>
+      <div class="bank-chip"><img src="https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=300&q=80" alt="HDFC Bank ATM Bhayandar East" width="300" height="180">HDFC Bank</div>
+      <div class="bank-chip"><img src="https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=300&q=80" alt="ICICI Bank branch Bhayandar East" width="300" height="180">ICICI Bank</div>
+      <div class="bank-chip"><img src="https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?w=300&q=80" alt="Axis Bank Bhayandar East" width="300" height="180">Axis Bank</div>
+      <div class="bank-chip"><img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=300&q=80" alt="Bank of Maharashtra Bhayandar East" width="300" height="180">Bank of Maharashtra</div>
+      <div class="bank-chip"><img src="https://images.unsplash.com/photo-1521791136064-7986c2920216?w=300&q=80" alt="Kotak Mahindra Bank Bhayandar East" width="300" height="180">Kotak Mahindra Bank</div>
+      <div class="bank-chip"><img src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=300&q=80" alt="Bank of Baroda Bhayandar East" width="300" height="180">Bank of Baroda</div>
+      <div class="bank-chip"><img src="https://images.unsplash.com/photo-1567427017947-545c5f8d16ad?w=300&q=80" alt="Saraswat Co-op Bank Bhayandar East" width="300" height="180">Saraswat Co-op Bank</div>
+    </div>
+  </div>
+</section>
+
+
+<section class="guide-sec" id="markets">
+  <div class="con">
+    <p class="sl">Markets & Shopping</p>
+    <h2 class="st">Markets & Shopping in <em>Bhayandar East</em></h2>
+    <p class="sd">Beyond the showrooms - the sabzi mandis, township markets and local street bazaars that keep Bhayandar East running every day.</p>
+    <div class="market-grid">
+      <div class="market-card">
+        <img src="https://images.unsplash.com/photo-1488459716781-31db52582fe9?w=600&q=80" alt="Navghar Road market Bhayandar East" width="600" height="400">
+        <div class="market-ov"></div>
+        <div class="market-body">
+          <h3>Navghar Road Market, Bhayandar East</h3>
+          <p>The retail heart of Bhayandar East - clothing, farsan, groceries, electronics and street food in one busy stretch.</p>
+        </div>
+      </div>
+      <div class="market-card">
+        <img src="https://images.unsplash.com/photo-1542838132-92c53300491e?w=600&q=80" alt="Station road sabzi market Bhayandar East" width="600" height="400">
+        <div class="market-ov"></div>
+        <div class="market-body">
+          <h3>Station Road Sabzi Mandi, Bhayandar East</h3>
+          <p>The daily vegetable and fruit market near the east side of Bhayandar station - fresh produce at local prices.</p>
+        </div>
+      </div>
+      <div class="market-card">
+        <img src="https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=600&q=80" alt="Indralok market Bhayandar East" width="600" height="400">
+        <div class="market-ov"></div>
+        <div class="market-body">
+          <h3>Indralok Township Market, Bhayandar East</h3>
+          <p>A neighbourhood market serving the Indralok belt - daily provisions, bakeries, sweet shops and small retail.</p>
+        </div>
+      </div>
+      <div class="market-card">
+        <img src="https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=600&q=80" alt="Golden Nest bazaar Bhayandar East" width="600" height="400">
+        <div class="market-ov"></div>
+        <div class="market-body">
+          <h3>Golden Nest Market, Bhayandar East</h3>
+          <p>Affordable clothes, household goods and street food - a popular evening and weekend shopping stretch for families.</p>
+        </div>
+      </div>
+      <div class="market-card">
+        <img src="https://images.unsplash.com/photo-1533900298318-6b8da08a523e?w=600&q=80" alt="Wholesale shops Bhayandar East" width="600" height="400">
+        <div class="market-ov"></div>
+        <div class="market-body">
+          <h3>Hardware & Wholesale Shops, Bhayandar East</h3>
+          <p>Hardware, electrical and packaging supply shops along the Navghar Road belt serving local builders and traders.</p>
+        </div>
+      </div>
+      <div class="market-card">
+        <img src="https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=600&q=80" alt="Kanakia street market Bhayandar East" width="600" height="400">
+        <div class="market-ov"></div>
+        <div class="market-body">
+          <h3>Kanakia Street Bazaar, Bhayandar East</h3>
+          <p>A growing local bazaar near the newer Kanakia pockets - daily essentials, eateries and small retail outlets.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="cat-grid-sec" id="categories-5" aria-label="Services in Bhayandar East, set 5 of 8">
+  <div class="con">
+    <h2 class="st">Wellness, Beauty & Events</h2>
+    <p class="sd">Salons, gyms, wedding planners and event services in Bhayandar East.</p>
+    <nav class="cat-grid" aria-label="Service categories in Bhayandar East">
+      <a href="/bhayandar-east/xray-sonography-centres" class="cat-card" title="X-Ray & Sonography in Bhayandar East"><span class="cat-emoji">🩻</span><span class="cat-name">X-Ray & Sonography</span></a>
+      <a href="/bhayandar-east/spas" class="cat-card" title="Spas in Bhayandar East"><span class="cat-emoji">💆</span><span class="cat-name">Spas</span></a>
+      <a href="/bhayandar-east/salons" class="cat-card" title="Salons in Bhayandar East"><span class="cat-emoji">✂️</span><span class="cat-name">Salons</span></a>
+      <a href="/bhayandar-east/beauty-parlours" class="cat-card" title="Beauty Parlours in Bhayandar East"><span class="cat-emoji">💄</span><span class="cat-name">Beauty Parlours</span></a>
+      <a href="/bhayandar-east/makeover-artists" class="cat-card" title="Makeover Artists in Bhayandar East"><span class="cat-emoji">🪞</span><span class="cat-name">Makeover Artists</span></a>
+      <a href="/bhayandar-east/tattoo-artists" class="cat-card" title="Tattoo Artists in Bhayandar East"><span class="cat-emoji">🪡</span><span class="cat-name">Tattoo Artists</span></a>
+      <a href="/bhayandar-east/gyms" class="cat-card" title="Gyms in Bhayandar East"><span class="cat-emoji">💪</span><span class="cat-name">Gyms</span></a>
+      <a href="/bhayandar-east/personal-trainers" class="cat-card" title="Personal Trainers in Bhayandar East"><span class="cat-emoji">🏋️</span><span class="cat-name">Personal Trainers</span></a>
+      <a href="/bhayandar-east/dietitians-nutritionists" class="cat-card" title="Dietitians & Nutritionists in Bhayandar East"><span class="cat-emoji">🥦</span><span class="cat-name">Dietitians & Nutritionists</span></a>
+      <a href="/bhayandar-east/bridal-makeup-artists" class="cat-card" title="Bridal Makeup Artists in Bhayandar East"><span class="cat-emoji">👰</span><span class="cat-name">Bridal Makeup Artists</span></a>
+      <a href="/bhayandar-east/groom-makeup-artists" class="cat-card" title="Groom Makeup Artists in Bhayandar East"><span class="cat-emoji">🤵</span><span class="cat-name">Groom Makeup Artists</span></a>
+      <a href="/bhayandar-east/dance-classes" class="cat-card" title="Dance Classes in Bhayandar East"><span class="cat-emoji">💃</span><span class="cat-name">Dance Classes</span></a>
+      <a href="/bhayandar-east/zumba-classes" class="cat-card" title="Zumba Classes in Bhayandar East"><span class="cat-emoji">🕺</span><span class="cat-name">Zumba Classes</span></a>
+      <a href="/bhayandar-east/yoga-classes" class="cat-card" title="Yoga Classes in Bhayandar East"><span class="cat-emoji">🧘</span><span class="cat-name">Yoga Classes</span></a>
+      <a href="/bhayandar-east/music-classes" class="cat-card" title="Music Classes in Bhayandar East"><span class="cat-emoji">🎵</span><span class="cat-name">Music Classes</span></a>
+      <a href="/bhayandar-east/drawing-classes" class="cat-card" title="Drawing Classes in Bhayandar East"><span class="cat-emoji">🖍️</span><span class="cat-name">Drawing Classes</span></a>
+      <a href="/bhayandar-east/wedding-planners" class="cat-card" title="Wedding Planners in Bhayandar East"><span class="cat-emoji">💒</span><span class="cat-name">Wedding Planners</span></a>
+      <a href="/bhayandar-east/destination-wedding-planners" class="cat-card" title="Destination Wedding Planners in Bhayandar East"><span class="cat-emoji">✈️</span><span class="cat-name">Destination Wedding Planners</span></a>
+      <a href="/bhayandar-east/birthday-event-planners" class="cat-card" title="Birthday Event Planners in Bhayandar East"><span class="cat-emoji">🎈</span><span class="cat-name">Birthday Event Planners</span></a>
+      <a href="/bhayandar-east/anniversary-event-planners" class="cat-card" title="Anniversary Planners in Bhayandar East"><span class="cat-emoji">🎊</span><span class="cat-name">Anniversary Planners</span></a>
+      <a href="/bhayandar-east/baby-shower-planners" class="cat-card" title="Baby Shower Planners in Bhayandar East"><span class="cat-emoji">🎀</span><span class="cat-name">Baby Shower Planners</span></a>
+      <a href="/bhayandar-east/caterers" class="cat-card" title="Caterers in Bhayandar East"><span class="cat-emoji">🍽️</span><span class="cat-name">Caterers</span></a>
+      <a href="/bhayandar-east/banquet-halls" class="cat-card" title="Banquet Halls in Bhayandar East"><span class="cat-emoji">🏩</span><span class="cat-name">Banquet Halls</span></a>
+      <a href="/bhayandar-east/cars-on-rent" class="cat-card" title="Cars on Rent in Bhayandar East"><span class="cat-emoji">🚘</span><span class="cat-name">Cars on Rent</span></a>
+      <a href="/bhayandar-east/costumes-on-rent" class="cat-card" title="Costumes on Rent in Bhayandar East"><span class="cat-emoji">🎭</span><span class="cat-name">Costumes on Rent</span></a>
+    </nav>
+  </div>
+</section>
+
+
+<section class="guide-sec" id="commute">
+  <div class="con">
+    <p class="sl">Commute & Connectivity</p>
+    <h2 class="st">Getting Around <em>Bhayandar East</em></h2>
+    <p class="sd">Bhayandar East runs on the Western Railway, with MBMC buses, autos and road links toward the highway adding to its connectivity.</p>
+    <div class="commute-box">
+      <div class="cb2"><div class="cb2-icon">🚆</div><div class="cb2-val">60-70 min</div><div class="cb2-lbl">Churchgate by Train</div></div>
+      <div class="cb2"><div class="cb2-icon">🚉</div><div class="cb2-val">35 min</div><div class="cb2-lbl">Andheri by Train</div></div>
+      <div class="cb2"><div class="cb2-icon">🛺</div><div class="cb2-val">Abundant</div><div class="cb2-lbl">Autos & Share Autos</div></div>
+      <div class="cb2"><div class="cb2-icon">🛣️</div><div class="cb2-val">WEH</div><div class="cb2-lbl">Highway via Mira Road</div></div>
+    </div>
+    <div class="commute-detail-grid">
+      <div class="commute-card">
+        <img src="https://images.unsplash.com/photo-1474487548417-781cb71495f3?w=200&q=80" alt="Bhayandar station Western Railway" width="200" height="200">
+        <div class="commute-card-body">
+          <h3>Western Railway - Bhayandar Station</h3>
+          <p>The lifeline of Bhayandar East - fast and slow locals to Churchgate, Borivali, Andheri and Virar. Bhayandar East sits on the east side of the station.</p>
+        </div>
+      </div>
+      <div class="commute-card">
+        <img src="https://images.unsplash.com/photo-1570125909232-eb263c188f7e?w=200&q=80" alt="MBMC bus Bhayandar East" width="200" height="200">
+        <div class="commute-card-body">
+          <h3>Bus Routes from Bhayandar East</h3>
+          <p>MBMC buses connect Bhayandar East to Mira Road, Bhayandar West, Borivali and Dahisar, covering Indralok, Golden Nest and Navghar Road.</p>
+        </div>
+      </div>
+      <div class="commute-card">
+        <img src="https://images.unsplash.com/photo-1566378246598-5b11a0d486cc?w=200&q=80" alt="Western Express Highway access Bhayandar East" width="200" height="200">
+        <div class="commute-card-body">
+          <h3>Road Access from Bhayandar East</h3>
+          <p>Connected to the Western Express Highway via Mira Road and Dahisar - convenient for road trips to Borivali, Ghodbunder Road and Thane.</p>
+        </div>
+      </div>
+      <div class="commute-card">
+        <img src="https://images.unsplash.com/photo-1581262208435-41726149a759?w=200&q=80" alt="Metro line near Bhayandar East" width="200" height="200">
+        <div class="commute-card-body">
+          <h3>Upcoming Metro Access, Bhayandar East</h3>
+          <p>The proposed Metro Line 9 extension toward Mira-Bhayandar will give Bhayandar East faster connectivity to Dahisar and the metro network.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="guide-sec" id="employers">
+  <div class="con">
+    <p class="sl">Business & Employment</p>
+    <h2 class="st">Work & Business in <em>Bhayandar East</em></h2>
+    <p class="sd">Bhayandar East is largely residential, with local trade, retail and small industry driving employment, plus easy commutes to nearby job hubs.</p>
+    <div class="employer-grid">
+      <div class="employer-card">
+        <img src="https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=400&q=80" alt="Retail shops Navghar Road Bhayandar East" width="400" height="220">
+        <div class="employer-card-body">
+          <span class="employer-sector">Retail & Trade</span>
+          <h3>Navghar Road Retail Belt, Bhayandar East</h3>
+          <p>Hundreds of shops, showrooms and trading businesses make local retail one of the biggest employers in Bhayandar East.</p>
+        </div>
+      </div>
+      <div class="employer-card">
+        <img src="https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=400&q=80" alt="Small industry Bhayandar East" width="400" height="220">
+        <div class="employer-card-body">
+          <span class="employer-sector">Small Industry</span>
+          <h3>Local Workshops & Units, Bhayandar East</h3>
+          <p>Small manufacturing units, godowns and workshops on the eastern belt provide steady blue-collar employment.</p>
+        </div>
+      </div>
+      <div class="employer-card">
+        <img src="https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=400&q=80" alt="Hospitals clinics Bhayandar East employment" width="400" height="220">
+        <div class="employer-card-body">
+          <span class="employer-sector">Healthcare</span>
+          <h3>Hospitals & Clinics, Bhayandar East</h3>
+          <p>Local hospitals, nursing homes, diagnostic labs and clinics are a steady source of healthcare employment in the area.</p>
+        </div>
+      </div>
+      <div class="employer-card">
+        <img src="https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80" alt="Education sector Bhayandar East" width="400" height="220">
+        <div class="employer-card-body">
+          <span class="employer-sector">Education</span>
+          <h3>Schools, Colleges & Coaching, Bhayandar East</h3>
+          <p>Shankar Narayan College, local schools and numerous coaching classes employ teachers and staff across Bhayandar East.</p>
+        </div>
+      </div>
+      <div class="employer-card">
+        <img src="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&q=80" alt="Commute to Andheri Borivali from Bhayandar East" width="400" height="220">
+        <div class="employer-card-body">
+          <span class="employer-sector">Commuter Workforce</span>
+          <h3>Commuters to Andheri, Borivali & BKC</h3>
+          <p>A large share of Bhayandar East residents work in the western suburbs and business districts, commuting daily by the Western line.</p>
+        </div>
+      </div>
+      <div class="employer-card">
+        <img src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=400&q=80" alt="Home businesses Bhayandar East" width="400" height="220">
+        <div class="employer-card-body">
+          <span class="employer-sector">SMEs & Home Business</span>
+          <h3>Local SMEs & Home Enterprises</h3>
+          <p>Tiffin kitchens, tailoring units, coaching classes and home-run businesses thrive across Bhayandar East's townships.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="guide-sec" id="societies">
+  <div class="con">
+    <p class="sl">Housing Societies</p>
+    <h2 class="st">Residential Societies in <em>Bhayandar East</em></h2>
+    <p class="sd">Prominent housing societies and townships that define community life in Bhayandar East.</p>
+    <div class="soc-grid">
+      <div class="soc-item"><img src="https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=200&q=80" alt="Indralok society Bhayandar East" width="200" height="200"><div><h3>Indralok Phases, Bhayandar East</h3><span>Indralok - large phased township, family-friendly</span></div></div>
+      <div class="soc-item"><img src="https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=200&q=80" alt="Golden Nest society Bhayandar East" width="200" height="200"><div><h3>Golden Nest Phases, Bhayandar East</h3><span>Golden Nest - popular mid-income residential cluster</span></div></div>
+      <div class="soc-item"><img src="https://images.unsplash.com/photo-1560185127-6a8c3f6b8f3c?w=200&q=80" alt="Kanakia towers Bhayandar East" width="200" height="200"><div><h3>Kanakia Park Towers, Bhayandar East</h3><span>Kanakia - newer high-rises with amenities</span></div></div>
+      <div class="soc-item"><img src="https://images.unsplash.com/photo-1582407947304-fd86f028f716?w=200&q=80" alt="Navghar Road residences Bhayandar East" width="200" height="200"><div><h3>Navghar Road Residences, Bhayandar East</h3><span>Navghar Road - mixed residential-commercial buildings</span></div></div>
+      <div class="soc-item"><img src="https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=200&q=80" alt="Station belt society Bhayandar East" width="200" height="200"><div><h3>Station Belt CHS, Bhayandar East</h3><span>Near station - convenient, well-connected societies</span></div></div>
+      <div class="soc-item"><img src="https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=200&q=80" alt="Affordable colony Bhayandar East" width="200" height="200"><div><h3>Older CHS Clusters, Bhayandar East</h3><span>Affordable rentals, strong community feel</span></div></div>
+      <div class="soc-item"><img src="https://images.unsplash.com/photo-1600607687644-c7f34b5e9d56?w=200&q=80" alt="Creek edge project Bhayandar East" width="200" height="200"><div><h3>Creek-Edge Projects, Bhayandar East</h3><span>Eastern belt - quieter, newer developments</span></div></div>
+      <div class="soc-item"><img src="https://images.unsplash.com/photo-1613977257363-707ba9348227?w=200&q=80" alt="Gujarati community complex Bhayandar East" width="200" height="200"><div><h3>Community Complexes, Bhayandar East</h3><span>Pure-veg societies popular with local communities</span></div></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="guide-sec" id="events">
+  <div class="con">
+    <p class="sl">Events & Festivals</p>
+    <h2 class="st">Local Events in <em>Bhayandar East</em></h2>
+    <p class="sd">From grand Ganesh and Navratri celebrations to society events and food fairs - Bhayandar East's calendar is always full.</p>
+    <div class="events-grid">
+      <div class="event-card">
+        <img src="https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?w=400&q=80" alt="Ganesh festival Bhayandar East" width="400" height="320">
+        <div class="event-body"><div class="event-month">Aug – Sep</div><h3>Ganesh Chaturthi in Bhayandar East</h3><p>Township mandals across Indralok, Golden Nest and Navghar Road host vibrant Ganesh festivals with grand visarjan processions.</p></div>
+      </div>
+      <div class="event-card">
+        <img src="https://images.unsplash.com/photo-1547573854-74d2a71d0826?w=400&q=80" alt="Navratri garba Bhayandar East" width="400" height="320">
+        <div class="event-body"><div class="event-month">Oct</div><h3>Navratri Garba in Bhayandar East</h3><p>With a large Gujarati community, Bhayandar East hosts energetic garba and dandiya nights across its townships.</p></div>
+      </div>
+      <div class="event-card">
+        <img src="https://images.unsplash.com/photo-1513151233558-d860c5398176?w=400&q=80" alt="Diwali shopping Bhayandar East" width="400" height="320">
+        <div class="event-body"><div class="event-month">Oct – Nov</div><h3>Diwali & Festive Shopping, Bhayandar East</h3><p>Navghar Road lights up for Diwali - one of the busiest festive shopping seasons in Bhayandar East.</p></div>
+      </div>
+      <div class="event-card">
+        <img src="https://images.unsplash.com/photo-1531058020387-3be344556be6?w=400&q=80" alt="Local cricket league Bhayandar East" width="400" height="320">
+        <div class="event-body"><div class="event-month">Nov – Mar</div><h3>Society Cricket Leagues, Bhayandar East</h3><p>Township and society cricket leagues run through winter - a big part of Bhayandar East's community sporting culture.</p></div>
+      </div>
+      <div class="event-card">
+        <img src="https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=400&q=80" alt="Community cultural event Bhayandar East" width="400" height="320">
+        <div class="event-body"><div class="event-month">Year Round</div><h3>Community & Society Events, Bhayandar East</h3><p>Cultural programmes, gatherings and festivals organised by the many townships keep the social calendar busy all year.</p></div>
+      </div>
+      <div class="event-card">
+        <img src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=400&q=80" alt="Food fair Bhayandar East" width="400" height="320">
+        <div class="event-body"><div class="event-month">Year Round</div><h3>Local Food & Farsan Fairs, Bhayandar East</h3><p>Community food fairs and Gujarati farsan pop-ups are a regular weekend draw across Bhayandar East's neighbourhoods.</p></div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="guide-sec" id="developments">
+  <div class="con">
+    <p class="sl">What's Coming Next</p>
+    <h2 class="st">Upcoming Projects in <em>Bhayandar East</em></h2>
+    <p class="sd">Infrastructure, real estate and redevelopment projects that will reshape Bhayandar East over the next 3–5 years.</p>
+    <div class="dev-grid">
+      <div class="dev-card">
+        <img src="https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=400&q=80" alt="Metro construction near Bhayandar East" width="400" height="220">
+        <div class="dev-card-body"><div class="dev-status ongoing">Ongoing</div><h3>Metro Line 9 - Dahisar to Mira-Bhayandar</h3><p>The Metro Line 9 extension toward Mira-Bhayandar will dramatically improve connectivity for Bhayandar East residents to Dahisar and beyond.</p></div>
+      </div>
+      <div class="dev-card">
+        <img src="https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=400&q=80" alt="Road widening Bhayandar East" width="400" height="220">
+        <div class="dev-card-body"><div class="dev-status ongoing">Ongoing</div><h3>Navghar Road & Junction Upgrades</h3><p>MBMC road widening and junction improvements aim to ease the daily traffic bottlenecks along Bhayandar East's main belt.</p></div>
+      </div>
+      <div class="dev-card">
+        <img src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&q=80" alt="Township redevelopment Bhayandar East" width="400" height="220">
+        <div class="dev-card-body"><div class="dev-status upcoming">Upcoming</div><h3>Township Redevelopment, Bhayandar East</h3><p>Older Indralok and Golden Nest buildings are being lined up for redevelopment, releasing new modern housing supply.</p></div>
+      </div>
+      <div class="dev-card">
+        <img src="https://images.unsplash.com/photo-1568992687947-868a62a9f521?w=400&q=80" alt="Commercial complex Bhayandar East" width="400" height="220">
+        <div class="dev-card-body"><div class="dev-status upcoming">Upcoming</div><h3>New Commercial Complexes, Navghar Road</h3><p>Proposed commercial and office developments along Navghar Road aim to bring more local jobs to Bhayandar East.</p></div>
+      </div>
+      <div class="dev-card">
+        <img src="https://images.unsplash.com/photo-1559825481-12a05cc00344?w=400&q=80" alt="Creek edge development Bhayandar East" width="400" height="220">
+        <div class="dev-card-body"><div class="dev-status planned">Planned</div><h3>Creek-Edge Residential Projects</h3><p>New residential projects are planned along Bhayandar East's eastern creek and salt-pan edge as the area expands.</p></div>
+      </div>
+      <div class="dev-card">
+        <img src="https://images.unsplash.com/photo-1580587771525-78b9dba3b914?w=400&q=80" alt="MBMC civic upgrade Bhayandar East" width="400" height="220">
+        <div class="dev-card-body"><div class="dev-status planned">Planned</div><h3>MBMC Civic & Drainage Upgrades</h3><p>Planned drainage, road and water infrastructure upgrades across Bhayandar East to support its fast-growing population.</p></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="cat-grid-sec" id="categories-8" aria-label="Services in Bhayandar East, set 8 of 8">
+  <div class="con">
+    <h2 class="st">Care, Community & Safety</h2>
+    <p class="sd">Pet care, elder care, NGOs, security and emergency services in Bhayandar East.</p>
+    <nav class="cat-grid" aria-label="Service categories in Bhayandar East">
+      <a href="/bhayandar-east/neet-tutorials" class="cat-card" title="NEET Tutorials in Bhayandar East"><span class="cat-emoji">🩺</span><span class="cat-name">NEET Tutorials</span></a>
+      <a href="/bhayandar-east/pet-food-shops" class="cat-card" title="Pet Food Shops in Bhayandar East"><span class="cat-emoji">🐟</span><span class="cat-name">Pet Food Shops</span></a>
+      <a href="/bhayandar-east/pet-doctors" class="cat-card" title="Pet Doctors in Bhayandar East"><span class="cat-emoji">🐶</span><span class="cat-name">Pet Doctors</span></a>
+      <a href="/bhayandar-east/elders-care" class="cat-card" title="Elders Care in Bhayandar East"><span class="cat-emoji">👴</span><span class="cat-name">Elders Care</span></a>
+      <a href="/bhayandar-east/women-care-centres" class="cat-card" title="Women Care Centres in Bhayandar East"><span class="cat-emoji">🩷</span><span class="cat-name">Women Care Centres</span></a>
+      <a href="/bhayandar-east/relationship-counsellor" class="cat-card" title="Relationship Counsellor in Bhayandar East"><span class="cat-emoji">💑</span><span class="cat-name">Relationship Counsellor</span></a>
+      <a href="/bhayandar-east/ngos" class="cat-card" title="NGOs in Bhayandar East"><span class="cat-emoji">🤝</span><span class="cat-name">NGOs</span></a>
+      <a href="/bhayandar-east/ambulance-services" class="cat-card" title="Ambulance Services in Bhayandar East"><span class="cat-emoji">🚑</span><span class="cat-name">Ambulance Services</span></a>
+      <a href="/bhayandar-east/animal-shelters" class="cat-card" title="Animal Shelters in Bhayandar East"><span class="cat-emoji">🐕</span><span class="cat-name">Animal Shelters</span></a>
+      <a href="/bhayandar-east/security-services" class="cat-card" title="Security Services in Bhayandar East"><span class="cat-emoji">🔐</span><span class="cat-name">Security Services</span></a>
+    </nav>
+  </div>
+</section>
+
+
+<section class="guide-sec" id="civicdata">
+  <div class="con">
+    <p class="sl">Area at a Glance</p>
+    <h2 class="st">Civic Data - <em>Bhayandar East</em></h2>
+    <p class="sd">The essential administrative and civic facts every resident and visitor should know about Bhayandar East.</p>
+    <div class="civic-wrap">
+      <div class="civic-chip"><img src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=300&q=80" alt="Pin code Bhayandar East" width="300" height="150"><div class="cv-label">Pin Code</div><div class="cv-val">401105</div></div>
+      <div class="civic-chip"><img src="https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=300&q=80" alt="MBMC Bhayandar East" width="300" height="150"><div class="cv-label">Municipal Body</div><div class="cv-val">MBMC (Mira-Bhayandar)</div></div>
+      <div class="civic-chip"><img src="https://images.unsplash.com/photo-1503551723145-6c040742065b?w=300&q=80" alt="Assembly constituency" width="300" height="150"><div class="cv-label">Assembly Constituency</div><div class="cv-val">Mira Bhayandar (147)</div></div>
+      <div class="civic-chip"><img src="https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=300&q=80" alt="Police station Bhayandar East" width="300" height="150"><div class="cv-label">Police Station</div><div class="cv-val">Navghar, Bhayandar</div></div>
+      <div class="civic-chip"><img src="https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=300&q=80" alt="Post office Bhayandar East" width="300" height="150"><div class="cv-label">Post Office</div><div class="cv-val">Bhayandar East (401105)</div></div>
+      <div class="civic-chip"><img src="https://images.unsplash.com/photo-1534536281715-e28d76689b4d?w=300&q=80" alt="Fire station Bhayandar East" width="300" height="150"><div class="cv-label">Fire Station</div><div class="cv-val">MBMC Fire Brigade</div></div>
+      <div class="civic-chip"><img src="https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=300&q=80" alt="Population Bhayandar East" width="300" height="150"><div class="cv-label">Est. Popul. (MBMC)</div><div class="cv-val">9 Lakh+ (2026 est.)</div></div>
+      <div class="civic-chip"><img src="https://images.unsplash.com/photo-1487958449943-2429e8be8625?w=300&q=80" alt="Railway line Bhayandar East" width="300" height="150"><div class="cv-label">Railway Line</div><div class="cv-val">Western Railway</div></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="guide-sec" id="reportcard">
+  <div class="con">
+    <p class="sl">Mumbai96 Community Rating</p>
+    <h2 class="st">Bhayandar East - <em>Area Report Card</em></h2>
+    <p class="sd">Ratings based on Mumbai96 community inputs from residents and frequent visitors of Bhayandar East. Updated May 2026.</p>
+    <div class="report-grid">
+      <div class="report-card"><div class="rc-icon"><img src="https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=100&q=80" alt="Affordability Bhayandar East" width="100" height="100"></div><h3>Affordability in Bhayandar East</h3><div class="stars"><span>⭐</span><span>⭐</span><span>⭐</span><span>⭐</span><span>⭐</span></div><div class="rc-note">Among the most affordable pockets in the MMR</div></div>
+      <div class="report-card"><div class="rc-icon"><img src="https://images.unsplash.com/photo-1488459716781-31db52582fe9?w=100&q=80" alt="Daily essentials Bhayandar East" width="100" height="100"></div><h3>Daily Essentials in Bhayandar East</h3><div class="stars"><span>⭐</span><span>⭐</span><span>⭐</span><span>⭐</span><span>⭐</span></div><div class="rc-note">Markets, farsan, groceries and pharmacies everywhere</div></div>
+      <div class="report-card"><div class="rc-icon"><img src="https://images.unsplash.com/photo-1474487548417-781cb71495f3?w=100&q=80" alt="Connectivity Bhayandar East" width="100" height="100"></div><h3>Connectivity in Bhayandar East</h3><div class="stars"><span>⭐</span><span>⭐</span><span>⭐</span></div><div class="rc-note">Good train link; far from south Mumbai, awaiting Metro</div></div>
+      <div class="report-card"><div class="rc-icon"><img src="https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=100&q=80" alt="Safety Bhayandar East" width="100" height="100"></div><h3>Safety in Bhayandar East</h3><div class="stars"><span>⭐</span><span>⭐</span><span>⭐</span><span>⭐</span></div><div class="rc-note">Quiet, family-friendly and generally very safe</div></div>
+      <div class="report-card"><div class="rc-icon"><img src="https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=100&q=80" alt="Schools education Bhayandar East" width="100" height="100"></div><h3>Schools & Education</h3><div class="stars"><span>⭐</span><span>⭐</span><span>⭐</span><span>⭐</span></div><div class="rc-note">Good SSC/CBSE options & a known degree college</div></div>
+      <div class="report-card"><div class="rc-icon"><img src="https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=100&q=80" alt="Healthcare Bhayandar East" width="100" height="100"></div><h3>Healthcare Access</h3><div class="stars"><span>⭐</span><span>⭐</span><span>⭐</span><span>⭐</span></div><div class="rc-note">Local hospitals plus top facilities nearby on Mira Road</div></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="guide-sec" id="locallife">
+  <div class="con">
+    <p class="sl">Local Life</p>
+    <h2 class="st">Living in <em>Bhayandar East</em></h2>
+    <p class="sd">Day-to-day life in Bhayandar East - practical things every resident and newcomer needs to know.</p>
+    <div class="list-grid">
+      <div class="list-item"><img src="https://images.unsplash.com/photo-1484154218962-a197022b5858?w=80&q=80" alt="Housing property Bhayandar East" width="80" height="80"><div><h3>Housing & Property in Bhayandar East</h3><p>₹42L-₹1.05Cr depending on sub-area - Golden Nest affordable, Kanakia newer. Strong, value-driven rental market.</p></div></div>
+      <div class="list-item"><img src="https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=80&q=80" alt="Schools education Bhayandar East" width="80" height="80"><div><h3>Schools & Education in Bhayandar East</h3><p>Shankar Narayan College, St. Xavier's, Sunrise and several SSC/CBSE schools, with premium options on nearby Mira Road.</p></div></div>
+      <div class="list-item"><img src="https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=80&q=80" alt="Healthcare Bhayandar East" width="80" height="80"><div><h3>Healthcare in Bhayandar East</h3><p>Sai and Karuna hospitals locally, plus Bhaktivedanta and Wockhardt nearby, with many clinics and diagnostic labs.</p></div></div>
+      <div class="list-item"><img src="https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=80&q=80" alt="Community character Bhayandar East" width="80" height="80"><div><h3>Community Character of Bhayandar East</h3><p>A warm, diverse mix of Gujarati, North Indian and Marathi communities - safe, social and value-driven township living.</p></div></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="cat-grid-sec" id="categories-7" aria-label="Services in Bhayandar East, set 7 of 8">
+  <div class="con">
+    <h2 class="st">Repairs, Tutoring & Hospitality</h2>
+    <p class="sd">AC repair, exam coaching, PG accommodation and more in Bhayandar East.</p>
+    <nav class="cat-grid" aria-label="Service categories in Bhayandar East">
+      <a href="/bhayandar-east/artifact-shops" class="cat-card" title="Artifact Shops in Bhayandar East"><span class="cat-emoji">🏺</span><span class="cat-name">Artifact Shops</span></a>
+      <a href="/bhayandar-east/carpenters" class="cat-card" title="Carpenters in Bhayandar East"><span class="cat-emoji">🪚</span><span class="cat-name">Carpenters</span></a>
+      <a href="/bhayandar-east/plumbers" class="cat-card" title="Plumbers in Bhayandar East"><span class="cat-emoji">🪠</span><span class="cat-name">Plumbers</span></a>
+      <a href="/bhayandar-east/electricians" class="cat-card" title="Electricians in Bhayandar East"><span class="cat-emoji">⚡</span><span class="cat-name">Electricians</span></a>
+      <a href="/bhayandar-east/gift-shops" class="cat-card" title="Gift Shops in Bhayandar East"><span class="cat-emoji">🎁</span><span class="cat-name">Gift Shops</span></a>
+      <a href="/bhayandar-east/cake-shops" class="cat-card" title="Cake Shops in Bhayandar East"><span class="cat-emoji">🎂</span><span class="cat-name">Cake Shops</span></a>
+      <a href="/bhayandar-east/girls-hostel-pg" class="cat-card" title="Girls Hostel & PG in Bhayandar East"><span class="cat-emoji">👩</span><span class="cat-name">Girls Hostel & PG</span></a>
+      <a href="/bhayandar-east/boys-hostel-pg" class="cat-card" title="Boys Hostel & PG in Bhayandar East"><span class="cat-emoji">👨</span><span class="cat-name">Boys Hostel & PG</span></a>
+      <a href="/bhayandar-east/tiffin-services" class="cat-card" title="Tiffin Services in Bhayandar East"><span class="cat-emoji">🥡</span><span class="cat-name">Tiffin Services</span></a>
+      <a href="/bhayandar-east/driving-schools" class="cat-card" title="Driving Schools in Bhayandar East"><span class="cat-emoji">🚦</span><span class="cat-name">Driving Schools</span></a>
+      <a href="/bhayandar-east/packers-and-movers" class="cat-card" title="Packers & Movers in Bhayandar East"><span class="cat-emoji">🏚️</span><span class="cat-name">Packers & Movers</span></a>
+      <a href="/bhayandar-east/ac-service-and-repair-experts" class="cat-card" title="AC Service & Repair in Bhayandar East"><span class="cat-emoji">❄️</span><span class="cat-name">AC Service & Repair</span></a>
+      <a href="/bhayandar-east/mobile-phone-repair-experts" class="cat-card" title="Mobile Phone Repair in Bhayandar East"><span class="cat-emoji">🔩</span><span class="cat-name">Mobile Phone Repair</span></a>
+      <a href="/bhayandar-east/laptop-repair-service-experts" class="cat-card" title="Laptop Repair in Bhayandar East"><span class="cat-emoji">💾</span><span class="cat-name">Laptop Repair</span></a>
+      <a href="/bhayandar-east/car-repair-shops" class="cat-card" title="Car Repair Shops in Bhayandar East"><span class="cat-emoji">🔨</span><span class="cat-name">Car Repair Shops</span></a>
+      <a href="/bhayandar-east/bike-repair-shops" class="cat-card" title="Bike Repair Shops in Bhayandar East"><span class="cat-emoji">🛠️</span><span class="cat-name">Bike Repair Shops</span></a>
+      <a href="/bhayandar-east/science-classes" class="cat-card" title="Science Classes in Bhayandar East"><span class="cat-emoji">🔭</span><span class="cat-name">Science Classes</span></a>
+      <a href="/bhayandar-east/maths-tutorials" class="cat-card" title="Maths Tutorials in Bhayandar East"><span class="cat-emoji">➗</span><span class="cat-name">Maths Tutorials</span></a>
+      <a href="/bhayandar-east/physics-tutorials" class="cat-card" title="Physics Tutorials in Bhayandar East"><span class="cat-emoji">⚛️</span><span class="cat-name">Physics Tutorials</span></a>
+      <a href="/bhayandar-east/chemistry-tutorials" class="cat-card" title="Chemistry Tutorials in Bhayandar East"><span class="cat-emoji">🧪</span><span class="cat-name">Chemistry Tutorials</span></a>
+      <a href="/bhayandar-east/ielts-classes" class="cat-card" title="IELTS Classes in Bhayandar East"><span class="cat-emoji">📝</span><span class="cat-name">IELTS Classes</span></a>
+      <a href="/bhayandar-east/jee-classes" class="cat-card" title="JEE Classes in Bhayandar East"><span class="cat-emoji">🔢</span><span class="cat-name">JEE Classes</span></a>
+      <a href="/bhayandar-east/mht-cet-classes" class="cat-card" title="MHT-CET Classes in Bhayandar East"><span class="cat-emoji">📏</span><span class="cat-name">MHT-CET Classes</span></a>
+      <a href="/bhayandar-east/gmat-classes" class="cat-card" title="GMAT Classes in Bhayandar East"><span class="cat-emoji">🎯</span><span class="cat-name">GMAT Classes</span></a>
+      <a href="/bhayandar-east/gre-classes" class="cat-card" title="GRE Classes in Bhayandar East"><span class="cat-emoji">🏆</span><span class="cat-name">GRE Classes</span></a>
+    </nav>
+  </div>
+</section>
+
+
+<section class="cs"><div class="con"><div class="cg"><div class="ci"><img src="https://mumbai96.com/bhayandar-east/images/01-dentists-in-bhayandar-east.jpg" alt="Dentists in Bhayandar East" width="800" height="500"><span>🦷</span><span class="it">Dentists</span></div><div class="cb"><div class="ch"><div class="chl"><p class="sl">Local Services · Bhayandar East</p><h3>Dentists in Bhayandar East</h3></div><a href="/bhayandar-east/dentists" class="cl">View All →</a></div><p>Top-rated dental clinics in Bhayandar East - experienced dentists, braces and implants.</p><div class="tb"><h4>Why use Mumbai96 to find dentists in Bhayandar East?</h4><ul><li>Verified listings with real Mumbaikar reviews</li><li>Direct phone numbers - call instantly</li><li>Updated availability and contact details</li><li>Compare multiple options before you decide</li></ul></div><div class="faq"><div class="fqi"><div class="fqq">How do I find the best dentists in Bhayandar East?</div><div class="fqa">Browse Mumbai96's Bhayandar East listings, read reviews from locals and call directly. Our verified directory makes it easy.</div></div></div></div></div></div></section>
+<section class="cs"><div class="con"><div class="cg r"><div class="ci"><img src="https://mumbai96.com/bhayandar-east/images/02-skin-doctors-in-bhayandar-east.jpg" alt="Skin Doctors in Bhayandar East" width="800" height="500"><span>🏥</span><span class="it">Skin Doctors</span></div><div class="cb"><div class="ch"><div class="chl"><p class="sl">Local Services · Bhayandar East</p><h3>Skin Doctors in Bhayandar East</h3></div><a href="/bhayandar-east/skin-doctors" class="cl">View All →</a></div><p>Dermatologists and skin clinics in Bhayandar East for acne, pigmentation and cosmetic care.</p><div class="tb"><h4>Why use Mumbai96 to find skin doctors in Bhayandar East?</h4><ul><li>Verified listings with real Mumbaikar reviews</li><li>Direct phone numbers - call instantly</li><li>Updated availability and contact details</li><li>Compare multiple options before you decide</li></ul></div><div class="faq"><div class="fqi"><div class="fqq">How do I find the best skin doctors in Bhayandar East?</div><div class="fqa">Browse Mumbai96's Bhayandar East listings, read reviews from locals and call directly. Our verified directory makes it easy.</div></div></div></div></div></div></section>
+<section class="cs"><div class="con"><div class="cg"><div class="ci"><img src="https://mumbai96.com/bhayandar-east/images/03-gynecologists-in-bhayandar-east.jpg" alt="Gynecologists in Bhayandar East" width="800" height="500"><span>👩‍⚕️</span><span class="it">Gynecologists</span></div><div class="cb"><div class="ch"><div class="chl"><p class="sl">Local Services · Bhayandar East</p><h3>Gynecologists in Bhayandar East</h3></div><a href="/bhayandar-east/gynecologists" class="cl">View All →</a></div><p>Trusted gynaecology specialists and women's health clinics in Bhayandar East.</p><div class="tb"><h4>Why use Mumbai96 to find gynecologists in Bhayandar East?</h4><ul><li>Verified listings with real Mumbaikar reviews</li><li>Direct phone numbers - call instantly</li><li>Updated availability and contact details</li><li>Compare multiple options before you decide</li></ul></div><div class="faq"><div class="fqi"><div class="fqq">How do I find the best gynecologists in Bhayandar East?</div><div class="fqa">Browse Mumbai96's Bhayandar East listings, read reviews from locals and call directly. Our verified directory makes it easy.</div></div></div></div></div></div></section>
+<section class="cs"><div class="con"><div class="cg r"><div class="ci"><img src="https://mumbai96.com/bhayandar-east/images/04-salons-in-bhayandar-east.jpg" alt="Salons in Bhayandar East" width="800" height="500"><span>💇</span><span class="it">Salons</span></div><div class="cb"><div class="ch"><div class="chl"><p class="sl">Local Services · Bhayandar East</p><h3>Salons in Bhayandar East</h3></div><a href="/bhayandar-east/salons" class="cl">View All →</a></div><p>Best hair salons and beauty parlours in Bhayandar East for women and men.</p><div class="tb"><h4>Why use Mumbai96 to find salons in Bhayandar East?</h4><ul><li>Verified listings with real Mumbaikar reviews</li><li>Direct phone numbers - call instantly</li><li>Updated availability and contact details</li><li>Compare multiple options before you decide</li></ul></div><div class="faq"><div class="fqi"><div class="fqq">How do I find the best salons in Bhayandar East?</div><div class="fqa">Browse Mumbai96's Bhayandar East listings, read reviews from locals and call directly. Our verified directory makes it easy.</div></div></div></div></div></div></section>
+<section class="cs"><div class="con"><div class="cg"><div class="ci"><img src="https://mumbai96.com/bhayandar-east/images/05-plumbers-in-bhayandar-east.jpg" alt="Plumbers in Bhayandar East" width="800" height="500"><span>🔧</span><span class="it">Plumbers</span></div><div class="cb"><div class="ch"><div class="chl"><p class="sl">Local Services · Bhayandar East</p><h3>Plumbers in Bhayandar East</h3></div><a href="/bhayandar-east/plumbers" class="cl">View All →</a></div><p>Reliable plumbers and pipe repair services in Bhayandar East - same day response.</p><div class="tb"><h4>Why use Mumbai96 to find plumbers in Bhayandar East?</h4><ul><li>Verified listings with real Mumbaikar reviews</li><li>Direct phone numbers - call instantly</li><li>Updated availability and contact details</li><li>Compare multiple options before you decide</li></ul></div><div class="faq"><div class="fqi"><div class="fqq">How do I find the best plumbers in Bhayandar East?</div><div class="fqa">Browse Mumbai96's Bhayandar East listings, read reviews from locals and call directly. Our verified directory makes it easy.</div></div></div></div></div></div></section>
+<section class="cs"><div class="con"><div class="cg r"><div class="ci"><img src="https://mumbai96.com/bhayandar-east/images/06-electricians-in-bhayandar-east.jpg" alt="Electricians in Bhayandar East" width="800" height="500"><span>⚡</span><span class="it">Electricians</span></div><div class="cb"><div class="ch"><div class="chl"><p class="sl">Local Services · Bhayandar East</p><h3>Electricians in Bhayandar East</h3></div><a href="/bhayandar-east/electricians" class="cl">View All →</a></div><p>Certified electricians for home and office wiring, MCB and repairs in Bhayandar East.</p><div class="tb"><h4>Why use Mumbai96 to find electricians in Bhayandar East?</h4><ul><li>Verified listings with real Mumbaikar reviews</li><li>Direct phone numbers - call instantly</li><li>Updated availability and contact details</li><li>Compare multiple options before you decide</li></ul></div><div class="faq"><div class="fqi"><div class="fqq">How do I find the best electricians in Bhayandar East?</div><div class="fqa">Browse Mumbai96's Bhayandar East listings, read reviews from locals and call directly. Our verified directory makes it easy.</div></div></div></div></div></div></section>
+<section class="cs"><div class="con"><div class="cg"><div class="ci"><img src="https://mumbai96.com/bhayandar-east/images/07-gyms-in-bhayandar-east.jpg" alt="Gyms in Bhayandar East" width="800" height="500"><span>💪</span><span class="it">Gyms</span></div><div class="cb"><div class="ch"><div class="chl"><p class="sl">Local Services · Bhayandar East</p><h3>Gyms in Bhayandar East</h3></div><a href="/bhayandar-east/gyms" class="cl">View All →</a></div><p>Best gyms and fitness centres in Bhayandar East - strength, cardio and yoga.</p><div class="tb"><h4>Why use Mumbai96 to find gyms in Bhayandar East?</h4><ul><li>Verified listings with real Mumbaikar reviews</li><li>Direct phone numbers - call instantly</li><li>Updated availability and contact details</li><li>Compare multiple options before you decide</li></ul></div><div class="faq"><div class="fqi"><div class="fqq">How do I find the best gyms in Bhayandar East?</div><div class="fqa">Browse Mumbai96's Bhayandar East listings, read reviews from locals and call directly. Our verified directory makes it easy.</div></div></div></div></div></div></section>
+<section class="cs"><div class="con"><div class="cg r"><div class="ci"><img src="https://mumbai96.com/bhayandar-east/images/08-restaurants-in-bhayandar-east.jpg" alt="Restaurants in Bhayandar East" width="800" height="500"><span>🍽️</span><span class="it">Restaurants</span></div><div class="cb"><div class="ch"><div class="chl"><p class="sl">Local Services · Bhayandar East</p><h3>Restaurants in Bhayandar East</h3></div><a href="/bhayandar-east/restaurants" class="cl">View All →</a></div><p>Top restaurants and dhabas in Bhayandar East - thalis to family dinners.</p><div class="tb"><h4>Why use Mumbai96 to find restaurants in Bhayandar East?</h4><ul><li>Verified listings with real Mumbaikar reviews</li><li>Direct phone numbers - call instantly</li><li>Updated availability and contact details</li><li>Compare multiple options before you decide</li></ul></div><div class="faq"><div class="fqi"><div class="fqq">How do I find the best restaurants in Bhayandar East?</div><div class="fqa">Browse Mumbai96's Bhayandar East listings, read reviews from locals and call directly. Our verified directory makes it easy.</div></div></div></div></div></div></section>
+<section class="cs"><div class="con"><div class="cg"><div class="ci"><img src="https://mumbai96.com/bhayandar-east/images/09-tiffin-services-in-bhayandar-east.jpg" alt="Tiffin Services in Bhayandar East" width="800" height="500"><span>🥘</span><span class="it">Tiffin Services</span></div><div class="cb"><div class="ch"><div class="chl"><p class="sl">Local Services · Bhayandar East</p><h3>Tiffin Services in Bhayandar East</h3></div><a href="/bhayandar-east/tiffin-services" class="cl">View All →</a></div><p>Home-cooked tiffin delivery services in Bhayandar East - fresh meals at your door.</p><div class="tb"><h4>Why use Mumbai96 to find tiffin services in Bhayandar East?</h4><ul><li>Verified listings with real Mumbaikar reviews</li><li>Direct phone numbers - call instantly</li><li>Updated availability and contact details</li><li>Compare multiple options before you decide</li></ul></div><div class="faq"><div class="fqi"><div class="fqq">How do I find the best tiffin services in Bhayandar East?</div><div class="fqa">Browse Mumbai96's Bhayandar East listings, read reviews from locals and call directly. Our verified directory makes it easy.</div></div></div></div></div></div></section>
+<section class="cs"><div class="con"><div class="cg r"><div class="ci"><img src="https://mumbai96.com/bhayandar-east/images/10-real-estate-in-bhayandar-east.jpg" alt="Real Estate in Bhayandar East" width="800" height="500"><span>🏠</span><span class="it">Real Estate</span></div><div class="cb"><div class="ch"><div class="chl"><p class="sl">Local Services · Bhayandar East</p><h3>Real Estate in Bhayandar East</h3></div><a href="/bhayandar-east/real-estate" class="cl">View All →</a></div><p>Property dealers and real estate agents in Bhayandar East for buy, rent and lease.</p><div class="tb"><h4>Why use Mumbai96 to find real estate in Bhayandar East?</h4><ul><li>Verified listings with real Mumbaikar reviews</li><li>Direct phone numbers - call instantly</li><li>Updated availability and contact details</li><li>Compare multiple options before you decide</li></ul></div><div class="faq"><div class="fqi"><div class="fqq">How do I find the best real estate in Bhayandar East?</div><div class="fqa">Browse Mumbai96's Bhayandar East listings, read reviews from locals and call directly. Our verified directory makes it easy.</div></div></div></div></div></div></section>
+
+
+<section class="cat-grid-sec" id="categories-6" aria-label="Services in Bhayandar East, set 6 of 8">
+  <div class="con">
+    <h2 class="st">Finance, Insurance & Home Decor</h2>
+    <p class="sd">CAs, loan providers, insurance, architects and decor stores in Bhayandar East.</p>
+    <nav class="cat-grid" aria-label="Service categories in Bhayandar East">
+      <a href="/bhayandar-east/furniture-on-rent" class="cat-card" title="Furniture on Rent in Bhayandar East"><span class="cat-emoji">🪑</span><span class="cat-name">Furniture on Rent</span></a>
+      <a href="/bhayandar-east/stock-brokers" class="cat-card" title="Stock Brokers in Bhayandar East"><span class="cat-emoji">📈</span><span class="cat-name">Stock Brokers</span></a>
+      <a href="/bhayandar-east/financial-advisors" class="cat-card" title="Financial Advisors in Bhayandar East"><span class="cat-emoji">💰</span><span class="cat-name">Financial Advisors</span></a>
+      <a href="/bhayandar-east/chartered-accountants-ca" class="cat-card" title="Chartered Accountants in Bhayandar East"><span class="cat-emoji">🧾</span><span class="cat-name">Chartered Accountants</span></a>
+      <a href="/bhayandar-east/income-tax-consultants" class="cat-card" title="Income Tax Consultants in Bhayandar East"><span class="cat-emoji">📊</span><span class="cat-name">Income Tax Consultants</span></a>
+      <a href="/bhayandar-east/lawyers-and-advocates" class="cat-card" title="Lawyers & Advocates in Bhayandar East"><span class="cat-emoji">⚖️</span><span class="cat-name">Lawyers & Advocates</span></a>
+      <a href="/bhayandar-east/personal-loan-providers" class="cat-card" title="Personal Loan Providers in Bhayandar East"><span class="cat-emoji">💳</span><span class="cat-name">Personal Loan Providers</span></a>
+      <a href="/bhayandar-east/gold-loan-providers" class="cat-card" title="Gold Loan Providers in Bhayandar East"><span class="cat-emoji">🥇</span><span class="cat-name">Gold Loan Providers</span></a>
+      <a href="/bhayandar-east/home-loan-providers" class="cat-card" title="Home Loan Providers in Bhayandar East"><span class="cat-emoji">🏡</span><span class="cat-name">Home Loan Providers</span></a>
+      <a href="/bhayandar-east/auto-loan-providers" class="cat-card" title="Auto Loan Providers in Bhayandar East"><span class="cat-emoji">🚌</span><span class="cat-name">Auto Loan Providers</span></a>
+      <a href="/bhayandar-east/business-loan-providers" class="cat-card" title="Business Loan Providers in Bhayandar East"><span class="cat-emoji">🏦</span><span class="cat-name">Business Loan Providers</span></a>
+      <a href="/bhayandar-east/loan-against-property" class="cat-card" title="Loan Against Property in Bhayandar East"><span class="cat-emoji">📜</span><span class="cat-name">Loan Against Property</span></a>
+      <a href="/bhayandar-east/health-insurance-providers" class="cat-card" title="Health Insurance in Bhayandar East"><span class="cat-emoji">🛡️</span><span class="cat-name">Health Insurance</span></a>
+      <a href="/bhayandar-east/term-life-insurance-providers" class="cat-card" title="Life Insurance in Bhayandar East"><span class="cat-emoji">🌱</span><span class="cat-name">Life Insurance</span></a>
+      <a href="/bhayandar-east/car-insurance-providers" class="cat-card" title="Car Insurance in Bhayandar East"><span class="cat-emoji">💥</span><span class="cat-name">Car Insurance</span></a>
+      <a href="/bhayandar-east/bike-insurance-providers" class="cat-card" title="Bike Insurance in Bhayandar East"><span class="cat-emoji">🚲</span><span class="cat-name">Bike Insurance</span></a>
+      <a href="/bhayandar-east/travel-agents" class="cat-card" title="Travel Agents in Bhayandar East"><span class="cat-emoji">🧳</span><span class="cat-name">Travel Agents</span></a>
+      <a href="/bhayandar-east/visa-consultants" class="cat-card" title="Visa Consultants in Bhayandar East"><span class="cat-emoji">🛂</span><span class="cat-name">Visa Consultants</span></a>
+      <a href="/bhayandar-east/passport-agents" class="cat-card" title="Passport Agents in Bhayandar East"><span class="cat-emoji">🛃</span><span class="cat-name">Passport Agents</span></a>
+      <a href="/bhayandar-east/honeymoon-travel-agents" class="cat-card" title="Honeymoon Travel Agents in Bhayandar East"><span class="cat-emoji">🌅</span><span class="cat-name">Honeymoon Travel Agents</span></a>
+      <a href="/bhayandar-east/medical-tourism" class="cat-card" title="Medical Tourism in Bhayandar East"><span class="cat-emoji">🏨</span><span class="cat-name">Medical Tourism</span></a>
+      <a href="/bhayandar-east/architects" class="cat-card" title="Architects in Bhayandar East"><span class="cat-emoji">📐</span><span class="cat-name">Architects</span></a>
+      <a href="/bhayandar-east/interior-designers" class="cat-card" title="Interior Designers in Bhayandar East"><span class="cat-emoji">🪟</span><span class="cat-name">Interior Designers</span></a>
+      <a href="/bhayandar-east/furniture-and-decor-stores" class="cat-card" title="Furniture & Decor Stores in Bhayandar East"><span class="cat-emoji">🪵</span><span class="cat-name">Furniture & Decor Stores</span></a>
+      <a href="/bhayandar-east/light-decor-shops" class="cat-card" title="Light & Decor Shops in Bhayandar East"><span class="cat-emoji">💡</span><span class="cat-name">Light & Decor Shops</span></a>
+    </nav>
+  </div>
+</section>
+
+
+<section class="why">
+  <div class="con">
+    <p class="sl">Why Mumbai96?</p>
+    <h2 class="st">Why Mumbaikars Trust <em>Mumbai96</em></h2>
+    <div class="wg">
+      <div class="wc"><div class="ic">✅</div><h3>Trusted Businesses</h3><p>Every business in Bhayandar East on Mumbai96 is verified for contact accuracy and legitimacy.</p></div>
+      <div class="wc"><div class="ic">⭐</div><h3>Real Reviews from Mumbaikars</h3><p>Genuine reviews from Bhayandar East residents - no fake ratings, no paid promotions.</p></div>
+      <div class="wc"><div class="ic">📞</div><h3>Direct Contact - No Middlemen</h3><p>Call any Bhayandar East business directly from Mumbai96 - no middlemen, no commissions.</p></div>
+      <div class="wc"><div class="ic">🏘️</div><h3>Local - Mumbai Region Only</h3><p>Built for Mumbai's localities - Bhayandar East-specific results, not generic national listings.</p></div>
+      <div class="wc"><div class="ic">🔄</div><h3>Updated Promptly</h3><p>Listings are regularly updated - you always get current numbers and information for Bhayandar East.</p></div>
+      <div class="wc"><div class="ic">🆓</div><h3>Free for All Users</h3><p>Finding any service in Bhayandar East on Mumbai96 is completely free for residents.</p></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="prose">
+  <div class="con">
+    <div class="prose-i">
+      <h2>Best Services in Bhayandar East, Mira-Bhayandar - Mumbai96 Guide</h2>
+      <p>Finding trusted local services in Bhayandar East just got easier. Mumbai96 is Bhayandar East's dedicated local directory - a Mumbaikar-built platform that connects residents with verified dentists, skin doctors, salons, plumbers, electricians, gyms, restaurants and 90+ other service categories.</p>
+      <h3>Why Bhayandar East residents trust Mumbai96</h3>
+      <p>Unlike generic national directories, Mumbai96 focuses exclusively on Mumbai-region localities. Every listing in Bhayandar East is verified for contact accuracy, and our review system ensures only genuine residents leave feedback. Whether you just moved to Bhayandar East or have lived here for years, Mumbai96 is your local companion.</p>
+      <h3>Services available in Bhayandar East</h3>
+      <p>From healthcare (dentists, skin doctors, gynecologists, pediatricians) to home services (plumbers, electricians, carpenters), from lifestyle (salons, gyms, yoga) to food (restaurants, tiffin services, caterers) - Mumbai96 covers everything Bhayandar East residents need, all in one place.</p>
+      <h3>About Bhayandar East</h3>
+      <p>Bhayandar East is part of the Mira-Bhayandar Municipal Corporation, one of the Mumbai region's fastest-growing and most affordable suburbs. With large townships and a strong community spirit, the demand for quality local services has never been higher. Mumbai96 is here to bridge that gap - making it easier for Bhayandar East businesses to be found and for residents to find exactly what they need.</p>
+    </div>
+  </div>
+</section>
+
+
+<section class="nearby">
+  <div class="con">
+    <p class="sl">Explore Nearby</p>
+    <h2 class="st">Nearby Areas in the Mumbai Region</h2>
+    <div class="ng">
+      <a href="/bhayandar-west" class="nc">📍 Bhayandar West</a><a href="/mira-road" class="nc">📍 Mira Road</a><a href="/dahisar" class="nc">📍 Dahisar</a><a href="/borivali-east" class="nc">📍 Borivali East</a><a href="/naigaon" class="nc">📍 Naigaon</a><a href="/vasai" class="nc">📍 Vasai</a>
+    </div>
+  </div>
+</section>
+
+
+<script>
+fetch('https://wttr.in/Bhayandar?format=%t').then(r=>r.text()).then(t=>{const el=document.getElementById('temp-val');if(el)el.textContent=t.trim().replace('+','')||'31°C';}).catch(()=>{const el=document.getElementById('temp-val');if(el)el.textContent='31°C';});
+fetch('https://api.waqi.info/feed/geo:19.3000;72.8650/?token=demo').then(r=>r.json()).then(d=>{const el=document.getElementById('aqi-val');const lb=document.getElementById('aqi-lbl');if(el&&d&&d.status==='ok'&&d.data&&d.data.aqi){const aqi=d.data.aqi;const station=d.data.city&&d.data.city.name?d.data.city.name:'Bhayandar East';el.textContent=aqi;if(lb)lb.textContent='AQI · '+station;el.style.color=aqi<=50?'#4ade80':aqi<=100?'#facc15':aqi<=150?'#fb923c':aqi<=200?'#f87171':'#c084fc';}else{const el2=document.getElementById('aqi-val');if(el2)el2.textContent='N/A';}}).catch(()=>{const el=document.getElementById('aqi-val');if(el)el.textContent='N/A';});
+document.querySelectorAll('.fqq').forEach(q=>{q.addEventListener('click',()=>{const a=q.nextElementSibling;a.style.display=a.style.display==='block'?'none':'block';});});
+</script>
+</body>
+</html>

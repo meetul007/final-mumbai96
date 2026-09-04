@@ -1,0 +1,2918 @@
+[
+  {
+    "place_id": "ChIJ1eOGfESp5zsROC-_uSc-bEs",
+    "name": "LIC OF INDIA, NEW INDIA ASSURANCE, RELIANCE GENERAL INSURANCE, NATIONAL INSURANCE AGENT",
+    "description": null,
+    "is_spending_on_ads": false,
+    "link": "https://www.google.com/maps/place/LIC+OF+INDIA,+NEW+INDIA+ASSURANCE,+RELIANCE+GENERAL+INSURANCE,+NATIONAL+INSURANCE+AGENT/data=!4m7!3m6!1s0x3be7a9447c86e3d5:0x4b6c3e27b9bf2f38!8m2!3d19.4075!4d72.82181!16s%2Fg%2F11bwvkmb1b!19sChIJ1eOGfESp5zsROC-_uSc-bEs?authuser=0&hl=en&rclk=1",
+    "reviews": 21,
+    "rating": 4.3,
+    "competitors": [
+      {
+        "name": "LIC Agent",
+        "suggested_link": "https://www.google.com/maps/search/LIC+Agent/@19.4311574,72.8099288,19z?authuser=0&hl=en&entry=ttu",
+        "reviews": 27,
+        "rating": 5,
+        "main_category": "Insurance agency",
+        "categories": [
+          "Insurance agency",
+          "Auto insurance agency",
+          "Health insurance agency"
+        ],
+        "coordinates": {
+          "latitude": 19.4311574,
+          "longitude": 72.8099288
+        }
+      },
+      {
+        "name": "L I C OF INDIA",
+        "suggested_link": "https://www.google.com/maps/search/L+I+C+OF+INDIA/@19.4050458,72.82322959999999,19z?authuser=0&hl=en&entry=ttu",
+        "reviews": 14,
+        "rating": 4.9,
+        "main_category": "Life insurance agency",
+        "categories": [
+          "Life insurance agency"
+        ],
+        "coordinates": {
+          "latitude": 19.4050458,
+          "longitude": 72.82322959999999
+        }
+      },
+      {
+        "name": "LIC Office -Total Solutions",
+        "suggested_link": "https://www.google.com/maps/search/LIC+Office+-Total+Solutions/@19.4081094,72.8321547,19z?authuser=0&hl=en&entry=ttu",
+        "reviews": 13,
+        "rating": 4.9,
+        "main_category": "Insurance agency",
+        "categories": [
+          "Insurance agency"
+        ],
+        "coordinates": {
+          "latitude": 19.4081094,
+          "longitude": 72.8321547
+        }
+      }
+    ],
+    "website": null,
+    "phone": "098907 48851",
+    "phone_international": "+91 98907 48851",
+    "can_claim": false,
+    "owner": {
+      "id": "113357417209168279244",
+      "name": "LIC OF INDIA, NEW INDIA ASSURANCE, RELIANCE GENERAL INSURANCE, NATIONAL INSURANCE AGENT (Owner)",
+      "link": "https://www.google.com/maps/contrib/113357417209168279244"
+    },
+    "owner_posts": [],
+    "featured_image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGwrF4HBxz75zP-sWzT0-E2wXstqgwNkzXgFDXsUI_zM8m3d4MetLa3Vl7fbuctHSTnPoEXBOQzzlBjZI-LAP8sROEGpP1ubGiHKvL_Mgmm7JYARUvlNgryTey1QD3yJU6wEmX0=w1920-h1080-k-no",
+    "main_category": "Insurance agency",
+    "categories": [
+      "Insurance agency",
+      "Auto insurance agency",
+      "Health insurance agency",
+      "Life insurance agency"
+    ],
+    "workday_timing": "10 am–8 pm",
+    "status": null,
+    "is_temporarily_closed": false,
+    "is_permanently_closed": false,
+    "closed_on": "Open All Days",
+    "address": "Shop No.19, Om Krishna Bldg, Riddhi Siddhi Arcade, Achole Rd, Nala Sopara, Tal, Nalasopara East, Vasai-Virar, Maharashtra 401209",
+    "price_range": null,
+    "reviews_per_rating": {
+      "1": 2,
+      "2": 2,
+      "3": 0,
+      "4": 0,
+      "5": 17
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ1eOGfESp5zsROC-_uSc-bEs&q=LIC+OF+INDIA,+NEW+INDIA+ASSURANCE,+RELIANCE+GENERAL+INSURANCE,+NATIONAL+INSURANCE+AGENT&authuser=0&hl=en&gl=IN",
+    "coordinates": {
+      "latitude": 19.4075,
+      "longitude": 72.82181
+    },
+    "plus_code": "CR4C+XP Vasai-Virar, Maharashtra",
+    "detailed_address": {
+      "ward": "Nala Sopara, Tal, Nalasopara East",
+      "street": "Shop No.19, Om Krishna Bldg, Riddhi Siddhi Arcade, Achole Rd",
+      "city": "Vasai-Virar",
+      "postal_code": "401209",
+      "state": "Maharashtra",
+      "country_code": "IN"
+    },
+    "time_zone": "Asia/Calcutta",
+    "is_rental": false,
+    "cid": "5434787190670307128",
+    "data_id": "0x3be7a9447c86e3d5:0x4b6c3e27b9bf2f38",
+    "kgmid": "/g/11bwvkmb1b",
+    "about": [
+      {
+        "id": "service_options",
+        "name": "Service options",
+        "options": [
+          {
+            "name": "Online appointments",
+            "enabled": true
+          },
+          {
+            "name": "On-site services",
+            "enabled": true
+          }
+        ]
+      }
+    ],
+    "hours": [
+      {
+        "day": "Monday",
+        "times": [
+          "10 am–8 pm"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "times": [
+          "10 am–8 pm"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "times": [
+          "10 am–8 pm"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "times": [
+          "10 am–8 pm"
+        ]
+      },
+      {
+        "day": "Friday",
+        "times": [
+          "10 am–8 pm"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "times": [
+          "10 am–8 pm"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "times": [
+          "10 am–8 pm"
+        ]
+      }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "menu": null,
+    "reservations": [],
+    "order_online_links": [],
+    "gas_prices": [],
+    "image_count": 8,
+    "images": [
+      {
+        "about": "All",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGwrF4HBxz75zP-sWzT0-E2wXstqgwNkzXgFDXsUI_zM8m3d4MetLa3Vl7fbuctHSTnPoEXBOQzzlBjZI-LAP8sROEGpP1ubGiHKvL_Mgmm7JYARUvlNgryTey1QD3yJU6wEmX0=w1920-h1080-k-no",
+        "published_at_date": "2015-11-20T05:00:00"
+      },
+      {
+        "about": "By owner",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGudgWcC1g8pplo7WTZR8FZbQwfbFhT88fdehjg3l4CwqzLtK-_48xGAhR8npnYiQYJKMFaElpfTHcnkU4gSQM4UE-yD7by9eR3vUwYbnQDXPTyfeV3Ypa0dNel4QesjY5jK17pXw=w1920-h1080-k-no",
+        "published_at_date": "2023-05-09T13:00:00"
+      },
+      {
+        "about": "Street View & 360°",
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ynSA-mdXSNNXUEluyvZL1g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=161.37288&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-08T05:00:00"
+      }
+    ],
+    "featured_images": [
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGwrF4HBxz75zP-sWzT0-E2wXstqgwNkzXgFDXsUI_zM8m3d4MetLa3Vl7fbuctHSTnPoEXBOQzzlBjZI-LAP8sROEGpP1ubGiHKvL_Mgmm7JYARUvlNgryTey1QD3yJU6wEmX0=w1920-h1080-k-no",
+        "published_at_date": "2015-11-20T05:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGudgWcC1g8pplo7WTZR8FZbQwfbFhT88fdehjg3l4CwqzLtK-_48xGAhR8npnYiQYJKMFaElpfTHcnkU4gSQM4UE-yD7by9eR3vUwYbnQDXPTyfeV3Ypa0dNel4QesjY5jK17pXw=w1920-h1080-k-no",
+        "published_at_date": "2023-05-09T13:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFpW_3S0YA8F4wGyXkLAuyPx0vOqGH8d3LP8rNWqRvsIUXBSAB3l0VBked_X-ga6UwIN8xMyCKYnvd4odR8N07DAIpUJtP5PyOLiuxUh8zXWpwbRtAwO87aUWkkyfKYeb_zlCRd=w1920-h1080-k-no",
+        "published_at_date": "2021-02-01T16:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFPTnFwZYovLdqDz53fDiaCm9xFHQstFJdpbdoeXdS8jCy7wFGf4jbkwBly6eEO9fNr1tWc3nsdOyH-wBRYsHF1OJq5uhodS4wqIW1D3eKKO5-PRvhtiiZVj6lx362IQRNpFxWjKg=w1920-h1080-k-no",
+        "published_at_date": "2022-01-30T06:00:00"
+      }
+    ],
+    "on_site_places": [],
+    "customer_updates": [],
+    "featured_question": null,
+    "review_keywords": [],
+    "featured_reviews": [
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnN1BQeWdnRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnTURnN1BQeWdnRRAB!2m1!1s0x0:0x4b6c3e27b9bf2f38!3m1!1s2@1:CIHM0ogKEICAgMDg7PPyggE%7C%7C?hl=en",
+        "name": "Dr. Heena Shah",
+        "reviewer_id": "112506366992729162252",
+        "reviewer_profile": "https://www.google.com/maps/contrib/112506366992729162252?hl=en-GB",
+        "rating": 5,
+        "review_text": "One should have life insurance policy and mediclam policy for safe future..for that we require agent like Bhavna sangoi  she is very much passionate about her work..",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2025-02-23T03:54:41",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocIw5joDuzgAXwF9uZblPTrIWGpjSLMnyH5ZOzJw7ebnosEwZQ=s1920",
+        "total_number_of_reviews_by_reviewer": 2,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNndmFqbUFREAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnTUNndmFqbUFREAE!2m1!1s0x0:0x4b6c3e27b9bf2f38!3m1!1s2@1:CIHM0ogKEICAgMCgvajmAQ%7C%7C?hl=en",
+        "name": "Jatin vora",
+        "reviewer_id": "112259842357912802631",
+        "reviewer_profile": "https://www.google.com/maps/contrib/112259842357912802631?hl=en-GB",
+        "rating": 5,
+        "review_text": "Bhavna sangoi is doing excellence. She has strong knowledge of all products. In through sense she is entrepreneur",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2025-02-20T05:05:50",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjWQKpv_KouMEd-Sp5ttBZ3Uelm5L7c4yZ4W8Beg80HrxZonL_2B=s1920",
+        "total_number_of_reviews_by_reviewer": 3,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnOWRTbExnEAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnTUNnOWRTbExnEAE!2m1!1s0x0:0x4b6c3e27b9bf2f38!3m1!1s2@1:CIHM0ogKEICAgMCg9dSlLg%7C%7C?hl=en",
+        "name": "anita verma",
+        "reviewer_id": "113091052766551954454",
+        "reviewer_profile": "https://www.google.com/maps/contrib/113091052766551954454?hl=en-GB",
+        "rating": 5,
+        "review_text": "Good Service..",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2025-02-19T17:26:18",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjXbYMLGHGXhO4yrvs8Q__FOAP_efRA3amoWMiZK-9hrVTfmxOi1=s1920",
+        "total_number_of_reviews_by_reviewer": 4,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSURRd3R6Q21nRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURRd3R6Q21nRRAB!2m1!1s0x0:0x4b6c3e27b9bf2f38!3m1!1s2@1:CIHM0ogKEICAgIDQwtzCmgE%7C%7C?hl=en",
+        "name": "Rajkamal Jana",
+        "reviewer_id": "114454907697342864508",
+        "reviewer_profile": "https://www.google.com/maps/contrib/114454907697342864508?hl=en-GB",
+        "rating": 1,
+        "review_text": "It's not a lic office",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "8 years ago",
+        "published_at_date": "2018-01-06T04:02:41",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjXZ0bj0mrBbQlXO3UnnyyQcZXHV5-rEce8mjHIl3Jh1m8g5vm4s=s1920",
+        "total_number_of_reviews_by_reviewer": 17,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSURJeFk2VlpBEAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURJeFk2VlpBEAE!2m1!1s0x0:0x4b6c3e27b9bf2f38!3m1!1s2@1:CIHM0ogKEICAgIDIxY6VZA%7C%7C?hl=en",
+        "name": "Rakesh Chaudhary",
+        "reviewer_id": "112691090326112034807",
+        "reviewer_profile": "https://www.google.com/maps/contrib/112691090326112034807?hl=en-GB",
+        "rating": 5,
+        "review_text": "Best Services",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "7 years ago",
+        "published_at_date": "2019-01-13T03:20:25",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjUOFpEVF3ReOqlWCGRBWGCuIDgCjk7Dy2Jaeqhpk_G8c_XKD62n=s1920",
+        "total_number_of_reviews_by_reviewer": 33,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSURndnFQclVREAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURndnFQclVREAE!2m1!1s0x0:0x4b6c3e27b9bf2f38!3m1!1s2@1:CIHM0ogKEICAgIDgvqPrUQ%7C%7C?hl=en",
+        "name": "LIC OF INDIA, NEW INDIA ASSURANCE, RELIANCE GENERAL INSURANCE, NATIONAL INSURANCE AGENT",
+        "reviewer_id": "113357417209168279244",
+        "reviewer_profile": "https://www.google.com/maps/contrib/113357417209168279244?hl=en-GB",
+        "rating": 5,
+        "review_text": "GOOD SERVICE",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "10 years ago",
+        "published_at_date": "2016-02-02T07:45:13",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjXNPWmhRLEusz4j95qD6dOAnkuPOHpAD0oPUzJhZHqrtnMa-08=s1920",
+        "total_number_of_reviews_by_reviewer": 0,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBNVpqLWZBEAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnTURBNVpqLWZBEAE!2m1!1s0x0:0x4b6c3e27b9bf2f38!3m1!1s2@1:CIHM0ogKEICAgMDA5Zj-fA%7C%7C?hl=en",
+        "name": "Shubh Foria",
+        "reviewer_id": "106553009989685135432",
+        "reviewer_profile": "https://www.google.com/maps/contrib/106553009989685135432?hl=en-GB",
+        "rating": 5,
+        "review_text": "Greatttt !!!",
+        "original_language": "fy",
+        "review_translated_text": "Greattttt!!!",
+        "translated_language": "en",
+        "published_at": "a year ago",
+        "published_at_date": "2025-02-10T15:26:04",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjXd68_K4gIxt-18Gg4SZBJDri1b1URYNHo1Q-RZeahgp3-_a_0=s1920",
+        "total_number_of_reviews_by_reviewer": 5,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twWGJGYzJWbmRIUW0xT1NrVkpjMjU2YkZSWVJGRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2twWGJGYzJWbmRIUW0xT1NrVkpjMjU2YkZSWVJGRRAB!2m1!1s0x0:0x4b6c3e27b9bf2f38!3m1!1s2@1:CAIQACodChtycF9oOkpXbFc2VndHQm1OSkVJc256bFRYRFE%7C%7C?hl=en",
+        "name": "ramesh bote",
+        "reviewer_id": "107807755607782340148",
+        "reviewer_profile": "https://www.google.com/maps/contrib/107807755607782340148?hl=en-GB",
+        "rating": 5,
+        "review_text": null,
+        "original_language": null,
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "3 months ago",
+        "published_at_date": "2026-03-29T13:48:46",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjUY6YWNba0YIFPyZsjwA7ELAOHL_FWN40KEQHn6xxSpB3ABFL_X=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 1,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      }
+    ],
+    "query": "term life insurance providers in naigaon east"
+  },
+  {
+    "place_id": "ChIJORu5Fyev5zsR0WlJGsTbNXc",
+    "name": "Bimalakshya (Laxman A.Pawar) LIC Agent",
+    "description": "Life ,Health and General Insurance , Mutual Fund",
+    "is_spending_on_ads": false,
+    "link": "https://www.google.com/maps/place/Bimalakshya+(Laxman+A.Pawar)+LIC+Agent/data=!4m7!3m6!1s0x3be7af2717b91b39:0x7735dbc41a4969d1!8m2!3d19.381178!4d72.8320696!16s%2Fg%2F11kskz_0wc!19sChIJORu5Fyev5zsR0WlJGsTbNXc?authuser=0&hl=en&rclk=1",
+    "reviews": 24,
+    "rating": 5,
+    "competitors": [
+      {
+        "name": "Hemant Chauhan (Lic Agent)",
+        "suggested_link": "https://www.google.com/maps/search/Hemant+Chauhan+(Lic+Agent)/@19.3614577,72.8603866,19z?authuser=0&hl=en&entry=ttu",
+        "reviews": 72,
+        "rating": 4.9,
+        "main_category": "Life insurance agency",
+        "categories": [
+          "Life insurance agency"
+        ],
+        "coordinates": {
+          "latitude": 19.3614577,
+          "longitude": 72.8603866
+        }
+      },
+      {
+        "name": "Meenakshi Anuragi",
+        "suggested_link": "https://www.google.com/maps/search/Meenakshi+Anuragi/@19.379682799999998,72.8229784,19z?authuser=0&hl=en&entry=ttu",
+        "reviews": 1,
+        "rating": 5,
+        "main_category": "Life insurance agency",
+        "categories": [
+          "Life insurance agency",
+          "Health insurance agency"
+        ],
+        "coordinates": {
+          "latitude": 19.379682799999998,
+          "longitude": 72.8229784
+        }
+      }
+    ],
+    "website": "https://saathi.licindia.co.in/s/vikas-laxman-pawar/0353492l",
+    "phone": "093232 79699",
+    "phone_international": "+91 93232 79699",
+    "can_claim": false,
+    "owner": {
+      "id": "106636626889357987174",
+      "name": "Bimalakshya (Laxman A.Pawar) LIC Agent (Owner)",
+      "link": "https://www.google.com/maps/contrib/106636626889357987174"
+    },
+    "owner_posts": [],
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BcNlpmE4A6s-j25bQX6c3w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=99.19364&pitch=0&thumbfov=100",
+    "main_category": "Insurance agency",
+    "categories": [
+      "Insurance agency"
+    ],
+    "workday_timing": "10 am–7 pm",
+    "status": null,
+    "is_temporarily_closed": false,
+    "is_permanently_closed": false,
+    "closed_on": [
+      "Sunday"
+    ],
+    "address": "Jai-Ish Krupa Building, A/5, Platform No. 1, Navghar Manikpur, Anand Nagar, Vasai West, Vasai-Virar, Maharashtra 401202",
+    "price_range": null,
+    "reviews_per_rating": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 24
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJORu5Fyev5zsR0WlJGsTbNXc&q=Bimalakshya+(Laxman+A.Pawar)+LIC+Agent&authuser=0&hl=en&gl=IN",
+    "coordinates": {
+      "latitude": 19.381178,
+      "longitude": 72.8320696
+    },
+    "plus_code": "9RJJ+FR Vasai-Virar, Maharashtra",
+    "detailed_address": {
+      "ward": "Navghar Manikpur, Anand Nagar, Vasai West",
+      "street": "Jai-Ish Krupa Building, A/5, Platform No. 1",
+      "city": "Vasai-Virar",
+      "postal_code": "401202",
+      "state": "Maharashtra",
+      "country_code": "IN"
+    },
+    "time_zone": "Asia/Calcutta",
+    "is_rental": false,
+    "cid": "8590013499580180945",
+    "data_id": "0x3be7af2717b91b39:0x7735dbc41a4969d1",
+    "kgmid": "/g/11kskz_0wc",
+    "about": [
+      {
+        "id": "service_options",
+        "name": "Service options",
+        "options": [
+          {
+            "name": "Online appointments",
+            "enabled": true
+          },
+          {
+            "name": "On-site services",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "planning",
+        "name": "Planning",
+        "options": [
+          {
+            "name": "Appointment required",
+            "enabled": true
+          }
+        ]
+      }
+    ],
+    "hours": [
+      {
+        "day": "Monday",
+        "times": [
+          "10 am–7 pm"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "times": [
+          "10 am–7 pm"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "times": [
+          "10 am–7 pm"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "times": [
+          "10 am–7 pm"
+        ]
+      },
+      {
+        "day": "Friday",
+        "times": [
+          "10 am–7 pm"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "times": [
+          "10 am–7 pm"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "times": [
+          "Closed"
+        ]
+      }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "menu": null,
+    "reservations": [],
+    "order_online_links": [],
+    "gas_prices": [],
+    "image_count": 5,
+    "images": [
+      {
+        "about": "All",
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BcNlpmE4A6s-j25bQX6c3w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=99.19364&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-03T04:00:00"
+      },
+      {
+        "about": "By owner",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGX-8g_X69-TtnPYCkEfJsXnwZ0jolmw-D_Ixa9svYkxH1th0p2kk7IL719tnpO5bejtNNEIsmbbCZV2DKe8PYzTd5vLKKak97XsPomcRQddvJeeAgtwrnblRFVFchhP29YIVZDzw=w1920-h1080-k-no",
+        "published_at_date": "2023-10-17T11:00:00"
+      },
+      {
+        "about": "Street View & 360°",
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BcNlpmE4A6s-j25bQX6c3w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=99.19364&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-03T04:00:00"
+      }
+    ],
+    "featured_images": [
+      {
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BcNlpmE4A6s-j25bQX6c3w&cb_client=search.gws-prod.gps&w=203&h=100&yaw=99.19364&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-03T04:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGX-8g_X69-TtnPYCkEfJsXnwZ0jolmw-D_Ixa9svYkxH1th0p2kk7IL719tnpO5bejtNNEIsmbbCZV2DKe8PYzTd5vLKKak97XsPomcRQddvJeeAgtwrnblRFVFchhP29YIVZDzw=w1920-h1080-k-no",
+        "published_at_date": "2023-10-17T11:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGB5XbMlVH6wvaxVVqSI3ZW92y-NBvLSQsS2m51T_ts8sBGV9v5JOXOJXStxXvFO15-pNV0lcPj8HdK793omjhMvTrNmmZxuMdvaOkwFXuRZZfvA-hzyzW-GDGQdRk_YpvG9aGnEQ=w1920-h1080-k-no",
+        "published_at_date": "2024-08-09T14:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEWEGUEkcZVFC-kw2iwYMTNX7HutfzlzavFDQb-RRuRe4M_PDdtTi0zzI-2dP8AlZ7yh7qzFXkKf3_n9NXngzSiGIjhk7IOWTrIKQN-A04IDB0Aw7BwXY86EKbyezv1Mh6XSjyJdg=w1920-h1080-k-no",
+        "published_at_date": "2024-08-09T14:00:00"
+      }
+    ],
+    "on_site_places": [],
+    "customer_updates": [],
+    "featured_question": null,
+    "review_keywords": [],
+    "featured_reviews": [
+      {
+        "review_id": "ChRDSUhNMG9nS0VJQ0FnSUNOZ3FSQxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChRDSUhNMG9nS0VJQ0FnSUNOZ3FSQxAB!2m1!1s0x0:0x7735dbc41a4969d1!3m1!1s2@1:CIHM0ogKEICAgICNgqRC%7C%7C?hl=en",
+        "name": "29Foram Nayak",
+        "reviewer_id": "114621399081729822133",
+        "reviewer_profile": "https://www.google.com/maps/contrib/114621399081729822133?hl=en-GB",
+        "rating": 5,
+        "review_text": "Provide very fast service.\nProvide very good and quality services.\nTreat customers like a family members.\nAlways guide you for right path about life insurance and many more.☺️",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "2 years ago",
+        "published_at_date": "2024-01-13T01:13:12",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocIAdbr0UHhlnc54d-lTkV_gYTNu0AFq-J_TZXBoBUhTGYqmfw=s1920",
+        "total_number_of_reviews_by_reviewer": 2,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNONE1Ib0FREAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNONE1Ib0FREAE!2m1!1s0x0:0x7735dbc41a4969d1!3m1!1s2@1:CIHM0ogKEICAgICN4MHoAQ%7C%7C?hl=en",
+        "name": "jay keshur",
+        "reviewer_id": "104634235592937506755",
+        "reviewer_profile": "https://www.google.com/maps/contrib/104634235592937506755?hl=en-GB",
+        "rating": 5,
+        "review_text": "Must visit 💯 if you are looking for any term plan or policy for investment purpose and ancillary services",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "2 years ago",
+        "published_at_date": "2024-01-11T08:48:55",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocJmvp42c2ffw6bFnhP7hHgUIwS4tO8SF979JTLFu6rS6v1hkg=s1920",
+        "total_number_of_reviews_by_reviewer": 5,
+        "total_number_of_photos_by_reviewer": 1,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNOa0pEdEV3EAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNOa0pEdEV3EAE!2m1!1s0x0:0x7735dbc41a4969d1!3m1!1s2@1:CIHM0ogKEICAgICNkJDtEw%7C%7C?hl=en",
+        "name": "Rahul Mali",
+        "reviewer_id": "111395919654618627998",
+        "reviewer_profile": "https://www.google.com/maps/contrib/111395919654618627998?hl=en-GB",
+        "rating": 5,
+        "review_text": "The service quality was truly exceptional.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "2 years ago",
+        "published_at_date": "2024-01-11T09:34:26",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocIcMGnfXdvoba7Wh5Eze6Mt2xNIr4_dZHvmMsKg1gFZxGBaQg=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQNF9MT213RRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURQNF9MT213RRAB!2m1!1s0x0:0x7735dbc41a4969d1!3m1!1s2@1:CIHM0ogKEICAgIDP4_LOmwE%7C%7C?hl=en",
+        "name": "Yash Pawar",
+        "reviewer_id": "112336190398443764794",
+        "reviewer_profile": "https://www.google.com/maps/contrib/112336190398443764794?hl=en-GB",
+        "rating": 5,
+        "review_text": "Excellent work",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "Edited a year ago",
+        "published_at_date": "2024-12-05T08:20:46",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocLvy5uoWKA-cWZ3uZulkZj88ShpIltURzqkxxUJGOEfG3WoOw=s1920",
+        "total_number_of_reviews_by_reviewer": 2,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Ob2RYYzFVa0YwZHpjelZXcEphRTVaYWpneWVWRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21Ob2RYYzFVa0YwZHpjelZXcEphRTVaYWpneWVWRRAB!2m1!1s0x0:0x7735dbc41a4969d1!3m1!1s2@1:CAIQACodChtycF9oOmNodXc1UkF0dzczVWpJaE5ZajgyeVE%7C%7C?hl=en",
+        "name": "Dhananjay Shah",
+        "reviewer_id": "115280950451347844518",
+        "reviewer_profile": "https://www.google.com/maps/contrib/115280950451347844518?hl=en-GB",
+        "rating": 5,
+        "review_text": null,
+        "original_language": null,
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2025-06-26T12:36:38",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocKa6dm0Nsp_GYpKYEhJ7ysVNP1vi-X1AKmRfHUQDu4jorA_DA=s1920",
+        "total_number_of_reviews_by_reviewer": 0,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VLS3F2Y2J4aWMtQlVREAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VLS3F2Y2J4aWMtQlVREAE!2m1!1s0x0:0x7735dbc41a4969d1!3m1!1s2@1:CIHM0ogKEKKqvcbxic-BUQ%7C%7C?hl=en",
+        "name": "Hitesh Choudhary",
+        "reviewer_id": "107414516475899725463",
+        "reviewer_profile": "https://www.google.com/maps/contrib/107414516475899725463?hl=en-GB",
+        "rating": 5,
+        "review_text": null,
+        "original_language": null,
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2025-06-07T08:13:02",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocII2V5rLqkBPqOPCJvpOqYwPtAy2OK5fFcyCbWeMC7cW7RfZA=s1920",
+        "total_number_of_reviews_by_reviewer": 2,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5bjdIeFBnEAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQ5bjdIeFBnEAE!2m1!1s0x0:0x7735dbc41a4969d1!3m1!1s2@1:CIHM0ogKEICAgID9n7HxPg%7C%7C?hl=en",
+        "name": "NITIN MISTRY",
+        "reviewer_id": "113786275251471317547",
+        "reviewer_profile": "https://www.google.com/maps/contrib/113786275251471317547?hl=en-GB",
+        "rating": 5,
+        "review_text": null,
+        "original_language": null,
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "2 years ago",
+        "published_at_date": "2024-03-22T18:12:10",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjVDVpPcPJLT-3Smxu9cCG4HpESzMVzB6dBQo0uofEdo8DGKval8=s1920",
+        "total_number_of_reviews_by_reviewer": 0,
+        "total_number_of_photos_by_reviewer": 18,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNOMUlUM01nEAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNOMUlUM01nEAE!2m1!1s0x0:0x7735dbc41a4969d1!3m1!1s2@1:CIHM0ogKEICAgICN1IT3Mg%7C%7C?hl=en",
+        "name": "Prakash Purohit",
+        "reviewer_id": "107798405725650357217",
+        "reviewer_profile": "https://www.google.com/maps/contrib/107798405725650357217?hl=en-GB",
+        "rating": 5,
+        "review_text": null,
+        "original_language": null,
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "2 years ago",
+        "published_at_date": "2024-01-12T10:18:44",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocKvGCqWvYepWJaMy_7hvll2TR1Z0CEDUofrmrWSPHolyYy4Pw=s1920",
+        "total_number_of_reviews_by_reviewer": 0,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      }
+    ],
+    "query": "term life insurance providers in naigaon east"
+  },
+  {
+    "place_id": "ChIJL9Z0AGOv5zsRomCHgcRC_y4",
+    "name": "Hemant Chauhan (Lic Agent)",
+    "description": "We are for all your needs of Insurance.",
+    "is_spending_on_ads": false,
+    "link": "https://www.google.com/maps/place/Hemant+Chauhan+(Lic+Agent)/data=!4m7!3m6!1s0x3be7af630074d62f:0x2eff42c4818760a2!8m2!3d19.3614577!4d72.8603866!16s%2Fg%2F11ky6_q2v1!19sChIJL9Z0AGOv5zsRomCHgcRC_y4?authuser=0&hl=en&rclk=1",
+    "reviews": 72,
+    "rating": 4.9,
+    "competitors": [
+      {
+        "name": "Bimalakshya (Laxman A.Pawar) LIC Agent",
+        "suggested_link": "https://www.google.com/maps/search/Bimalakshya+(Laxman+A.Pawar)+LIC+Agent/@19.381178,72.8320696,19z?authuser=0&hl=en&entry=ttu",
+        "reviews": 24,
+        "rating": 5,
+        "main_category": "Insurance agency",
+        "categories": [
+          "Insurance agency"
+        ],
+        "coordinates": {
+          "latitude": 19.381178,
+          "longitude": 72.8320696
+        }
+      }
+    ],
+    "website": null,
+    "phone": "098206 32325",
+    "phone_international": "+91 98206 32325",
+    "can_claim": false,
+    "owner": {
+      "id": "110991802794166561620",
+      "name": "Hemant Chauhan (Lic Agent) (Owner)",
+      "link": "https://www.google.com/maps/contrib/110991802794166561620"
+    },
+    "owner_posts": [
+      {
+        "post_id": "3018677402975519490",
+        "post_text": null,
+        "link": "https://www.google.com/search?sca_esv=2b8deb8d39e39eab&hl=en&gl=in&authuser=0&output=search&q=Hemant+Chauhan+(Lic+Agent)&ludocid=3386498856560058530&lpsid=CIHM0ogKENW0lYiX5pH1Zw&ibp=gwp;0,10#lpstate=pid:CIHM0ogKENW0lYiX5pH1Zw,ar",
+        "hashtags": [],
+        "call_to_action": null,
+        "published_at_date": "2026-02-07T03:30:42",
+        "published_at": "Feb 7, 2026",
+        "images": [
+          "https://lh3.googleusercontent.com/geougc/AF1QipNFbgeR6jMXl0au7qA1QtyHVa9zPztKXRr5kma8=h400-no"
+        ]
+      }
+    ],
+    "featured_image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEnGcFG1FvB5U-zf1m-5PpH6r2zl0Jmb_kN_-sFZApIecce45XWKty8ln9SyjQFpLIP4z52rLZsKg4KtR9IhRvLG_eVN-UA1DRHgkB8Mv8hhEel7GqE6O-JKqcQ1wK3AqnZC-88HA=w1920-h1080-k-no",
+    "main_category": "Life insurance agency",
+    "categories": [
+      "Life insurance agency"
+    ],
+    "workday_timing": "8 am–10 pm",
+    "status": null,
+    "is_temporarily_closed": false,
+    "is_permanently_closed": false,
+    "closed_on": "Open All Days",
+    "address": "Flat No.703, I Wing, SAHAKAR RESIDENCY Road, near Seven Square Academy School, Tivari, Naigaon East, Vasai-Virar, Maharashtra 401208",
+    "price_range": null,
+    "reviews_per_rating": {
+      "1": 0,
+      "2": 1,
+      "3": 1,
+      "4": 0,
+      "5": 70
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJL9Z0AGOv5zsRomCHgcRC_y4&q=Hemant+Chauhan+(Lic+Agent)&authuser=0&hl=en&gl=IN",
+    "coordinates": {
+      "latitude": 19.3614577,
+      "longitude": 72.8603866
+    },
+    "plus_code": "9V66+H5 Naigaon East, Vasai-Virar, Maharashtra",
+    "detailed_address": {
+      "ward": "Tivari, Naigaon East",
+      "street": "Flat No.703, I Wing, SAHAKAR RESIDENCY Road, near Seven Square Academy School",
+      "city": "Vasai-Virar",
+      "postal_code": "401208",
+      "state": "Maharashtra",
+      "country_code": "IN"
+    },
+    "time_zone": "Asia/Calcutta",
+    "is_rental": false,
+    "cid": "3386498856560058530",
+    "data_id": "0x3be7af630074d62f:0x2eff42c4818760a2",
+    "kgmid": "/g/11ky6_q2v1",
+    "about": [
+      {
+        "id": "accessibility",
+        "name": "Accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible car park",
+            "enabled": true
+          },
+          {
+            "name": "Wheelchair-accessible entrance",
+            "enabled": true
+          }
+        ]
+      }
+    ],
+    "hours": [
+      {
+        "day": "Monday",
+        "times": [
+          "8 am–10 pm"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "times": [
+          "8 am–10 pm"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "times": [
+          "8 am–10 pm"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "times": [
+          "8 am–10 pm"
+        ]
+      },
+      {
+        "day": "Friday",
+        "times": [
+          "8 am–10 pm"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "times": [
+          "8 am–10 pm"
+        ]
+      }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "menu": null,
+    "reservations": [],
+    "order_online_links": [],
+    "gas_prices": [],
+    "image_count": 2,
+    "images": [
+      {
+        "about": "All",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEnGcFG1FvB5U-zf1m-5PpH6r2zl0Jmb_kN_-sFZApIecce45XWKty8ln9SyjQFpLIP4z52rLZsKg4KtR9IhRvLG_eVN-UA1DRHgkB8Mv8hhEel7GqE6O-JKqcQ1wK3AqnZC-88HA=w1920-h1080-k-no",
+        "published_at_date": "2024-08-03T14:00:00"
+      },
+      {
+        "about": "By owner",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEnGcFG1FvB5U-zf1m-5PpH6r2zl0Jmb_kN_-sFZApIecce45XWKty8ln9SyjQFpLIP4z52rLZsKg4KtR9IhRvLG_eVN-UA1DRHgkB8Mv8hhEel7GqE6O-JKqcQ1wK3AqnZC-88HA=w1920-h1080-k-no",
+        "published_at_date": "2024-08-03T14:00:00"
+      }
+    ],
+    "featured_images": [
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEnGcFG1FvB5U-zf1m-5PpH6r2zl0Jmb_kN_-sFZApIecce45XWKty8ln9SyjQFpLIP4z52rLZsKg4KtR9IhRvLG_eVN-UA1DRHgkB8Mv8hhEel7GqE6O-JKqcQ1wK3AqnZC-88HA=w1920-h1080-k-no",
+        "published_at_date": "2024-08-03T14:00:00"
+      }
+    ],
+    "on_site_places": [],
+    "customer_updates": [],
+    "featured_question": null,
+    "review_keywords": [
+      {
+        "keyword": "knowledgeable personality",
+        "count": 2
+      },
+      {
+        "keyword": "policy explanation",
+        "count": 2
+      },
+      {
+        "keyword": "supportive personality",
+        "count": 2
+      },
+      {
+        "keyword": "sir ji",
+        "count": 5
+      },
+      {
+        "keyword": "advice",
+        "count": 2
+      },
+      {
+        "keyword": "hard work",
+        "count": 2
+      },
+      {
+        "keyword": "work",
+        "count": 3
+      }
+    ],
+    "featured_reviews": [
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSc1RVUm5TakZGTmtvNVRsVTRWWHBtT0hsRlEyYxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tSc1RVUm5TakZGTmtvNVRsVTRWWHBtT0hsRlEyYxAB!2m1!1s0x0:0x2eff42c4818760a2!3m1!1s2@1:CAIQACodChtycF9oOkRsTURnSjFFNko5TlU4VXpmOHlFQ2c%7C%7C?hl=en",
+        "name": "Rajkumar Singh",
+        "reviewer_id": "118395245432935764389",
+        "reviewer_profile": "https://www.google.com/maps/contrib/118395245432935764389?hl=en-GB",
+        "rating": 5,
+        "review_text": "I met him first time for my LIC premium payment. He solved my LIC related issues and also give some ideas for saving for future. Hemant Chauhan ji is a very good person.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "10 months ago",
+        "published_at_date": "2025-08-01T03:50:53",
+        "response_from_owner_text": "It's My Pleasure. ",
+        "response_from_owner_ago": "10 months ago",
+        "response_from_owner_date": "2025-08-01T04:13:46",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjX-oFyyeDjmuh0tH4r1QHJ96_GKcFWOAOmQYV9Bv0wAHEAgbN4x=s1920",
+        "total_number_of_reviews_by_reviewer": 33,
+        "total_number_of_photos_by_reviewer": 70,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5amZYTUlREAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQ5amZYTUlREAE!2m1!1s0x0:0x2eff42c4818760a2!3m1!1s2@1:CIHM0ogKEICAgID9jfXMIQ%7C%7C?hl=en",
+        "name": "Bharat Singh",
+        "reviewer_id": "106342348924678587079",
+        "reviewer_profile": "https://www.google.com/maps/contrib/106342348924678587079?hl=en-GB",
+        "rating": 5,
+        "review_text": "this person Mr. Hemant chauhan is a great person to consult about lic and it's policies .\nHe clear all my daubt and miths about lic . This person is also hard working and pickups my phone anytime.\nHope you guys also enjoy his company.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "2 years ago",
+        "published_at_date": "2024-03-19T18:24:02",
+        "response_from_owner_text": "Thank you sir",
+        "response_from_owner_ago": "2 years ago",
+        "response_from_owner_date": "2024-06-21T06:55:29",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjWUBHf22DOZu7eI4c1kWdZEg76gcFRq_T3lmFRQEIwlQK4JPGiZ=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMMmZERE5nEAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNMMmZERE5nEAE!2m1!1s0x0:0x2eff42c4818760a2!3m1!1s2@1:CIHM0ogKEICAgICL2fDDNg%7C%7C?hl=en",
+        "name": "Sunil Chanyal",
+        "reviewer_id": "112744790126063507046",
+        "reviewer_profile": "https://www.google.com/maps/contrib/112744790126063507046?hl=en-GB",
+        "rating": 5,
+        "review_text": "Very good service.  Explain me about policy and its features.  Thank you 😊",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "2 years ago",
+        "published_at_date": "2024-06-21T06:46:52",
+        "response_from_owner_text": "Thank you for your valuable time. ",
+        "response_from_owner_ago": "2 years ago",
+        "response_from_owner_date": "2024-06-24T13:06:35",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjVJSJ1HugX0aS4IU0LZmjkKvqfqAe5aedK670pqo_wrhegJ1MT-VQ=s1920",
+        "total_number_of_reviews_by_reviewer": 7,
+        "total_number_of_photos_by_reviewer": 3,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ZNGNYUmxjVmRoVDNOeFlXRkphWEUyV1ZneVFsRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25ZNGNYUmxjVmRoVDNOeFlXRkphWEUyV1ZneVFsRRAB!2m1!1s0x0:0x2eff42c4818760a2!3m1!1s2@1:CAIQACodChtycF9oOnY4cXRlcVdhT3NxYWFJaXE2WVgyQlE%7C%7C?hl=en",
+        "name": "Ramprit Pandit",
+        "reviewer_id": "101326228092076573944",
+        "reviewer_profile": "https://www.google.com/maps/contrib/101326228092076573944?hl=en-GB",
+        "rating": 5,
+        "review_text": "Good 👍",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a month ago",
+        "published_at_date": "2026-05-28T13:45:05",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjV7ARQoE41AFXt2_2VIFAWXANJaFvCKcDuOVVysPfG0BFzv-Rs=s1920",
+        "total_number_of_reviews_by_reviewer": 2,
+        "total_number_of_photos_by_reviewer": 7,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1eFFXRjJaMFJvTTI0M1IzTnNiMWhsU3pWWWFHYxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s1eFFXRjJaMFJvTTI0M1IzTnNiMWhsU3pWWWFHYxAB!2m1!1s0x0:0x2eff42c4818760a2!3m1!1s2@1:CAIQACodChtycF9oOk5xQWF2Z0RoM243R3Nsb1hlSzVYaGc%7C%7C?hl=en",
+        "name": "Saurabh Chauhan",
+        "reviewer_id": "114004065467855773051",
+        "reviewer_profile": "https://www.google.com/maps/contrib/114004065467855773051?hl=en-GB",
+        "rating": 5,
+        "review_text": "Very Nice sir",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "Edited 3 months ago",
+        "published_at_date": "2026-03-03T07:20:13",
+        "response_from_owner_text": "Thank you ",
+        "response_from_owner_ago": "3 months ago",
+        "response_from_owner_date": "2026-03-04T13:56:25",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocKQN1BEiQZm35dydnDNEKZQTM2pTXNqzNRPYuR-XE7Dz2g4MA=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXd3IzdnFBRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNXd3IzdnFBRRAB!2m1!1s0x0:0x2eff42c4818760a2!3m1!1s2@1:CIHM0ogKEICAgICWwr3vqAE%7C%7C?hl=en",
+        "name": "Santosh Singh",
+        "reviewer_id": "110063463043128530932",
+        "reviewer_profile": "https://www.google.com/maps/contrib/110063463043128530932?hl=en-GB",
+        "rating": 5,
+        "review_text": "Very good and dependable person. Fast service and have lot of experience in LIC products",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "4 years ago",
+        "published_at_date": "2022-02-21T18:38:25",
+        "response_from_owner_text": "Thank you sir.",
+        "response_from_owner_ago": "4 years ago",
+        "response_from_owner_date": "2022-02-22T03:02:06",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocL0cWnQ0ub6M2agbsHFInj_j-uzmz2ebftJ59RuW230Y3OA7w=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR0cEtXQ0dBEAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR0cEtXQ0dBEAE!2m1!1s0x0:0x2eff42c4818760a2!3m1!1s2@1:CIHM0ogKEICAgIDtpKWCGA%7C%7C?hl=en",
+        "name": "Soni Chauhan",
+        "reviewer_id": "114019112800895315024",
+        "reviewer_profile": "https://www.google.com/maps/contrib/114019112800895315024?hl=en-GB",
+        "rating": 5,
+        "review_text": "Very good service and a professional advisor .\nThinks for the betterment of others life...",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "2 years ago",
+        "published_at_date": "2024-02-02T15:38:30",
+        "response_from_owner_text": "Thanks ",
+        "response_from_owner_ago": "2 years ago",
+        "response_from_owner_date": "2024-06-21T06:55:51",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocIC5f40aQ76pjVMTpv4GW9m0KFvgvZDvz2Yh6g4EP-Cv_3MLw=s1920",
+        "total_number_of_reviews_by_reviewer": 2,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDdTdYUjFnRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURDdTdYUjFnRRAB!2m1!1s0x0:0x2eff42c4818760a2!3m1!1s2@1:CIHM0ogKEICAgIDCu7XR1gE%7C%7C?hl=en",
+        "name": "HITESH H CHAUHAN",
+        "reviewer_id": "118201567972437263960",
+        "reviewer_profile": "https://www.google.com/maps/contrib/118201567972437263960?hl=en-GB",
+        "rating": 5,
+        "review_text": "I am very happy with my LIC agent MR. HEMANT CHAUHAN.\nService is best.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "5 years ago",
+        "published_at_date": "2020-10-13T12:59:44",
+        "response_from_owner_text": "Thank you so much sir.",
+        "response_from_owner_ago": "5 years ago",
+        "response_from_owner_date": "2020-10-14T06:14:00",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjU0p5y6NCrmc3Un8t5YZi7YGU4l8Gpm5DuinvFkiGg85kY6tqgc=s1920",
+        "total_number_of_reviews_by_reviewer": 10,
+        "total_number_of_photos_by_reviewer": 210,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      }
+    ],
+    "query": "term life insurance providers in naigaon east"
+  },
+  {
+    "place_id": "ChIJVVGzdQCx5zsRtawZMODfPO0",
+    "name": "Edelweiss Life insurance Co Ltd",
+    "description": "Life insurance company .",
+    "is_spending_on_ads": false,
+    "link": "https://www.google.com/maps/place/Edelweiss+Life+insurance+Co+Ltd/data=!4m7!3m6!1s0x3be7b10075b35155:0xed3cdfe03019acb5!8m2!3d19.2823503!4d72.8883655!16s%2Fg%2F11vl_syqcd!19sChIJVVGzdQCx5zsRtawZMODfPO0?authuser=0&hl=en&rclk=1",
+    "reviews": 0,
+    "rating": 0,
+    "competitors": [
+      {
+        "name": "Yogi Insurance Consultancy",
+        "suggested_link": "https://www.google.com/maps/search/Yogi+Insurance+Consultancy/@19.2938825,72.8596415,19z?authuser=0&hl=en&entry=ttu",
+        "reviews": 385,
+        "rating": 4.8,
+        "main_category": "Insurance agency",
+        "categories": [
+          "Insurance agency"
+        ],
+        "coordinates": {
+          "latitude": 19.2938825,
+          "longitude": 72.8596415
+        }
+      },
+      {
+        "name": "Edelweiss Life Insurance",
+        "suggested_link": "https://www.google.com/maps/search/Edelweiss+Life+Insurance/@19.288551599999998,72.8705215,19z?authuser=0&hl=en&entry=ttu",
+        "reviews": 47,
+        "rating": 4.2,
+        "main_category": "Life insurance agency",
+        "categories": [
+          "Life insurance agency",
+          "Financial consultant",
+          "Financial institution",
+          "Insurance agency",
+          "Insurance company",
+          "Investment service"
+        ],
+        "coordinates": {
+          "latitude": 19.288551599999998,
+          "longitude": 72.8705215
+        }
+      },
+      {
+        "name": "Kotak Life Insurance",
+        "suggested_link": "https://www.google.com/maps/search/Kotak+Life+Insurance/@19.2916553,72.871513,19z?authuser=0&hl=en&entry=ttu",
+        "reviews": 9,
+        "rating": 3.8,
+        "main_category": "Life insurance agency",
+        "categories": [
+          "Life insurance agency",
+          "Insurance company"
+        ],
+        "coordinates": {
+          "latitude": 19.2916553,
+          "longitude": 72.871513
+        }
+      },
+      {
+        "name": "Edelweiss Life Insurance Co Ltd",
+        "suggested_link": "https://www.google.com/maps/search/Edelweiss+Life+Insurance+Co+Ltd/@19.0613919,72.89980469999999,19z?authuser=0&hl=en&entry=ttu",
+        "reviews": 2,
+        "rating": 5,
+        "main_category": "Insurance agency",
+        "categories": [
+          "Insurance agency"
+        ],
+        "coordinates": {
+          "latitude": 19.0613919,
+          "longitude": 72.89980469999999
+        }
+      }
+    ],
+    "website": null,
+    "phone": null,
+    "phone_international": null,
+    "can_claim": false,
+    "owner": {
+      "id": "113971448373612089238",
+      "name": "Edelweiss Life insurance Co Ltd (Owner)",
+      "link": "https://www.google.com/maps/contrib/113971448373612089238"
+    },
+    "owner_posts": [],
+    "featured_image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFl0mtRQbb4WNNVWBPYmnU2oxi0st9wcLO9jDvPiV2e5k_Ex1R2XcOg2OrWrcwPgQYoPrTTaI_sPtXM2nW79_vLkOCNbfL9ez-ss3xS3v7yLzqNPUiBcZNPY-aOoPhOpk_Jh8m2=w1920-h1080-k-no",
+    "main_category": "Life insurance agency",
+    "categories": [
+      "Life insurance agency"
+    ],
+    "workday_timing": "9:30 am–7 pm",
+    "status": null,
+    "is_temporarily_closed": false,
+    "is_permanently_closed": false,
+    "closed_on": [
+      "Sunday"
+    ],
+    "address": "JP North Rd, Kashimira, Ghodbunder, Mira Bhayandar, Maharashtra 401107",
+    "price_range": null,
+    "reviews_per_rating": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJVVGzdQCx5zsRtawZMODfPO0&q=Edelweiss+Life+insurance+Co+Ltd&authuser=0&hl=en&gl=IN",
+    "coordinates": {
+      "latitude": 19.282350299999997,
+      "longitude": 72.88836549999999
+    },
+    "plus_code": "7VJQ+W8 Mira Bhayandar, Maharashtra",
+    "detailed_address": {
+      "ward": "Kashimira, Ghodbunder",
+      "street": "JP North Rd",
+      "city": "Mira Bhayandar",
+      "postal_code": "401107",
+      "state": "Maharashtra",
+      "country_code": "IN"
+    },
+    "time_zone": "Asia/Calcutta",
+    "is_rental": false,
+    "cid": "17094784439564217525",
+    "data_id": "0x3be7b10075b35155:0xed3cdfe03019acb5",
+    "kgmid": "/g/11vl_syqcd",
+    "about": [],
+    "hours": [
+      {
+        "day": "Monday",
+        "times": [
+          "9:30 am–7 pm"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "times": [
+          "9:30 am–7 pm"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "times": [
+          "9:30 am–6 pm"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "times": [
+          "9:30 am–7 pm"
+        ]
+      },
+      {
+        "day": "Friday",
+        "times": [
+          "9:30 am–6 pm"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "times": [
+          "9:30 am–3 pm"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "times": [
+          "Closed"
+        ]
+      }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "menu": null,
+    "reservations": [],
+    "order_online_links": [],
+    "gas_prices": [],
+    "image_count": 15,
+    "images": [
+      {
+        "about": "All",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFl0mtRQbb4WNNVWBPYmnU2oxi0st9wcLO9jDvPiV2e5k_Ex1R2XcOg2OrWrcwPgQYoPrTTaI_sPtXM2nW79_vLkOCNbfL9ez-ss3xS3v7yLzqNPUiBcZNPY-aOoPhOpk_Jh8m2=w1920-h1080-k-no",
+        "published_at_date": "2024-07-13T05:00:00"
+      },
+      {
+        "about": "Exterior",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFl0mtRQbb4WNNVWBPYmnU2oxi0st9wcLO9jDvPiV2e5k_Ex1R2XcOg2OrWrcwPgQYoPrTTaI_sPtXM2nW79_vLkOCNbfL9ez-ss3xS3v7yLzqNPUiBcZNPY-aOoPhOpk_Jh8m2=w1920-h1080-k-no",
+        "published_at_date": "2024-07-13T05:00:00"
+      },
+      {
+        "about": "By owner",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHPmU7w06rKUKhSfABW7iMNQC-v85j313r5t3DWtqMGvCzdRrtJqJI8uWWvRS28oCInC3ifQBUDDEIqm4XtHMH-PM38_mjq78QL4TJtuQmIGGQ_qcHEOgBvhExeQvNFwBsk2Onu=w1920-h1080-k-no",
+        "published_at_date": "2024-05-24T02:00:00"
+      },
+      {
+        "about": "Street View & 360°",
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=liIJjsC34WejNmTdF6v0Zw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=349.80914&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-02T08:00:00"
+      }
+    ],
+    "featured_images": [
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFl0mtRQbb4WNNVWBPYmnU2oxi0st9wcLO9jDvPiV2e5k_Ex1R2XcOg2OrWrcwPgQYoPrTTaI_sPtXM2nW79_vLkOCNbfL9ez-ss3xS3v7yLzqNPUiBcZNPY-aOoPhOpk_Jh8m2=w1920-h1080-k-no",
+        "published_at_date": "2024-07-13T05:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHPmU7w06rKUKhSfABW7iMNQC-v85j313r5t3DWtqMGvCzdRrtJqJI8uWWvRS28oCInC3ifQBUDDEIqm4XtHMH-PM38_mjq78QL4TJtuQmIGGQ_qcHEOgBvhExeQvNFwBsk2Onu=w1920-h1080-k-no",
+        "published_at_date": "2024-05-24T02:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFfuy8TYV3dPDNjbKbSEZhZoWEWF0pDtM06F7SLhWoBHb434pESVDgH4b4MHV0szQ_fwzgrcw04aBBioUNKOxWKty6sQsnRkvfZu4EiEL7foo0TZT5KLTpouazv2dB2FeILDtgknA=w1920-h1080-k-no",
+        "published_at_date": "2024-07-13T05:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH2GIH0cVPqO4i6J_AvHOu56klvSysSrFbJ5xYg4qxpCzrpzCjAxiF46y8FuP84C4EIT84g4AEnN_UsXz0KqFZ62V7ceyf5LX9jNJZv5_XsQ1Ca-0OEiZqY2gzUPlSh1n4znZkKrQ=w1920-h1080-k-no",
+        "published_at_date": "2024-05-24T02:00:00"
+      }
+    ],
+    "on_site_places": [],
+    "customer_updates": [],
+    "featured_question": null,
+    "review_keywords": [],
+    "featured_reviews": [],
+    "query": "term life insurance providers in naigaon east"
+  },
+  {
+    "place_id": "ChIJq6qWTNqw5zsRJoVWu4r5zTw",
+    "name": "Vino life insurance Life insurance and Mediclaim service",
+    "description": "Experience trusted life insurance and mediclaim solutions with Vino Life Insurance, a 24-year-old insurance agency in Mumbai, Maharashtra. Our expert financial planners guide you in making informed decisions, providing personalized insurance solutions to secure your family's future. Get tailored coverage for life, health, and beyond. Book a consultation today and take the first step towards securing your loved ones' well-being.",
+    "is_spending_on_ads": false,
+    "link": "https://www.google.com/maps/place/Vino+life+insurance+Life+insurance+and+Mediclaim+service/data=!4m7!3m6!1s0x3be7b0da4c96aaab:0x3ccdf98abb568526!8m2!3d19.2355638!4d72.8593712!16s%2Fg%2F11hrbhby19!19sChIJq6qWTNqw5zsRJoVWu4r5zTw?authuser=0&hl=en&rclk=1",
+    "reviews": 2,
+    "rating": 5,
+    "competitors": [
+      {
+        "name": "WEALTHPLUS INSURANCE CONSULTANT",
+        "suggested_link": "https://www.google.com/maps/search/WEALTHPLUS+INSURANCE+CONSULTANT/@19.2231681,72.8687552,19z?authuser=0&hl=en&entry=ttu",
+        "reviews": 2,
+        "rating": 5,
+        "main_category": "Life insurance agency",
+        "categories": [
+          "Life insurance agency"
+        ],
+        "coordinates": {
+          "latitude": 19.2231681,
+          "longitude": 72.8687552
+        }
+      }
+    ],
+    "website": "https://vino-life-insurance.grexa.site/",
+    "phone": "090297 19681",
+    "phone_international": "+91 90297 19681",
+    "can_claim": false,
+    "owner": {
+      "id": "102289094662048164333",
+      "name": "Vino life insurance Life insurance and Mediclaim service (Owner)",
+      "link": "https://www.google.com/maps/contrib/102289094662048164333"
+    },
+    "owner_posts": [],
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=T-vgA7QzUFww-nvY66EjHw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=115.897415&pitch=0&thumbfov=100",
+    "main_category": "Insurance agency",
+    "categories": [
+      "Insurance agency"
+    ],
+    "workday_timing": "10 am–6 pm",
+    "status": null,
+    "is_temporarily_closed": false,
+    "is_permanently_closed": false,
+    "closed_on": "Open All Days",
+    "address": "Shyam Krupa, Daulat Nagar, Borivali, Mumbai, Maharashtra 400066",
+    "price_range": null,
+    "reviews_per_rating": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 2
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJq6qWTNqw5zsRJoVWu4r5zTw&q=Vino+life+insurance+Life+insurance+and+Mediclaim+service&authuser=0&hl=en&gl=IN",
+    "coordinates": {
+      "latitude": 19.235563799999998,
+      "longitude": 72.8593712
+    },
+    "plus_code": "6VP5+6P Mumbai, Maharashtra",
+    "detailed_address": {
+      "ward": "Daulat Nagar, Borivali",
+      "street": "Shyam Krupa",
+      "city": "Mumbai",
+      "postal_code": "400066",
+      "state": "Maharashtra",
+      "country_code": "IN"
+    },
+    "time_zone": "Asia/Calcutta",
+    "is_rental": false,
+    "cid": "4381432386745173286",
+    "data_id": "0x3be7b0da4c96aaab:0x3ccdf98abb568526",
+    "kgmid": "/g/11hrbhby19",
+    "about": [
+      {
+        "id": "service_options",
+        "name": "Service options",
+        "options": [
+          {
+            "name": "Online appointments",
+            "enabled": true
+          },
+          {
+            "name": "On-site services",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "planning",
+        "name": "Planning",
+        "options": [
+          {
+            "name": "Appointment required",
+            "enabled": true
+          }
+        ]
+      }
+    ],
+    "hours": [
+      {
+        "day": "Monday",
+        "times": [
+          "10 am–6 pm"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "times": [
+          "10 am–6 pm"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "times": [
+          "10 am–6 pm"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "times": [
+          "10 am–6 pm"
+        ]
+      },
+      {
+        "day": "Friday",
+        "times": [
+          "10 am–6 pm"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "times": [
+          "10 am–6 pm"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "times": [
+          "10 am–6 pm"
+        ]
+      }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "menu": null,
+    "reservations": [],
+    "order_online_links": [],
+    "gas_prices": [],
+    "image_count": 20,
+    "images": [
+      {
+        "about": "All",
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=T-vgA7QzUFww-nvY66EjHw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=115.897415&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-04T06:00:00"
+      },
+      {
+        "about": "By owner",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHCcULPZB8Qeo6YgnzfD-u5A4E_VTyy0tDek5MTFzVYGf5GXz7pI0lyzeMvUQmedp_vdG-6xCPCYjJTHqSvS5z1XrTVcCbLY5BXAQxztaGBIPDkP-GB8AxULZYyas21a5FoA5sh2EtfuBz8=w1920-h1080-k-no",
+        "published_at_date": "2025-09-10T18:00:00"
+      },
+      {
+        "about": "Street View & 360°",
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=T-vgA7QzUFww-nvY66EjHw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=115.897415&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-04T06:00:00"
+      }
+    ],
+    "featured_images": [
+      {
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=T-vgA7QzUFww-nvY66EjHw&cb_client=search.gws-prod.gps&w=203&h=100&yaw=115.897415&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-04T06:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHCcULPZB8Qeo6YgnzfD-u5A4E_VTyy0tDek5MTFzVYGf5GXz7pI0lyzeMvUQmedp_vdG-6xCPCYjJTHqSvS5z1XrTVcCbLY5BXAQxztaGBIPDkP-GB8AxULZYyas21a5FoA5sh2EtfuBz8=w1920-h1080-k-no",
+        "published_at_date": "2025-09-10T18:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAECA2tUjEFHdaLXVOsg5enxVDHhb-SobrFGGKkvGBqu-fox7jViHy5K-6NIt_KKOy3zlFCfA8qD_TR37r-PyRYnDvbhtMZZ7iHgBT4wCJZvf2NL5PD6YGcj63qj6sl4rUid8zs=w1920-h1080-k-no",
+        "published_at_date": "2022-09-06T17:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHOVe_nZJHvAHJJJxMsAACQNl_POHcxAUCX4pQF09i57-Bs_qdG6_7L2FIybNLsphTSWABDFQehDYfp3ZKo1kBHzWoZyIAR5p2WaarmqRgdX0lQegGPMHh4VRqbcS4D2fXyUIBP=w1920-h1080-k-no",
+        "published_at_date": "2022-09-06T17:00:00"
+      }
+    ],
+    "on_site_places": [],
+    "customer_updates": [],
+    "featured_question": null,
+    "review_keywords": [],
+    "featured_reviews": [
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNhNmVlZXVRRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNhNmVlZXVRRRAB!2m1!1s0x0:0x3ccdf98abb568526!3m1!1s2@1:CIHM0ogKEICAgICa6eeeuQE%7C%7C?hl=en",
+        "name": "kaval kk",
+        "reviewer_id": "101056551598778012792",
+        "reviewer_profile": "https://www.google.com/maps/contrib/101056551598778012792?hl=en-GB",
+        "rating": 5,
+        "review_text": null,
+        "original_language": null,
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "4 years ago",
+        "published_at_date": "2021-08-03T16:48:23",
+        "response_from_owner_text": "Thank you ",
+        "response_from_owner_ago": "9 months ago",
+        "response_from_owner_date": "2025-09-10T18:48:46",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjXpgjDHW21cQG9mBm8vscPX5heTYVXBXqabz6tRDa36_eTYGuPHdg=s1920",
+        "total_number_of_reviews_by_reviewer": 6,
+        "total_number_of_photos_by_reviewer": 4,
+        "is_local_guide": true,
+        "experience_details": [
+          {
+            "name": "Positive",
+            "value": "Responsiveness, Quality, Professionalism, Value"
+          }
+        ],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNhdWNDaGd3RRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNhdWNDaGd3RRAB!2m1!1s0x0:0x3ccdf98abb568526!3m1!1s2@1:CIHM0ogKEICAgICaucChgwE%7C%7C?hl=en",
+        "name": "Funny Gamer",
+        "reviewer_id": "116936756848109865685",
+        "reviewer_profile": "https://www.google.com/maps/contrib/116936756848109865685?hl=en-GB",
+        "rating": 5,
+        "review_text": null,
+        "original_language": null,
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "4 years ago",
+        "published_at_date": "2021-08-04T04:02:18",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjW1B_LsuO9n3GOclita52FmCBsq2bRdbBT1eTYZ8ic58F9gTq4=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [
+          {
+            "name": "Positive",
+            "value": "Responsiveness, Quality, Professionalism, Value"
+          }
+        ],
+        "review_photos": [],
+        "review_origin": "google"
+      }
+    ],
+    "query": "term life insurance providers in naigaon east"
+  },
+  {
+    "place_id": "ChIJ8Q3SMK2x5zsRFcvCiqQMjaU",
+    "name": "Bharti AXA Life Insurance Company Limited",
+    "description": "A life insurance plan which provides a cover for your entire life time. Such plans are used to accumulate and pass on the wealth from one generation to another as legacy in a tax efficient manner.",
+    "is_spending_on_ads": false,
+    "link": "https://www.google.com/maps/place/Bharti+AXA+Life+Insurance+Company+Limited/data=!4m7!3m6!1s0x3be7b1ad30d20df1:0xa58d0ca48ac2cb15!8m2!3d19.2307223!4d72.852624!16s%2Fg%2F11pv2x3y2w!19sChIJ8Q3SMK2x5zsRFcvCiqQMjaU?authuser=0&hl=en&rclk=1",
+    "reviews": 46,
+    "rating": 4,
+    "competitors": [
+      {
+        "name": "SBI Life Insurance Co Ltd",
+        "suggested_link": "https://www.google.com/maps/search/SBI+Life+Insurance+Co+Ltd/@19.2307381,72.851839,19z?authuser=0&hl=en&entry=ttu",
+        "reviews": 77,
+        "rating": 4.2,
+        "main_category": "Insurance company",
+        "categories": [
+          "Insurance company",
+          "Health insurance agency",
+          "Insurance agency",
+          "Insurance broker",
+          "Life insurance agency"
+        ],
+        "coordinates": {
+          "latitude": 19.2307381,
+          "longitude": 72.851839
+        }
+      },
+      {
+        "name": "Bharti AXA General Insurance",
+        "suggested_link": "https://www.google.com/maps/search/Bharti+AXA+General+Insurance/@18.995176999999998,72.8261375,19z?authuser=0&hl=en&entry=ttu",
+        "reviews": 62,
+        "rating": 3.2,
+        "main_category": "Insurance company",
+        "categories": [
+          "Insurance company",
+          "Insurance agency"
+        ],
+        "coordinates": {
+          "latitude": 18.995176999999998,
+          "longitude": 72.8261375
+        }
+      },
+      {
+        "name": "Bharti AXA Life Insurance Company Ltd.",
+        "suggested_link": "https://www.google.com/maps/search/Bharti+AXA+Life+Insurance+Company+Ltd./@19.069423000000004,72.8681714,19z?authuser=0&hl=en&entry=ttu",
+        "reviews": 15,
+        "rating": 2.3,
+        "main_category": "Insurance agency",
+        "categories": [
+          "Insurance agency"
+        ],
+        "coordinates": {
+          "latitude": 19.069423000000004,
+          "longitude": 72.8681714
+        }
+      }
+    ],
+    "website": "https://www.bhartiaxa.com/",
+    "phone": "1800 102 4444",
+    "phone_international": "+91 1800 102 4444",
+    "can_claim": false,
+    "owner": {
+      "id": "112708222344368545183",
+      "name": "Bharti AXA Life Insurance Company Limited (Owner)",
+      "link": "https://www.google.com/maps/contrib/112708222344368545183"
+    },
+    "owner_posts": [],
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Cifq2INsDaq-pHhcvxRHJA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=172.50671&pitch=0&thumbfov=100",
+    "main_category": "Insurance company",
+    "categories": [
+      "Insurance company",
+      "Financial institution"
+    ],
+    "workday_timing": "10 am–5:30 pm",
+    "status": null,
+    "is_temporarily_closed": false,
+    "is_permanently_closed": false,
+    "closed_on": [
+      "Sunday"
+    ],
+    "address": "Kapoor Apartment, Om Shanti Chowk, B 105/106, Chandavarkar Rd, Maharashtra Nagar, Borivali West, Mumbai, Maharashtra 400092",
+    "price_range": null,
+    "reviews_per_rating": {
+      "1": 10,
+      "2": 1,
+      "3": 1,
+      "4": 3,
+      "5": 31
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ8Q3SMK2x5zsRFcvCiqQMjaU&q=Bharti+AXA+Life+Insurance+Company+Limited&authuser=0&hl=en&gl=IN",
+    "coordinates": {
+      "latitude": 19.2307223,
+      "longitude": 72.85262399999999
+    },
+    "plus_code": "6VJ3+72 Mumbai, Maharashtra",
+    "detailed_address": {
+      "ward": "Maharashtra Nagar, Borivali West",
+      "street": "Kapoor Apartment, Om Shanti Chowk, B 105/106, Chandavarkar Rd",
+      "city": "Mumbai",
+      "postal_code": "400092",
+      "state": "Maharashtra",
+      "country_code": "IN"
+    },
+    "time_zone": "Asia/Calcutta",
+    "is_rental": false,
+    "cid": "11929204888816503573",
+    "data_id": "0x3be7b1ad30d20df1:0xa58d0ca48ac2cb15",
+    "kgmid": "/g/11pv2x3y2w",
+    "about": [
+      {
+        "id": "accessibility",
+        "name": "Accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible entrance",
+            "enabled": true
+          }
+        ]
+      }
+    ],
+    "hours": [
+      {
+        "day": "Monday",
+        "times": [
+          "10 am–5:30 pm"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "times": [
+          "10 am–5:30 pm"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "times": [
+          "10 am–5:30 pm"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "times": [
+          "10 am–5:30 pm"
+        ]
+      },
+      {
+        "day": "Friday",
+        "times": [
+          "10 am–5:30 pm"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "times": [
+          "10 am–5:30 pm"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "times": [
+          "Closed"
+        ]
+      }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "menu": null,
+    "reservations": [],
+    "order_online_links": [],
+    "gas_prices": [],
+    "image_count": 1,
+    "images": [
+      {
+        "about": "All",
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Cifq2INsDaq-pHhcvxRHJA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=172.50671&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-03T09:00:00"
+      },
+      {
+        "about": "Street View & 360°",
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Cifq2INsDaq-pHhcvxRHJA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=172.50671&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-03T09:00:00"
+      }
+    ],
+    "featured_images": [
+      {
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Cifq2INsDaq-pHhcvxRHJA&cb_client=search.gws-prod.gps&w=203&h=100&yaw=172.50671&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-03T09:00:00"
+      }
+    ],
+    "on_site_places": [],
+    "customer_updates": [],
+    "featured_question": null,
+    "review_keywords": [],
+    "featured_reviews": [
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3M19MMDRBRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnTUN3M19MMDRBRRAB!2m1!1s0x0:0xa58d0ca48ac2cb15!3m1!1s2@1:CIHM0ogKEICAgMCw3_L04AE%7C%7C?hl=en",
+        "name": "nayan bhatt",
+        "reviewer_id": "107475883688110999691",
+        "reviewer_profile": "https://www.google.com/maps/contrib/107475883688110999691?hl=en-GB",
+        "rating": 1,
+        "review_text": "Very pathetic low returns. Do not expect even reasonable return from bharti axa policies. Their sales team bluffs but you may not get even 3 to 4 percent return on your investment. By the time you understand policy it will be too late as they will not refund  most part of premium you paid. Your money will be stuck for long period. Avoid taking any policy from them. Do not get fooled by their sales team.\nThe languages written on brochure and examples will misguide you.obviously, is done purposely.\nThere are better companies like ICICI and tata and even LIC who will give you much better returns.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2025-03-22T08:37:04",
+        "response_from_owner_text": "Hi Nayan,\n\nRequest you to please raise your query on service@bhartiaxa.com.\n\nRegards,\nTeam Bharti AXA",
+        "response_from_owner_ago": "11 months ago",
+        "response_from_owner_date": "2025-07-14T07:27:03",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocKWLwKl7SWh0UCKeuBsDdJVKcpFv2KZSOSFazVSRg9TlSjwQA=s1920",
+        "total_number_of_reviews_by_reviewer": 46,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZNmZTVll3EAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnTUNZNmZTVll3EAE!2m1!1s0x0:0xa58d0ca48ac2cb15!3m1!1s2@1:CIHM0ogKEICAgMCY6fSVYw%7C%7C?hl=en",
+        "name": "Reena Fernandes",
+        "reviewer_id": "110064572603730101933",
+        "reviewer_profile": "https://www.google.com/maps/contrib/110064572603730101933?hl=en-GB",
+        "rating": 5,
+        "review_text": "I have a relationship with this company since quite some time as a customer. I have quite a few policies with them. Good service. Can do most of the services online through customer login. Good products",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2025-05-05T09:56:29",
+        "response_from_owner_text": "Thank you for your wonderful review and for being a valued customer for so long! We're glad to hear you're satisfied with our services, online customer portal, and products. We truly appreciate your trust and look forward to continuing to serve you!\n\nRegards,\nTeam Bharti AXA",
+        "response_from_owner_ago": "11 months ago",
+        "response_from_owner_date": "2025-07-14T07:25:25",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocKjKzLrNUE5Of5em0ZS2WHynUQBnXCCR9evC_Jk8BhaxWe5kQ=s1920",
+        "total_number_of_reviews_by_reviewer": 10,
+        "total_number_of_photos_by_reviewer": 6,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRX05QZm1nRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnTUNRX05QZm1nRRAB!2m1!1s0x0:0xa58d0ca48ac2cb15!3m1!1s2@1:CIHM0ogKEICAgMCQ_NPfmgE%7C%7C?hl=en",
+        "name": "hetvi parekh",
+        "reviewer_id": "109140289184399722259",
+        "reviewer_profile": "https://www.google.com/maps/contrib/109140289184399722259?hl=en-GB",
+        "rating": 5,
+        "review_text": "I had a very good experience. The procedure was very smooth and seamless. The  Employees were very helpful to guide and helped me resolve my issues very quickly.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2025-03-03T05:05:04",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocIE1IyKbDoSWFhSkY0hXUaaCxCFzJEkK_lv1G7XOYnq-ZT7PCZV=s1920",
+        "total_number_of_reviews_by_reviewer": 12,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlN3RYdVFREAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNlN3RYdVFREAE!2m1!1s0x0:0xa58d0ca48ac2cb15!3m1!1s2@1:CIHM0ogKEICAgICe7tXuQQ%7C%7C?hl=en",
+        "name": "Tejashri Shetty",
+        "reviewer_id": "109434139552370462721",
+        "reviewer_profile": "https://www.google.com/maps/contrib/109434139552370462721?hl=en-GB",
+        "rating": 1,
+        "review_text": "Worst possible customer service. Fake claims and for collecting money they send representatives to beg u at your home but do not pick calls or call back when u try to reach. Horrible staff , doesnt even know who their representatives are and not co-operative. Worst worst experience ever. Burning hard earned money is what u get if u associate with these idiots.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "3 years ago",
+        "published_at_date": "2022-09-14T15:57:58",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocKSkqotmIWtCEU4rDIiEjQn0serBPoKsMAv74ksO0K1xIPZcQ=s1920",
+        "total_number_of_reviews_by_reviewer": 8,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZNmJTcC13RRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnTUNZNmJTcC13RRAB!2m1!1s0x0:0xa58d0ca48ac2cb15!3m1!1s2@1:CIHM0ogKEICAgMCY6bSp-wE%7C%7C?hl=en",
+        "name": "jyoti vishwakarma",
+        "reviewer_id": "111014801424598949284",
+        "reviewer_profile": "https://www.google.com/maps/contrib/111014801424598949284?hl=en-GB",
+        "rating": 5,
+        "review_text": "Good experience visiting the branch. The staff was friendly and helpful. My query was solver effectively.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2025-05-05T09:55:35",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjU4x7JmnvGK-hIfCZUeCNb5Y0PFP60EzmoBBb215yYO6-mPbNfctQ=s1920",
+        "total_number_of_reviews_by_reviewer": 4,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5cHFxWHR3RRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUM5cHFxWHR3RRAB!2m1!1s0x0:0xa58d0ca48ac2cb15!3m1!1s2@1:CIHM0ogKEICAgIC9pqqXtwE%7C%7C?hl=en",
+        "name": "Onkar Sapre",
+        "reviewer_id": "105710915949126866863",
+        "reviewer_profile": "https://www.google.com/maps/contrib/105710915949126866863?hl=en-GB",
+        "rating": 1,
+        "review_text": "I had a reliance policy which lapse due to the shut down of company.then I got fake call from AXA agent who told me if I pay 80k then I will get back my investment which was  1.70 .& They told me it's a government of India initiative to get back money which I lost due to company shut down (reliance insurance).it will take 4 months to get my money back. After a year I don't get my money back instead I was getting calls regarding Bharti AXA insurance renewal for 80k . Then I realised that I was duped by fake callers of Bharati AXA. They r cheaters.\nI beg u all don't invest in this fraud company.\nAfter so many emails and complaints they did not return my money back...",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "2 years ago",
+        "published_at_date": "2024-03-05T04:43:34",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjVLfFXu8hTGATRfI3WbpZVYWJvDVERZqc_mP1vI9ewla6nrT2gv=s1920",
+        "total_number_of_reviews_by_reviewer": 4,
+        "total_number_of_photos_by_reviewer": 1,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNldHVYZVRBEAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNldHVYZVRBEAE!2m1!1s0x0:0xa58d0ca48ac2cb15!3m1!1s2@1:CIHM0ogKEICAgICetuXeTA%7C%7C?hl=en",
+        "name": "harshita shah",
+        "reviewer_id": "112894556120696864001",
+        "reviewer_profile": "https://www.google.com/maps/contrib/112894556120696864001?hl=en-GB",
+        "rating": 1,
+        "review_text": "Worst worst ever company to invest . They are the biggest frauds, who only lie to you and loot your money. They don’t even return the money to their clients and instead are rude . Today when I visited I wanted to meet their senior they said we have no seniors. Unprofessional people. Would highly recommend everyone to save your money and not invest here because they are big liars and frauds.  Stay safe don’t invest here.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "3 years ago",
+        "published_at_date": "2022-09-13T15:47:46",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjUBYkUZtmefW0vUOEn2S23AcoVh682voRIm3DDjZqoXgzAQPqf_vg=s1920",
+        "total_number_of_reviews_by_reviewer": 15,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRX1BPTXFnRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnTUNRX1BPTXFnRRAB!2m1!1s0x0:0xa58d0ca48ac2cb15!3m1!1s2@1:CIHM0ogKEICAgMCQ_POMqgE%7C%7C?hl=en",
+        "name": "Trisha Shah",
+        "reviewer_id": "117478860460936389422",
+        "reviewer_profile": "https://www.google.com/maps/contrib/117478860460936389422?hl=en-GB",
+        "rating": 5,
+        "review_text": "I had a query regarding my policy the staff was very helpful to resolve it.\nThanks Borivali branch for helping me",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2025-03-03T05:06:19",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjVeuQ6MbpoUY2OpUxlqWQMsjK7Crjv54OgKG0Kzcw8qrc-xqQs=s1920",
+        "total_number_of_reviews_by_reviewer": 4,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      }
+    ],
+    "query": "term life insurance providers in naigaon east"
+  },
+  {
+    "place_id": "ChIJ000p7TGx5zsRFZ4benGYB_c",
+    "name": "Bajaj Life Insurance",
+    "description": "Bajaj Life Insurance Limited, formerly known as Bajaj Allianz Life Insurance Company Limited, is one of India’s fastest-growing private life insurers. Our organisation is transitioning to being 100% owned by the Bajaj Group – a household name in India with a 100-year legacy of trust and credibility. As part of Bajaj Finserv Limited, one of the country’s most diversified and respected financial services groups, we bring innovation, a customer-first mindset, and technology-led solutions to the forefront. Today, we stand as a trusted partner to over 3.85#crore Indians in securing their future.\n\nAt a Glance, Numbers you should know:\n· ₹1,31,052Cr Assets Under Management\n· 359%^Solvency Margin\n· 99.29%~ Cl",
+    "is_spending_on_ads": false,
+    "link": "https://www.google.com/maps/place/Bajaj+Life+Insurance/data=!4m7!3m6!1s0x3be7b131ed294dd3:0xf70798717a1b9e15!8m2!3d19.2304901!4d72.8518331!16s%2Fg%2F11fzfbvzyp!19sChIJ000p7TGx5zsRFZ4benGYB_c?authuser=0&hl=en&rclk=1",
+    "reviews": 176,
+    "rating": 4.2,
+    "competitors": [
+      {
+        "name": "Bajaj General Insurance Ltd.",
+        "suggested_link": "https://www.google.com/maps/search/Bajaj+General+Insurance+Ltd./@19.233558900000002,72.85556340000001,19z?authuser=0&hl=en&entry=ttu",
+        "reviews": 83,
+        "rating": 3,
+        "main_category": "Insurance agency",
+        "categories": [
+          "Insurance agency",
+          "Auto insurance agency",
+          "Health insurance agency",
+          "Home insurance agency",
+          "Insurance company",
+          "Motorcycle insurance agency"
+        ],
+        "coordinates": {
+          "latitude": 19.233558900000002,
+          "longitude": 72.85556340000001
+        }
+      },
+      {
+        "name": "Bajaj Life Insurance",
+        "suggested_link": "https://www.google.com/maps/search/Bajaj+Life+Insurance/@19.0855265,72.9090045,19z?authuser=0&hl=en&entry=ttu",
+        "reviews": 49,
+        "rating": 4.8,
+        "main_category": "Life insurance agency",
+        "categories": [
+          "Life insurance agency",
+          "Insurance agency"
+        ],
+        "coordinates": {
+          "latitude": 19.0855265,
+          "longitude": 72.9090045
+        }
+      },
+      {
+        "name": "Bajaj Allianz Life Insurance Co Ltd",
+        "suggested_link": "https://www.google.com/maps/search/Bajaj+Allianz+Life+Insurance+Co+Ltd/@19.0575196,72.83651789999999,19z?authuser=0&hl=en&entry=ttu",
+        "reviews": 0,
+        "rating": 0,
+        "main_category": "Insurance agency",
+        "categories": [
+          "Insurance agency"
+        ],
+        "coordinates": {
+          "latitude": 19.0575196,
+          "longitude": 72.83651789999999
+        }
+      }
+    ],
+    "website": "https://branch.bajajlifeinsurance.com/bajaj-life-insurance-borivali-life-insurance-borivali-mumbai-123039/Home?utm_source=locator&utm_medium=googleplaces",
+    "phone": "020 6712 1212",
+    "phone_international": "+91 20 6712 1212",
+    "can_claim": false,
+    "owner": {
+      "id": "114028911630273977102",
+      "name": "Bajaj Life Insurance (Owner)",
+      "link": "https://www.google.com/maps/contrib/114028911630273977102"
+    },
+    "owner_posts": [
+      {
+        "post_id": "4954414410863691068",
+        "post_text": "Give your team a secure financial future! With a flexible retirement savings plan that grows with them and includes built-in life cover, you’re not just investing in their present — you’re securing their financial future.\r\n",
+        "link": "https://www.google.com/search?sca_esv=2b8deb8d39e39eab&hl=en&gl=in&authuser=0&output=search&q=Bajaj+Life+Insurance&ludocid=17800363665352531477&lpsid=CIHM0ogKEMWL0uvFlNn-iAE&ibp=gwp;0,10#lpstate=pid:CIHM0ogKEMWL0uvFlNn-iAE,ar",
+        "hashtags": [
+          "#BajajLife",
+          "#LifeGoalsDone"
+        ],
+        "call_to_action": {
+          "text": "Call now",
+          "link": "tel:02067121212"
+        },
+        "published_at_date": "2026-06-17T12:27:19",
+        "published_at": "Jun 17, 2026",
+        "images": [
+          "https://lh3.googleusercontent.com/geougc/AF1QipOxnafYuUynWzGU_X5oDtPno8i1k_xGt3LsG3h8=h400-no"
+        ]
+      },
+      {
+        "post_id": "4954414410863691068",
+        "post_text": "A century of trust and progress, captured in one unforgettable image.\n\nBajaj Group set a Guinness World Records™ title for the largest abdominal plank number at Bajaj Plankathon 2026 in New Delhi on 7 June 2026, with 1,084 participants coming together to form the number ‘100’.\n\nAs Bajaj Group celebrates this milestone year, the achievement reflects the trust placed in us by our customers and partners over the decades. Beyond the record, Bajaj Plankathon 2026 was anchored in a larger social purpose - supporting the treatment of 100,000 children battling challenging medical conditions.\n\nHere’s to 100 years of growth and resilience, together.\n\n",
+        "link": "https://www.google.com/search?sca_esv=2b8deb8d39e39eab&hl=en&gl=in&authuser=0&output=search&q=Bajaj+Life+Insurance&ludocid=17800363665352531477&lpsid=CIHM0ogKEIzY3KH3r7i2OQ&ibp=gwp;0,10#lpstate=pid:CIHM0ogKEIzY3KH3r7i2OQ,ar",
+        "hashtags": [
+          "#BajajPlankathon",
+          "#100YearsOfBajaj"
+        ],
+        "call_to_action": {
+          "text": "Call now",
+          "link": "tel:02067121212"
+        },
+        "published_at_date": "2026-06-10T06:33:12",
+        "published_at": "Jun 10, 2026",
+        "images": [
+          "https://lh3.googleusercontent.com/geougc/AF1QipN937e2uydL1SIIBrXTCloo5vTrUyt73DwYXxVT=h400-no"
+        ]
+      },
+      {
+        "post_id": "4954414410863691068",
+        "post_text": "A 99.33% Claim Settlement Ratio — our commitment reflected in action, and a standard that continues to rise year after year.\n\n",
+        "link": "https://www.google.com/search?sca_esv=2b8deb8d39e39eab&hl=en&gl=in&authuser=0&output=search&q=Bajaj+Life+Insurance&ludocid=17800363665352531477&lpsid=CIHM0ogKEOWsq7XHlIis3AE&ibp=gwp;0,10#lpstate=pid:CIHM0ogKEOWsq7XHlIis3AE,ar",
+        "hashtags": [
+          "#BajajLife",
+          "#LifeGoalsDone",
+          "#ClaimSettlementRatio"
+        ],
+        "call_to_action": {
+          "text": "Call now",
+          "link": "tel:02067121212"
+        },
+        "published_at_date": "2026-06-02T06:10:09",
+        "published_at": "Jun 2, 2026",
+        "images": [
+          "https://lh3.googleusercontent.com/geougc/AF1QipPMDe-cEuW0kCv4yfcfDK00LWwSRF7DA9u69SCJ=h400-no"
+        ]
+      },
+      {
+        "post_id": "4954414410863691068",
+        "post_text": "Your financial plan shouldn’t have to choose between protection and growth. Introducing Bajaj Life Smart Secure, a plan that combines market-linked growth potential with life coverage for added financial security. Designed to help you work towards your long-term life goals while staying protected through life’s uncertainties.\r\n\r\nTo know more, visit bajajlifeinsurance.com or reach out to your insurance consultant.\r\n\r\n",
+        "link": "https://www.google.com/search?sca_esv=2b8deb8d39e39eab&hl=en&gl=in&authuser=0&output=search&q=Bajaj+Life+Insurance&ludocid=17800363665352531477&lpsid=CIHM0ogKENfqpp3Q-ZaF3wE&ibp=gwp;0,10#lpstate=pid:CIHM0ogKENfqpp3Q-ZaF3wE,ar",
+        "hashtags": [
+          "#BajajLife",
+          "#LifeGoalsDone",
+          "#Term",
+          "#ULIP"
+        ],
+        "call_to_action": {
+          "text": "Call now",
+          "link": "tel:02067121212"
+        },
+        "published_at_date": "2026-06-02T05:52:26",
+        "published_at": "Jun 2, 2026",
+        "images": [
+          "https://lh3.googleusercontent.com/geougc/AF1QipNOD52LVzSRgO7Y-7FqJCS_NVpP_x-bfAOFg_ed=h400-no"
+        ]
+      },
+      {
+        "post_id": "4954414410863691068",
+        "post_text": "Getting your ‘KYC’ done every time a new financial service is required?\r\n\r\nCentral Know Your Customer (CKYC) helps streamline the process by linking KYC details to one secure identification number, making future financial interactions fast, secure and seamless.\r\n\r\nOnce registered, the same details can be used across multiple financial products. Get verified once using your Central Know Your Customer (CKYC) number and make future financial transactions fast, secure and seamless.\r\n\r\nTo complete CKYC, you need to submit a KYC form and the necessary supporting documents to your financial service provider. CKYC is a one-time process that simplifies verification, saves time, and ensures consistency across financial transactions.\r\n\r\n",
+        "link": "https://www.google.com/search?sca_esv=2b8deb8d39e39eab&hl=en&gl=in&authuser=0&output=search&q=Bajaj+Life+Insurance&ludocid=17800363665352531477&lpsid=CIHM0ogKEMzhh46v04SM5wE&ibp=gwp;0,10#lpstate=pid:CIHM0ogKEMzhh46v04SM5wE,ar",
+        "hashtags": [
+          "#BajajLife",
+          "#LifeGoalsDone",
+          "#CKYC"
+        ],
+        "call_to_action": {
+          "text": "Call now",
+          "link": "tel:02067121212"
+        },
+        "published_at_date": "2026-01-30T13:30:54",
+        "published_at": "Jan 30, 2026",
+        "images": [
+          "https://lh3.googleusercontent.com/geougc/AF1QipOXZHCgSJ2AjR7ma0u3mwjDG9EjTU94dpHej0T6=h400-no"
+        ]
+      },
+      {
+        "post_id": "4954414410863691068",
+        "post_text": "One verified identity can make multiple financial processes simpler. Central Know Your Customer (CKYC) enables KYC details to be securely linked to a single number, helping reduce repeat documentation and supporting faster, more consistent onboarding across financial services.\r\n\r\nOnce registered, the same details can be used wherever required. To complete CKYC, visit your life insurer, or any authorised financial institution and finish the verification formalities. A straightforward step that adds efficiency to long-term financial planning.\r\n\r\n",
+        "link": "https://www.google.com/search?sca_esv=2b8deb8d39e39eab&hl=en&gl=in&authuser=0&output=search&q=Bajaj+Life+Insurance&ludocid=17800363665352531477&lpsid=CIHM0ogKEJbxja6euqil_gE&ibp=gwp;0,10#lpstate=pid:CIHM0ogKEJbxja6euqil_gE,ar",
+        "hashtags": [
+          "#BajajLife",
+          "#LifeGoalsDone",
+          "#CKYC"
+        ],
+        "call_to_action": {
+          "text": "Call now",
+          "link": "tel:02067121212"
+        },
+        "published_at_date": "2026-01-29T11:58:54",
+        "published_at": "Jan 29, 2026",
+        "images": [
+          "https://lh3.googleusercontent.com/geougc/AF1QipOB1At1fRJbaopcbG0azJkWmPlbtbltb96odNde=h400-no"
+        ]
+      },
+      {
+        "post_id": "4954414410863691068",
+        "post_text": "Being away from home doesn’t mean your plans are unprotected. \r\n\r\nWith our services now available in Dubai, managing your policy, claims, and funds is simple and reliable. \r\n\r\n",
+        "link": "https://www.google.com/search?sca_esv=2b8deb8d39e39eab&hl=en&gl=in&authuser=0&output=search&q=Bajaj+Life+Insurance&ludocid=17800363665352531477&lpsid=CIHM0ogKEMmfx4as-Nvb-QE&ibp=gwp;0,10#lpstate=pid:CIHM0ogKEMmfx4as-Nvb-QE,ar",
+        "hashtags": [
+          "#BajajLife",
+          "#LifeGoalsDone",
+          "#Dubai",
+          "#BajajLifeInDubai"
+        ],
+        "call_to_action": {
+          "text": "Call now",
+          "link": "tel:02067121212"
+        },
+        "published_at_date": "2026-01-07T11:06:16",
+        "published_at": "Jan 7, 2026",
+        "images": [
+          "https://lh3.googleusercontent.com/geougc/AF1QipMxtJ8QCzPc6Lsp48SS2sUjMG-5cnAXtPgq-zdp=h400-no"
+        ]
+      },
+      {
+        "post_id": "4954414410863691068",
+        "post_text": "Aapki Punji, Aapka Adhikar is a Ministry of Finance, Government of India initiative aimed at helping citizens identify and claim their unclaimed financial assets.\r\n\r\nSupporting this effort, Bajaj Life urges policyholders to connect with us and claim what is rightfully theirs. For any queries related to unclaimed policy amounts, contact 020 6712 1212 or write to customercare@bajajlife.com.\r\n\r\n",
+        "link": "https://www.google.com/search?sca_esv=2b8deb8d39e39eab&hl=en&gl=in&authuser=0&output=search&q=Bajaj+Life+Insurance&ludocid=17800363665352531477&lpsid=CIHM0ogKEO_hqbD4t_KwtwE&ibp=gwp;0,10#lpstate=pid:CIHM0ogKEO_hqbD4t_KwtwE,ar",
+        "hashtags": [
+          "#BajajLife",
+          "#AapkiPunjiAapkaAdhikar",
+          "#FinancialAwareness",
+          "#LifeGoalsDone"
+        ],
+        "call_to_action": {
+          "text": "Call now",
+          "link": "tel:02067121212"
+        },
+        "published_at_date": "2026-01-06T10:20:00",
+        "published_at": "Jan 6, 2026",
+        "images": [
+          "https://lh3.googleusercontent.com/geougc/AF1QipO0j_TqKO1Crk7SiOd0sHRhSN58AzGlK1Cmlw6j=h400-no"
+        ]
+      }
+    ],
+    "featured_image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHGMhcsSyute5bWBb_FXf4LNhZQ6RqPr8sQVfIkhTPyIc92q6GM3C8A4N_hXHnZC6yOMjOagC67Mu1EzjQkB4XBcMxKLPPTiCkZtjU_aowSQ51GTLMEGMs8byPXPBJ8hkS0A4K1EFumc7FZ=w1920-h1080-k-no",
+    "main_category": "Life insurance agency",
+    "categories": [
+      "Life insurance agency",
+      "Insurance agency"
+    ],
+    "workday_timing": "9 am–3:30 pm",
+    "status": null,
+    "is_temporarily_closed": false,
+    "is_permanently_closed": false,
+    "closed_on": [
+      "Sunday"
+    ],
+    "address": "TIARA, Off Chandwadkar Lane, Maharashtra Nagar, Mumbai, Maharashtra 400092",
+    "price_range": null,
+    "reviews_per_rating": {
+      "1": 17,
+      "2": 2,
+      "3": 17,
+      "4": 33,
+      "5": 107
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ000p7TGx5zsRFZ4benGYB_c&q=Bajaj+Life+Insurance&authuser=0&hl=en&gl=IN",
+    "coordinates": {
+      "latitude": 19.2304901,
+      "longitude": 72.8518331
+    },
+    "plus_code": "6VJ2+5P Mumbai, Maharashtra",
+    "detailed_address": {
+      "ward": "Lokmanya Tilak Nagar, Maharashtra Nagar, Borivali",
+      "street": "TIARA, Off Chandwadkar Lane, Maharashtra Nagar",
+      "city": "Mumbai",
+      "postal_code": "400092",
+      "state": "Maharashtra",
+      "country_code": "IN"
+    },
+    "time_zone": "Asia/Calcutta",
+    "is_rental": false,
+    "cid": "17800363665352531477",
+    "data_id": "0x3be7b131ed294dd3:0xf70798717a1b9e15",
+    "kgmid": "/g/11fzfbvzyp",
+    "about": [],
+    "hours": [
+      {
+        "day": "Monday",
+        "times": [
+          "9 am–3:30 pm"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "times": [
+          "9 am–3:30 pm"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "times": [
+          "9 am–3:30 pm"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "times": [
+          "9 am–3:30 pm"
+        ]
+      },
+      {
+        "day": "Friday",
+        "times": [
+          "9 am–3:30 pm"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "times": [
+          "9 am–1 pm"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "times": [
+          "Closed"
+        ]
+      }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "menu": null,
+    "reservations": [],
+    "order_online_links": [
+      {
+        "link": "https://www.bajajlifeinsurance.com/campaign/term-insurance-plans-premium-calculator/etouch-all-in-one-prices-term-plan.html?utm_source=gmblisting",
+        "source": "bajajlifeinsurance.com"
+      }
+    ],
+    "gas_prices": [],
+    "image_count": 22,
+    "images": [
+      {
+        "about": "All",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHGMhcsSyute5bWBb_FXf4LNhZQ6RqPr8sQVfIkhTPyIc92q6GM3C8A4N_hXHnZC6yOMjOagC67Mu1EzjQkB4XBcMxKLPPTiCkZtjU_aowSQ51GTLMEGMs8byPXPBJ8hkS0A4K1EFumc7FZ=w1920-h1080-k-no",
+        "published_at_date": "2026-06-11T13:00:00"
+      },
+      {
+        "about": "Latest",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGPspVCRUaO0zGWfH4G8aT1VZ7uOnsED_-3-znZxP2xGPjO4ULaflrGZIQjagA9GyKTpblSnQDtp4zF3euBBRGIopQRZS-cJTTtBNTEzRMe8jzSGlqr_4tCtSXj9TjN1lUOxpuQYqpUUPxQ=w1920-h1080-k-no",
+        "published_at_date": "2026-06-29T08:00:00"
+      },
+      {
+        "about": "Videos",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHMnqrJrhfY1VR4e2pySAaK2ZMwMaziajaERh9PQ0xi2DKY_z1fLLq9s1fVZIsvWx5-4dZxO8uYy83tMbHe3D_1MHnWPXG5TXosrqQ96srdYMSXohnd8JNnXQP1H9w27K2kUcFkLpp9rBo=w1920-h1080-k-no",
+        "published_at_date": "2026-04-23T12:00:00"
+      },
+      {
+        "about": "Inside",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHGMhcsSyute5bWBb_FXf4LNhZQ6RqPr8sQVfIkhTPyIc92q6GM3C8A4N_hXHnZC6yOMjOagC67Mu1EzjQkB4XBcMxKLPPTiCkZtjU_aowSQ51GTLMEGMs8byPXPBJ8hkS0A4K1EFumc7FZ=w1920-h1080-k-no",
+        "published_at_date": "2026-06-11T13:00:00"
+      },
+      {
+        "about": "By owner",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE-8chXFnH0Y2uvY_BbqcxMSTPA16B9g7WJMHbSAlgfxZf8dlW7nwYbmwcR71jkQzQ9I9nBpzFhKoKuNumrP2OrkF2vHDy1gi6AcO-KeXG9W_4r1YipVFsLya8nViqqgQKgqchZV0UaJ_as=w1920-h1080-k-no",
+        "published_at_date": "2025-11-28T14:00:00"
+      },
+      {
+        "about": "Street View & 360°",
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pvwKD7yF78-A7ZXiphZHZw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=58.70389&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-03T08:00:00"
+      }
+    ],
+    "featured_images": [
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHGMhcsSyute5bWBb_FXf4LNhZQ6RqPr8sQVfIkhTPyIc92q6GM3C8A4N_hXHnZC6yOMjOagC67Mu1EzjQkB4XBcMxKLPPTiCkZtjU_aowSQ51GTLMEGMs8byPXPBJ8hkS0A4K1EFumc7FZ=w1920-h1080-k-no",
+        "published_at_date": "2026-06-11T13:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE-8chXFnH0Y2uvY_BbqcxMSTPA16B9g7WJMHbSAlgfxZf8dlW7nwYbmwcR71jkQzQ9I9nBpzFhKoKuNumrP2OrkF2vHDy1gi6AcO-KeXG9W_4r1YipVFsLya8nViqqgQKgqchZV0UaJ_as=w1920-h1080-k-no",
+        "published_at_date": "2025-11-28T14:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHMnqrJrhfY1VR4e2pySAaK2ZMwMaziajaERh9PQ0xi2DKY_z1fLLq9s1fVZIsvWx5-4dZxO8uYy83tMbHe3D_1MHnWPXG5TXosrqQ96srdYMSXohnd8JNnXQP1H9w27K2kUcFkLpp9rBo=w1920-h1080-k-no",
+        "published_at_date": "2026-04-23T12:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHYP2rz822EiyADh5OeN49kD1gRGEKC3zwNWO76B7df1KsMRIqjC4H2NowiCs_JqlyKwGx24KgiVIb4ocGAiToM6AQ3mvdFnWQD0Z_78j6hlY46Z82EAV6_nxkFgiqQ0SQXteSiS5l5vm-6=w1920-h1080-k-no",
+        "published_at_date": "2026-02-02T09:00:00"
+      }
+    ],
+    "on_site_places": [],
+    "customer_updates": [],
+    "featured_question": null,
+    "review_keywords": [
+      {
+        "keyword": "polite staff",
+        "count": 7
+      },
+      {
+        "keyword": "customer friendly",
+        "count": 3
+      },
+      {
+        "keyword": "educated staff",
+        "count": 2
+      },
+      {
+        "keyword": "investments",
+        "count": 3
+      },
+      {
+        "keyword": "cooperative",
+        "count": 2
+      },
+      {
+        "keyword": "nearby station",
+        "count": 2
+      },
+      {
+        "keyword": "policy",
+        "count": 5
+      },
+      {
+        "keyword": "query resolution",
+        "count": 2
+      },
+      {
+        "keyword": "employees",
+        "count": 2
+      },
+      {
+        "keyword": "management",
+        "count": 2
+      }
+    ],
+    "featured_reviews": [
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Zd1YyMXROR0oyVEVWRE5YbDRhVXBCVVRsaVNFRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21Zd1YyMXROR0oyVEVWRE5YbDRhVXBCVVRsaVNFRRAB!2m1!1s0x0:0xf70798717a1b9e15!3m1!1s2@1:CAIQACodChtycF9oOmYwV21tNGJ2TEVDNXl4aUpBUTliSEE%7C%7C?hl=en",
+        "name": "Bram Gauda",
+        "reviewer_id": "114200084606864735599",
+        "reviewer_profile": "https://www.google.com/maps/contrib/114200084606864735599?hl=en-GB",
+        "rating": 5,
+        "review_text": "Mr yash Tawade was quite help-full and was quick to assist my work was done within 10 mins highly recommend his assistance if you have any paper work or any updating to do\nHe is quick and fast in his work\nThank you so much Yash….⭐️⭐️⭐️⭐️⭐️",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "3 weeks ago",
+        "published_at_date": "2026-06-04T07:33:17",
+        "response_from_owner_text": "Hi Bram, great to hear your positive feedback! It helps us to continue our efforts in providing our customers the best service & support.",
+        "response_from_owner_ago": "3 weeks ago",
+        "response_from_owner_date": "2026-06-04T07:47:17",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjXwZlE8GhqW67rxrwobooU-gg6AyhQBhhZM-TTGy0IM7fYXQ4Yo=s1920",
+        "total_number_of_reviews_by_reviewer": 4,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25nMVMydzVZMmR2TmpGNmMxbDFTMnQ1VG05TlpXYxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25nMVMydzVZMmR2TmpGNmMxbDFTMnQ1VG05TlpXYxAB!2m1!1s0x0:0xf70798717a1b9e15!3m1!1s2@1:CAIQACodChtycF9oOng1S2w5Y2dvNjF6c1l1S2t5Tm9NZWc%7C%7C?hl=en",
+        "name": "Latesh Sagar",
+        "reviewer_id": "110285390914968471716",
+        "reviewer_profile": "https://www.google.com/maps/contrib/110285390914968471716?hl=en-GB",
+        "rating": 5,
+        "review_text": "Very professional & polite staff. My enquiry was handled very efficiently. Keep up the good work.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "5 months ago",
+        "published_at_date": "2026-01-21T05:22:41",
+        "response_from_owner_text": "It always delights us to see our efforts being appreciated, Latesh! Thank you so much. ",
+        "response_from_owner_ago": "5 months ago",
+        "response_from_owner_date": "2026-01-21T05:53:03",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjWcR-JY0AVJ4Hj0_YRH-COp6g9KGXZE9dTQkhECN4cnHWMQ039w=s1920",
+        "total_number_of_reviews_by_reviewer": 54,
+        "total_number_of_photos_by_reviewer": 20,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kM05YVjBSamhYVTBSclIyRk5kemR5VjNsaFkwRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25kM05YVjBSamhYVTBSclIyRk5kemR5VjNsaFkwRRAB!2m1!1s0x0:0xf70798717a1b9e15!3m1!1s2@1:CAIQACodChtycF9oOnd3NXV0RjhXU0RrR2FNdzdyV3lhY0E%7C%7C?hl=en",
+        "name": "Ramesh Dave",
+        "reviewer_id": "106283711101440122113",
+        "reviewer_profile": "https://www.google.com/maps/contrib/106283711101440122113?hl=en-GB",
+        "rating": 5,
+        "review_text": "Very much helpful staff, good coordination, received great service",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "3 months ago",
+        "published_at_date": "2026-03-17T09:25:39",
+        "response_from_owner_text": "Hi Ramesh, great to hear your positive feedback! It helps us to continue our efforts in providing our customers the best service & support.",
+        "response_from_owner_ago": "3 months ago",
+        "response_from_owner_date": "2026-03-17T10:20:03",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjWoDjgN4BJVU9gYKRyqI5Fr_VBkW0bIkFU02jpUKqdc8KTJgR1Y=s1920",
+        "total_number_of_reviews_by_reviewer": 2,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21od2RFZG1UVUphVFdGTGIwSkdhbko2WlVaV2JXYxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21od2RFZG1UVUphVFdGTGIwSkdhbko2WlVaV2JXYxAB!2m1!1s0x0:0xf70798717a1b9e15!3m1!1s2@1:CAIQACodChtycF9oOmhwdEdmTUJaTWFLb0JGanJ6ZUZWbWc%7C%7C?hl=en",
+        "name": "Arti Sharma",
+        "reviewer_id": "105397476242876169581",
+        "reviewer_profile": "https://www.google.com/maps/contrib/105397476242876169581?hl=en-GB",
+        "rating": 5,
+        "review_text": "Best service compare to other companies and the products are also best",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "3 months ago",
+        "published_at_date": "2026-03-17T12:28:49",
+        "response_from_owner_text": "Hi Arti, your positive feedback is the motivation for us to provide the best service towards getting our customers' #LifeGoalsDone.",
+        "response_from_owner_ago": "3 months ago",
+        "response_from_owner_date": "2026-03-17T13:20:06",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocIB5Ah_WmG_KHv55u_5cwlkSiv24vsV0ZEiwJFJkfiqki4wag=s1920",
+        "total_number_of_reviews_by_reviewer": 2,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBMGVHbzVlVlZ4UlhoRFRuWjRhek56V0dabVNrRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xBMGVHbzVlVlZ4UlhoRFRuWjRhek56V0dabVNrRRAB!2m1!1s0x0:0xf70798717a1b9e15!3m1!1s2@1:CAIQACodChtycF9oOlA0eGo5eVVxRXhDTnZ4azNzWGZmSkE%7C%7C?hl=en",
+        "name": "Vimlesh Chaurasia",
+        "reviewer_id": "104588583889738360142",
+        "reviewer_profile": "https://www.google.com/maps/contrib/104588583889738360142?hl=en-GB",
+        "rating": 5,
+        "review_text": "Happy to see such excellent ops person for doing good work for clients",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "Edited 4 months ago",
+        "published_at_date": "2025-08-09T06:55:17",
+        "response_from_owner_text": "Hi Vimlesh, thank you, we'll keep striving to provide the best possible service towards getting our customers' #LifeGoalsDone.",
+        "response_from_owner_ago": "Edited 4 months ago",
+        "response_from_owner_date": "2025-08-09T07:11:03",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocKz-apHwD__L8SXEiHpzhLJs1zj8IGfmF5oM0VUU1rOyter4A=s1920",
+        "total_number_of_reviews_by_reviewer": 3,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmX056RjFBRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNmX056RjFBRRAB!2m1!1s0x0:0xf70798717a1b9e15!3m1!1s2@1:CIHM0ogKEICAgICf_NzF1AE%7C%7C?hl=en",
+        "name": "Kavita Chhabda",
+        "reviewer_id": "104563427056472875335",
+        "reviewer_profile": "https://www.google.com/maps/contrib/104563427056472875335?hl=en-GB",
+        "rating": 5,
+        "review_text": "Yash was very helpful and supportive. Was very patient though I kept on asking him many questions. he handled all my queries calmly and gave me all the answers and explained everything to me in details. Great customer service. We should hire more customer centric employees like him.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2024-12-27T06:44:11",
+        "response_from_owner_text": "Hi Kavita Chhabda, your positive feedback is the motivation for us to provide the best service towards getting our customers' #LifeGoalsDone.",
+        "response_from_owner_ago": "a year ago",
+        "response_from_owner_date": "2024-12-27T06:45:48",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocJivlXpcXBHaLkHtrNmGlhOzqLMoMrC9AGwpiKgQrEC_Ejwlg=s1920",
+        "total_number_of_reviews_by_reviewer": 9,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkWVZFTjRUbEZmV0hKNGRrSjZURXBoWjBSYVdsRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tkWVZFTjRUbEZmV0hKNGRrSjZURXBoWjBSYVdsRRAB!2m1!1s0x0:0xf70798717a1b9e15!3m1!1s2@1:CAIQACodChtycF9oOkdYVEN4TlFfWHJ4dkJ6TEphZ0RaWlE%7C%7C?hl=en",
+        "name": "Anil Jadhav",
+        "reviewer_id": "101625996006943781878",
+        "reviewer_profile": "https://www.google.com/maps/contrib/101625996006943781878?hl=en-GB",
+        "rating": 5,
+        "review_text": "Very nice support from front desk",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "3 months ago",
+        "published_at_date": "2026-03-26T05:04:13",
+        "response_from_owner_text": "Hi Anil, thank you for your kind words! We're delighted to know that our service met your expectations.",
+        "response_from_owner_ago": "3 months ago",
+        "response_from_owner_date": "2026-03-26T06:04:03",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocIhJJtEbiuStvfUNRrwsAvpwQj3NugqPxbpFoqM-ZzGwWKMXA=s1920",
+        "total_number_of_reviews_by_reviewer": 2,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VQaUxnWm1uMmNPU2l3RRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VQaUxnWm1uMmNPU2l3RRAB!2m1!1s0x0:0xf70798717a1b9e15!3m1!1s2@1:CIHM0ogKEPiLgZmn2cOSiwE%7C%7C?hl=en",
+        "name": "Dinesh S",
+        "reviewer_id": "105594977227177980632",
+        "reviewer_profile": "https://www.google.com/maps/contrib/105594977227177980632?hl=en-GB",
+        "rating": 5,
+        "review_text": "Good service and thay are very helpful thay have attended me very well and in १st visit my all work has complicated there\nthanks",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2025-05-16T05:38:01",
+        "response_from_owner_text": "Hi Dinesh, your positive feedback is the motivation for us to provide the best service towards getting our customers' #LifeGoalsDone.",
+        "response_from_owner_ago": "a year ago",
+        "response_from_owner_date": "2025-05-16T05:54:03",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocJGoT9XqC7AscUX8eMOHwVZvliFn8jtqWCZHcwrDrvgvCWBDA=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      }
+    ],
+    "query": "term life insurance providers in naigaon east"
+  },
+  {
+    "place_id": "ChIJT548szuv5zsR35RUpN4NJCM",
+    "name": "A2Z Insurance",
+    "description": "We are doing all types of insurance, suggest correct plan for currect customer, you can also call me for advise and service that what is better for you, Insurance is more important than food, This saves you from financial crises",
+    "is_spending_on_ads": false,
+    "link": "https://www.google.com/maps/place/A2Z+Insurance/data=!4m7!3m6!1s0x3be7af3bb33c9e4f:0x23240ddea45494df!8m2!3d19.3601182!4d72.8583789!16s%2Fg%2F11wk8m131m!19sChIJT548szuv5zsR35RUpN4NJCM?authuser=0&hl=en&rclk=1",
+    "reviews": 0,
+    "rating": 0,
+    "competitors": [
+      {
+        "name": "HDFC ERGO Insurance Agent: Anita Pancham Zende",
+        "suggested_link": "https://www.google.com/maps/search/HDFC+ERGO+Insurance+Agent%3A+Anita+Pancham+Zende/@19.431981399999998,72.822651,19z?authuser=0&hl=en&entry=ttu",
+        "reviews": 1,
+        "rating": 5,
+        "main_category": "Insurance agency",
+        "categories": [
+          "Insurance agency",
+          "Auto insurance agency",
+          "Health insurance agency",
+          "Home insurance agency",
+          "Motorcycle insurance agency"
+        ],
+        "coordinates": {
+          "latitude": 19.431981399999998,
+          "longitude": 72.822651
+        }
+      },
+      {
+        "name": "A to z property solutions",
+        "suggested_link": "https://www.google.com/maps/search/A+to+z+property+solutions/@19.3428869,72.8234968,19z?authuser=0&hl=en&entry=ttu",
+        "reviews": 0,
+        "rating": 0,
+        "main_category": "Corporate office",
+        "categories": [
+          "Corporate office"
+        ],
+        "coordinates": {
+          "latitude": 19.3428869,
+          "longitude": 72.8234968
+        }
+      }
+    ],
+    "website": null,
+    "phone": null,
+    "phone_international": null,
+    "can_claim": false,
+    "owner": {
+      "id": "112942121735302330253",
+      "name": "A2Z Insurance (Owner)",
+      "link": "https://www.google.com/maps/contrib/112942121735302330253"
+    },
+    "owner_posts": [],
+    "featured_image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFQfEzLa2QAOoBUxTHBV-vRykF2t0fZBqulOUv-_T-HXadA_UiB9wHmtxzoRry2vSXz0l-a50sZRnlHvzjnUn6YmuApRmzlBj_bjm612OAh_SXGkgGeSEoAoHqMmMaMdA3_ac-c6w=w1920-h1080-k-no",
+    "main_category": "Insurance broker",
+    "categories": [
+      "Insurance broker",
+      "Auto insurance agency",
+      "Health insurance agency"
+    ],
+    "workday_timing": null,
+    "status": null,
+    "is_temporarily_closed": true,
+    "is_permanently_closed": false,
+    "closed_on": "Open All Days",
+    "address": "Nakshatra Greens, 103/E, Naigaon East, Maharashtra 401208",
+    "price_range": null,
+    "reviews_per_rating": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJT548szuv5zsR35RUpN4NJCM&q=A2Z+Insurance&authuser=0&hl=en&gl=IN",
+    "coordinates": {
+      "latitude": 19.3601182,
+      "longitude": 72.85837889999999
+    },
+    "plus_code": "9V65+29 Naigaon East, Vasai-Virar, Maharashtra",
+    "detailed_address": {
+      "ward": "Naigaon East",
+      "street": "Nakshatra Greens, 103/E",
+      "city": "Vasai-Virar",
+      "postal_code": "401208",
+      "state": "Maharashtra",
+      "country_code": "IN"
+    },
+    "time_zone": "Asia/Calcutta",
+    "is_rental": false,
+    "cid": "2532164140379968735",
+    "data_id": "0x3be7af3bb33c9e4f:0x23240ddea45494df",
+    "kgmid": "/g/11wk8m131m",
+    "about": [
+      {
+        "id": "service_options",
+        "name": "Service options",
+        "options": [
+          {
+            "name": "Online appointments",
+            "enabled": true
+          },
+          {
+            "name": "On-site services",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "crowd",
+        "name": "Crowd",
+        "options": [
+          {
+            "name": "LGBTQ+ friendly",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "planning",
+        "name": "Planning",
+        "options": [
+          {
+            "name": "Appointment required",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "parking",
+        "name": "Parking",
+        "options": [
+          {
+            "name": "Free parking lot",
+            "enabled": true
+          },
+          {
+            "name": "Free street parking",
+            "enabled": true
+          },
+          {
+            "name": "Paid street parking",
+            "enabled": true
+          }
+        ]
+      }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "menu": null,
+    "reservations": [],
+    "order_online_links": [],
+    "gas_prices": [],
+    "image_count": 11,
+    "images": [
+      {
+        "about": "All",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFQfEzLa2QAOoBUxTHBV-vRykF2t0fZBqulOUv-_T-HXadA_UiB9wHmtxzoRry2vSXz0l-a50sZRnlHvzjnUn6YmuApRmzlBj_bjm612OAh_SXGkgGeSEoAoHqMmMaMdA3_ac-c6w=w1920-h1080-k-no",
+        "published_at_date": "2024-10-17T18:00:00"
+      },
+      {
+        "about": "Inside",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAES0_kPlIDP5rHZrVUXDux86UrpuEpmWECyZr8LuIHDzOQcfWMNkWAuGFYnM02QnHNdpHc9mOB4fpyh_yP_OcNHHLa5KUfgkU8HXOBUvRxnYbexpNHiM1eI4Q_FpB53cyBCt5f_bQ=w1920-h1080-k-no",
+        "published_at_date": "2024-10-17T18:00:00"
+      },
+      {
+        "about": "By owner",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAENWt4HGculWfkbW2VXAH66d6DZ4DcNLtxL42KPBwmF9dz5CnjmCsz6KpKRFxc2dZoeButGIMUtsFakGbh5oZBqVCTSxelIS-lpLCJDx3dsa5ZKZxbbuIVGTqFwW3ceuPWYodjp=w1920-h1080-k-no",
+        "published_at_date": "2024-10-17T18:00:00"
+      }
+    ],
+    "featured_images": [
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFQfEzLa2QAOoBUxTHBV-vRykF2t0fZBqulOUv-_T-HXadA_UiB9wHmtxzoRry2vSXz0l-a50sZRnlHvzjnUn6YmuApRmzlBj_bjm612OAh_SXGkgGeSEoAoHqMmMaMdA3_ac-c6w=w1920-h1080-k-no",
+        "published_at_date": "2024-10-17T18:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAENWt4HGculWfkbW2VXAH66d6DZ4DcNLtxL42KPBwmF9dz5CnjmCsz6KpKRFxc2dZoeButGIMUtsFakGbh5oZBqVCTSxelIS-lpLCJDx3dsa5ZKZxbbuIVGTqFwW3ceuPWYodjp=w1920-h1080-k-no",
+        "published_at_date": "2024-10-17T18:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHeeGKrRqWot73mWl0Vhl0jq4Ej8wUuqpYWdNJnwuLfPTTk0TW24A1X-nJZ5Hu_E5wFKTqQmAwByT-OwRKgalQVIAh6iaJvlwzrz7vw_0QUUdceyE3ZNcsdHKl9V3FF0qC_02o5=w1920-h1080-k-no",
+        "published_at_date": "2024-10-17T18:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG1VqdN9r36jPDIW-XOT0FUKS_sVbTviXVmFrtpM1OJJLJbBL9AjzJnytgGdhqHgbK6XnyUAheYQ-_-UeFturfDNAqUEVOuRK63EW7vWnJ62I7T-TzIv_2nZWuTAnLI6CRcK4I=w1920-h1080-k-no",
+        "published_at_date": "2024-10-17T18:00:00"
+      }
+    ],
+    "on_site_places": [],
+    "customer_updates": [],
+    "featured_question": null,
+    "review_keywords": [],
+    "featured_reviews": [],
+    "query": "term life insurance providers in naigaon east"
+  }
+]

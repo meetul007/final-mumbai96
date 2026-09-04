@@ -1,0 +1,303 @@
+/* =========================================================
+   MUMBAI96 ADMIN – LISTINGHUB THEME
+   Bootstrap 5 variable override (CORRECT WAY)
+========================================================= */
+
+/* ---------------- BOOTSTRAP THEME TOKENS ---------------- */
+
+:root {
+  /* Core */
+  --bs-body-bg: #ffffff;
+  --bs-body-bg-rgb: 255, 255, 255;
+
+  --bs-body-color: #2b2b2b;
+  --bs-body-color-rgb: 43, 43, 43;
+
+  --bs-white: #ffffff;
+  --bs-light: #f7f7f7;
+  --bs-light-rgb: 247, 247, 247;
+
+  --bs-dark: #212529;
+  --bs-dark-rgb: 33, 37, 41;
+
+  --bs-border-color: #efefef;
+  --bs-border-color-translucent: rgba(0, 0, 0, 0.175);
+
+  /* Primary (ListingHub Red) */
+  --bs-primary: #c71f37;
+  --bs-primary-rgb: 226, 55, 68;
+  --bs-primary-text-emphasis: #c71f37;
+  --bs-primary-bg-subtle: #fae8eb;
+  --bs-primary-border-subtle: #ffdee2;
+
+  /* Text */
+  --bs-muted: #444c55;
+  --headingColor: #2b2b2b;
+  --paragraphColor: #2b2b2b;
+
+  /* Links */
+  --bs-link-color: #212529;
+  --bs-link-hover-color: #c71f37;
+
+  /* Status */
+  --bs-danger-bg-subtle: #ffdee2;
+
+  /* Radius + Shadow */
+  --admin-radius: 12px;
+  --admin-radius-sm: 8px;
+  --admin-shadow: 0 10px 30px rgba(15, 23, 42, 0.06);
+
+  /* Font */
+  --body-font-family: "Jost", sans-serif;
+}
+
+/* ---------------- GLOBAL ---------------- */
+
+body {
+  font-family: var(--body-font-family);
+  background-color: var(--bs-body-bg);
+  color: var(--bs-body-color);
+  font-size: 0.95rem;
+  padding-top: 56px;
+}
+
+main {
+  min-height: 100vh;
+}
+
+h1, h2, h3, h4, h5 {
+  font-weight: 600;
+  color: var(--headingColor);
+  letter-spacing: -0.01em;
+}
+
+.text-muted {
+  color: var(--bs-muted) !important;
+}
+
+/* ---------------- NAVBAR ---------------- */
+
+.navbar {
+  background-color: #212529 !important;
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: #ffffff !important;
+}
+
+/* ---------------- SIDEBAR ---------------- */
+
+.sidebar {
+  background-color: var(--bs-white);
+  border-right: 1px solid var(--bs-border-color);
+  position: fixed;
+  top: 56px;
+  bottom: 0;
+  left: 0;
+  overflow-y: auto;
+  z-index: 1020;
+  padding: 1rem 0;
+}
+
+.sidebar .nav-link {
+  color: var(--bs-muted);
+  padding: 0.55rem 1rem;
+  margin: 0.25rem 0.75rem;
+  border-radius: var(--admin-radius-sm);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.sidebar .nav-link:hover {
+  background-color: var(--bs-primary-bg-subtle);
+  color: var(--bs-primary);
+}
+
+.sidebar .nav-link.active {
+  background-color: var(--bs-primary-bg-subtle);
+  color: var(--bs-primary);
+  font-weight: 600;
+}
+
+.sidebar .nav-link.text-uppercase {
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+}
+
+/* ---------------- LAYOUT OFFSETS ---------------- */
+
+@media (min-width: 768px) {
+  main {
+    margin-left: 25%;
+  }
+}
+
+@media (min-width: 992px) {
+  .sidebar {
+    width: 16.66666667%;
+  }
+  main {
+    margin-left: 16.66666667%;
+  }
+}
+
+/* ---------------- CARDS ---------------- */
+
+.card {
+  background-color: var(--bs-white);
+  border: 1px solid var(--bs-border-color);
+  border-radius: var(--admin-radius);
+  box-shadow: var(--admin-shadow);
+}
+
+.card-header,
+.card-footer {
+  background-color: transparent;
+  border-color: var(--bs-border-color);
+}
+
+/* ---------------- BUTTONS ---------------- */
+
+.btn {
+  border-radius: var(--admin-radius-sm) !important;
+  font-weight: 500;
+}
+
+.btn-primary {
+  background-color: var(--bs-primary) !important;
+  border-color: var(--bs-primary) !important;
+}
+
+.btn-primary:hover {
+  background-color: #b91c32 !important;
+}
+
+/* ---------------- FORMS ---------------- */
+
+.form-label {
+  font-weight: 600;
+  font-size: 0.8rem;
+  color: var(--bs-muted);
+}
+
+.form-control,
+.form-select {
+  border-radius: var(--admin-radius-sm);
+  border-color: var(--bs-border-color);
+  font-size: 0.9rem;
+}
+
+.form-control:focus,
+.form-select:focus {
+  border-color: var(--bs-primary);
+  box-shadow: 0 0 0 0.15rem rgba(199, 31, 55, 0.15);
+}
+
+/* ---------------- TABLES ---------------- */
+
+.table {
+  background-color: var(--bs-white);
+}
+
+.table thead th {
+  background-color: var(--bs-light);
+  color: var(--bs-muted);
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  border-bottom: 1px solid var(--bs-border-color);
+}
+
+.table tbody td {
+  padding: 0.85rem 1rem;
+  border-top: 1px solid var(--bs-border-color);
+}
+
+.table tbody tr:hover {
+  background-color: rgba(199, 31, 55, 0.04);
+}
+
+/* ---------------- BADGES ---------------- */
+
+.badge {
+  border-radius: 999px;
+  font-weight: 500;
+}
+
+.bg-success-subtle {
+  background-color: #e7f6ec !important;
+  color: #198754 !important;
+}
+
+.bg-danger-subtle {
+  background-color: var(--bs-danger-bg-subtle) !important;
+  color: #c71f37 !important;
+}
+
+/* ---------------- PAGINATION ---------------- */
+
+.page-link {
+  border-radius: 8px;
+  border-color: var(--bs-border-color);
+  color: var(--bs-muted);
+}
+
+.page-item.active .page-link {
+  background-color: var(--bs-primary);
+  border-color: var(--bs-primary);
+  color: #fff;
+}
+
+/* ---------------- MODALS ---------------- */
+
+.modal-content {
+  border-radius: var(--admin-radius);
+  border: 1px solid var(--bs-border-color);
+}
+
+/* ---------------- ADMIN NAVBAR ---------------- */
+
+.admin-navbar {
+  background: linear-gradient(
+    90deg,
+    #212529 0%,
+    #2b2f33 100%
+  );
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
+  height: 56px;
+}
+
+.admin-navbar .navbar-brand {
+  font-size: 1rem;
+  letter-spacing: 0.3px;
+}
+
+/* Brand dot */
+.admin-navbar .brand-dot {
+  width: 10px;
+  height: 10px;
+  background-color: var(--bs-primary);
+  border-radius: 50%;
+  display: inline-block;
+}
+
+/* Navbar buttons */
+.admin-navbar .btn-outline-light {
+  border-color: rgba(255, 255, 255, 0.25);
+}
+
+.admin-navbar .btn-outline-light:hover {
+  background-color: var(--bs-primary);
+  border-color: var(--bs-primary);
+}
+
+/* Dropdown */
+.admin-navbar .dropdown-menu {
+  border-radius: 10px;
+  border: 1px solid var(--bs-border-color);
+}

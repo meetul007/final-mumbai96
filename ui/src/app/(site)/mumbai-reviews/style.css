@@ -1,0 +1,196 @@
+.mumbai-reviews-page {
+  --red:#ff6b00;--dark:#371b58;--ink:#111;--muted:#6B7280;
+  --light:#F4F4EF;--cream:#FAFAF7;--border:#E5E5E0;--gold:#F5A623;
+  --green:#059669;--danger:#DC2626;
+  --sh:0 4px 24px rgba(0,0,0,.08);--sh-lg:0 16px 48px rgba(0,0,0,.18);--nav-h:68px;
+  font-family:'Sora',sans-serif;background:var(--cream);color:var(--ink);overflow-x:hidden;
+}
+.mumbai-reviews-page .con{max-width:1240px;margin:0 auto;padding:0 48px}
+@media(max-width:760px){.mumbai-reviews-page .con{padding:0 18px}}
+
+.mumbai-reviews-page .page-hero{background:var(--dark);padding:calc(var(--nav-h) + 48px) 0 0;position:relative;overflow:hidden}
+.mumbai-reviews-page .ph-grid{position:absolute;inset:0;background-image:linear-gradient(rgba(255,255,255,.02) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.02) 1px,transparent 1px);background-size:52px 52px;pointer-events:none}
+.mumbai-reviews-page .ph-glow{position:absolute;border-radius:50%;filter:blur(120px);pointer-events:none}
+.mumbai-reviews-page .ph-inner{position:relative;z-index:2;padding:0 0 0}
+.mumbai-reviews-page .ph-bc{display:flex;align-items:center;gap:6px;font-size:11px;color:rgba(255,255,255,.3);margin-bottom:20px;flex-wrap:wrap}
+.mumbai-reviews-page .ph-bc a{color:rgba(255,255,255,.45)}.mumbai-reviews-page .ph-bc span{color:rgba(255,255,255,.18)}
+.mumbai-reviews-page .ph-kicker{font-size:9px;font-weight:800;letter-spacing:.24em;text-transform:uppercase;color:rgba(255,255,255,.35);margin-bottom:12px;display:flex;align-items:center;gap:10px}
+.mumbai-reviews-page .ph-kicker::before{content:'';display:inline-block;width:22px;height:2px;background:var(--red);flex-shrink:0}
+.mumbai-reviews-page .ph-h1{font-family:'Bebas Neue',sans-serif;font-size:clamp(2.5rem,7vw,5.5rem);line-height:.92;letter-spacing:.01em;color:#fff;margin-bottom:18px}
+.mumbai-reviews-page .ph-h1 em{color:var(--red);font-style:normal}.mumbai-reviews-page .ph-h1 .gold{color:var(--gold)}
+.mumbai-reviews-page .ph-desc{font-size:15px;color:rgba(255,255,255,.5);font-weight:300;line-height:1.8;max-width:680px;margin-bottom:0}
+.mumbai-reviews-page .ph-search{display:flex;gap:0;border-radius:12px;overflow:hidden;box-shadow:0 8px 32px rgba(0,0,0,.3);margin-bottom:0}
+.mumbai-reviews-page .ph-search input{flex:1;padding:15px 20px;font-family:'Sora',sans-serif;font-size:14px;border:none;outline:none;background:#fff;color:var(--ink)}
+.mumbai-reviews-page .ph-search input::placeholder{color:var(--muted)}
+.mumbai-reviews-page .ph-search button{background:var(--red);color:#fff;border:none;padding:15px 24px;font-family:'Sora',sans-serif;font-size:12px;font-weight:800;letter-spacing:.06em;cursor:pointer;transition:background .2s;white-space:nowrap}
+.mumbai-reviews-page .ph-search button:hover{background:#e05a00}
+.mumbai-reviews-page .hero-form-card{background:#fff;border-radius:16px;padding:22px 26px;margin-top:28px;width:100%;box-shadow:0 8px 40px rgba(0,0,0,.28)}
+.mumbai-reviews-page .hero-form-card h3{font-family:'Bebas Neue',sans-serif;font-size:1.25rem;letter-spacing:.05em;color:var(--ink);margin-bottom:3px}
+.mumbai-reviews-page .hero-form-card > p{font-size:11.5px;color:var(--muted);margin-bottom:14px;font-weight:300;line-height:1.6}
+.mumbai-reviews-page .hero-card-top{display:flex;align-items:center;gap:16px;flex-wrap:wrap;justify-content:space-between}
+.mumbai-reviews-page .hero-card-top-left{flex:1}
+.mumbai-reviews-page .hero-post-btn{display:inline-flex;align-items:center;gap:8px;background:var(--dark);color:#fff;padding:11px 24px;border-radius:100px;font-size:12px;font-weight:800;letter-spacing:.06em;border:none;cursor:pointer;transition:all .22s;font-family:'Sora',sans-serif;white-space:nowrap}
+.mumbai-reviews-page .hero-post-btn:hover{background:var(--red)}
+.mumbai-reviews-page .btn-chevron{transition:transform .35s ease;font-style:normal;font-size:10px}
+.mumbai-reviews-page .hero-post-btn.expanded .btn-chevron{transform:rotate(180deg)}
+.mumbai-reviews-page .hero-form-fields{max-height:0;overflow:hidden;opacity:0;transition:max-height .55s cubic-bezier(.4,0,.2,1),opacity .4s ease}
+.mumbai-reviews-page .hero-form-fields.open{opacity:1;max-height:2500px}
+.mumbai-reviews-page .hff-inner{padding-top:18px}
+.mumbai-reviews-page .form-row{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-bottom:14px}
+@media(max-width:600px){.mumbai-reviews-page .form-row{grid-template-columns:1fr}}
+.mumbai-reviews-page .form-group{display:flex;flex-direction:column;gap:5px;margin-bottom:14px}
+.mumbai-reviews-page .form-label{font-size:10px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;color:var(--dark)}
+.mumbai-reviews-page .form-label .req{color:var(--red)}
+.mumbai-reviews-page .form-input,.mumbai-reviews-page .form-select,.mumbai-reviews-page .form-textarea{width:100%;padding:10px 14px;border:1.5px solid var(--border);border-radius:10px;font-family:'Sora',sans-serif;font-size:13px;color:var(--ink);background:#fafaf7;transition:border .2s;outline:none}
+.mumbai-reviews-page .form-input:focus,.mumbai-reviews-page .form-select:focus,.mumbai-reviews-page .form-textarea:focus{border-color:var(--dark);background:#fff}
+.mumbai-reviews-page .form-textarea{min-height:100px;resize:vertical;line-height:1.7}
+.mumbai-reviews-page .char-count{font-size:10px;color:var(--muted);text-align:right;margin-top:2px}
+.mumbai-reviews-page .star-input-wrap{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin:4px 0 14px}
+.mumbai-reviews-page .star-input{display:flex;gap:4px}
+.mumbai-reviews-page .si{font-size:1.8rem;cursor:pointer;color:#D1D5DB;transition:color .15s;user-select:none}
+.mumbai-reviews-page .si.lit{color:#F59E0B}
+.mumbai-reviews-page .star-label-txt{font-size:12px;font-weight:800;color:var(--muted)}
+.mumbai-reviews-page .warn-box{background:linear-gradient(135deg,#fff7ed,#fffbf2);border:1.5px solid rgba(255,107,0,.25);border-radius:12px;padding:14px 16px;margin:12px 0;display:flex;gap:12px;align-items:flex-start}
+.mumbai-reviews-page .warn-icon{font-size:1.2rem;flex-shrink:0;margin-top:1px}
+.mumbai-reviews-page .warn-body h4{font-size:12px;font-weight:800;color:var(--ink);margin-bottom:3px}
+.mumbai-reviews-page .warn-body p{font-size:11px;color:#4B5563;line-height:1.65;font-weight:300}
+.mumbai-reviews-page .form-btn{background:var(--dark);color:#fff;padding:13px 32px;border-radius:100px;font-size:13px;font-weight:800;letter-spacing:.06em;border:none;cursor:pointer;transition:all .2s;font-family:'Sora',sans-serif;width:100%;margin-top:4px}
+.mumbai-reviews-page .form-btn:hover{background:var(--red)}
+.mumbai-reviews-page .success-panel{background:linear-gradient(135deg,rgba(5,150,105,.1),rgba(5,150,105,.05));border:2px solid rgba(5,150,105,.3);border-radius:12px;padding:18px;text-align:center;display:none;margin-top:14px}
+.mumbai-reviews-page .success-panel .sp-icon{font-size:2.2rem;margin-bottom:6px}
+.mumbai-reviews-page .success-panel h4{font-size:13px;font-weight:800;color:var(--green);margin-bottom:4px}
+.mumbai-reviews-page .success-panel p{font-size:11px;color:#374151;font-weight:300;line-height:1.6}
+.mumbai-reviews-page .ph-bottom{background:rgba(0,0,0,.25);border-top:1px solid rgba(255,255,255,.06);padding:14px 0;margin-top:28px}
+.mumbai-reviews-page .ph-stats{display:flex;gap:0;flex-wrap:wrap}
+.mumbai-reviews-page .phs{padding:8px 28px;border-right:1px solid rgba(255,255,255,.06);text-align:center}.mumbai-reviews-page .phs:last-child{border-right:none}
+.mumbai-reviews-page .phs-n{font-family:'Bebas Neue',sans-serif;font-size:1.6rem;color:var(--gold);letter-spacing:.04em;line-height:1}
+.mumbai-reviews-page .phs-l{font-size:9px;color:rgba(255,255,255,.35);text-transform:uppercase;letter-spacing:.1em;margin-top:2px}
+.mumbai-reviews-page .page-body{padding:48px 0 80px}
+.mumbai-reviews-page .page-layout{display:grid;grid-template-columns:1fr 300px;gap:32px;align-items:start}
+@media(max-width:960px){.mumbai-reviews-page .page-layout{grid-template-columns:1fr}}
+.mumbai-reviews-page .sec{margin-bottom:44px}
+.mumbai-reviews-page .sec-kicker{font-size:9px;font-weight:800;letter-spacing:.22em;text-transform:uppercase;color:var(--red);margin-bottom:8px;display:flex;align-items:center;gap:8px}
+.mumbai-reviews-page .sec-kicker::before{content:'';width:18px;height:2px;background:var(--red);display:inline-block}
+.mumbai-reviews-page .sec-title{font-family:'Bebas Neue',sans-serif;font-size:clamp(1.8rem,4vw,2.8rem);letter-spacing:.02em;color:var(--ink);margin-bottom:20px}
+.mumbai-reviews-page .sec-title em{color:var(--red);font-style:normal}
+.mumbai-reviews-page .cat-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin:20px 0}
+@media(max-width:900px){.mumbai-reviews-page .cat-grid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:500px){.mumbai-reviews-page .cat-grid{grid-template-columns:1fr 1fr}}
+.mumbai-reviews-page .cat-card{background:#fff;border:1.5px solid var(--border);border-radius:14px;padding:20px 16px;text-align:center;transition:all .22s;cursor:pointer;position:relative;overflow:hidden}
+.mumbai-reviews-page .cat-card::before{content:'';position:absolute;top:0;left:0;right:0;height:3px;background:var(--border);transition:background .2s}
+.mumbai-reviews-page .cat-card:hover{box-shadow:var(--sh-lg);transform:translateY(-4px);border-color:var(--red)}
+.mumbai-reviews-page .cat-card:hover::before{background:var(--red)}
+.mumbai-reviews-page .cat-icon{font-size:2rem;margin-bottom:10px}
+.mumbai-reviews-page .cat-name{font-size:12px;font-weight:800;color:var(--ink);margin-bottom:4px}
+.mumbai-reviews-page .cat-count{font-size:10px;color:var(--muted);font-weight:400}
+.mumbai-reviews-page .rating-summary{display:none !important}
+.mumbai-reviews-page .rs-big{text-align:center;flex-shrink:0}
+.mumbai-reviews-page .rs-num{font-family:'Bebas Neue',sans-serif;font-size:3.5rem;color:var(--dark);line-height:1;letter-spacing:.02em}
+.mumbai-reviews-page .rs-stars{display:flex;gap:3px;justify-content:center;margin:4px 0}
+.mumbai-reviews-page .rs-total{font-size:11px;color:var(--muted);font-weight:400}
+.mumbai-reviews-page .rs-bars{flex:1;min-width:180px}
+.mumbai-reviews-page .rs-bar-row{display:flex;align-items:center;gap:8px;margin-bottom:5px}
+.mumbai-reviews-page .rs-bar-label{font-size:10px;font-weight:700;color:var(--muted);width:28px;flex-shrink:0}
+.mumbai-reviews-page .rs-bar-track{flex:1;height:6px;background:#F3F4F6;border-radius:3px;overflow:hidden}
+.mumbai-reviews-page .rs-bar-fill{height:100%;border-radius:3px;transition:width .6s ease}
+.mumbai-reviews-page .rs-bar-pct{font-size:10px;color:var(--muted);width:28px;text-align:right;flex-shrink:0}
+.mumbai-reviews-page .tab-row{display:flex;gap:0;border-bottom:2px solid var(--border);margin-bottom:24px;flex-wrap:wrap}
+.mumbai-reviews-page .tab-btn{padding:11px 20px;font-size:11px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;cursor:pointer;border-bottom:3px solid transparent;margin-bottom:-2px;transition:all .2s;color:var(--muted);background:none;border-top:none;border-left:none;border-right:none;font-family:'Sora',sans-serif}
+.mumbai-reviews-page .tab-btn.active{color:var(--dark);border-bottom-color:var(--red)}
+.mumbai-reviews-page .tab-btn:hover{color:var(--ink)}
+.mumbai-reviews-page .review-card{background:#fff;border:1px solid var(--border);border-radius:16px;padding:22px 20px;margin-bottom:16px;transition:all .22s;position:relative}
+.mumbai-reviews-page .review-card:hover{box-shadow:var(--sh)}
+.mumbai-reviews-page .rc-top{display:flex;align-items:flex-start;gap:14px;margin-bottom:14px}
+.mumbai-reviews-page .rc-avatar{width:44px;height:44px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-family:'Bebas Neue',sans-serif;font-size:1.4rem;letter-spacing:.04em;flex-shrink:0;color:#fff}
+.mumbai-reviews-page .rc-meta{flex:1;min-width:0}
+.mumbai-reviews-page .rc-entity{font-size:15px;font-weight:800;color:var(--ink);margin-bottom:3px}
+.mumbai-reviews-page .rc-category{font-size:10px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:.1em;margin-bottom:4px}
+.mumbai-reviews-page .rc-stars{display:flex;gap:2px;align-items:center;gap:6px;margin-bottom:2px}
+.mumbai-reviews-page .star{font-size:14px;color:#D1D5DB}.mumbai-reviews-page .star.filled{color:#F59E0B}
+.mumbai-reviews-page .rc-rating-label{font-size:11px;font-weight:800}
+.mumbai-reviews-page .rating-1,.mumbai-reviews-page .rating-2{color:var(--danger)}.mumbai-reviews-page .rating-3{color:#D97706}.mumbai-reviews-page .rating-4,.mumbai-reviews-page .rating-5{color:var(--green)}
+.mumbai-reviews-page .rc-title{font-size:13px;font-weight:800;color:var(--ink);margin-bottom:8px;margin-top:0;font-style:italic}
+.mumbai-reviews-page .rc-review-text{font-size:13px;color:#374151;line-height:1.8;font-weight:300;margin-bottom:14px}
+.mumbai-reviews-page .rc-footer{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px;padding-top:12px;border-top:1px solid var(--border);margin-top:4px}
+.mumbai-reviews-page .rc-footer-stars{display:flex;align-items:center;gap:2px}
+.mumbai-reviews-page .rc-reviewer{font-size:11px;color:var(--muted)}
+.mumbai-reviews-page .rc-reviewer strong{color:var(--dark);font-weight:700}
+.mumbai-reviews-page .rc-date{font-size:10px;color:var(--muted);margin-top:2px}
+.mumbai-reviews-page .rc-area{font-size:11px;font-weight:600;color:var(--dark)}
+.mumbai-reviews-page .helpful-btn{background:none;border:1.5px solid var(--border);border-radius:100px;padding:5px 14px;font-size:10px;font-weight:800;color:var(--muted);cursor:pointer;font-family:'Sora',sans-serif;transition:all .2s}
+.mumbai-reviews-page .helpful-btn:hover:not(:disabled){border-color:var(--green);color:var(--green);background:rgba(5,150,105,.06)}
+.mumbai-reviews-page .helpful-btn.active{border-color:var(--green);color:var(--green);background:rgba(5,150,105,.1)}
+.mumbai-reviews-page .helpful-btn:disabled{cursor:default;opacity:.7}
+.mumbai-reviews-page .filter-bar{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:20px;align-items:center}
+.mumbai-reviews-page .filter-select{padding:9px 14px;border:1.5px solid var(--border);border-radius:10px;font-family:'Sora',sans-serif;font-size:12px;color:var(--ink);background:#fff;cursor:pointer;outline:none}
+.mumbai-reviews-page .filter-select:focus{border-color:var(--dark)}
+.mumbai-reviews-page .search-input-bar{flex:1;min-width:180px;padding:9px 14px;border:1.5px solid var(--border);border-radius:10px;font-family:'Sora',sans-serif;font-size:12px;color:var(--ink);background:#fff;outline:none}
+.mumbai-reviews-page .search-input-bar:focus{border-color:var(--dark)}
+.mumbai-reviews-page .result-count{font-size:11px;font-weight:700;color:var(--muted);margin-bottom:12px}
+.mumbai-reviews-page .pagination{display:flex;gap:8px;align-items:center;justify-content:center;margin-top:20px;flex-wrap:wrap}
+.mumbai-reviews-page .pg-btn{padding:8px 16px;border:1.5px solid var(--border);border-radius:8px;font-size:12px;font-weight:700;color:var(--dark);cursor:pointer;background:#fff;font-family:'Sora',sans-serif;transition:all .2s}
+.mumbai-reviews-page .pg-btn:hover,.mumbai-reviews-page .pg-btn.active{background:var(--dark);color:#fff;border-color:var(--dark)}
+.mumbai-reviews-page .pg-btn:disabled{opacity:.4;cursor:default}
+.mumbai-reviews-page .empty-state{text-align:center;padding:48px 20px;color:var(--muted)}
+.mumbai-reviews-page .empty-state .es-icon{font-size:3rem;margin-bottom:12px}
+.mumbai-reviews-page .empty-state p{font-size:13px;font-weight:300}
+.mumbai-reviews-page .cta-bar{background:linear-gradient(135deg,var(--dark),#1a0d2e);border-radius:16px;padding:28px 32px;margin:28px 0;display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap}
+.mumbai-reviews-page .cta-bar h3{font-family:'Bebas Neue',sans-serif;font-size:1.9rem;color:#fff;letter-spacing:.03em}
+.mumbai-reviews-page .cta-bar h3 em{color:var(--gold);font-style:normal}
+.mumbai-reviews-page .cta-bar p{font-size:12px;color:rgba(255,255,255,.5);margin-top:4px;font-weight:300}
+.mumbai-reviews-page .cta-btn{background:var(--red);color:#fff;padding:13px 26px;border-radius:100px;font-size:12px;font-weight:800;letter-spacing:.06em;display:inline-block;transition:all .2s;white-space:nowrap;border:none;cursor:pointer;font-family:'Sora',sans-serif}
+.mumbai-reviews-page .cta-btn:hover{background:var(--gold);color:var(--dark)}
+.mumbai-reviews-page .sb-widget{background:#fff;border:1px solid var(--border);border-radius:16px;overflow:hidden}
+.mumbai-reviews-page .sbw-head{background:var(--dark);padding:13px 18px;font-family:'Bebas Neue',sans-serif;font-size:1.1rem;letter-spacing:.06em;color:#fff}
+.mumbai-reviews-page .sbw-head em{color:var(--gold);font-style:normal}
+.mumbai-reviews-page .sbw-body{padding:18px}
+.mumbai-reviews-page .quick-link{display:flex;align-items:center;gap:10px;padding:10px 0;border-bottom:1px solid var(--border);transition:padding .18s;text-decoration:none;color:inherit}
+.mumbai-reviews-page .quick-link:last-child{border-bottom:none;padding-bottom:0}.mumbai-reviews-page .quick-link:first-child{padding-top:0}
+.mumbai-reviews-page .quick-link:hover{padding-left:4px}
+.mumbai-reviews-page .ql-icon{font-size:1.1rem;flex-shrink:0;width:28px;text-align:center}
+.mumbai-reviews-page .ql-text{font-size:12px;font-weight:700;color:var(--ink);flex:1}
+.mumbai-reviews-page .ql-arrow{color:var(--muted);font-size:14px}.mumbai-reviews-page .quick-link:hover .ql-arrow{color:var(--red)}
+.mumbai-reviews-page .hiw-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin:20px 0}
+@media(max-width:760px){.mumbai-reviews-page .hiw-grid{grid-template-columns:1fr 1fr}}
+.mumbai-reviews-page .hiw-card{text-align:center;padding:20px 14px;background:#fff;border:1px solid var(--border);border-radius:14px}
+.mumbai-reviews-page .hiw-num{font-family:'Bebas Neue',sans-serif;font-size:2.5rem;color:var(--red);letter-spacing:.04em;line-height:1;margin-bottom:8px}
+.mumbai-reviews-page .hiw-icon{font-size:1.8rem;margin-bottom:8px}
+.mumbai-reviews-page .hiw-title{font-size:12px;font-weight:800;color:var(--ink);margin-bottom:6px}
+.mumbai-reviews-page .hiw-body{font-size:11px;color:var(--muted);line-height:1.7;font-weight:300}
+.mumbai-reviews-page .prose h2{font-family:'Bebas Neue',sans-serif;font-size:1.8rem;letter-spacing:.02em;color:var(--ink);margin:32px 0 14px}
+.mumbai-reviews-page .prose h3{font-size:14px;font-weight:800;text-transform:uppercase;letter-spacing:.1em;color:var(--dark);margin:22px 0 10px}
+.mumbai-reviews-page .prose p{font-size:14px;color:#374151;line-height:1.9;font-weight:300;margin-bottom:14px}
+.mumbai-reviews-page .prose strong{font-weight:700;color:var(--ink)}.mumbai-reviews-page .prose a{color:var(--red);font-weight:600}
+.mumbai-reviews-page .rv{opacity:0;transform:translateY(22px);transition:opacity .6s ease,transform .6s ease}
+.mumbai-reviews-page .rv.in{opacity:1;transform:translateY(0)}
+.mumbai-reviews-page .badge{display:inline-block;font-size:9px;font-weight:800;letter-spacing:.1em;text-transform:uppercase;padding:3px 9px;border-radius:100px}
+.mumbai-reviews-page .badge-good{background:rgba(5,150,105,.1);color:var(--green);border:1px solid rgba(5,150,105,.2)}
+.mumbai-reviews-page .badge-warn{background:rgba(217,119,6,.1);color:#92400E;border:1px solid rgba(217,119,6,.2)}
+.mumbai-reviews-page .badge-verified{background:var(--dark);color:var(--gold)}
+.mumbai-reviews-page .badge-cat{background:#f0f4ff;color:var(--dark)}
+.mumbai-reviews-page .top-strip{display:flex;gap:10px;overflow-x:auto;padding-bottom:8px;scrollbar-width:none;margin:16px 0}
+.mumbai-reviews-page .top-strip::-webkit-scrollbar{display:none}
+.mumbai-reviews-page .ts-pill{flex-shrink:0;background:#fff;border:1.5px solid var(--border);border-radius:100px;padding:8px 16px;font-size:11px;font-weight:700;color:var(--dark);cursor:pointer;transition:all .2s;white-space:nowrap;display:flex;align-items:center;gap:6px}
+.mumbai-reviews-page .ts-pill:hover{border-color:var(--red);color:var(--red)}
+.mumbai-reviews-page .ts-pill .ts-rating{font-family:'Bebas Neue',sans-serif;font-size:.95rem;letter-spacing:.04em}
+.mumbai-reviews-page .img-upload-zone{border:2px dashed var(--border);border-radius:12px;padding:16px;text-align:center;cursor:pointer;transition:all .22s;background:var(--light);position:relative;overflow:hidden}
+.mumbai-reviews-page .img-upload-zone:hover,.mumbai-reviews-page .img-upload-zone.drag{border-color:var(--red);background:rgba(255,107,0,.04)}
+.mumbai-reviews-page .img-upload-zone input[type=file]{position:absolute;inset:0;opacity:0;cursor:pointer;width:100%;height:100%}
+.mumbai-reviews-page .iuz-icon{font-size:1.5rem;margin-bottom:4px}
+.mumbai-reviews-page .iuz-label{font-size:12px;font-weight:700;color:var(--ink);margin-bottom:2px}
+.mumbai-reviews-page .iuz-sub{font-size:10px;color:var(--muted);font-weight:300}
+.mumbai-reviews-page .img-preview-wrap{display:flex;align-items:center;gap:12px;margin-top:8px;background:#fff;border-radius:10px;padding:8px;border:1.5px solid var(--border)}
+.mumbai-reviews-page .img-preview-thumb{width:56px;height:56px;border-radius:8px;object-fit:cover;flex-shrink:0}
+.mumbai-reviews-page .img-preview-info{flex:1;min-width:0;text-align:left}
+.mumbai-reviews-page .img-preview-name{font-size:11px;font-weight:700;color:var(--ink);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.mumbai-reviews-page .img-preview-size{font-size:10px;color:var(--muted)}
+.mumbai-reviews-page .img-remove-btn{background:rgba(220,38,38,.1);color:var(--danger);border:none;border-radius:100px;padding:4px 10px;font-size:10px;font-weight:800;cursor:pointer;flex-shrink:0;transition:background .18s}
+.mumbai-reviews-page .img-remove-btn:hover{background:rgba(220,38,38,.2)}
+.mumbai-reviews-page .rc-body-wrap{display:flex;align-items:flex-start;gap:14px;margin-bottom:14px;margin-top:10px}
+.mumbai-reviews-page .rc-body-wrap .rc-body-inner{flex:1;min-width:0}
+.mumbai-reviews-page .rc-sq-img{width:110px;height:110px;border-radius:10px;object-fit:cover;flex-shrink:0;cursor:pointer;transition:opacity .18s;border:1px solid var(--border);align-self:flex-start}
+.mumbai-reviews-page .rc-sq-img:hover{opacity:.88}
+.mumbai-reviews-page .rv-lightbox{position:fixed;inset:0;z-index:99999;background:rgba(10,5,20,.9);backdrop-filter:blur(10px);display:flex;align-items:center;justify-content:center;opacity:0;pointer-events:none;transition:opacity .2s}
+.mumbai-reviews-page .rv-lightbox.open{opacity:1;pointer-events:all}
+.mumbai-reviews-page .rv-lightbox img{max-width:90vw;max-height:86vh;border-radius:12px;object-fit:contain}
+.mumbai-reviews-page .rv-lb-close{position:absolute;top:18px;right:20px;background:rgba(255,255,255,.12);color:#fff;border:none;width:36px;height:36px;border-radius:50%;font-size:18px;cursor:pointer;display:flex;align-items:center;justify-content:center}

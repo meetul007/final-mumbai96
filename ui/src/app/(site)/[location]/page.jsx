@@ -1,0 +1,559 @@
+import LocationHero from "@/components/location/LocationHero";
+import ServiceSection from "@/components/location/ServiceSection";
+import Link from "next/link";
+import AboutSection from "@/components/location/About";
+import GuideSection from "@/components/location/GuideSection";
+import FoodSection from "@/components/location/FoodSection";
+import CommuteSection from "@/components/location/CommuteSection";
+import LocalLifeSection from "@/components/location/LocalLifeSection";
+import WhySection from "@/components/location/WhySection";
+import ProseSection from "@/components/location/ProseSection";
+import NearbySection from "@/components/location/NearbySection";
+import SubAreas from "@/components/location/SubAreas";
+import PropertyPrices from "@/components/location/PropertyPrices";
+import FaqSection from "@/components/location/FaqSection";
+import CivicData from "@/components/location/CivicData";
+import GroupedListingSection from "@/components/location/GroupedListingSection";
+import CharacterVibe from "@/components/location/CharacterVibe";
+import ResidentProfile from "@/components/location/ResidentProfile";
+import LocalEvents from "@/components/location/LocalEvents";
+import UpcomingProjects from "@/components/location/UpcomingProjects";
+import ResidentialSocieties from "@/components/location/ResidentialSocieties";
+import AreaReportCard from "@/components/location/AreaReportCard";
+import CategoryGroupSection from "@/components/location/CategoryGroupSection";
+import { cache } from "react";
+import fs from "node:fs/promises";
+import path from "node:path";
+
+export const revalidate = 600;
+
+const STATIC_DATA_DIR = path.join(process.cwd(), "src", "data", "locations-static");
+const STATIC_ONLY_MODE = process.env.LOCATION_DATA_SOURCE === "static";
+
+// ── Location → Region mapping ────────────────────────────────
+// Determines the breadcrumb region link for each location slug.
+const LOCATION_REGIONS = {
+  // Central Mumbai
+  "mulund-west": { slug: "central-mumbai", label: "Central Mumbai" },
+  "bhandup": { slug: "central-mumbai", label: "Central Mumbai" },
+  "mulund-east": { slug: "central-mumbai", label: "Central Mumbai" },
+  "vikhroli": { slug: "central-mumbai", label: "Central Mumbai" },
+  "powai": { slug: "central-mumbai", label: "Central Mumbai" },
+  "chembur": { slug: "central-mumbai", label: "Central Mumbai" },
+  "ghatkopar-west": { slug: "central-mumbai", label: "Central Mumbai" },
+  "ghatkopar-east": { slug: "central-mumbai", label: "Central Mumbai" },
+  "kurla": { slug: "central-mumbai", label: "Central Mumbai" },
+  "sion": { slug: "central-mumbai", label: "Central Mumbai" },
+  "wadala": { slug: "central-mumbai", label: "Central Mumbai" },
+  // Western Mumbai
+  "gorai": { slug: "western-mumbai", label: "Western Mumbai" },
+  "dahisar-west": { slug: "western-mumbai", label: "Western Mumbai" },
+  "dahisar-east": { slug: "western-mumbai", label: "Western Mumbai" },
+  "borivali-west": { slug: "western-mumbai", label: "Western Mumbai" },
+  "kandivali-west": { slug: "western-mumbai", label: "Western Mumbai" },
+  "kandivali-east": { slug: "western-mumbai", label: "Western Mumbai" },
+  "malad-west": { slug: "western-mumbai", label: "Western Mumbai" },
+  "malad-east": { slug: "western-mumbai", label: "Western Mumbai" },
+  "madh-marve": { slug: "western-mumbai", label: "Western Mumbai" },
+  // North Mumbai
+  "virar-west": { slug: "north-mumbai", label: "North Mumbai" },
+  "virar-east": { slug: "north-mumbai", label: "North Mumbai" },
+  "nalasopara-west": { slug: "north-mumbai", label: "North Mumbai" },
+  "nalasopara-east": { slug: "north-mumbai", label: "North Mumbai" },
+  "vasai-west": { slug: "north-mumbai", label: "North Mumbai" },
+  "vasai-east": { slug: "north-mumbai", label: "North Mumbai" },
+  "naigaon-west": { slug: "north-mumbai", label: "North Mumbai" },
+  "naigaon-east": { slug: "north-mumbai", label: "North Mumbai" },
+  "bhayandar-east": { slug: "north-mumbai", label: "North Mumbai" },
+  "bhayandar-west": { slug: "north-mumbai", label: "North Mumbai" },
+  "mira-road-east": { slug: "north-mumbai", label: "North Mumbai" },
+  "uttan": { slug: "north-mumbai", label: "North Mumbai" },
+  // South Mumbai
+  "bkc": { slug: "south-mumbai", label: "South Mumbai" },
+  "matunga": { slug: "south-mumbai", label: "South Mumbai" },
+  "dadar-west": { slug: "south-mumbai", label: "South Mumbai" },
+  "dadar-east": { slug: "south-mumbai", label: "South Mumbai" },
+  "prabhadevi": { slug: "south-mumbai", label: "South Mumbai" },
+  "lower-parel-west": { slug: "south-mumbai", label: "South Mumbai" },
+  "lower-parel-east": { slug: "south-mumbai", label: "South Mumbai" },
+  "worli": { slug: "south-mumbai", label: "South Mumbai" },
+  "mahalaxmi": { slug: "south-mumbai", label: "South Mumbai" },
+  "mumbai-central": { slug: "south-mumbai", label: "South Mumbai" },
+  "grant-road": { slug: "south-mumbai", label: "South Mumbai" },
+  "charni-road": { slug: "south-mumbai", label: "South Mumbai" },
+  "marine-lines": { slug: "south-mumbai", label: "South Mumbai" },
+  "byculla": { slug: "south-mumbai", label: "South Mumbai" },
+  "pedder-road": { slug: "south-mumbai", label: "South Mumbai" },
+  "altamount-road": { slug: "south-mumbai", label: "South Mumbai" },
+  "tardeo": { slug: "south-mumbai", label: "South Mumbai" },
+  "breach-candy": { slug: "south-mumbai", label: "South Mumbai" },
+  "malabar-hill": { slug: "south-mumbai", label: "South Mumbai" },
+  "kalbadevi": { slug: "south-mumbai", label: "South Mumbai" },
+  "churchgate": { slug: "south-mumbai", label: "South Mumbai" },
+  "fort": { slug: "south-mumbai", label: "South Mumbai" },
+  "cuffe-parade": { slug: "south-mumbai", label: "South Mumbai" },
+  "colaba": { slug: "south-mumbai", label: "South Mumbai" },
+};
+
+function getRegion(locationSlug) {
+  return LOCATION_REGIONS[locationSlug] || { slug: "south-mumbai", label: "South Mumbai" };
+}
+
+function toDisplayName(slug) {
+  return (slug || "")
+    .split("-")
+    .filter(Boolean)
+    .map((part) => part.charAt(0).toUpperCase() + part.slice(1))
+    .join(" ");
+}
+
+// ── Category group render order ─────────────────────────────────
+// Each entry is an array of group keys that should be rendered at
+// a specific position in the page. Groups appear in this order.
+// NOTE: group keys here must match those in backend CATEGORY_GROUPS
+// and get_visible_groups(). Only groups returned by the API are rendered.
+const GROUP_POSITIONS = [
+  ["restaurants", "real_estate"], // After Nightlife
+  ["shopping", "home_services", "electronics_repair"], // After Resident Profile
+  ["hospitals", "doctors"], // After Hospitals section
+  ["automotive", "entertainment"], // After GroupedListings
+  ["spa_beauty", "fitness", "sports"], // After Commute
+  ["wedding_events", "religion_community", "professional_services"], // After UpcomingProjects
+  ["coaching", "schools", "childcare"], // After Local Life
+  ["banks_finance"], // Before FAQ
+  ["miscellaneous"], // At end
+];
+
+// Build a quick lookup: group_key → group data
+function buildGroupMap(categoryGroups) {
+  const map = {};
+  if (categoryGroups) {
+    for (const g of categoryGroups) {
+      map[g.key] = g;
+    }
+  }
+  return map;
+}
+
+const getLocationData = cache(async (slug) => {
+  if (!slug) return null;
+
+  // 1) Prefer local static file: src/data/locations-static/<slug>.json
+  //    This lets Explore show deterministic per-location content.
+  try {
+    const staticFilePath = path.join(STATIC_DATA_DIR, `${slug}.json`);
+    const raw = await fs.readFile(staticFilePath, "utf8");
+    const parsed = JSON.parse(raw);
+    if (parsed && typeof parsed === "object") {
+      return parsed;
+    }
+  } catch {
+    // No static file for this slug; fallback logic below.
+  }
+
+  // 2) If static-only mode is enabled, do not call remote API.
+  if (STATIC_ONLY_MODE) {
+    return null;
+  }
+
+  // 3) Fallback to remote API (existing behavior).
+  try {
+    const res = await fetch(
+      `${process.env.NEXT_PUBLIC_API_BASE_URL}/api/public/location/${slug}`,
+      {
+        next: { revalidate: 600 },
+      },
+    );
+
+    if (!res.ok) throw new Error("Failed");
+
+    return res.json();
+  } catch (err) {
+    return null;
+  }
+});
+
+export async function generateMetadata({ params }) {
+  const pr = await params;
+  const slug = pr?.location;
+
+  const data = await getLocationData(slug);
+
+  if (data) {
+
+    const title =
+      data.seo_title ||
+      `${data.name} Mumbai - Complete Local Guide 2026 | Mumbai96`;
+    const description =
+      data.seo_description ||
+      `Complete guide to ${data.name}, Mumbai - property prices, schools, hospitals, commute and local services. Mumbai96.`;
+
+    return {
+      title,
+      description,
+      keywords: data.seo_keywords || `${data.name} Mumbai, ${data.name} guide`,
+      openGraph: {
+        title: title,
+        description: description,
+        type: "website",
+        locale: "en_IN",
+        siteName: "Mumbai96",
+        url: `https://mumbai96.vercel.app/${slug}`,
+        images: data.image
+          ? [{ url: data.image, width: 1200, height: 630 }]
+          : [],
+      },
+      twitter: {
+        card: "summary_large_image",
+        title: title,
+        description: description,
+        images: data.image ? [data.image] : [],
+      },
+      alternates: {
+        canonical: `https://mumbai96.vercel.app/${slug}`,
+      },
+    };
+  }
+
+  return {
+    title: "Location Guide | Mumbai96",
+    description: "Explore Mumbai neighbourhoods with Mumbai96.",
+  };
+}
+
+export default async function LocationPage({ params }) {
+  const pr = await params;
+  const location = pr?.location;
+  const region = getRegion(location);
+
+  const data = await getLocationData(location);
+  if (!data) {
+    return <div className="container py-5">Location not found</div>;
+  }
+
+  const formattedLocation = data?.name || toDisplayName(location);
+
+  // Build food tags array for FoodSection
+  const foodTags = data.food_tags
+    ? data.food_tags.split(",").map((t) => t.trim())
+    : [];
+
+  // Build highlight stats
+  const highlights = [
+    { value: data.population || "—", label: "Est. Popul. 2026" },
+    { value: data.municipal_body || "—", label: "Municipal Body" },
+    { value: data.civic_data?.ward || "—", label: "Ward" },
+    { value: data.civic_data?.assembly_constituency || "—", label: "Assembly" },
+  ];
+
+  const visibleHighlights = highlights.filter((h) => h.value !== "—");
+
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Place",
+    name: data.name,
+    description: data.seo_description || data.about,
+    url: `https://mumbai96.vercel.app/${location}`,
+    containedInPlace: {
+      "@type": "City",
+      name: "Mumbai",
+    },
+    ...(data.civic_data?.ward && {
+      additionalProperty: [
+        {
+          "@type": "PropertyValue",
+          name: "Ward",
+          value: data.civic_data.ward,
+        },
+      ],
+    }),
+  };
+
+  // ── Build category group lookup ──
+  const groupMap = buildGroupMap(data.category_groups);
+
+  // Helper to render a category group section at a position
+  const renderGroup = (positionIndex) => {
+    const keys = GROUP_POSITIONS[positionIndex];
+    if (!keys) return null;
+    const groupsWithData = [];
+    for (const key of keys) {
+      const group = groupMap[key];
+      if (group && group.categories && group.categories.length > 0) {
+        groupsWithData.push(group);
+      }
+    }
+    if (groupsWithData.length === 0) return null;
+    // Merge categories from all groups at this position into one section
+    const merged = {
+      key: `pos-${positionIndex}`,
+      label: groupsWithData.map((g) => g.label).join(" & "),
+      icon: groupsWithData[0].icon,
+      categories: groupsWithData.flatMap((g) => g.categories),
+    };
+    return (
+      <CategoryGroupSection
+        key={`catgroup-${positionIndex}`}
+        group={merged}
+        location={location}
+      />
+    );
+  };
+
+  return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <LocationHero
+        location={formattedLocation}
+        regionLabel={region.label}
+        weatherKey={location}
+        population={data.population}
+        image={data.image}
+        tagline={`Places · Food · Property · Nightlife · People · Services · Local Life — your complete guide to ${formattedLocation}.`}
+        icon_image={data.location_icon}
+        badge={`Mumbai · ${formattedLocation}`}
+        stats={visibleHighlights}
+      />
+
+      <nav className="bc">
+        <Link href={"/"}> Home › </Link>
+        <Link href={`/${region.slug}`}>{region.label} › </Link>
+        {formattedLocation}
+      </nav>
+
+      <AboutSection
+        location={location}
+        description1={data.about}
+        stats={visibleHighlights}
+        image={data?.image}
+      />
+
+      <SubAreas items={data.sub_areas} location={location} />
+
+      <CharacterVibe
+        location={location}
+        items={data.character_vibe}
+        description={
+          data.character_vibe
+            ? data.character_vibe.map((c) => c.description).join(" ")
+            : ""
+        }
+      />
+
+      <PropertyPrices items={data.property_prices} location={location} />
+
+      <GuideSection
+        id="places"
+        label="📍 Places to See"
+        title="Places to See"
+        location={location}
+        description="Landmarks, leisure spots and local gems worth exploring."
+        items={data.places_to_visit}
+      />
+
+      <FoodSection
+        location={location}
+        description={`${formattedLocation} has a diverse food scene with local specialities and popular eateries.`}
+        tags={foodTags}
+        items={data.food}
+      />
+
+      <GuideSection
+        id="nightlife"
+        label="🌙 Nightlife"
+        title="Nightlife"
+        location={location}
+        description="After dark — bars, lounges and evening spots."
+        items={data.night_life}
+        variant="list"
+      />
+
+      {/* ── Category Group: Food & Real Estate ── */}
+      {renderGroup(0)}
+
+      <ResidentProfile
+        location={location}
+        items={data.resident_profile}
+        description={
+          data.resident_profile
+            ? data.resident_profile.map((r) => r.description).join(" ")
+            : ""
+        }
+      />
+
+      {/* ── Category Group: Shopping & Home Services ── */}
+      {renderGroup(1)}
+
+      {/* Schools from Excel data (static) */}
+      {data.schools && data.schools.length > 0 && (
+        <GuideSection
+          id="schools"
+          label="🏫 Schools"
+          title="Schools"
+          location={location}
+          description={`Notable schools and educational institutions in ${formattedLocation}.`}
+          items={data.schools.map((s) => ({
+            name: s.name,
+            description: s.board ? `Board: ${s.board}` : "",
+          }))}
+        />
+      )}
+
+      {/* Hospitals from Excel data (static) */}
+      {data.hospitals && data.hospitals.length > 0 && (
+        <GuideSection
+          id="hospitals"
+          label="🏥 Hospitals"
+          title="Hospitals & Healthcare"
+          location={location}
+          description={`Major hospitals and healthcare facilities serving ${formattedLocation}.`}
+          items={data.hospitals.map((h) => ({
+            name: h.name,
+            description: h.type ? `Type: ${h.type}` : "",
+          }))}
+        />
+      )}
+
+      {/* ── Category Group: Doctors & Health ── */}
+      {renderGroup(2)}
+
+      {/* Major Employers */}
+      {data.major_employers && data.major_employers.length > 0 && (
+        <GuideSection
+          id="employers"
+          label="🏢 Major Employers"
+          title="Major Employers"
+          location={location}
+          description={`Key employers and economic drivers in ${formattedLocation}.`}
+          items={data.major_employers.map((e) => ({
+            name: e.name,
+            description: e.sector ? `Sector: ${e.sector}` : "",
+          }))}
+        />
+      )}
+
+      {/* Grouped Listings from DB (dynamic — banks, etc.) */}
+      {data.grouped_listings &&
+        Object.entries(data.grouped_listings).map(([groupKey, group]) => (
+          <GroupedListingSection
+            key={groupKey}
+            groupKey={groupKey}
+            group={group}
+            location={location}
+          />
+        ))}
+
+      {/* ── Category Group: Automotive & Entertainment ── */}
+      {renderGroup(3)}
+
+      <CommuteSection
+        location={location}
+        description={`${formattedLocation} is one of Mumbai's well-connected areas...`}
+        items={data.travelling_connectivity}
+      />
+
+      {/* ── Category Group: Spa, Beauty, Fitness, Sports ── */}
+      {renderGroup(4)}
+
+      <ResidentialSocieties
+        items={data.residential_societies}
+        location={location}
+      />
+
+      <LocalEvents items={data.local_events} location={location} />
+
+      <UpcomingProjects items={data.upcoming_projects} location={location} />
+
+      {/* ── Category Group: Weddings, Religion, Professional ── */}
+      {renderGroup(5)}
+
+      <CivicData data={data.civic_data} location={location} />
+
+      <AreaReportCard data={data.area_report_card} location={location} />
+
+      <LocalLifeSection
+        location={location}
+        description={`Everything you need to know about daily life, housing and community in ${formattedLocation}.`}
+        items={data.living_style}
+      />
+
+      {/* ── Category Group: Coaching, Schools, Childcare ── */}
+      {renderGroup(6)}
+
+      {/* ── Category Group: Banks & Finance ── */}
+      {renderGroup(7)}
+
+      <FaqSection items={data.faq} location={location} />
+
+      {data.categories.slice(0, 5).map((cat, index) => (
+        <ServiceSection
+          location={location}
+          category={cat.name}
+          emoji={cat.emoji}
+          image={cat.image}
+          description={cat.description}
+          benefits={[
+            "Verified listings with real Mumbaikar reviews",
+            "Direct phone numbers — call instantly",
+            "Updated availability and contact details",
+            "Compare multiple options before you decide",
+          ]}
+          faq={{
+            question: `How do I find the best ${cat.name} in ${formattedLocation}?`,
+            answer: `Browse Mumbai96's ${formattedLocation} listings, read reviews from locals and call directly. Our verified directory makes it easy.`,
+          }}
+          key={`service-${cat.slug}-${location}`}
+          slug={cat.slug}
+          reverse={index % 2}
+        />
+      ))}
+
+      {/* ── Category Group: Miscellaneous ── */}
+      {renderGroup(8)}
+
+      <WhySection
+        location={location}
+        items={[
+          {
+            icon: "✅",
+            title: "100% Verified Listings",
+            description: `Every business in ${formattedLocation} on Mumbai96 is verified for contact accuracy and legitimacy.`,
+          },
+          {
+            icon: "⭐",
+            title: "Real Reviews",
+            description: `Genuine reviews from ${formattedLocation} residents — no fake ratings, no paid promotions.`,
+          },
+          {
+            icon: "📞",
+            title: "Direct Contact",
+            description: `Call any ${formattedLocation} business directly from Mumbai96 — no middlemen, no commissions.`,
+          },
+          {
+            icon: "🏘️",
+            title: "Hyperlocal",
+            description: `Built for Mumbai's neighbourhoods — ${formattedLocation}-specific results, not generic national listings.`,
+          },
+          {
+            icon: "🔄",
+            title: "Always Updated",
+            description: `Listings are regularly updated — you always get current numbers and information for ${formattedLocation}.`,
+          },
+          {
+            icon: "🆓",
+            title: "Free for Users",
+            description: `Finding any service in ${formattedLocation} on Mumbai96 is completely free for residents.`,
+          },
+        ]}
+      />
+
+      <ProseSection location={location} sections={data.best_services} />
+      {data.nearby_locations?.length > 0 && (
+        <NearbySection locations={data.nearby_locations} />
+      )}
+    </>
+  );
+}

@@ -1,0 +1,129 @@
+/* Mumbai96Loader.module.css */
+
+.loader {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  overflow: hidden;
+  background: #0d0520;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* ── Left sepia panel ── */
+.leftPanel {
+  position: absolute;
+  left: 0; top: 0;
+  width: 50%;
+  height: 100%;
+  background: #2b1a00;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+/* ── Right purple panel ── */
+.rightPanel {
+  position: absolute;
+  right: 0; top: 0;
+  width: 50%;
+  height: 100%;
+  background: #1a0a2e;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+/* ── City skyline ── */
+.skyline {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  opacity: 0.12;
+  display: flex;
+  align-items: flex-end;
+}
+.skylineFlip {
+  transform: scaleX(-1);
+}
+.skyBlock {
+  background: #fff;
+  display: inline-block;
+}
+
+/* ── Orange divider ── */
+.divider {
+  position: absolute;
+  left: 50%;
+  top: 0;
+  width: 2px;
+  height: 100%;
+  background: #ff6b00;
+  z-index: 6;
+  transform: translateX(-50%);
+}
+
+/* ── BOMBAY label ── */
+.bombay {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: clamp(20px, 4vw, 36px);
+  font-weight: 700;
+  color: #c9a96e;
+  letter-spacing: 0.08em;
+  position: relative;
+  z-index: 2;
+  opacity: 0;
+}
+
+/* ── MUMBAI label ── */
+.mumbai {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: clamp(20px, 4vw, 36px);
+  font-weight: 700;
+  color: #e8e0ff;
+  letter-spacing: 0.08em;
+  position: relative;
+  z-index: 2;
+  opacity: 0;
+}
+
+/* ── 1996 bridge ── */
+.yearBridge {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%) scale(0.7);
+  font-family: 'Courier New', Courier, monospace;
+  font-size: clamp(28px, 5vw, 52px);
+  font-weight: 700;
+  color: #ff6b00;
+  z-index: 10;
+  opacity: 0;
+  letter-spacing: 0.06em;
+  white-space: nowrap;
+}
+
+/* ── Final logo screen ── */
+.finalScreen {
+  position: absolute;
+  inset: 0;
+  background: #3a235b;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  z-index: 20;
+  gap: 14px;
+}
+
+.logo {
+  width: min(70vw, 460px);
+  height: auto;
+  opacity: 0;
+  transform: scale(0.88);
+}

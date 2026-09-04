@@ -1,0 +1,122 @@
+{% extends "base.html" %}
+
+{% block title %}Reviews | Admin{% endblock %}
+
+{% block content %}
+
+    <div class="d-flex justify-content-between align-items-center mb-3 flex-wrap gap-2">
+        <h1 class="h3 mb-0">Reviews</h1>
+    </div>
+
+    <form method="get" class="row gx-2 gy-2 align-items-center mb-3">
+        <div class="col-8 col-sm-4 col-md-3">
+            <input type="text" name="q" value="{{ search or '' }}" class="form-control form-control-sm" placeholder="Search entity or review...">
+        </div>
+        <div class="col-auto">
+            <select name="category" class="form-select form-select-sm">
+                <option value="">All Categories</option>
+                <option value="Builder / Developer" {% if category_filter == 'Builder / Developer' %}selected{% endif %}>Builder / Developer</option>
+                <option value="Property Broker / Agent" {% if category_filter == 'Property Broker / Agent' %}selected{% endif %}>Property Broker / Agent</option>
+                <option value="Individual / Company" {% if category_filter == 'Individual / Company' %}selected{% endif %}>Individual / Company</option>
+                <option value="Doctor / Clinic / Hospital" {% if category_filter == 'Doctor / Clinic / Hospital' %}selected{% endif %}>Doctor / Clinic / Hospital</option>
+                <option value="Coaching Classes / Teacher" {% if category_filter == 'Coaching Classes / Teacher' %}selected{% endif %}>Coaching / Teacher</option>
+                <option value="Finance / Loan / Insurance" {% if category_filter == 'Finance / Loan / Insurance' %}selected{% endif %}>Finance / Loan / Insurance</option>
+                <option value="Transport / Packers Movers" {% if category_filter == 'Transport / Packers Movers' %}selected{% endif %}>Transport / Packers Movers</option>
+                <option value="Restaurant / Food" {% if category_filter == 'Restaurant / Food' %}selected{% endif %}>Restaurant / Food</option>
+                <option value="Online Seller / E-commerce" {% if category_filter == 'Online Seller / E-commerce' %}selected{% endif %}>Online Seller</option>
+                <option value="Job Placement / HR Agency" {% if category_filter == 'Job Placement / HR Agency' %}selected{% endif %}>Job Placement / HR</option>
+                <option value="Society / Housing Management" {% if category_filter == 'Society / Housing Management' %}selected{% endif %}>Society / Housing</option>
+                <option value="Other" {% if category_filter == 'Other' %}selected{% endif %}>Other</option>
+            </select>
+        </div>
+        <div class="col-auto">
+            <select name="approved" class="form-select form-select-sm">
+                <option value="">All Status</option>
+                <option value="yes" {% if approved_filter == 'yes' %}selected{% endif %}>Approved</option>
+                <option value="no" {% if approved_filter == 'no' %}selected{% endif %}>Pending</option>
+            </select>
+        </div>
+        <div class="col-auto">
+            <button class="btn btn-primary btn-sm"><i class="bi bi-search"></i></button>
+        </div>
+    </form>
+
+    <div class="card">
+        <div class="table-responsive">
+            <table class="table mb-0 align-middle">
+                <thead>
+                <tr>
+                    <th>Entity</th>
+                    <th class="d-none d-md-table-cell">Category</th>
+                    <th class="d-none d-sm-table-cell">Area</th>
+                    <th>Rating</th>
+                    <th>Approved</th>
+                    <th class="d-none d-lg-table-cell">Reviewer</th>
+                    <th class="d-none d-sm-table-cell">Date</th>
+                    <th class="text-end">Actions</th>
+                </tr>
+                </thead>
+                <tbody>
+                {% for r in reviews %}
+                    <tr>
+                        <td>
+                            <div class="fw-semibold">{{ r.entity }}</div>
+                            <div class="text-muted small d-md-none">{{ r.category }} · {{ r.area }}</div>
+                        </td>
+                        <td class="d-none d-md-table-cell text-muted">{{ r.category }}</td>
+                        <td class="d-none d-sm-table-cell">{{ r.area }}</td>
+                        <td>
+                            {% for i in range(r.rating) %}★{% endfor %}{% for i in range(5 - r.rating) %}☆{% endfor %}
+                        </td>
+                        <td>
+                            {% if r.is_approved %}
+                                <span class="badge bg-success">Yes</span>
+                            {% else %}
+                                <span class="badge bg-warning text-dark">No</span>
+                            {% endif %}
+                        </td>
+                        <td class="d-none d-lg-table-cell text-muted small">{{ r.reviewer_name }}</td>
+                        <td class="d-none d-sm-table-cell text-muted small">{{ r.created_at.strftime('%d-%m-%Y') if r.created_at else '—' }}</td>
+                        <td class="text-end">
+                            <a href="{{ url_for('admin.edit_review', review_id=r.id) }}" class="btn btn-sm btn-outline-secondary">
+                                <i class="bi bi-pencil"></i>
+                            </a>
+                            <button type="button" class="btn btn-sm btn-outline-danger ms-1" data-bs-toggle="modal" data-bs-target="#deleteModal{{ r.id }}">
+                                <i class="bi bi-trash"></i>
+                            </button>
+
+                            <div class="modal fade" id="deleteModal{{ r.id }}" tabindex="-1" aria-hidden="true">
+                                <div class="modal-dialog modal-dialog-centered">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <h5 class="modal-title">Delete Review</h5>
+                                            <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                                        </div>
+                                        <div class="modal-body">
+                                            Are you sure you want to delete the review for <strong>{{ r.entity }}</strong>? This cannot be undone.
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-light btn-sm" data-bs-dismiss="modal">Cancel</button>
+                                            <form method="post" action="{{ url_for('admin.delete_review', review_id=r.id) }}">
+                                                <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+                                                <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                                            </form>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                {% else %}
+                    <tr>
+                        <td colspan="8" class="text-center text-muted py-4">No reviews found</td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    {% include "admin/components/pagination.html" %}
+
+{% endblock %}

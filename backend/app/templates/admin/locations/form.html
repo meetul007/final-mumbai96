@@ -1,0 +1,498 @@
+{% extends "base.html" %}
+{% block title %}{{ 'Edit' if location else 'Create' }} Location{% endblock %}
+
+{% block content %}
+    <h1 class="h3 mb-4">{{ 'Edit' if location else 'Create' }} Location</h1>
+
+    <form method="post" class="card" enctype="multipart/form-data">
+        <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+
+        <div class="card-body">
+
+            <!-- TABS -->
+            <ul class="nav nav-tabs mb-3">
+                <li class="nav-item"><a class="nav-link active" data-bs-toggle="tab" href="#basic">Basic</a></li>
+                <li class="nav-item"><a class="nav-link" data-bs-toggle="tab" href="#seo">SEO</a></li>
+                <li class="nav-item"><a class="nav-link" data-bs-toggle="tab" href="#connectivity">Connectivity</a></li>
+                <li class="nav-item"><a class="nav-link" data-bs-toggle="tab" href="#lifestyle">Lifestyle</a></li>
+                <li class="nav-item"><a class="nav-link" data-bs-toggle="tab" href="#places">Places</a></li>
+                <li class="nav-item"><a class="nav-link" data-bs-toggle="tab" href="#guide">Guide Data</a></li>
+                <li class="nav-item"><a class="nav-link" data-bs-toggle="tab" href="#schools-hospitals">Schools / Hospitals</a></li>
+                <li class="nav-item"><a class="nav-link" data-bs-toggle="tab" href="#faq">FAQ</a></li>
+                <li class="nav-item"><a class="nav-link" data-bs-toggle="tab" href="#editorial">Editorial</a></li>
+                <li class="nav-item"><a class="nav-link" data-bs-toggle="tab" href="#nearby">Nearby</a></li>
+            </ul>
+
+            <div class="tab-content">
+
+                <!-- BASIC -->
+                <div class="tab-pane fade show active" id="basic">
+
+                    <label class="form-label">Name</label>
+                    <input name="name" class="form-control mb-2"
+                           value="{{ location.name if location else '' }}">
+
+                    <label class="form-label">Slug</label>
+                    <input name="slug" class="form-control mb-2"
+                           value="{{ location.slug if location else '' }}">
+
+                    <label class="form-label">Parent Location</label>
+                    <select name="parent_id" class="form-select mb-2">
+                        <option value="">-- None --</option>
+                        {% for p in parents %}
+                            <option value="{{ p.id }}"
+                                    {% if location and location.parent_id == p.id %}selected{% endif %}>
+                                {{ p.name }}
+                            </option>
+                        {% endfor %}
+                    </select>
+
+                    <label class="form-label">About</label>
+                    <div id="about-editor" style="height: 200px;">
+                        {{ location.about | safe if location and location.about else '' }}
+                    </div>
+                    <input type="hidden" name="about" id="about-input">
+
+                    <label class="form-label">Population</label>
+                    <input name="population" class="form-control mb-2"
+                           value="{{ location.population if location else '' }}">
+
+                    <label class="form-label">Municipal Body</label>
+                    <input name="municipal_body" class="form-control mb-2"
+                           value="{{ location.municipal_body if location else '' }}">
+
+                    <label class="form-label">Location Image</label>
+                    <input type="file" name="location_image" class="form-control" accept="image/*">
+                    {% if location and location.location_image %}
+                        <img src="/static/uploads/{{ location.location_image }}"
+                             class="mt-2 rounded w-100"
+                             style="height:140px;object-fit:cover">
+                    {% endif %}
+                    <label class="form-label">Location Icon</label>
+                    <input type="file" name="location_icon" class="form-control" accept="image/*">
+                    {% if location and location.location_icon %}
+                        <img src="/static/uploads/{{ location.location_icon }}"
+                             class="mt-2 rounded w-100"
+                             style="height:140px;object-fit:cover">
+                    {% endif %}
+
+                    <div class="form-check">
+                        <input type="checkbox" name="is_active" class="form-check-input"
+                               {% if location and location.is_active %}checked{% endif %}>
+                        <label>Active</label>
+                    </div>
+
+                </div>
+
+                <!-- SEO -->
+                <div class="tab-pane fade" id="seo">
+                    <label class="form-label">SEO Title</label>
+                    <input name="seo_title" class="form-control mb-2"
+                           value="{{ location.seo_title if location else '' }}">
+
+                    <label class="form-label">SEO Description</label>
+                    <textarea name="seo_description" class="form-control mb-2" rows="3">{{ location.seo_description if location else '' }}</textarea>
+
+                    <label class="form-label">SEO Keywords</label>
+                    <textarea name="seo_keywords" class="form-control mb-2" rows="2"
+                              placeholder="Comma-separated keywords">{{ location.seo_keywords if location else '' }}</textarea>
+                </div>
+
+                <!-- CONNECTIVITY -->
+                <div class="tab-pane fade" id="connectivity">
+                    <div id="connectivity-wrapper"></div>
+                    <button type="button" onclick="addConnectivity()" class="btn btn-sm btn-outline-primary">+ Add</button>
+                </div>
+
+                <!-- LIFESTYLE -->
+                <div class="tab-pane fade" id="lifestyle">
+                    <h6>Living Style</h6>
+                    <div id="living-wrapper"></div>
+                    <button type="button" onclick="addLiving()" class="btn btn-sm btn-outline-primary mb-3">+ Add</button>
+
+                    <h6>Best Services</h6>
+                    <div id="services-wrapper"></div>
+                    <button type="button" onclick="addService()" class="btn btn-sm btn-outline-primary mb-3">+ Add</button>
+
+                    <h6>Food</h6>
+                    <div id="food-wrapper"></div>
+                    <button type="button" onclick="addFood()" class="btn btn-sm btn-outline-primary">+ Add</button>
+
+                    <h6 class="mt-3">Food Tags</h6>
+                    <input name="food_tags" class="form-control"
+                           value="{{ location.food_tags if location else '' }}"
+                           placeholder="e.g. Maharashtrian Meals, Vada Pav, Misal Pav">
+                </div>
+
+                <!-- PLACES -->
+                <div class="tab-pane fade" id="places">
+                    <h6>Places to Visit</h6>
+                    <div id="places-wrapper"></div>
+                    <button type="button" onclick="addPlace()" class="btn btn-sm btn-outline-primary mb-3">+ Add</button>
+
+                    <h6>Night Life</h6>
+                    <div id="night-wrapper"></div>
+                    <button type="button" onclick="addNight()" class="btn btn-sm btn-outline-primary">+ Add</button>
+                </div>
+
+                <!-- GUIDE DATA (Sub-areas, Property, Employers, Civic) -->
+                <div class="tab-pane fade" id="guide">
+                    <h6>Sub-areas <small class="text-muted">(with tags)</small></h6>
+                    <div id="subareas-wrapper"></div>
+                    <button type="button" onclick="addSubArea()" class="btn btn-sm btn-outline-primary mb-3">+ Add</button>
+
+                    <h6>Property Prices</h6>
+                    <div id="property-wrapper"></div>
+                    <button type="button" onclick="addProperty()" class="btn btn-sm btn-outline-primary mb-3">+ Add</button>
+
+                    <h6>Major Employers</h6>
+                    <div id="employers-wrapper"></div>
+                    <button type="button" onclick="addEmployer()" class="btn btn-sm btn-outline-primary mb-3">+ Add</button>
+
+                    <h6>Civic Data</h6>
+                    <div class="row g-2">
+                        <div class="col-md-3">
+                            <label class="form-label">Municipal Ward</label>
+                            <input name="civic_ward" class="form-control"
+                                   value="{{ location.civic_data.ward if location and location.civic_data else '' }}">
+                        </div>
+                        <div class="col-md-3">
+                            <label class="form-label">Assembly Constituency</label>
+                            <input name="civic_assembly_constituency" class="form-control"
+                                   value="{{ location.civic_data.assembly_constituency if location and location.civic_data else '' }}">
+                        </div>
+                        <div class="col-md-3">
+                            <label class="form-label">Lok Sabha Constituency</label>
+                            <input name="civic_lok_sabha" class="form-control"
+                                   value="{{ location.civic_data.lok_sabha if location and location.civic_data else '' }}">
+                        </div>
+                        <div class="col-md-3">
+                            <label class="form-label">Police Station</label>
+                            <input name="civic_police_station" class="form-control"
+                                   value="{{ location.civic_data.police_station if location and location.civic_data else '' }}">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- SCHOOLS / HOSPITALS -->
+                <div class="tab-pane fade" id="schools-hospitals">
+                    <h6>Schools</h6>
+                    <div id="schools-wrapper"></div>
+                    <button type="button" onclick="addSchool()" class="btn btn-sm btn-outline-primary mb-3">+ Add</button>
+
+                    <h6>Hospitals</h6>
+                    <div id="hospitals-wrapper"></div>
+                    <button type="button" onclick="addHospital()" class="btn btn-sm btn-outline-primary">+ Add</button>
+                </div>
+
+                <!-- FAQ -->
+                <div class="tab-pane fade" id="faq">
+                    <div id="faq-wrapper"></div>
+                    <button type="button" onclick="addFaq()" class="btn btn-sm btn-outline-primary">+ Add FAQ</button>
+                </div>
+
+                <!-- EDITORIAL -->
+                <div class="tab-pane fade" id="editorial">
+                    <p class="text-muted small">These fields are editorial-only and not imported from Excel.</p>
+
+                    <h6>Character Vibe</h6>
+                    <textarea name="character_vibe" class="form-control mb-3 font-monospace" rows="4"
+                              placeholder='[{"keyword": "Cultural", "description": "..."}]'>{{ location.character_vibe | tojson if location and location.character_vibe else '' }}</textarea>
+
+                    <h6>Resident Profile</h6>
+                    <textarea name="resident_profile" class="form-control mb-3 font-monospace" rows="4"
+                              placeholder='[{"segment": "Families", "percentage": 60, "description": "..."}]'>{{ location.resident_profile | tojson if location and location.resident_profile else '' }}</textarea>
+
+                    <h6>Local Events</h6>
+                    <textarea name="local_events" class="form-control mb-3 font-monospace" rows="4"
+                              placeholder='[{"name": "Ganesh Chaturthi", "date": "Aug-Sep", "description": "..."}]'>{{ location.local_events | tojson if location and location.local_events else '' }}</textarea>
+
+                    <h6>Upcoming Projects</h6>
+                    <textarea name="upcoming_projects" class="form-control mb-3 font-monospace" rows="4"
+                              placeholder='[{"name": "New Metro Line", "developer": "MMRDA", "status": "Ongoing", "description": "..."}]'>{{ location.upcoming_projects | tojson if location and location.upcoming_projects else '' }}</textarea>
+
+                    <h6>Residential Societies</h6>
+                    <textarea name="residential_societies" class="form-control mb-3 font-monospace" rows="4"
+                              placeholder='[{"name": "Shiv Sagar CHS", "type": "Co-operative", "description": "..."}]'>{{ location.residential_societies | tojson if location and location.residential_societies else '' }}</textarea>
+
+                    <h6>Area Report Card</h6>
+                    <textarea name="area_report_card" class="form-control mb-3 font-monospace" rows="3"
+                              placeholder='{"safety": 4, "cleanliness": 3, "green": 2, "transit": 5, "overall": 3.5}'>{{ location.area_report_card | tojson if location and location.area_report_card else '' }}</textarea>
+                </div>
+
+                <!-- NEARBY -->
+                <div class="tab-pane fade" id="nearby">
+                    <select name="nearby_locations" multiple class="form-select">
+                        {% set selected_ids = location.nearby_locations if location and location.nearby_locations else [] %}
+                        {% for loc in all_locations %}
+                            <option value="{{ loc.id }}"
+                                    {% if loc.id in selected_ids %}selected{% endif %}>
+                                {{ loc.name }}
+                            </option>
+                        {% endfor %}
+                    </select>
+                </div>
+
+            </div>
+
+            <!-- HIDDEN JSON -->
+            <input type="hidden" name="travelling_connectivity" id="connectivity-json">
+            <input type="hidden" name="living_style" id="living-json">
+            <input type="hidden" name="best_services" id="services-json">
+            <input type="hidden" name="food" id="food-json">
+            <input type="hidden" name="places_to_visit" id="places-json">
+            <input type="hidden" name="night_life" id="night-json">
+            <input type="hidden" name="sub_areas" id="subareas-json">
+            <input type="hidden" name="property_prices" id="property-json">
+            <input type="hidden" name="schools" id="schools-json">
+            <input type="hidden" name="hospitals" id="hospitals-json">
+            <input type="hidden" name="major_employers" id="employers-json">
+            <input type="hidden" name="faq" id="faq-json">
+
+        </div>
+
+        <div class="card-footer text-end">
+            <a href="{{ url_for('admin.locations') }}" class="btn btn-light">Cancel</a>
+            <button type="submit" class="btn btn-primary">Save</button>
+        </div>
+    </form>
+
+    <script>
+
+        const quill = new Quill('#about-editor', {
+            theme: 'snow',
+            placeholder: 'Write about this location...',
+            modules: {
+                toolbar: [
+                    [{header: [1, 2, 3, false]}],
+                    ['bold', 'italic', 'underline'],
+                    ['link'],
+                    [{list: 'ordered'}, {list: 'bullet'}],
+                    ['clean']
+                ]
+            }
+        });
+
+        const existingData = {
+            connectivity: {{ location.travelling_connectivity | tojson if location and location.travelling_connectivity else '[]' }},
+            living: {{ location.living_style | tojson if location and location.living_style else '[]' }},
+            services: {{ location.best_services | tojson if location and location.best_services else '[]' }},
+            food: {{ location.food | tojson if location and location.food else '[]' }},
+            places: {{ location.places_to_visit | tojson if location and location.places_to_visit else '[]' }},
+            night: {{ location.night_life | tojson if location and location.night_life else '[]' }},
+            subareas: {{ location.sub_areas | tojson if location and location.sub_areas else '[]' }},
+            property: {{ location.property_prices | tojson if location and location.property_prices else '[]' }},
+            schools: {{ location.schools | tojson if location and location.schools else '[]' }},
+            hospitals: {{ location.hospitals | tojson if location and location.hospitals else '[]' }},
+            employers: {{ location.major_employers | tojson if location and location.major_employers else '[]' }},
+            faq: {{ location.faq | tojson if location and location.faq else '[]' }}
+        }
+
+        /* ---------- UI HELPERS ---------- */
+        function createRow(html) {
+            let d = document.createElement("div")
+            d.className = "border p-3 mb-3 bg-light rounded"
+            d.innerHTML = html + `
+    <div class="text-end">
+      <button type="button" class="btn btn-sm btn-danger mt-2" onclick="this.closest('.border').remove()">Remove</button>
+    </div>
+  `
+            return d
+        }
+
+        /* ---------- ADD FUNCTIONS ---------- */
+        function addConnectivity(data = {}) {
+            document.getElementById("connectivity-wrapper").appendChild(createRow(`
+    <label class="form-label">Name</label>
+    <input name="name" value="${data.name || ''}" class="form-control mb-2">
+
+    <label class="form-label">Distance</label>
+    <input name="distance" value="${data.distance || ''}" class="form-control mb-2">
+
+    <label class="form-label">Tag</label>
+    <input name="tag" value="${data.tag || ''}" class="form-control">
+  `))
+        }
+
+        function addLiving(data = {}) {
+            document.getElementById("living-wrapper").appendChild(createRow(`
+    <label class="form-label">Title</label>
+    <input name="name" value="${data.name || ''}" class="form-control mb-2">
+
+    <label class="form-label">Description</label>
+    <textarea name="description" class="form-control">${data.description || ''}</textarea>
+  `))
+        }
+
+        function addService(data = {}) {
+            document.getElementById("services-wrapper").appendChild(createRow(`
+    <label class="form-label">Title</label>
+    <input name="name" value="${data.name || ''}" class="form-control mb-2">
+
+    <label class="form-label">Description</label>
+    <textarea name="description" class="form-control">${data.description || ''}</textarea>
+  `))
+        }
+
+        function addFood(data = {}) {
+            document.getElementById("food-wrapper").appendChild(createRow(`
+    <label class="form-label">Food Place</label>
+    <input name="name" value="${data.name || ''}" class="form-control mb-2">
+
+    <label class="form-label">Description</label>
+    <textarea name="description" class="form-control mb-2">${data.description || ''}</textarea>
+
+    <label class="form-label">Food Types</label>
+    <input name="food_type" value="${(data.food_type || []).join(',')}" class="form-control">
+  `))
+        }
+
+        function addPlace(data = {}) {
+            document.getElementById("places-wrapper").appendChild(createRow(`
+    <label class="form-label">Place Name</label>
+    <input name="name" value="${data.name || ''}" class="form-control mb-2">
+
+    <label class="form-label">Tag</label>
+    <input name="tag" value="${data.tag || ''}" class="form-control mb-2">
+
+    <label class="form-label">Description</label>
+    <textarea name="description" class="form-control">${data.description || ''}</textarea>
+  `))
+        }
+
+        function addNight(data = {}) {
+            document.getElementById("night-wrapper").appendChild(createRow(`
+    <label class="form-label">Place Name</label>
+    <input name="name" value="${data.name || ''}" class="form-control mb-2">
+
+    <label class="form-label">Description</label>
+    <textarea name="description" class="form-control">${data.description || ''}</textarea>
+  `))
+        }
+
+        /* ---- NEW ADD FUNCTIONS ---- */
+        function addSubArea(data = {}) {
+            document.getElementById("subareas-wrapper").appendChild(createRow(`
+    <label class="form-label">Sub-area Name</label>
+    <input name="name" value="${data.name || ''}" class="form-control mb-2">
+
+    <label class="form-label">Tag</label>
+    <input name="tag" value="${data.tag || ''}" class="form-control mb-2">
+
+    <label class="form-label">Description</label>
+    <textarea name="description" class="form-control">${data.description || ''}</textarea>
+  `))
+        }
+
+        function addProperty(data = {}) {
+            document.getElementById("property-wrapper").appendChild(createRow(`
+    <label class="form-label">Type</label>
+    <input name="type" value="${data.type || ''}" class="form-control mb-2" placeholder="e.g. 1 BHK">
+
+    <label class="form-label">Price</label>
+    <input name="price" value="${data.price || ''}" class="form-control mb-2" placeholder="e.g. Rs 1.3-2.0 Cr">
+
+    <label class="form-label">Sub-area</label>
+    <input name="sub_area" value="${data.sub_area || ''}" class="form-control mb-2">
+
+    <label class="form-label">Rental</label>
+    <input name="rental" value="${data.rental || ''}" class="form-control" placeholder="e.g. Rs 38,000-95,000 / month">
+  `))
+        }
+
+        function addSchool(data = {}) {
+            document.getElementById("schools-wrapper").appendChild(createRow(`
+    <label class="form-label">School Name</label>
+    <input name="name" value="${data.name || ''}" class="form-control mb-2">
+
+    <label class="form-label">Board</label>
+    <input name="board" value="${data.board || ''}" class="form-control" placeholder="e.g. SSC, ICSE, CBSE">
+  `))
+        }
+
+        function addHospital(data = {}) {
+            document.getElementById("hospitals-wrapper").appendChild(createRow(`
+    <label class="form-label">Hospital Name</label>
+    <input name="name" value="${data.name || ''}" class="form-control mb-2">
+
+    <label class="form-label">Type</label>
+    <input name="type" value="${data.type || ''}" class="form-control" placeholder="e.g. Multi-Speciality, Government">
+  `))
+        }
+
+        function addEmployer(data = {}) {
+            document.getElementById("employers-wrapper").appendChild(createRow(`
+    <label class="form-label">Employer Name</label>
+    <input name="name" value="${data.name || ''}" class="form-control mb-2">
+
+    <label class="form-label">Sector</label>
+    <input name="sector" value="${data.sector || ''}" class="form-control" placeholder="e.g. IT, Healthcare, Retail">
+  `))
+        }
+
+        function addFaq(data = {}) {
+            document.getElementById("faq-wrapper").appendChild(createRow(`
+    <label class="form-label">Question</label>
+    <input name="question" value="${data.question || ''}" class="form-control mb-2">
+
+    <label class="form-label">Answer</label>
+    <textarea name="answer" class="form-control">${data.answer || ''}</textarea>
+  `))
+        }
+
+        /* ---------- RENDER EXISTING ---------- */
+        function renderExisting() {
+            existingData.connectivity.forEach(addConnectivity)
+            existingData.living.forEach(addLiving)
+            existingData.services.forEach(addService)
+            existingData.food.forEach(addFood)
+            existingData.places.forEach(addPlace)
+            existingData.night.forEach(addNight)
+            existingData.subareas.forEach(addSubArea)
+            existingData.property.forEach(addProperty)
+            existingData.schools.forEach(addSchool)
+            existingData.hospitals.forEach(addHospital)
+            existingData.employers.forEach(addEmployer)
+            existingData.faq.forEach(addFaq)
+        }
+
+        /* ---------- COLLECT DATA ---------- */
+        function collect(id) {
+            return [...document.querySelectorAll(`#${id} > .border`)].map(d => {
+                let obj = {}
+                d.querySelectorAll("input, textarea").forEach(i => {
+                    if (i.name === "food_type") {
+                        obj[i.name] = i.value.split(",").map(v => v.trim()).filter(Boolean)
+                    } else {
+                        obj[i.name] = i.value
+                    }
+                })
+                return obj
+            })
+        }
+
+        /* ---------- SUBMIT ---------- */
+        document.addEventListener("DOMContentLoaded", function () {
+
+            renderExisting()
+
+            document.querySelector("form").addEventListener("submit", function () {
+                document.getElementById("about-input").value = quill.root.innerHTML;
+                document.getElementById("connectivity-json").value = JSON.stringify(collect("connectivity-wrapper"))
+                document.getElementById("living-json").value = JSON.stringify(collect("living-wrapper"))
+                document.getElementById("services-json").value = JSON.stringify(collect("services-wrapper"))
+                document.getElementById("food-json").value = JSON.stringify(collect("food-wrapper"))
+                document.getElementById("places-json").value = JSON.stringify(collect("places-wrapper"))
+                document.getElementById("night-json").value = JSON.stringify(collect("night-wrapper"))
+                document.getElementById("subareas-json").value = JSON.stringify(collect("subareas-wrapper"))
+                document.getElementById("property-json").value = JSON.stringify(collect("property-wrapper"))
+                document.getElementById("schools-json").value = JSON.stringify(collect("schools-wrapper"))
+                document.getElementById("hospitals-json").value = JSON.stringify(collect("hospitals-wrapper"))
+                document.getElementById("employers-json").value = JSON.stringify(collect("employers-wrapper"))
+                document.getElementById("faq-json").value = JSON.stringify(collect("faq-wrapper"))
+            })
+
+        })
+    </script>
+
+{% endblock %}

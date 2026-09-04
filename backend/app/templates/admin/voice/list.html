@@ -1,0 +1,131 @@
+{% extends "base.html" %}
+
+{% block title %}Voice Topics | Admin{% endblock %}
+
+{% block content %}
+
+    <div class="d-flex justify-content-between align-items-center mb-3 flex-wrap gap-2">
+        <h1 class="h3 mb-0">Voice Topics</h1>
+    </div>
+
+    <form method="get" class="row gx-2 gy-2 align-items-center mb-3">
+        <div class="col-8 col-sm-4 col-md-3">
+            <input type="text" name="q" value="{{ search or '' }}" class="form-control form-control-sm" placeholder="Search topics...">
+        </div>
+        <div class="col-auto">
+            <select name="type" class="form-select form-select-sm">
+                <option value="">All Types</option>
+                <option value="poll" {% if type_filter == 'poll' %}selected{% endif %}>Poll</option>
+                <option value="complaint" {% if type_filter == 'complaint' %}selected{% endif %}>Complaint</option>
+                <option value="discussion" {% if type_filter == 'discussion' %}selected{% endif %}>Discussion</option>
+                <option value="win" {% if type_filter == 'win' %}selected{% endif %}>Win</option>
+            </select>
+        </div>
+        <div class="col-auto">
+            <select name="status" class="form-select form-select-sm">
+                <option value="">All Status</option>
+                <option value="pending" {% if status_filter == 'pending' %}selected{% endif %}>Pending</option>
+                <option value="resolved" {% if status_filter == 'resolved' %}selected{% endif %}>Resolved</option>
+                <option value="closed" {% if status_filter == 'closed' %}selected{% endif %}>Closed</option>
+            </select>
+        </div>
+        <div class="col-auto">
+            <button class="btn btn-primary btn-sm"><i class="bi bi-search"></i></button>
+        </div>
+    </form>
+
+    <div class="card">
+        <div class="table-responsive">
+            <table class="table mb-0 align-middle">
+                <thead>
+                <tr>
+                    <th>Type</th>
+                    <th>Title</th>
+                    <th class="d-none d-sm-table-cell">Area</th>
+                    <th class="d-none d-md-table-cell">Category</th>
+                    <th>Active</th>
+                    <th>Status</th>
+                    <th class="d-none d-sm-table-cell">Date</th>
+                    <th class="text-end">Actions</th>
+                </tr>
+                </thead>
+                <tbody>
+                {% for t in topics %}
+                    <tr>
+                        <td>
+                            {% if t.type == 'poll' %}
+                                <span class="badge bg-primary-subtle text-primary">Poll</span>
+                            {% elif t.type == 'complaint' %}
+                                <span class="badge bg-danger-subtle text-danger">Complaint</span>
+                            {% elif t.type == 'discussion' %}
+                                <span class="badge bg-info-subtle text-info">Discussion</span>
+                            {% elif t.type == 'win' %}
+                                <span class="badge bg-success-subtle text-success">Win</span>
+                            {% endif %}
+                        </td>
+                        <td>
+                            <div class="fw-semibold text-truncate" style="max-width:250px">{{ t.title }}</div>
+                            <div class="text-muted small d-sm-none">{{ t.area }}</div>
+                        </td>
+                        <td class="d-none d-sm-table-cell">{{ t.area }}</td>
+                        <td class="d-none d-md-table-cell text-muted small">{{ t.category or '—' }}</td>
+                        <td>
+                            {% if t.is_active %}
+                                <span class="badge bg-success">Yes</span>
+                            {% else %}
+                                <span class="badge bg-secondary">No</span>
+                            {% endif %}
+                        </td>
+                        <td>
+                            {% if t.status == 'pending' %}
+                                <span class="badge bg-warning text-dark">Pending</span>
+                            {% elif t.status == 'resolved' %}
+                                <span class="badge bg-success">Resolved</span>
+                            {% elif t.status == 'closed' %}
+                                <span class="badge bg-secondary">Closed</span>
+                            {% endif %}
+                        </td>
+                        <td class="d-none d-sm-table-cell text-muted small">{{ t.created_at.strftime('%d-%m-%Y') if t.created_at else '—' }}</td>
+                        <td class="text-end">
+                            <a href="{{ url_for('admin.edit_voice_topic', topic_id=t.id) }}" class="btn btn-sm btn-outline-secondary">
+                                <i class="bi bi-pencil"></i>
+                            </a>
+                            <button type="button" class="btn btn-sm btn-outline-danger ms-1" data-bs-toggle="modal" data-bs-target="#deleteModal{{ t.id }}">
+                                <i class="bi bi-trash"></i>
+                            </button>
+
+                            <div class="modal fade" id="deleteModal{{ t.id }}" tabindex="-1" aria-hidden="true">
+                                <div class="modal-dialog modal-dialog-centered">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <h5 class="modal-title">Delete Topic</h5>
+                                            <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                                        </div>
+                                        <div class="modal-body">
+                                            Are you sure you want to delete <strong>{{ t.title }}</strong>? This cannot be undone.
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-light btn-sm" data-bs-dismiss="modal">Cancel</button>
+                                            <form method="post" action="{{ url_for('admin.delete_voice_topic', topic_id=t.id) }}">
+                                                <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+                                                <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                                            </form>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                {% else %}
+                    <tr>
+                        <td colspan="8" class="text-center text-muted py-4">No voice topics found</td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    {% include "admin/components/pagination.html" %}
+
+{% endblock %}

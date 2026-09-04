@@ -1,0 +1,204 @@
+"use client";
+
+import { useState } from "react";
+import Link from "next/link";
+// import "./style.css";
+import { useToast } from "@/context/toast/toast-provider";
+import { useRouter, useSearchParams } from "next/navigation";
+import api from "@/service/api";
+import { useAuth } from "@/context/auth/AuthContext";
+
+export default function LoginPage() {
+  const router = useRouter();
+  const searchParams = useSearchParams();
+  const redirect = searchParams.get("redirect");
+
+  const { login } = useAuth();
+  const { addToast } = useToast();
+  const [email, setEmail] = useState("");
+  const [password, setPassword] = useState("");
+  const [showPass, setShowPass] = useState(false);
+
+  const [errors, setErrors] = useState({
+    email: false,
+    password: false,
+  });
+
+  const submitLogin = async (e) => {
+    e?.preventDefault();
+    e.stopPropagation();
+
+    try {
+      const { data } = await api.post("/api/auth/login", {
+        email: email,
+        password: password,
+      });
+
+      // save token via auth context
+      login(data.token, data.user);
+
+      router.push(redirect || "/dashboard");
+    } catch (err) {
+      addToast(err.response?.data?.error || "Invalid credentials", "error");
+      return false;
+    } finally {
+    }
+  };
+
+  const googleAuth = () => {
+    console.log("Google Login");
+    addToast("Comming Soon.", "info");
+  };
+
+  return (
+    <div className="page">
+      {/* LEFT PANEL */}
+      <div className="left-panel">
+        <div className="lp-watermark">M96</div>
+        <div className="lp-kicker">Welcome Back</div>
+
+        <h2 className="lp-title">
+          MUMBAI
+          <br />
+          AWAITS
+          <br />
+          <em>YOU.</em>
+        </h2>
+
+        <p className="lp-desc">
+          Log in to manage your listings, connect with your neighbourhood,
+          access community tools and explore everything Mumbai96 has to offer.
+        </p>
+
+        <div className="lp-features">
+          {/* <div className="lp-feat">
+            <div className="lp-feat-icon">🏢</div>
+            <div className="lp-feat-text">
+              <strong>Manage Your Listings</strong>
+              Edit, update and track all your free business listings.
+            </div>
+          </div> */}
+
+          <div className="lp-feat">
+            <div className="lp-feat-icon">🤝</div>
+            <div className="lp-feat-text">
+              <strong>Community Access</strong>
+              Join meetups, connect with Mumbaikars and share your stories.
+            </div>
+          </div>
+
+          <div className="lp-feat">
+            <div className="lp-feat-icon">🚨</div>
+            <div className="lp-feat-text">
+              <strong>Fraud Alerts</strong>
+              Get notified about scams and fraud reports in your area.
+            </div>
+          </div>
+
+          <div className="lp-feat">
+            <div className="lp-feat-icon">🌆</div>
+            <div className="lp-feat-text">
+              <strong>Your Mumbai Dashboard</strong>
+              Everything personalised to your neighbourhood.
+            </div>
+          </div>
+        </div>
+      </div>
+
+      {/* RIGHT PANEL */}
+      <div className="right-panel">
+        <form onSubmit={submitLogin} className="form-card">
+          {/* <div className="form-head">
+            <h1>
+              WELCOME
+              <br />
+              <em>BACK.</em>
+            </h1>
+            <p>
+              Don't have an account? <Link href="/signup">Sign up free →</Link>
+            </p>
+          </div>
+
+          <button className="btn-google" onClick={googleAuth}>
+            Continue with Google
+          </button>
+
+          <div className="or-divider">
+            <span>or login with email</span>
+          </div> */}
+
+          {/* EMAIL */}
+          <div className="f-group">
+            <label className="f-label">Email Address</label>
+            <input
+              className="f-input"
+              type="email"
+              placeholder="you@email.com"
+              value={email}
+              onChange={(e) => setEmail(e.target.value)}
+            />
+            {errors.email && (
+              <div className="f-error">Please enter a valid email address.</div>
+            )}
+          </div>
+
+          {/* PASSWORD */}
+          <div className="f-group">
+            <div className="f-row">
+              <label className="f-label">Password</label>
+              <Link href="/auth/forgot-password" className="forgot">
+                Forgot password?
+              </Link>
+            </div>
+
+            <div className="f-pass-wrap">
+              <input
+                className="f-input"
+                type={showPass ? "text" : "password"}
+                placeholder="Enter your password"
+                value={password}
+                onChange={(e) => setPassword(e.target.value)}
+              />
+
+              <button
+                type="button"
+                className="f-pass-eye"
+                onClick={() => setShowPass(!showPass)}
+              >
+                👁
+              </button>
+            </div>
+
+            {errors.password && (
+              <div className="f-error">Please enter your password.</div>
+            )}
+          </div>
+
+          {/* REMEMBER */}
+          <label className="f-check">
+            <input type="checkbox" defaultChecked />
+            <span>Keep me logged in</span>
+          </label>
+
+          {/* SUBMIT */}
+          <button type="submot" className="btn-submit">
+            Login to Mumbai96
+          </button>
+
+          <div className="form-bottom">
+            <p>
+              New to Mumbai96?{" "}
+              <Link href="/auth/signup">Create a free account →</Link>
+            </p>
+          </div>
+
+          <div className="form-terms">
+            By logging in you agree to Mumbai96's{" "}
+            <Link href="/terms">Terms of Service</Link> and{" "}
+            <Link href="/privacy">Privacy Policy</Link>.
+          </div>
+        </form>
+      </div>
+    </div>
+  );
+}

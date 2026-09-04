@@ -1,0 +1,270 @@
+{% extends "base.html" %}
+{% block title %}{{ 'Edit' if business else 'Create' }} Business{% endblock %}
+
+{% block content %}
+
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h1 class="h4 mb-0">{{ 'Edit' if business else 'Create' }} Business</h1>
+        <a href="{{ url_for('admin.businesses') }}" class="btn btn-light btn-sm">← Back</a>
+    </div>
+
+    <form method="post" enctype="multipart/form-data" class="card shadow-sm">
+        <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+
+        <div class="card-body">
+
+            <!-- ================= BASIC INFO ================= -->
+            <h6 class="fw-semibold mb-3">Basic Information</h6>
+
+            <div class="row g-3">
+                <div class="col-12 col-md-6">
+                    <label class="form-label">Business Name</label>
+                    <input type="text" name="name" class="form-control"
+                           value="{{ business.name if business else data.name if data else '' }}">
+                    {% if errors and errors.name %}
+                        <div class="text-danger small">{{ errors.name }}</div>
+                    {% endif %}
+                </div>
+
+                <div class="col-12 col-md-6">
+                    <label class="form-label">Slug</label>
+                    <input type="text" name="slug" class="form-control"
+                           value="{{ business.slug if business else data.slug if data else '' }}">
+                    <div class="form-text">Used in URL (SEO friendly)</div>
+                    {% if errors and errors.slug %}
+                        <div class="text-danger small">{{ errors.slug }}</div>
+                    {% endif %}
+                </div>
+
+                <div class="col-12 col-md-6">
+                    <label class="form-label">Category</label>
+                    <select name="category_id" class="form-select">
+                        <option value="">-- Select Category --</option>
+                        {% for c in categories %}
+                            <option value="{{ c.id }}"
+                                    {% if business and business.category_id == c.id %}selected{% endif %}>
+                                {{ c.name }}
+                            </option>
+                        {% endfor %}
+                    </select>
+                    {% if errors and errors.category_id %}
+                        <div class="text-danger small">{{ errors.category_id }}</div>
+                    {% endif %}
+                </div>
+
+                <div class="col-12 col-md-6">
+                    <label class="form-label">Website</label>
+                    <input type="url" name="website" class="form-control"
+                           placeholder="https://example.com"
+                           value="{{ business.website if business else '' }}">
+                </div>
+
+                <div class="col-12">
+                    <label class="form-label">Description</label>
+                    <textarea name="description" class="form-control" rows="3"
+                              placeholder="Short description for users and SEO">{{ business.description if business else '' }}</textarea>
+                </div>
+
+                <div class="col-12">
+                    <label class="form-label">Business Logo</label>
+                    <input type="file" name="logo" class="form-control" accept="image/*">
+                    {% if business and business.logo %}
+                        <div class="mt-2">
+                            <img src="/static/uploads/{{ business.logo }}"
+                                 style="height:80px;object-fit:contain">
+                        </div>
+                    {% endif %}
+                </div>
+
+                <div class="col-12">
+                    <div class="form-check form-switch">
+                        <input type="checkbox" name="is_active" class="form-check-input"
+                               {% if business and business.is_active %}checked{% endif %}>
+                        <label class="form-check-label">Active</label>
+                    </div>
+                </div>
+            </div>
+
+            <hr class="my-4">
+
+            <h6 class="fw-semibold mb-3">Social Media Links</h6>
+
+            <div class="row g-3">
+
+                {% set socials = business.social_links if business and business.social_links else {} %}
+
+                <div class="col-md-6">
+                    <label class="form-label">Facebook</label>
+                    <input type="url"
+                           name="social_facebook"
+                           class="form-control"
+                           placeholder="https://facebook.com/yourpage"
+                           value="{{ socials.facebook if socials.facebook }}">
+                </div>
+
+                <div class="col-md-6">
+                    <label class="form-label">Instagram</label>
+                    <input type="url"
+                           name="social_instagram"
+                           class="form-control"
+                           placeholder="https://instagram.com/yourprofile"
+                           value="{{ socials.instagram if socials.instagram }}">
+                </div>
+
+                <div class="col-md-6">
+                    <label class="form-label">LinkedIn</label>
+                    <input type="url"
+                           name="social_linkedin"
+                           class="form-control"
+                           placeholder="https://linkedin.com/company/yourbrand"
+                           value="{{ socials.linkedin if socials.linkedin }}">
+                </div>
+
+                <div class="col-md-6">
+                    <label class="form-label">YouTube</label>
+                    <input type="url"
+                           name="social_youtube"
+                           class="form-control"
+                           placeholder="https://youtube.com/@yourchannel"
+                           value="{{ socials.youtube if socials.youtube }}">
+                </div>
+
+                <div class="col-md-6">
+                    <label class="form-label">Twitter / X</label>
+                    <input type="url"
+                           name="social_twitter"
+                           class="form-control"
+                           placeholder="https://x.com/yourprofile"
+                           value="{{ socials.twitter if socials.twitter }}">
+                </div>
+
+            </div>
+
+            <hr class="my-4">
+
+            <!-- ================= IMAGE UPLOAD ================= -->
+            <h6 class="fw-semibold mb-2">Business Images</h6>
+
+            <div class="mb-3">
+                <input type="file"
+                       name="images"
+                       class="form-control"
+                       multiple
+                       accept="image/*"
+                       onchange="previewImages(this)">
+                <div class="form-text">
+                    Upload multiple images. First image will be primary.
+                </div>
+            </div>
+
+            <!-- LIVE PREVIEW -->
+            <div id="imagePreview" class="row g-2"></div>
+
+        </div>
+
+        <!-- FOOTER ACTIONS -->
+        <div class="card-footer d-flex justify-content-end gap-2 sticky-bottom bg-white">
+            <a href="{{ url_for('admin.businesses') }}" class="btn btn-light btn-sm">Cancel</a>
+            <button type="submit" class="btn btn-primary btn-sm">Save Business</button>
+        </div>
+    </form>
+
+    <!-- ================= EXISTING IMAGES ================= -->
+    {% if business and business.images %}
+        <div class="mt-4">
+            <h6 class="fw-semibold mb-2">Existing Images</h6>
+
+            <div class="row g-3">
+                {% for img in business.images %}
+                    <div class="col-6 col-md-3">
+                        <div class="card border-0 shadow-sm">
+
+                            {#          <img src="/static/uploads/{{ img.thumbnail_path or img.image_path }}"#}
+                            {#               class="img-fluid rounded-top"#}
+                            {#               style="height:140px;object-fit:cover;">#}
+                            {#        #}
+                            <img src="/static/uploads/{{ img.thumbnail_path or img.image_path }}"
+                                 class="img-fluid rounded-top"
+                                 style="cursor:pointer;height:140px;object-fit:cover;"
+                                 onclick="openImageModal('/static/uploads/{{ img.image_path }}')">
+
+                            <div class="card-body p-2 text-center">
+
+                                {% if img.is_primary %}
+                                    <span class="badge bg-primary mb-2">Primary</span>
+                                {% endif %}
+
+                                <div class="d-flex justify-content-center gap-1">
+
+                                    {% if not img.is_primary %}
+                                        <form method="post"
+                                              action="{{ url_for('admin.set_primary_image', image_id=img.id) }}">
+                                            <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+                                            <button class="btn btn-sm btn-outline-primary">Primary</button>
+                                        </form>
+                                    {% endif %}
+
+                                    <form method="post"
+                                          action="{{ url_for('admin.delete_business_image', image_id=img.id) }}"
+                                          onsubmit="return confirm('Delete this image?')">
+                                        <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+                                        <button class="btn btn-sm btn-outline-danger">Delete</button>
+                                    </form>
+
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    {% endif %}
+
+{% endblock %}
+
+{% block extra_js %}
+    <script>
+        function previewImages(input) {
+            const preview = document.getElementById("imagePreview");
+            preview.innerHTML = "";
+
+            if (!input.files) return;
+
+            Array.from(input.files).forEach(file => {
+                if (!file.type.startsWith("image/")) return;
+
+                const reader = new FileReader();
+                reader.onload = e => {
+                    const col = document.createElement("div");
+                    col.className = "col-6 col-md-3";
+
+                    col.innerHTML = `
+  <div class="card shadow-sm">
+    <img src="${e.target.result}"
+         class="img-fluid rounded"
+         style="height:120px;object-fit:cover;cursor:pointer"
+         onclick="openImageModal('${e.target.result}')">
+  </div>
+`;
+
+                    preview.appendChild(col);
+                };
+                reader.readAsDataURL(file);
+            });
+        }
+    </script>
+
+    <script>
+        function openImageModal(src) {
+            const modalImg = document.getElementById("modalImage");
+            modalImg.src = src;
+
+            const modal = new bootstrap.Modal(
+                document.getElementById("imagePreviewModal")
+            );
+            modal.show();
+        }
+    </script>
+
+{% endblock %}

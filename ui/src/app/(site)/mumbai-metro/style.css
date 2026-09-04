@@ -1,0 +1,479 @@
+
+.mumbai-metro-page {
+  --l1:#1565C0;--l2a:#F9A825;--l3:#00BCD4;--l7:#E53935;--l9:#E53935;
+  --l4:#43A047;--l6:#D81B60;--l5:#F57C00;--l2b:#F9A825;
+  --dark:#371b58;--orange:#ff6b00;--gold:#F5A623;
+  --ink:#111;--muted:#6B7280;--cream:#FAFAF7;--border:#E5E5E0;
+  --sh:0 4px 24px rgba(0,0,0,.08);--sh-lg:0 20px 60px rgba(0,0,0,.2);
+  font-family:'Sora',sans-serif;background:var(--cream);color:var(--ink);
+  overflow-x:hidden;
+}
+.mumbai-metro-page a { text-decoration:none; color:inherit; }
+
+.mumbai-metro-page .con {max-width:1260px;margin:0 auto;padding:0 48px}
+
+@media(max-width:760px){.mumbai-metro-page .con {padding:0 16px}}
+
+
+/* HERO */
+
+.mumbai-metro-page .hero {background:var(--dark);padding:72px 0 0;position:relative;overflow:hidden}
+
+.mumbai-metro-page .hero-grid {position:absolute;inset:0;background-image:linear-gradient(rgba(255,255,255,.02) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.02) 1px,transparent 1px);background-size:44px 44px;pointer-events:none}
+
+.mumbai-metro-page .glow {position:absolute;border-radius:50%;filter:blur(140px);pointer-events:none}
+
+.mumbai-metro-page .glow-1 {width:500px;height:400px;background:rgba(0,188,212,.2);left:-80px;top:0}
+
+.mumbai-metro-page .glow-2 {width:400px;height:350px;background:rgba(229,57,53,.18);right:-40px;top:60px}
+
+.mumbai-metro-page .glow-3 {width:300px;height:280px;background:rgba(249,168,37,.12);left:40%;top:20px}
+
+.mumbai-metro-page .hero-inner {position:relative;z-index:2;padding:0 0 48px;display:flex;align-items:center;justify-content:space-between;gap:32px}
+
+.mumbai-metro-page .hero-content {flex:1;min-width:0}
+
+.mumbai-metro-page .hero-logo-wrap {flex-shrink:0;display:flex;align-items:center;justify-content:center}
+
+.mumbai-metro-page .hero-logo-img {width:clamp(160px,18vw,260px);height:auto;filter:drop-shadow(0 0 40px rgba(255,255,255,.08));opacity:.92;transition:opacity .3s}
+
+.mumbai-metro-page .hero-logo-img:hover {opacity:1}
+
+@media(max-width:760px){.mumbai-metro-page .hero-inner {flex-direction:column;align-items:flex-start}
+.mumbai-metro-page .hero-logo-wrap {align-self:flex-end;margin-top:-40px}
+.mumbai-metro-page .hero-logo-img {width:110px}}
+
+.mumbai-metro-page .hero-bc {display:flex;align-items:center;gap:6px;font-size:11px;color:rgba(255,255,255,.3);margin-bottom:18px;flex-wrap:wrap}
+
+.mumbai-metro-page .hero-bc a {color:rgba(255,255,255,.45)}
+.mumbai-metro-page .hero-bc span {color:rgba(255,255,255,.18)}
+
+.mumbai-metro-page .hero-kicker {font-size:9px;font-weight:800;letter-spacing:.24em;text-transform:uppercase;color:rgba(255,255,255,.35);margin-bottom:10px;display:flex;align-items:center;gap:10px}
+
+.mumbai-metro-page .hero-kicker::before {content:'';width:22px;height:2px;background:var(--orange);display:inline-block}
+
+.mumbai-metro-page .hero-h1 {font-family:'Bebas Neue',sans-serif;font-size:clamp(3rem,8.5vw,6.5rem);line-height:.88;letter-spacing:.01em;color:#fff;margin-bottom:14px}
+
+.mumbai-metro-page .hero-h1 .t1 {color:#80DEEA}
+.mumbai-metro-page .hero-h1 .t2 {color:var(--gold)}
+
+.mumbai-metro-page .hero-desc {font-size:15px;color:rgba(255,255,255,.5);line-height:1.8;font-weight:300;max-width:700px;margin-bottom:28px}
+
+/* Line badges in hero */
+
+.mumbai-metro-page .hero-lines {display:flex;gap:8px;flex-wrap:wrap;margin-bottom:24px}
+
+.mumbai-metro-page .lb {display:inline-flex;align-items:center;gap:6px;padding:6px 13px;border-radius:100px;font-size:10px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;border:1px solid rgba(255,255,255,.1)}
+
+.mumbai-metro-page .lb .dot {width:9px;height:9px;border-radius:50%;flex-shrink:0}
+
+.mumbai-metro-page .lb-new {font-size:8px;background:var(--orange);color:#fff;padding:1px 6px;border-radius:100px;margin-left:3px}
+
+.mumbai-metro-page .hero-bottom {background:rgba(0,0,0,.3);border-top:1px solid rgba(255,255,255,.06);padding:14px 0}
+
+.mumbai-metro-page .hstats {display:flex;flex-wrap:wrap}
+
+.mumbai-metro-page .hs {padding:10px 22px;border-right:1px solid rgba(255,255,255,.07);text-align:center}
+.mumbai-metro-page .hs:last-child {border-right:none}
+
+.mumbai-metro-page .hs-n {font-family:'Bebas Neue',sans-serif;font-size:1.7rem;color:var(--gold);letter-spacing:.04em;line-height:1}
+
+.mumbai-metro-page .hs-l {font-size:9px;color:rgba(255,255,255,.35);text-transform:uppercase;letter-spacing:.1em;margin-top:2px}
+
+
+/* MAP SECTION — FULL WIDTH */
+
+.mumbai-metro-page .map-section {padding:52px 0 0;background:var(--dark);position:relative;overflow:hidden}
+
+.mumbai-metro-page .map-section-inner {position:relative;z-index:2}
+
+.mumbai-metro-page .map-header {padding:0 48px 24px;display:flex;align-items:flex-end;justify-content:space-between;flex-wrap:wrap;gap:16px}
+
+@media(max-width:760px){.mumbai-metro-page .map-header {padding:0 16px 20px}}
+
+.mumbai-metro-page .map-head-left .map-kicker {font-size:9px;font-weight:800;letter-spacing:.22em;text-transform:uppercase;color:var(--orange);margin-bottom:6px;display:flex;align-items:center;gap:8px}
+
+.mumbai-metro-page .map-head-left .map-kicker::before {content:'';width:18px;height:2px;background:var(--orange);display:inline-block}
+
+.mumbai-metro-page .map-head-left h2 {font-family:'Bebas Neue',sans-serif;font-size:clamp(2rem,5vw,3.2rem);color:#fff;letter-spacing:.02em;line-height:1}
+
+.mumbai-metro-page .map-head-left h2 em {color:#80DEEA;font-style:normal}
+
+.mumbai-metro-page .map-hint {font-size:11px;color:rgba(255,255,255,.3);display:flex;align-items:center;gap:6px;font-weight:500;letter-spacing:.04em}
+
+.mumbai-metro-page .map-hint::before {content:'👆';font-size:15px}
+
+.mumbai-metro-page .map-canvas {padding:0 48px 0;overflow-x:auto}
+
+@media(max-width:760px){.mumbai-metro-page .map-canvas {padding:0 12px}}
+
+.mumbai-metro-page .map-canvas svg {display:block;width:100%;max-width:1160px;margin:0 auto}
+
+
+/* STATION POPUP */
+
+.mumbai-metro-page .stn-popup {position:fixed;bottom:0;left:0;right:0;background:#fff;border-radius:24px 24px 0 0;padding:28px 32px 40px;box-shadow:0 -20px 60px rgba(0,0,0,.25);transform:translateY(100%);transition:transform .35s cubic-bezier(.23,1,.32,1);z-index:1000;max-width:640px;margin:0 auto}
+
+.mumbai-metro-page .stn-popup.open {transform:translateY(0)}
+
+.mumbai-metro-page .popup-drag {width:44px;height:4px;background:var(--border);border-radius:2px;margin:0 auto 20px}
+
+.mumbai-metro-page .popup-top {display:flex;align-items:flex-start;gap:16px;margin-bottom:14px}
+
+.mumbai-metro-page .popup-emoji {font-size:2.8rem;line-height:1;flex-shrink:0}
+
+.mumbai-metro-page .popup-head {flex:1}
+
+.mumbai-metro-page .popup-name {font-family:'Bebas Neue',sans-serif;font-size:2rem;color:var(--dark);letter-spacing:.02em;line-height:1;margin-bottom:6px}
+
+.mumbai-metro-page .popup-tags {display:flex;gap:5px;flex-wrap:wrap}
+
+.mumbai-metro-page .popup-tag {display:inline-flex;align-items:center;gap:4px;padding:3px 10px;border-radius:100px;font-size:9px;font-weight:800;letter-spacing:.1em;text-transform:uppercase}
+.mumbai-metro-page .popup-tag--2a {background:#F9A825;color:#111}
+.mumbai-metro-page .popup-tag--l1 {background:#1565C0;color:#fff}
+.mumbai-metro-page .popup-tag--l7 {background:#E53935;color:#fff}
+.mumbai-metro-page .popup-tag--l9 {background:#ff6b00;color:#fff}
+.mumbai-metro-page .popup-tag--l3 {background:#006064;color:#fff}
+.mumbai-metro-page .popup-tag--cr {background:#C62828;color:#fff}
+.mumbai-metro-page .popup-tag--rail {background:#555;color:#fff}
+
+.mumbai-metro-page .popup-desc {font-size:13px;color:#4B5563;line-height:1.8;font-weight:300;margin-bottom:14px;border-bottom:1px solid var(--border);padding-bottom:14px}
+
+.mumbai-metro-page .popup-facts {display:grid;grid-template-columns:1fr 1fr;gap:8px}
+
+@media(max-width:480px){.mumbai-metro-page .popup-facts {grid-template-columns:1fr}}
+
+.mumbai-metro-page .popup-fact {display:flex;align-items:flex-start;gap:7px;font-size:12px;color:#374151;line-height:1.6}
+
+.mumbai-metro-page .popup-fact-icon {font-size:14px;flex-shrink:0}
+
+.mumbai-metro-page .popup-close {position:absolute;top:20px;right:20px;width:32px;height:32px;border-radius:50%;background:var(--border);border:none;cursor:pointer;font-size:15px;display:flex;align-items:center;justify-content:center;color:var(--muted)}
+
+.mumbai-metro-page .popup-close:hover {background:var(--dark);color:#fff}
+
+.mumbai-metro-page .popup-bar {height:4px;border-radius:2px;margin-bottom:22px}
+.mumbai-metro-page .popup-bar--y2a {background:#F9A825}
+.mumbai-metro-page .popup-bar--l7 {background:#E53935}
+.mumbai-metro-page .popup-bar--l1 {background:#1565C0}
+.mumbai-metro-page .popup-bar--l3 {background:#00BCD4}
+
+.mumbai-metro-page .popup-overlay {position:fixed;inset:0;background:rgba(0,0,0,.4);z-index:999;opacity:0;pointer-events:none;transition:opacity .3s}
+
+.mumbai-metro-page .popup-overlay.open {opacity:1;pointer-events:all}
+
+
+/* MAP LEGEND */
+
+.mumbai-metro-page .map-legend {display:flex;gap:0;flex-wrap:wrap;border-top:1px solid rgba(255,255,255,.06);margin-top:0}
+
+.mumbai-metro-page .legend-line-row {display:flex;align-items:center;gap:8px;padding:12px 20px;border-right:1px solid rgba(255,255,255,.07);font-size:11px;color:rgba(255,255,255,.5);font-weight:500;white-space:nowrap}
+
+.mumbai-metro-page .legend-line-row:last-child {border-right:none}
+
+.mumbai-metro-page .lleg {width:24px;height:5px;border-radius:2px;flex-shrink:0}
+
+.mumbai-metro-page .lleg-dash {background:repeating-linear-gradient(90deg,rgba(0,188,212,1) 0,rgba(0,188,212,1) 7px,transparent 7px,transparent 12px);height:5px;border-radius:2px}
+
+.mumbai-metro-page .lleg-under {background:repeating-linear-gradient(90deg,rgba(150,150,150,.5) 0,rgba(150,150,150,.5) 7px,transparent 7px,transparent 12px);height:4px;border-radius:2px}
+
+.mumbai-metro-page .leg-new-badge {font-size:7.5px;font-weight:800;background:var(--orange);color:#fff;padding:1px 5px;border-radius:100px;margin-left:2px}
+
+
+/* PAGE BODY */
+
+.mumbai-metro-page .page-body {padding:52px 0 80px}
+
+.mumbai-metro-page .page-layout {display:grid;grid-template-columns:1fr 300px;gap:32px;align-items:start}
+
+@media(max-width:960px){.mumbai-metro-page .page-layout {grid-template-columns:1fr}}
+
+.mumbai-metro-page .sec {margin-bottom:48px}
+
+.mumbai-metro-page .sec-kicker {font-size:9px;font-weight:800;letter-spacing:.22em;text-transform:uppercase;color:var(--orange);margin-bottom:8px;display:flex;align-items:center;gap:8px}
+
+.mumbai-metro-page .sec-kicker::before {content:'';width:18px;height:2px;background:var(--orange);display:inline-block}
+
+.mumbai-metro-page .sec-title {font-family:'Bebas Neue',sans-serif;font-size:clamp(1.8rem,4vw,2.8rem);letter-spacing:.02em;color:var(--ink);margin-bottom:4px}
+
+.mumbai-metro-page .sec-title em {color:var(--orange);font-style:normal}
+
+.mumbai-metro-page .sec-sub {font-size:13px;color:var(--muted);font-weight:300;line-height:1.7;margin-bottom:20px;max-width:680px}
+
+
+/* LINE CARDS */
+
+.mumbai-metro-page .line-cards {display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin:20px 0}
+
+@media(max-width:860px){.mumbai-metro-page .line-cards {grid-template-columns:1fr 1fr}}
+
+@media(max-width:560px){.mumbai-metro-page .line-cards {grid-template-columns:1fr}}
+
+.mumbai-metro-page .lc {border-radius:18px;overflow:hidden;transition:transform .22s,box-shadow .22s}
+
+.mumbai-metro-page .lc:hover {transform:translateY(-4px);box-shadow:var(--sh-lg)}
+
+.mumbai-metro-page .lc-head {padding:20px 18px 14px;position:relative;overflow:hidden}
+
+.mumbai-metro-page .lc-num {position:absolute;top:10px;right:14px;font-family:'Bebas Neue',sans-serif;font-size:4rem;line-height:1;opacity:.1;letter-spacing:-.04em;color:#fff}
+
+.mumbai-metro-page .lc-badge {display:inline-block;font-size:8px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;padding:2px 8px;border-radius:100px;background:rgba(255,255,255,.2);color:#fff;margin-bottom:10px}
+
+.mumbai-metro-page .lc-badge.new-badge {background:var(--orange)}
+
+.mumbai-metro-page .lc-badge.construction {background:rgba(255,255,255,.15)}
+
+.mumbai-metro-page .lc-name {font-family:'Bebas Neue',sans-serif;font-size:1.5rem;color:#fff;line-height:1;margin-bottom:3px;letter-spacing:.02em}
+
+.mumbai-metro-page .lc-route {font-size:9px;color:rgba(255,255,255,.65);font-weight:600;letter-spacing:.06em;text-transform:uppercase}
+
+.mumbai-metro-page .lc-body {background:#fff;padding:14px 16px;border:1px solid var(--border);border-top:none;border-radius:0 0 18px 18px}
+
+.mumbai-metro-page .lc-stats {display:flex;border-bottom:1px solid var(--border);margin-bottom:10px;padding-bottom:10px}
+
+.mumbai-metro-page .lc-stat {flex:1;text-align:center;padding:4px 0;border-right:1px solid var(--border)}
+.mumbai-metro-page .lc-stat:last-child {border-right:none}
+
+.mumbai-metro-page .lc-stat-n {font-family:'Bebas Neue',sans-serif;font-size:1.2rem;letter-spacing:.03em;line-height:1}
+
+.mumbai-metro-page .lc-stat-l {font-size:8px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
+
+.mumbai-metro-page .lc-desc {font-size:11.5px;color:#374151;line-height:1.7;font-weight:300}
+
+.mumbai-metro-page .lc-stations {display:flex;flex-wrap:wrap;gap:4px;margin-top:10px;padding-top:10px;border-top:1px solid var(--border)}
+
+.mumbai-metro-page .lc-stn {font-size:9.5px;font-weight:600;padding:2px 8px;border-radius:100px;background:var(--cream);border:1px solid var(--border);color:var(--dark)}
+
+.mumbai-metro-page .lc-stn.ix {border-color:var(--orange);color:var(--orange)}
+
+
+/* UPCOMING LINES */
+
+.mumbai-metro-page .upcoming-grid {display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:20px 0}
+
+@media(max-width:600px){.mumbai-metro-page .upcoming-grid {grid-template-columns:1fr}}
+
+.mumbai-metro-page .uc {background:#fff;border:1px solid var(--border);border-radius:14px;padding:16px;border-left:4px solid currentColor}
+
+.mumbai-metro-page .uc.l4 {color:var(--l4)}
+.mumbai-metro-page .uc.l6 {color:var(--l6)}
+.mumbai-metro-page .uc.l5 {color:var(--l5)}
+.mumbai-metro-page .uc.l7a {color:var(--l7)}
+
+.mumbai-metro-page .uc-line-label {font-size:8px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;margin-bottom:5px}
+
+.mumbai-metro-page .uc-name {font-size:13px;font-weight:800;color:var(--ink);margin-bottom:5px}
+
+.mumbai-metro-page .uc-body {font-size:11.5px;color:var(--muted);line-height:1.7;font-weight:300}
+
+.mumbai-metro-page .status-badge {display:inline-block;font-size:8px;font-weight:800;letter-spacing:.1em;text-transform:uppercase;padding:2px 8px;border-radius:100px;margin-bottom:6px}
+
+.mumbai-metro-page .s-construction {background:rgba(255,107,0,.1);color:var(--orange);border:1px solid rgba(255,107,0,.25)}
+
+.mumbai-metro-page .s-2026 {background:rgba(5,150,105,.1);color:#059669;border:1px solid rgba(5,150,105,.25)}
+
+
+/* FARE TABLE */
+
+.mumbai-metro-page .fare-table-wrap {overflow-x:auto;border-radius:14px;border:1px solid var(--border);margin:20px 0}
+
+.mumbai-metro-page .fare-table {width:100%;border-collapse:collapse}
+
+.mumbai-metro-page .fare-table th {background:var(--dark);color:#fff;padding:11px 16px;text-align:left;font-size:9.5px;font-weight:800;letter-spacing:.12em;text-transform:uppercase}
+
+.mumbai-metro-page .fare-table td {padding:11px 16px;font-size:12.5px;border-bottom:1px solid var(--border)}
+
+.mumbai-metro-page .fare-table tr:last-child td {border-bottom:none}
+
+.mumbai-metro-page .fare-table tr:hover td {background:#f9f6ff}
+
+.mumbai-metro-page .line-badge-cell {display:inline-flex;align-items:center;gap:6px;padding:3px 10px;border-radius:100px;font-size:10px;font-weight:800;color:#fff;white-space:nowrap}
+
+
+/* TIPS */
+
+.mumbai-metro-page .tips-grid {display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:20px 0}
+
+@media(max-width:600px){.mumbai-metro-page .tips-grid {grid-template-columns:1fr}}
+
+.mumbai-metro-page .tip {background:#fff;border:1px solid var(--border);border-radius:14px;padding:16px;display:flex;gap:12px;align-items:flex-start;transition:transform .2s}
+
+.mumbai-metro-page .tip:hover {transform:translateY(-2px);box-shadow:var(--sh)}
+
+.mumbai-metro-page .tip-icon {font-size:1.5rem;flex-shrink:0;line-height:1}
+
+.mumbai-metro-page .tip h4 {font-size:13px;font-weight:800;color:var(--ink);margin-bottom:4px}
+
+.mumbai-metro-page .tip p {font-size:12px;color:var(--muted);line-height:1.7;font-weight:300}
+
+
+/* INTERCHANGE TABLE */
+
+.mumbai-metro-page .ix-table {width:100%;border-collapse:collapse;border-radius:14px;overflow:hidden;border:1px solid var(--border);margin:20px 0}
+
+.mumbai-metro-page .ix-table th {background:var(--dark);color:#fff;padding:11px 16px;font-size:9.5px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;text-align:left}
+
+.mumbai-metro-page .ix-table td {padding:11px 16px;border-bottom:1px solid var(--border);font-size:12px}
+
+.mumbai-metro-page .ix-table tr:last-child td {border-bottom:none}
+
+.mumbai-metro-page .ix-table tr:hover td {background:#f9f6ff}
+
+.mumbai-metro-page .ix-stn {font-weight:800;color:var(--dark);font-size:13px}
+
+
+/* INFO / WARN BOX */
+
+.mumbai-metro-page .info-box {background:linear-gradient(135deg,#f0f4ff,#f5f0ff);border:1.5px solid rgba(55,27,88,.12);border-radius:14px;padding:20px 22px;margin:20px 0}
+
+.mumbai-metro-page .info-box h4 {font-size:11px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--dark);margin-bottom:12px}
+
+.mumbai-metro-page .info-box ul {list-style:none}
+
+.mumbai-metro-page .info-box ul li {font-size:13px;color:#374151;padding:5px 0;border-bottom:1px solid rgba(55,27,88,.07);display:flex;gap:8px;font-weight:400;line-height:1.6}
+
+.mumbai-metro-page .info-box ul li:last-child {border-bottom:none}
+
+.mumbai-metro-page .info-box ul li::before {content:'→';color:var(--orange);font-weight:800;font-size:11px;flex-shrink:0;margin-top:3px}
+
+.mumbai-metro-page .warn-box {background:linear-gradient(135deg,#fff7ed,#fffbf2);border:1.5px solid rgba(255,107,0,.25);border-radius:14px;padding:18px 20px;margin:20px 0;display:flex;gap:14px;align-items:flex-start}
+
+.mumbai-metro-page .warn-icon {font-size:1.5rem;flex-shrink:0}
+.mumbai-metro-page .warn-body h4 {font-size:13px;font-weight:800;margin-bottom:5px}
+.mumbai-metro-page .warn-body p {font-size:12px;color:#4B5563;line-height:1.7;font-weight:300}
+
+
+/* FAQ */
+
+.mumbai-metro-page .faq-item {background:#fff;border:1px solid var(--border);border-radius:14px;overflow:hidden;margin-bottom:10px}
+
+.mumbai-metro-page .faq-q {padding:16px 20px;font-size:13px;font-weight:700;cursor:pointer;display:flex;justify-content:space-between;align-items:center;gap:12px;color:var(--dark)}
+.mumbai-metro-page button.faq-q{width:100%;border:none;background:none;text-align:left;font-family:inherit}
+
+.mumbai-metro-page .faq-q::after {content:'＋';font-size:16px;color:var(--orange);flex-shrink:0;transition:transform .2s}
+
+.mumbai-metro-page .faq-item.open .faq-q::after {transform:rotate(45deg)}
+
+.mumbai-metro-page .faq-a {max-height:0;overflow:hidden;transition:max-height .35s ease,padding .3s}
+
+.mumbai-metro-page .faq-item.open .faq-a {max-height:350px}
+
+.mumbai-metro-page .faq-a-inner {padding:0 20px 16px;font-size:13px;color:#4B5563;line-height:1.8;font-weight:300;border-top:1px solid var(--border)}
+
+
+/* CTA BAR */
+
+.mumbai-metro-page .cta-bar {background:linear-gradient(135deg,var(--dark),#1a0d2e);border-radius:18px;padding:28px 32px;display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap;margin:28px 0}
+
+.mumbai-metro-page .cta-bar h3 {font-family:'Bebas Neue',sans-serif;font-size:1.9rem;color:#fff;letter-spacing:.03em}
+
+.mumbai-metro-page .cta-bar h3 em {color:var(--gold);font-style:normal}
+
+.mumbai-metro-page .cta-bar p {font-size:12px;color:rgba(255,255,255,.45);margin-top:4px;font-weight:300}
+
+.mumbai-metro-page .cta-btn {background:var(--orange);color:#fff;padding:13px 26px;border-radius:100px;font-size:12px;font-weight:800;letter-spacing:.06em;display:inline-block;transition:all .2s;white-space:nowrap}
+
+.mumbai-metro-page .cta-btn:hover {background:var(--gold);color:var(--dark)}
+
+
+.mumbai-metro-page .sb-widget {background:#fff;border:1px solid var(--border);border-radius:16px;overflow:hidden}
+
+.mumbai-metro-page .sbw-head {padding:14px 16px;background:var(--dark);font-size:13px;font-weight:800;color:#fff}
+
+.mumbai-metro-page .sbw-head em {color:var(--gold);font-style:normal}
+
+.mumbai-metro-page .sbw-body {padding:14px 16px}
+
+.mumbai-metro-page .ql {display:flex;align-items:center;gap:10px;padding:9px 0;border-bottom:1px solid var(--border);font-size:12px;color:var(--ink);font-weight:500;transition:color .15s}
+
+.mumbai-metro-page .ql:last-child {border-bottom:none}
+.mumbai-metro-page .ql:hover {color:var(--orange)}
+
+.mumbai-metro-page .qi {font-size:1rem;flex-shrink:0;width:20px;text-align:center}
+.mumbai-metro-page .qt {flex:1}
+.mumbai-metro-page .qa {color:var(--orange);font-weight:700;font-size:12px}
+
+.mumbai-metro-page .timing-row {display:flex;justify-content:space-between;padding:7px 0;border-bottom:1px solid var(--border);font-size:12px}
+
+.mumbai-metro-page .timing-row:last-child {border-bottom:none}
+
+.mumbai-metro-page .tr-key {color:#374151;font-weight:500}
+.mumbai-metro-page .tr-val {font-weight:800;color:var(--dark)}
+
+
+/* PROSE */
+
+.mumbai-metro-page .prose {background:#fff;border:1px solid var(--border);border-radius:16px;padding:28px;margin-bottom:20px}
+
+.mumbai-metro-page .prose h2 {font-family:'Bebas Neue',sans-serif;font-size:1.8rem;letter-spacing:.02em;color:var(--dark);margin-bottom:12px}
+
+.mumbai-metro-page .prose h3 {font-size:14px;font-weight:800;color:var(--ink);margin:18px 0 7px}
+
+.mumbai-metro-page .prose p {font-size:13px;color:#374151;line-height:1.85;font-weight:300;margin-bottom:10px}
+
+
+/* SCROLL REVEAL */
+
+.mumbai-metro-page .rv {opacity:0;transform:translateY(22px);transition:opacity .55s ease,transform .55s ease}
+
+.mumbai-metro-page .rv.in {opacity:1;transform:translateY(0)}
+
+
+/* SVG station interaction */
+
+.mumbai-metro-page .stn-g {cursor:pointer}
+
+.mumbai-metro-page .stn-g circle.outer {transition:r .2s;fill:transparent}
+
+.mumbai-metro-page .stn-g:hover circle.outer {r:20}
+
+.mumbai-metro-page .stn-g.active circle.main {stroke-width:5}
+
+/* Hero line badges */
+.mumbai-metro-page .lb-l1{background:rgba(21,101,192,.2);color:#90CAF9;border-color:rgba(21,101,192,.3)}
+.mumbai-metro-page .lb-l1 .dot{background:#64B5F6}
+.mumbai-metro-page .lb-l2a{background:rgba(249,168,37,.15);color:#FFD54F;border-color:rgba(249,168,37,.3)}
+.mumbai-metro-page .lb-l2a .dot{background:#FFD54F}
+.mumbai-metro-page .lb-l3{background:rgba(0,188,212,.15);color:#80DEEA;border-color:rgba(0,188,212,.3)}
+.mumbai-metro-page .lb-l3 .dot{background:#80DEEA}
+.mumbai-metro-page .lb-l7{background:rgba(229,57,53,.15);color:#EF9A9A;border-color:rgba(229,57,53,.3)}
+.mumbai-metro-page .lb-l7 .dot{background:#EF9A9A}
+.mumbai-metro-page .lb-l9{background:rgba(229,57,53,.1);color:#EF9A9A;border-color:rgba(229,57,53,.2)}
+.mumbai-metro-page .lb-l9 .dot{background:#EF9A9A}
+.mumbai-metro-page .lb-l2b{background:rgba(249,168,37,.1);color:#FFD54F;border-color:rgba(249,168,37,.2)}
+.mumbai-metro-page .lb-l2b .dot{background:#FFD54F}
+.mumbai-metro-page .lleg-l1{background:#1565C0}
+.mumbai-metro-page .lleg-l2a{background:#F9A825}
+.mumbai-metro-page .lleg-l7{background:#E53935}
+.mumbai-metro-page .lleg-new{background:var(--orange)}
+.mumbai-metro-page .legend-line-row--new{color:rgba(255,107,0,.8)}
+.mumbai-metro-page .lc-head-l1{background:linear-gradient(135deg,#1565C0,#0D47A1)}
+.mumbai-metro-page .lc-head-l2a{background:linear-gradient(135deg,#F57F17,#F9A825)}
+.mumbai-metro-page .lc-head-l3{background:linear-gradient(135deg,#006064,#00838F)}
+.mumbai-metro-page .lc-head-l7{background:linear-gradient(135deg,#B71C1C,#C62828)}
+.mumbai-metro-page .lc-head-l9{background:linear-gradient(135deg,#7B1FA2,#8E24AA)}
+.mumbai-metro-page .lc-head-l2b{background:linear-gradient(135deg,#E65100,#F57F17)}
+.mumbai-metro-page .lc-stat-n-l1{color:#1565C0}
+.mumbai-metro-page .lc-stat-n-l2a{color:#F57F17}
+.mumbai-metro-page .lc-stat-n-l3{color:#006064}
+.mumbai-metro-page .lc-stat-n-l7{color:#C62828}
+.mumbai-metro-page .lc-stat-n-l9{color:#7B1FA2}
+.mumbai-metro-page .lc-stat-n-l2b{color:#E65100}
+.mumbai-metro-page .badge-l1{background:#1565C0}
+.mumbai-metro-page .badge-l2a{background:#F57F17}
+.mumbai-metro-page .badge-l3{background:#006064}
+.mumbai-metro-page .badge-l7{background:#C62828}
+.mumbai-metro-page .badge-l9{background:#7B1FA2}
+.mumbai-metro-page .badge-l2b{background:#E65100}
+.mumbai-metro-page .badge-cr{font-size:12px;font-weight:700;color:#C62828}
+.mumbai-metro-page .cell-muted{font-size:12px;color:#4B5563}
+.mumbai-metro-page .cell-bold{font-weight:700}
+.mumbai-metro-page .fare-max-l1{color:#1565C0}
+.mumbai-metro-page .fare-max-l2a{color:#F57F17}
+.mumbai-metro-page .fare-max-l3{color:#006064}
+.mumbai-metro-page .fare-max-l7{color:#C62828}
+.mumbai-metro-page .fare-max-l9{color:#7B1FA2}
+.mumbai-metro-page .fare-max-l2b{color:#E65100}
+.mumbai-metro-page .tr-key-l1{color:#1565C0}
+.mumbai-metro-page .tr-key-l2a{color:#F57F17}
+.mumbai-metro-page .tr-key-l3{color:#006064}
+.mumbai-metro-page .tr-key-l7{color:#C62828}

@@ -1,0 +1,89 @@
+{% extends "base.html" %}
+{% block title %}{{ 'Edit' if blog else 'Create' }} Blog{% endblock %}
+
+{% block content %}
+<h3>{{ 'Edit' if blog else 'Create' }} Blog</h3>
+
+<form method="post" enctype="multipart/form-data" class="card">
+  <div class="card-body">
+
+    <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+
+    <!-- TITLE -->
+    <label>Title</label>
+    <input name="title" class="form-control mb-2"
+           value="{{ blog.title if blog else '' }}">
+
+    <!-- SLUG -->
+    <label>Slug</label>
+    <input name="slug" class="form-control mb-2"
+           value="{{ blog.slug if blog else '' }}">
+
+    <!-- CONTENT (QUILL) -->
+    <label>Content</label>
+    <div id="editor" style="height:200px;">
+      {{ blog.content | safe if blog else '' }}
+    </div>
+    <input type="hidden" name="content" id="content">
+
+    <!-- EXCERPT -->
+    <label>Excerpt</label>
+    <textarea name="excerpt" class="form-control mb-2">{{ blog.excerpt if blog else '' }}</textarea>
+
+    <!-- FEATURED IMAGE -->
+    <label>Featured Image</label>
+    <input type="file" name="featured_image" class="form-control mb-2">
+
+    {% if blog and blog.featured_image %}
+      <img src="{{ blog.featured_image }}" width="120" class="mb-2">
+    {% endif %}
+
+    <!-- AUTHOR -->
+    <label>Author Name</label>
+    <input name="author_name" class="form-control mb-2"
+           value="{{ blog.author_name if blog else '' }}">
+
+    <label>Author Tagline</label>
+    <input name="author_tagline" class="form-control mb-2"
+           value="{{ blog.author_tagline if blog else '' }}">
+
+    <label>Author Bio</label>
+    <textarea name="author_bio" class="form-control mb-2">{{ blog.author_bio if blog else '' }}</textarea>
+
+    <!-- HASHTAGS -->
+    <label>Hashtags (comma separated)</label>
+    <input name="hashtags" class="form-control mb-2"
+           value="{{ blog.hashtags | join(', ') if blog and blog.hashtags else '' }}">
+
+    <!-- SEO -->
+    <label>SEO Title</label>
+    <input name="seo_title" class="form-control mb-2"
+           value="{{ blog.seo_title if blog else '' }}">
+
+    <label>SEO Description</label>
+    <textarea name="seo_description" class="form-control mb-2">{{ blog.seo_description if blog else '' }}</textarea>
+
+    <!-- STATUS -->
+    <div class="form-check mt-2">
+      <input type="checkbox" name="is_published" class="form-check-input"
+             {% if blog and blog.is_published %}checked{% endif %}>
+      <label>Publish</label>
+    </div>
+
+  </div>
+
+  <div class="card-footer text-end">
+    <a href="{{ url_for('admin.blogs') }}" class="btn btn-light">Cancel</a>
+    <button type="submit" class="btn btn-primary">Save</button>
+  </div>
+</form>
+
+<script>
+const quill = new Quill('#editor', { theme: 'snow' });
+
+document.querySelector("form").addEventListener("submit", function () {
+  document.getElementById("content").value = quill.root.innerHTML;
+});
+</script>
+
+{% endblock %}

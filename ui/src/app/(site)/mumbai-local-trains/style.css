@@ -1,0 +1,372 @@
+.mumbai-local-trains-page {
+  --wr: #1565c0;
+  --cr: #c62828;
+  --hl: #2e7d32;
+  --dark: #371b58;
+  --orange: #ff6b00;
+  --gold: #f5a623;
+  --ink: #111;
+  --muted: #6b7280;
+  --border: #e5e5e0;
+  --sh-lg: 0 16px 48px rgba(0, 0, 0, 0.18);
+}
+
+/* HERO — scoped, not global .hero */
+.mumbai-local-trains-page .hero {
+  background: var(--dark);
+  padding: 72px 0 0;
+  position: relative;
+  overflow: hidden;
+}
+
+.mumbai-local-trains-page .hero-grid {
+  position: absolute;
+  inset: 0;
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.025) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.025) 1px, transparent 1px);
+  background-size: 48px 48px;
+  pointer-events: none;
+}
+
+.mumbai-local-trains-page .hero-inner {
+  position: relative;
+  z-index: 2;
+  padding: 0 0 48px;
+}
+
+.mumbai-local-trains-page .hero-bc {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 11px;
+  color: rgba(255, 255, 255, 0.3);
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+.mumbai-local-trains-page .hero-bc a {
+  color: rgba(255, 255, 255, 0.45);
+}
+
+.mumbai-local-trains-page .hero-bc span {
+  color: rgba(255, 255, 255, 0.18);
+}
+
+.mumbai-local-trains-page .hero-kicker {
+  font-size: 9px;
+  font-weight: 800;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.35);
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.mumbai-local-trains-page .hero-kicker::before {
+  content: "";
+  width: 22px;
+  height: 2px;
+  background: var(--orange);
+  display: inline-block;
+}
+
+.mumbai-local-trains-page .hero-h1 {
+  font-family: "Bebas Neue", sans-serif;
+  font-size: clamp(2.8rem, 8vw, 6rem);
+  line-height: 0.91;
+  letter-spacing: 0.01em;
+  color: #fff;
+  margin-bottom: 16px;
+}
+
+.mumbai-local-trains-page .hero-h1 .wr-t {
+  color: #64b5f6;
+}
+
+.mumbai-local-trains-page .hero-h1 .cr-t {
+  color: #ef9a9a;
+}
+
+.mumbai-local-trains-page .hero-h1 .hl-t {
+  color: #a5d6a7;
+}
+
+.mumbai-local-trains-page .line-pill .dot-wr {
+  background: #64b5f6;
+}
+
+.mumbai-local-trains-page .line-pill .dot-cr {
+  background: #ef9a9a;
+}
+
+.mumbai-local-trains-page .line-pill .dot-hl {
+  background: #a5d6a7;
+}
+
+/* Line cards body (commented out in combined CSS) */
+.mumbai-local-trains-page .lc-body {
+  background: #fff;
+  padding: 16px 18px;
+}
+
+.mumbai-local-trains-page .lc-stat-n--wr {
+  color: var(--wr);
+}
+
+.mumbai-local-trains-page .lc-stat-n--cr {
+  color: var(--cr);
+}
+
+.mumbai-local-trains-page .lc-stat-n--hl {
+  color: var(--hl);
+}
+
+/* Map filter bar wrap */
+.mumbai-local-trains-page .map-filter-bar-wrap {
+  padding: 10px 20px 0;
+  background: rgba(0, 0, 0, 0.15);
+}
+
+/* Panel default legend */
+.mumbai-local-trains-page .panel-legend {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  text-align: left;
+  padding: 12px;
+  background: rgba(255, 255, 255, 0.04);
+  border-radius: 12px;
+}
+
+.mumbai-local-trains-page .panel-legend-item {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  font-size: 11px;
+  color: rgba(255, 255, 255, 0.4);
+}
+
+.mumbai-local-trains-page .panel-legend-line {
+  width: 14px;
+  height: 4px;
+  display: inline-block;
+  border-radius: 2px;
+  flex-shrink: 0;
+}
+
+.mumbai-local-trains-page .panel-legend-line--wr {
+  background: #1565c0;
+}
+
+.mumbai-local-trains-page .panel-legend-line--cr {
+  background: #c62828;
+}
+
+.mumbai-local-trains-page .panel-legend-line--hl {
+  background: #2e7d32;
+}
+
+.mumbai-local-trains-page .panel-legend-line--gold {
+  background: #f5a623;
+}
+
+/* Station panel bar colors */
+.mumbai-local-trains-page .ps-line-bar--wr {
+  background: #1565c0;
+}
+
+.mumbai-local-trains-page .ps-line-bar--cr {
+  background: #c62828;
+}
+
+.mumbai-local-trains-page .ps-line-bar--hl {
+  background: #2e7d32;
+}
+
+.mumbai-local-trains-page .ps-line-bar--gold {
+  background: #f5a623;
+}
+
+.mumbai-local-trains-page .ps-line-bar--purple {
+  background: #ab47bc;
+}
+
+.mumbai-local-trains-page .ps-line-tag--aqua {
+  background: #00bcd4;
+  color: #111;
+}
+
+/* Map legend */
+.mumbai-local-trains-page .legend-line--wr {
+  background: #1565c0;
+}
+
+.mumbai-local-trains-page .legend-line--cr {
+  background: #c62828;
+}
+
+.mumbai-local-trains-page .legend-line--hl {
+  background: #2e7d32;
+}
+
+.mumbai-local-trains-page .legend-dot--major-wr {
+  background: white;
+  border-color: #1565c0;
+}
+
+.mumbai-local-trains-page .legend-dot--interchange {
+  background: #f5a623;
+  border-color: #f5a623;
+}
+
+.mumbai-local-trains-page .legend-dot--long-distance {
+  background: #f5a623;
+  border-color: #f5a623;
+}
+
+/* Fare cards */
+.mumbai-local-trains-page .fc-head--wr {
+  background: linear-gradient(135deg, #1565c0, #0d47a1);
+}
+
+.mumbai-local-trains-page .fc-head--cr {
+  background: linear-gradient(135deg, #c62828, #8d1515);
+}
+
+.mumbai-local-trains-page .fc-head--hl {
+  background: linear-gradient(135deg, #2e7d32, #1b5e20);
+}
+
+.mumbai-local-trains-page .fare-price--wr {
+  color: var(--wr);
+}
+
+.mumbai-local-trains-page .fare-price--cr {
+  color: var(--cr);
+}
+
+.mumbai-local-trains-page .fare-price--hl {
+  color: var(--hl);
+}
+
+/* Sidebar timings widget */
+.mumbai-local-trains-page .sb-timings {
+  font-size: 12px;
+  color: #374151;
+  font-weight: 300;
+  line-height: 1.9;
+}
+
+.mumbai-local-trains-page .sb-timing-row {
+  padding: 6px 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.mumbai-local-trains-page .sb-timing-row:last-child {
+  border-bottom: none;
+}
+
+.mumbai-local-trains-page .sb-timing-wr {
+  color: var(--wr);
+}
+
+.mumbai-local-trains-page .sb-timing-cr {
+  color: var(--cr);
+}
+
+.mumbai-local-trains-page .sb-timing-hl {
+  color: var(--hl);
+}
+
+.mumbai-local-trains-page .sb-timing-dark {
+  color: var(--dark);
+}
+
+/* Sidebar interchange dots */
+.mumbai-local-trains-page .metro-sb-dot--gold {
+  background: #f5a623;
+}
+
+.mumbai-local-trains-page .metro-sb-dot--cr {
+  background: #c62828;
+}
+
+.mumbai-local-trains-page .metro-sb-dot--purple {
+  background: #ab47bc;
+}
+
+.mumbai-local-trains-page .metro-sb-dot--wr {
+  background: #1565c0;
+}
+
+/* Panel visibility helpers */
+.mumbai-local-trains-page .panel-default--hidden {
+  display: none;
+}
+
+.mumbai-local-trains-page .faq-q {
+  width: 100%;
+  border: none;
+  background: none;
+  font: inherit;
+  text-align: left;
+}
+
+.mumbai-local-trains-page .ps-close {
+  border: none;
+  background: none;
+  font: inherit;
+  width: 100%;
+}
+
+/* Hotspot position overrides for duplicate data-stn values */
+.mumbai-local-trains-page .hotspot[data-stn="dadar"][data-line="wr"] {
+  left: 11.2%;
+  top: 72.8%;
+  --d: 0.6s;
+}
+
+.mumbai-local-trains-page .hotspot[data-stn="dadar"][data-line="cr"] {
+  left: 34.5%;
+  top: 72.8%;
+  --d: 0.45s;
+}
+
+.mumbai-local-trains-page .hotspot[data-stn="kasara"].tip-r {
+  left: 21%;
+  top: 8.5%;
+  --d: 1.65s;
+}
+
+.mumbai-local-trains-page .hotspot[data-stn="kasara"]:not(.tip-r) {
+  left: 51%;
+  top: 6%;
+  --d: 1.8s;
+}
+
+.mumbai-local-trains-page .hotspot[data-stn="vashi"]:not(.major) {
+  left: 55%;
+  top: 62%;
+  --d: 0.85s;
+}
+
+.mumbai-local-trains-page .hotspot[data-stn="vashi"].major {
+  left: 62%;
+  top: 52%;
+  --d: 1.15s;
+}
+
+.mumbai-local-trains-page .hotspot[data-stn="panvel"]:not(.terminus) {
+  left: 65%;
+  top: 42%;
+  --d: 1.4s;
+}
+
+.mumbai-local-trains-page .hotspot[data-stn="panvel"].terminus {
+  left: 67%;
+  top: 33%;
+  --d: 1.7s;
+}

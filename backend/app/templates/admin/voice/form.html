@@ -1,0 +1,127 @@
+{% extends "base.html" %}
+
+{% block title %}Edit Voice Topic{% endblock %}
+
+{% block content %}
+    <h1 class="h3 mb-4">Edit Voice Topic: {{ topic.title }}</h1>
+
+    <form method="post" class="card">
+        <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+        <div class="card-body">
+
+            <div class="row g-3 mb-4">
+                <div class="col-md-3">
+                    <label class="form-label">Type</label>
+                    <select name="type" class="form-select">
+                        <option value="poll" {% if topic.type == 'poll' %}selected{% endif %}>Poll</option>
+                        <option value="complaint" {% if topic.type == 'complaint' %}selected{% endif %}>Complaint</option>
+                        <option value="discussion" {% if topic.type == 'discussion' %}selected{% endif %}>Discussion</option>
+                        <option value="win" {% if topic.type == 'win' %}selected{% endif %}>Win</option>
+                    </select>
+                </div>
+                <div class="col-md-6">
+                    <label class="form-label">Title</label>
+                    <input name="title" class="form-control" value="{{ topic.title }}">
+                </div>
+                <div class="col-md-3">
+                    <label class="form-label">Status</label>
+                    <select name="status" class="form-select">
+                        <option value="pending" {% if topic.status == 'pending' %}selected{% endif %}>Pending</option>
+                        <option value="resolved" {% if topic.status == 'resolved' %}selected{% endif %}>Resolved</option>
+                        <option value="closed" {% if topic.status == 'closed' %}selected{% endif %}>Closed</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="row g-3 mb-4">
+                <div class="col-md-4">
+                    <label class="form-label">Area</label>
+                    <input name="area" class="form-control" value="{{ topic.area }}">
+                </div>
+                <div class="col-md-4">
+                    <label class="form-label">Category</label>
+                    <select name="category" class="form-select">
+                        <option value="">—</option>
+                        <option value="BMC" {% if topic.category == 'BMC' %}selected{% endif %}>BMC</option>
+                        <option value="Traffic Police" {% if topic.category == 'Traffic Police' %}selected{% endif %}>Traffic Police</option>
+                        <option value="Police" {% if topic.category == 'Police' %}selected{% endif %}>Police</option>
+                        <option value="MHADA" {% if topic.category == 'MHADA' %}selected{% endif %}>MHADA</option>
+                        <option value="Environment" {% if topic.category == 'Environment' %}selected{% endif %}>Environment</option>
+                        <option value="Noise" {% if topic.category == 'Noise' %}selected{% endif %}>Noise / Pollution</option>
+                        <option value="Other" {% if topic.category == 'Other' %}selected{% endif %}>Other</option>
+                    </select>
+                </div>
+                <div class="col-md-4">
+                    <label class="form-label">BMC Subcategory</label>
+                    <input name="bmc_subcategory" class="form-control" value="{{ topic.bmc_subcategory or '' }}" placeholder="e.g. Roads, Garbage, Water...">
+                </div>
+            </div>
+
+            <div class="mb-4">
+                <label class="form-label">Description</label>
+                <textarea name="description" class="form-control" rows="4">{{ topic.description or '' }}</textarea>
+            </div>
+
+            <div class="row g-3 mb-4">
+                <div class="col-md-2">
+                    <label class="form-label">Upvotes</label>
+                    <input class="form-control" value="{{ topic.upvotes }}" readonly>
+                </div>
+                <div class="col-md-2">
+                    <label class="form-label">Views</label>
+                    <input class="form-control" value="{{ topic.views }}" readonly>
+                </div>
+                <div class="col-md-2">
+                    <label class="form-label">Comments</label>
+                    <input class="form-control" value="{{ topic.comments.count() }}" readonly>
+                </div>
+                <div class="col-md-3">
+                    <label class="form-label">&nbsp;</label>
+                    <div class="form-check">
+                        <input type="checkbox" name="is_active" class="form-check-input" value="1" id="isActive"
+                               {% if topic.is_active %}checked{% endif %}>
+                        <label class="form-check-label" for="isActive">Active (visible publicly)</label>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <label class="form-label">&nbsp;</label>
+                    <div class="form-check">
+                        <input type="checkbox" name="urgency" class="form-check-input" value="1" id="isUrgent"
+                               {% if topic.urgency %}checked{% endif %}>
+                        <label class="form-check-label" for="isUrgent">Urgent</label>
+                    </div>
+                </div>
+            </div>
+
+            {% if topic.poll_options.count() > 0 %}
+            <div class="mb-4">
+                <label class="form-label">Poll Options</label>
+                <table class="table table-sm">
+                    <thead>
+                        <tr>
+                            <th>Emoji</th>
+                            <th>Label</th>
+                            <th>Votes</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for opt in topic.poll_options.all() %}
+                        <tr>
+                            <td>{{ opt.emoji or '—' }}</td>
+                            <td>{{ opt.label }}</td>
+                            <td>{{ opt.votes }}</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+            {% endif %}
+
+        </div>
+
+        <div class="card-footer text-end">
+            <a href="{{ url_for('admin.voice_topics') }}" class="btn btn-light">Cancel</a>
+            <button type="submit" class="btn btn-primary">Save</button>
+        </div>
+    </form>
+{% endblock %}

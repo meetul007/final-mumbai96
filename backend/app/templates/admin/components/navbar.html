@@ -1,0 +1,48 @@
+<nav class="navbar navbar-expand-md navbar-dark admin-navbar fixed-top">
+  <div class="container-fluid">
+
+    <!-- Mobile sidebar toggle -->
+    <button class="navbar-toggler d-md-none text-white"
+        type="button"
+        data-bs-toggle="collapse"
+        data-bs-target="#sidebarMenu"
+        aria-label="Toggle navigation">
+  <i class="bi bi-list fs-4"></i>
+</button>
+
+    <!-- Brand -->
+    <a class="navbar-brand fw-semibold ms-2 d-flex align-items-center gap-2"
+       href="/admin/">
+      <span class="brand-dot"></span>
+      <span>Mumbai96 Admin</span>
+    </a>
+
+    <!-- Right actions -->
+    <div class="d-flex align-items-center gap-3 ms-auto">
+
+      <!-- Optional future: search / notifications -->
+      <!--
+      <button class="btn btn-sm btn-outline-light">
+        <i class="bi bi-bell"></i>
+      </button>
+      -->
+
+      <div class="dropdown">
+        <button class="btn btn-sm btn-outline-light dropdown-toggle"
+                data-bs-toggle="dropdown">
+          <i class="bi bi-person-circle me-1"></i>
+          Admin
+        </button>
+
+        <ul class="dropdown-menu dropdown-menu-end shadow-sm">
+          <li>
+            <a class="dropdown-item text-danger" href="/admin/logout">
+              <i class="bi bi-box-arrow-right me-2"></i> Logout
+            </a>
+          </li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+</nav>

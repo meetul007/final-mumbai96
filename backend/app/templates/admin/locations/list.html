@@ -1,0 +1,189 @@
+{% extends "base.html" %}
+{% block title %}Locations | Admin{% endblock %}
+
+{% block content %}
+
+<!-- ================= HEADER ================= -->
+<div class="d-flex justify-content-between align-items-center mb-3 flex-wrap gap-2">
+  <h1 class="h3 mb-0">Locations</h1>
+
+  <a href="{{ url_for('admin.create_location') }}"
+     class="btn btn-primary btn-sm">
+    <i class="bi bi-plus-lg me-1"></i>
+    Add Location
+  </a>
+</div>
+
+<!-- ================= SEARCH / FILTER ================= -->
+<form method="get"
+      class="row gx-2 gy-2 align-items-center mb-3">
+
+  <!-- Search -->
+  <div class="col-8 col-sm-6 col-md-8">
+    <input type="text"
+           name="q"
+           value="{{ search or '' }}"
+           class="form-control form-control-sm"
+           placeholder="Search locations...">
+  </div>
+
+  <!-- Filter -->
+  <div class="col-auto">
+    <button type="button"
+            class="btn btn-outline-secondary btn-sm"
+            data-bs-toggle="modal"
+            data-bs-target="#filterModal">
+      <i class="bi bi-funnel"></i>
+    </button>
+  </div>
+
+  <!-- Search button -->
+  <div class="col-auto">
+    <button class="btn btn-primary btn-sm">
+      <i class="bi bi-search"></i>
+    </button>
+  </div>
+
+</form>
+
+<!-- ================= TABLE ================= -->
+<div class="card">
+  <div class="table-responsive">
+    <table class="table mb-0 align-middle">
+
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th class="d-none d-md-table-cell">Slug</th>
+          <th class="d-none d-sm-table-cell">Parent</th>
+          <th>Status</th>
+          <th class="text-end">Actions</th>
+        </tr>
+      </thead>
+
+      <tbody>
+      {% for l in locations %}
+        <tr>
+
+          <!-- Name -->
+          <td>
+            <div class="fw-semibold">{{ l.name }}</div>
+            <div class="text-muted small d-md-none">
+              {{ l.slug }}
+            </div>
+          </td>
+
+          <!-- Slug -->
+          <td class="d-none d-md-table-cell">
+            {{ l.slug }}
+          </td>
+
+          <!-- Parent -->
+          <td class="d-none d-sm-table-cell">
+            {{ l.parent.name if l.parent else "—" }}
+          </td>
+
+          <!-- Status -->
+          <td>
+            <span class="badge
+              {{ 'bg-success-subtle' if l.is_active else 'bg-secondary-subtle' }}">
+              {{ 'Active' if l.is_active else 'Inactive' }}
+            </span>
+          </td>
+
+          <!-- Actions -->
+          <td class="text-end">
+            <a href="{{ url_for('admin.edit_location', location_id=l.id) }}"
+               class="btn btn-sm btn-outline-secondary">
+              <i class="bi bi-pencil"></i>
+            </a>
+
+            {% if l.is_active %}
+              <form method="post"
+                    action="{{ url_for('admin.deactivate_location', location_id=l.id) }}"
+                    class="d-inline">
+                <button class="btn btn-sm btn-outline-danger"
+                        onclick="return confirm('Deactivate this location?')">
+                  <i class="bi bi-x-lg"></i>
+                </button>
+              </form>
+            {% endif %}
+          </td>
+
+        </tr>
+      {% else %}
+        <tr>
+          <td colspan="5"
+              class="text-center text-muted py-4">
+            No locations found
+          </td>
+        </tr>
+      {% endfor %}
+      </tbody>
+
+    </table>
+  </div>
+</div>
+
+{% include "admin/components/pagination.html" %}
+
+<!-- ================= FILTER MODAL (MOBILE) ================= -->
+<div class="modal fade"
+     id="filterModal"
+     tabindex="-1"
+     aria-hidden="true">
+
+  <div class="modal-dialog modal-dialog-centered modal-fullscreen-sm-down">
+    <div class="modal-content">
+
+      <div class="modal-header">
+        <h5 class="modal-title">Filters</h5>
+        <button type="button"
+                class="btn-close"
+                data-bs-dismiss="modal"></button>
+      </div>
+
+      <form method="get">
+        <div class="modal-body">
+
+          <!-- Preserve search -->
+          <input type="hidden"
+                 name="q"
+                 value="{{ search or '' }}">
+
+          <!-- Status -->
+          <div class="mb-3">
+            <label class="form-label">Status</label>
+            <select name="status"
+                    class="form-select form-select-sm">
+              <option value="">All</option>
+              <option value="active"
+                {% if request.args.get('status') == 'active' %}selected{% endif %}>
+                Active
+              </option>
+              <option value="inactive"
+                {% if request.args.get('status') == 'inactive' %}selected{% endif %}>
+                Inactive
+              </option>
+            </select>
+          </div>
+
+        </div>
+
+        <div class="modal-footer">
+          <a href="{{ url_for(request.endpoint) }}"
+             class="btn btn-light btn-sm">
+            Reset
+          </a>
+          <button type="submit"
+                  class="btn btn-primary btn-sm">
+            Apply
+          </button>
+        </div>
+      </form>
+
+    </div>
+  </div>
+</div>
+
+{% endblock %}

@@ -1,0 +1,136 @@
+import fs from 'fs/promises';
+import path from 'path';
+import { getValidationMetadata } from '../src/lib/location-validation.js';
+
+function readOption(name) {
+  const index = process.argv.indexOf(name);
+  return index >= 0 ? process.argv[index + 1] : null;
+}
+
+const inputDir = readOption('--input');
+const outputDir = readOption('--output');
+const forcedLocation = readOption('--location');
+
+if (!inputDir || !outputDir) {
+  throw new Error('Usage: node scripts/revalidate-location-data.mjs --input <raw-folder> --output <clean-folder> [--location <location-slug>]');
+}
+
+function getEntries(data) {
+  if (Array.isArray(data)) return data;
+  if (Array.isArray(data?.results)) return data.results;
+  if (Array.isArray(data?.data)) return data.data;
+  if (Array.isArray(data?.result)) return data.result;
+  if (Array.isArray(data?.result?.results)) return data.result.results;
+  return [];
+}
+
+function replaceEntries(data, entries) {
+  if (Array.isArray(data)) return entries;
+  if (Array.isArray(data?.results)) return { ...data, results: entries };
+  if (Array.isArray(data?.data)) return { ...data, data: entries };
+  if (Array.isArray(data?.result)) return { ...data, result: entries };
+  if (Array.isArray(data?.result?.results)) return { ...data, result: { ...data.result, results: entries } };
+  return entries;
+}
+
+async function writeJson(filePath, data) {
+  await fs.mkdir(path.dirname(filePath), { recursive: true });
+  const temporaryPath = `${filePath}.tmp-${process.pid}-${Date.now()}`;
+  await fs.writeFile(temporaryPath, JSON.stringify(data, null, 2), 'utf8');
+  await fs.rename(temporaryPath, filePath);
+}
+
+async function readJson(filePath) {
+  return JSON.parse(await fs.readFile(filePath, 'utf8'));
+}
+
+function isCategoryFile(name) {
+  return name.endsWith('.json')
+    && name !== '_state.json'
+    && !name.endsWith('.quarantine.json')
+    && !name.endsWith('.error.json');
+}
+
+async function processLocationFolder(sourceFolder, destinationFolder) {
+  let state = null;
+  try {
+    state = await readJson(path.join(sourceFolder, '_state.json'));
+  } catch {
+    // A location can be supplied explicitly for folders without a state file.
+  }
+
+  const location = forcedLocation || state?.location;
+  if (!location) throw new Error(`No location found for ${sourceFolder}; pass --location <location-slug>.`);
+
+  const entries = await fs.readdir(sourceFolder, { withFileTypes: true });
+  const categoryFiles = entries.filter((entry) => entry.isFile() && isCategoryFile(entry.name));
+  const sourceCategorySlugs = new Set(categoryFiles.map((file) => file.name.replace(/\.json$/, '')));
+  let acceptedTotal = 0;
+  let quarantinedTotal = 0;
+
+  for (const file of categoryFiles) {
+    const sourceFile = path.join(sourceFolder, file.name);
+    const sourceData = await readJson(sourceFile);
+    const accepted = [];
+    const quarantined = [];
+
+    for (const record of getEntries(sourceData)) {
+      const validation = getValidationMetadata(location, record);
+      const annotatedRecord = { ...record, _validation: validation };
+      if (validation.status === 'validated') accepted.push(annotatedRecord);
+      else quarantined.push(annotatedRecord);
+    }
+
+    const slug = file.name.replace(/\.json$/, '');
+    await writeJson(path.join(destinationFolder, file.name), replaceEntries(sourceData, accepted));
+    await writeJson(path.join(destinationFolder, `${slug}.quarantine.json`), {
+      location,
+      category: slug,
+      validatedAt: new Date().toISOString(),
+      rawCount: accepted.length + quarantined.length,
+      validCount: accepted.length,
+      quarantineCount: quarantined.length,
+      records: quarantined,
+    });
+
+    acceptedTotal += accepted.length;
+    quarantinedTotal += quarantined.length;
+    const categoryState = state?.categories?.find((category) => category.slug === slug);
+    if (categoryState) {
+      categoryState.rawResultCount = accepted.length + quarantined.length;
+      categoryState.resultCount = accepted.length;
+      categoryState.quarantineCount = quarantined.length;
+    }
+  }
+
+  if (state) {
+    const missingCategoryFiles = state.categories
+      .filter((category) => category.status === 'completed' && !sourceCategorySlugs.has(category.slug))
+      .map((category) => category.slug);
+    for (const category of state.categories) {
+      if (missingCategoryFiles.includes(category.slug)) {
+        category.status = 'failed';
+        category.completedAt = null;
+        category.error = 'Category is marked completed but its JSON output file is missing.';
+      }
+    }
+    state.totalBusinessesFound = acceptedTotal;
+    state.isComplete = missingCategoryFiles.length === 0 && state.categories.every((category) => category.status === 'completed');
+    if (!state.isComplete) state.completedAt = null;
+    state.validation = {
+      validatedAt: new Date().toISOString(),
+      location,
+      categoryFilesProcessed: categoryFiles.length,
+      acceptedTotal,
+      quarantinedTotal,
+      missingCategoryFiles,
+      source: 'revalidate-location-data.mjs',
+    };
+    await writeJson(path.join(destinationFolder, '_state.json'), state);
+  }
+
+  return { location, files: categoryFiles.length, acceptedTotal, quarantinedTotal };
+}
+
+const summary = await processLocationFolder(path.resolve(inputDir), path.resolve(outputDir));
+console.log(JSON.stringify(summary, null, 2));

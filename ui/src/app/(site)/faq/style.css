@@ -1,0 +1,87 @@
+.faq-cats {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin: 32px 0 24px;
+}
+.fcat {
+  padding: 9px 20px;
+  border-radius: 100px;
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  cursor: pointer;
+  border: 1.5px solid var(--border);
+  color: var(--muted);
+  background: #fff;
+  transition: all 0.22s;
+}
+.fcat:hover,
+.fcat.on {
+  background: var(--red);
+  border-color: var(--red);
+  color: #fff;
+}
+.fpanel {
+  display: none;
+}
+.fpanel.on {
+  display: block;
+}
+.faq-item {
+  border: 1.5px solid var(--border);
+  border-radius: 12px;
+  margin-bottom: 10px;
+  overflow: hidden;
+  background: #fff;
+}
+.faq-q {
+  padding: 18px 22px;
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  transition: background 0.2s;
+}
+.faq-q:hover {
+  background: var(--light);
+}
+.faq-q.open {
+  background: #fff8f4;
+}
+.faq-icon {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: var(--light);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  font-weight: 400;
+  color: var(--red);
+  flex-shrink: 0;
+  transition:
+    transform 0.3s,
+    background 0.3s;
+}
+.faq-q.open .faq-icon {
+  transform: rotate(45deg);
+  background: var(--red);
+  color: #fff;
+}
+.faq-a {
+  padding: 0 22px 18px;
+  font-size: 13px;
+  color: var(--muted);
+  line-height: 1.8;
+  font-weight: 300;
+  display: none;
+}
+.faq-a.open {
+  display: block;
+}

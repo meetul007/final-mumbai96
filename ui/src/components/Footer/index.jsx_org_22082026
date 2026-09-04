@@ -1,0 +1,96 @@
+"use client";
+
+import Link from "next/link";
+import Copyright from "./Copyright";
+
+const footerLinks = [
+  {
+    title: "Explore",
+    links: [
+      { label: "Know Mumbai", href: "/know-mumbai" },
+      { label: "Celebrities", href: "/celebrities" },
+      { label: "Travel Guide", href: "/mumbai-travel" },
+      { label: "Property Deals", href: "/property-deals" },
+      { label: "Society Services", href: "/society-services" },
+      { label: "Foreign Tourists", href: "/foreign-tourists" },
+      { label: "Must Visit Places", href: "/must-visit-places" },
+      { label: "Mumbai Nightlife", href: "/mumbai-night-life" },
+    ],
+  },
+  {
+    title: "Community & Help",
+    links: [
+      { label: "Lost & Found", href: "/lost-found" },
+      { label: "Mumbai Voice", href: "/mumbai-voice" },
+      { label: "Report Fraud", href: "/report-fraud-scam" },
+      { label: "Celebrities", href: "/property-tax-mumbai" },
+      { label: "Celebrities", href: "/mhada-lottery-mumbai" },
+      { label: "Kids Safety", href: "/child-helpline-mumbai" },
+      { label: "Women Safety", href: "/women-helpline-mumbai" },
+      { label: "Police Stations", href: "/mumbai-police-stations" },
+    ],
+  },
+  {
+    title: "Mumbai96",
+    links: [
+      { label: "FAQ", href: "/faq" },
+      { label: "Who We Are", href: "/know-us" },
+      { label: "Case Study", href: "/case-study" },
+      { label: "Compare Us", href: "/compare-us" },
+      { label: "Our Mission", href: "/our-mission" },
+      { label: "Testimonials", href: "/testimonials" },
+      { label: "AI For Business", href: "/auth/login" },
+      { label: "Contact Us", href: "/contact-us" },
+    ],
+  },
+];
+
+export default function Footer() {
+  return (
+    <footer>
+      <div className="con">
+        <div className="footer-grid">
+          {/* Brand */}
+          <div className="f-brand">
+            <div className="f-logo">
+              MUMBAI<em>96</em>
+            </div>
+
+            <p className="f-about">
+              Mumbai's most complete city platform — every area, 
+              every story, every Mumbaikar, all in one place, built 
+              with love for the city that never sleeps, never stops.
+            </p>
+
+            <div className="f-tagline">
+              EVERYTHING <em>——</em> MUMBAI
+            </div>
+          </div>
+
+          {/* Columns */}
+          {footerLinks.map((col, i) => (
+            <div key={i} className="f-col">
+              <h5>{col.title}</h5>
+
+              <ul>
+                {col.links.map((link, j) => (
+                  <li key={j}>
+                    <Link href={link.href}>{link.label}</Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ))}
+        </div>
+
+        {/* Bottom */}
+        <div className="f-bottom">
+          <Copyright />
+          <div className="f-copy-tag">
+            EVERYTHING <em>——</em> MUMBAI
+          </div>
+        </div>
+      </div>
+    </footer>
+  );
+}

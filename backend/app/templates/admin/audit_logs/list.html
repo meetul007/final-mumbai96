@@ -1,0 +1,121 @@
+{% extends "base.html" %}
+{% block title %}Audit Logs | Admin{% endblock %}
+
+{% block content %}
+
+<!-- ================= HEADER ================= -->
+<div class="mb-3">
+  <h1 class="h4 mb-0">Audit Logs</h1>
+  <small class="text-muted">System activity & admin actions</small>
+</div>
+
+<!-- ================= SEARCH ================= -->
+<form method="get"
+      class="row gx-2 gy-2 align-items-center mb-3">
+
+  <div class="col-8 col-sm-6 col-md-4">
+    <input type="text"
+           name="q"
+           value="{{ search or '' }}"
+           class="form-control form-control-sm"
+           placeholder="Search action, entity, IP...">
+  </div>
+
+  <div class="col-auto">
+    <button class="btn btn-primary btn-sm">
+      <i class="bi bi-search"></i>
+    </button>
+  </div>
+
+</form>
+
+<!-- ================= DESKTOP TABLE ================= -->
+<div class="card d-none d-md-block">
+  <div class="table-responsive">
+    <table class="table table-sm table-hover align-middle mb-0">
+
+      <thead>
+        <tr>
+          <th>Time</th>
+          <th>Admin</th>
+          <th>Action</th>
+          <th>Entity</th>
+          <th>ID</th>
+          <th>IP</th>
+        </tr>
+      </thead>
+
+      <tbody>
+      {% for l in logs %}
+        <tr>
+          <td class="text-muted small">
+            {{ l.created_at.strftime("%Y-%m-%d %H:%M") }}
+          </td>
+
+          <td>{{ l.admin_id }}</td>
+
+          <td>
+            <span class="fw-semibold">{{ l.action }}</span>
+          </td>
+
+          <td>{{ l.entity }}</td>
+          <td>{{ l.entity_id }}</td>
+
+          <td class="text-muted small">
+            {{ l.ip_address }}
+          </td>
+        </tr>
+      {% else %}
+        <tr>
+          <td colspan="6" class="text-center text-muted py-4">
+            No audit logs found
+          </td>
+        </tr>
+      {% endfor %}
+      </tbody>
+
+    </table>
+  </div>
+</div>
+
+<!-- ================= MOBILE CARD LIST ================= -->
+<div class="d-md-none">
+
+  {% for l in logs %}
+    <div class="card mb-2">
+      <div class="card-body p-2">
+
+        <!-- Header -->
+        <div class="d-flex justify-content-between align-items-start">
+          <div>
+            <div class="fw-semibold">{{ l.action }}</div>
+            <div class="text-muted small">
+              {{ l.entity }} • ID {{ l.entity_id }}
+            </div>
+          </div>
+
+          <span class="text-muted small">
+            {{ l.created_at.strftime("%H:%M") }}
+          </span>
+        </div>
+
+        <!-- Meta -->
+        <div class="mt-2 text-muted small">
+          <div>Admin: {{ l.admin_id }}</div>
+          <div>IP: {{ l.ip_address }}</div>
+        </div>
+
+      </div>
+    </div>
+  {% else %}
+    <div class="text-center text-muted py-4">
+      No audit logs found
+    </div>
+  {% endfor %}
+
+</div>
+
+<!-- ================= PAGINATION ================= -->
+{% include "admin/components/pagination.html" %}
+
+{% endblock %}

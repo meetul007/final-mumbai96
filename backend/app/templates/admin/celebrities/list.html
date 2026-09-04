@@ -1,0 +1,103 @@
+{% extends "base.html" %}
+
+{% block title %}Celebrities | Admin{% endblock %}
+
+{% block content %}
+
+    <div class="d-flex justify-content-between align-items-center mb-3 flex-wrap gap-2">
+        <h1 class="h3 mb-0">Celebrities</h1>
+        <a href="{{ url_for('admin.create_celebrity') }}" class="btn btn-primary btn-sm">
+            <i class="bi bi-plus-lg me-1"></i>
+            Add Celebrity
+        </a>
+    </div>
+
+    <form method="get" class="row gx-2 gy-2 align-items-center mb-3">
+        <div class="col-8 col-sm-6 col-md-6">
+            <input type="text" name="q" value="{{ search or '' }}" class="form-control form-control-sm" placeholder="Search celebrities...">
+        </div>
+        <div class="col-auto">
+            <select name="category" class="form-select form-select-sm">
+                <option value="">All Categories</option>
+                {% for cat in categories %}
+                    <option value="{{ cat }}" {% if category_filter == cat %}selected{% endif %}>{{ cat|capitalize }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        <div class="col-auto">
+            <button class="btn btn-primary btn-sm"><i class="bi bi-search"></i></button>
+        </div>
+    </form>
+
+    <div class="card">
+        <div class="table-responsive">
+            <table class="table mb-0 align-middle">
+                <thead>
+                <tr>
+                    <th>Name</th>
+                    <th class="d-none d-md-table-cell">Category</th>
+                    <th class="d-none d-lg-table-cell">Mumbai Area</th>
+                    <th class="d-none d-sm-table-cell">Age</th>
+                    <th class="text-end">Actions</th>
+                </tr>
+                </thead>
+                <tbody>
+                {% for c in celebrities %}
+                    <tr>
+                        <td>
+                            <div class="d-flex align-items-center gap-2">
+                                <span class="fs-5">{{ c.emoji or '🌟' }}</span>
+                                <div>
+                                    <div class="fw-semibold">{{ c.full_name }}</div>
+                                    <div class="text-muted small d-md-none">{{ c.category|capitalize }}</div>
+                                </div>
+                            </div>
+                        </td>
+                        <td class="d-none d-md-table-cell">
+                            <span class="badge bg-primary-subtle">{{ c.category|capitalize }}</span>
+                        </td>
+                        <td class="d-none d-lg-table-cell text-muted">{{ c.mumbai_neighbourhood or '—' }}</td>
+                        <td class="d-none d-sm-table-cell">{{ c.age or '—' }}</td>
+                        <td class="text-end">
+                            <a href="{{ url_for('admin.edit_celebrity', celebrity_id=c.id) }}" class="btn btn-sm btn-outline-secondary">
+                                <i class="bi bi-pencil"></i>
+                            </a>
+                            <button type="button" class="btn btn-sm btn-outline-danger ms-1" data-bs-toggle="modal" data-bs-target="#deleteModal{{ c.id }}">
+                                <i class="bi bi-trash"></i>
+                            </button>
+
+                            <div class="modal fade" id="deleteModal{{ c.id }}" tabindex="-1" aria-hidden="true">
+                                <div class="modal-dialog modal-dialog-centered">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <h5 class="modal-title">Delete Celebrity</h5>
+                                            <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                                        </div>
+                                        <div class="modal-body">
+                                            Are you sure you want to delete <strong>{{ c.full_name }}</strong>? This cannot be undone.
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-light btn-sm" data-bs-dismiss="modal">Cancel</button>
+                                            <form method="post" action="{{ url_for('admin.delete_celebrity', celebrity_id=c.id) }}">
+                                                <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+                                                <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                                            </form>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                {% else %}
+                    <tr>
+                        <td colspan="5" class="text-center text-muted py-4">No celebrities found</td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    {% include "admin/components/pagination.html" %}
+
+{% endblock %}

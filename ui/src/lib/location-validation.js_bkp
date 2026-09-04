@@ -1,0 +1,124 @@
+import { createRequire } from 'module';
+import booleanPointInPolygon from '@turf/boolean-point-in-polygon';
+import { point, polygon } from '@turf/helpers';
+
+const require = createRequire(import.meta.url);
+const locationCatalog = require('./locations.json');
+
+// Add surveyed GeoJSON boundaries here as they become available. A boundary is
+// an additional check; the address/ward must still identify the same location.
+const APPROVED_LOCATION_BOUNDARIES = {
+  'mira-road-east': {
+    name: 'Mira Road East',
+    geojson: {
+      type: 'Feature',
+      geometry: {
+        type: 'Polygon',
+        coordinates: [[
+          [72.835, 19.280],
+          [72.890, 19.280],
+          [72.890, 19.325],
+          [72.835, 19.325],
+          [72.835, 19.280],
+        ]],
+      },
+    },
+  },
+};
+
+function normalizeLocationText(value) {
+  return String(value || '')
+    .toLowerCase()
+    .replace(/\(\s*e(?:ast)?\s*\)/g, ' east ')
+    .replace(/\(\s*w(?:est)?\s*\)/g, ' west ')
+    .replace(/\(\s*n(?:orth)?\s*\)/g, ' north ')
+    .replace(/\(\s*s(?:outh)?\s*\)/g, ' south ')
+    .replace(/[^a-z0-9]+/g, ' ')
+    .trim();
+}
+
+function getLocationAliases(slug, definition) {
+  const fullName = normalizeLocationText(definition?.name || slug);
+  const aliases = new Set([normalizeLocationText(slug), fullName]);
+  aliases.add(fullName.replace(/\beast$/, 'e').replace(/\bwest$/, 'w').replace(/\bnorth$/, 'n').replace(/\bsouth$/, 's'));
+  return [...aliases].filter(Boolean);
+}
+
+const LOCATION_MATCHERS = Object.entries(locationCatalog)
+  .flatMap(([slug, definition]) => getLocationAliases(slug, definition).map((alias) => ({ slug, alias })))
+  .sort((a, b) => b.alias.length - a.alias.length);
+
+function getRecordLocationText(record) {
+  const address = record?.detailed_address || {};
+  return [record?.address, record?.plus_code, address.ward, address.street, address.city, address.postal_code]
+    .filter(Boolean)
+    .join(' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function getRecordCoordinates(record) {
+  const candidates = [record?.coordinates, record?.geometry?.location, record?.location?.coordinates, record?.latlng, record?.geo?.coordinates];
+  for (const candidate of candidates) {
+    if (Array.isArray(candidate) && candidate.length >= 2) {
+      const latitude = Number(candidate[1]);
+      const longitude = Number(candidate[0]);
+      if (Number.isFinite(latitude) && Number.isFinite(longitude)) return { latitude, longitude };
+    }
+    if (candidate && typeof candidate === 'object') {
+      const latitude = Number(candidate.latitude ?? candidate.lat ?? candidate.y);
+      const longitude = Number(candidate.longitude ?? candidate.lng ?? candidate.lon ?? candidate.x);
+      if (Number.isFinite(latitude) && Number.isFinite(longitude)) return { latitude, longitude };
+    }
+  }
+  return null;
+}
+
+function detectLocationFromAddress(locationText) {
+  const normalizedText = ` ${normalizeLocationText(locationText)} `;
+  const matches = [];
+  for (const matcher of LOCATION_MATCHERS) {
+    if (normalizedText.includes(` ${matcher.alias} `) && !matches.includes(matcher.slug)) matches.push(matcher.slug);
+  }
+  return matches;
+}
+
+export function validateLocationRecord(location, record) {
+  const requestedLocation = normalizeLocationText(location).replace(/\s+/g, '-');
+  const locationText = getRecordLocationText(record);
+  const detectedLocations = detectLocationFromAddress(locationText);
+  const detectedLocation = detectedLocations[0] || null;
+
+  if (!detectedLocation) {
+    return { isValid: false, reason: 'address does not match a configured location', detectedLocation: null };
+  }
+  if (detectedLocation !== requestedLocation) {
+    return { isValid: false, reason: 'address identifies a different location folder', detectedLocation };
+  }
+
+  const boundary = APPROVED_LOCATION_BOUNDARIES[requestedLocation];
+  if (!boundary) return { isValid: true, reason: 'address matches requested location', detectedLocation };
+
+  const coordinates = getRecordCoordinates(record);
+  if (!coordinates) return { isValid: false, reason: 'missing coordinates for boundary check', detectedLocation };
+
+  const insideBoundary = booleanPointInPolygon(
+    point([coordinates.longitude, coordinates.latitude]),
+    polygon(boundary.geojson.geometry.coordinates),
+  );
+  if (!insideBoundary) return { isValid: false, reason: 'outside approved location boundary', detectedLocation };
+
+  return { isValid: true, reason: 'address and coordinates match approved location', coordinates, detectedLocation };
+}
+
+export function getValidationMetadata(location, record) {
+  const validation = validateLocationRecord(location, record);
+  return {
+    status: validation.isValid ? 'validated' : 'quarantine',
+    location,
+    reason: validation.reason,
+    detectedLocation: validation.detectedLocation || null,
+    checkedAt: new Date().toISOString(),
+    ...(validation.coordinates ? { coordinates: validation.coordinates } : {}),
+  };
+}

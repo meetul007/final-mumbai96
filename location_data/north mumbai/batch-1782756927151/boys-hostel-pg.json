@@ -1,0 +1,3683 @@
+[
+  {
+    "place_id": "ChIJBwAA90qp5zsRlVdxbKyZl6k",
+    "name": "Homestay Pg And Accommodation",
+    "description": null,
+    "is_spending_on_ads": false,
+    "link": "https://www.google.com/maps/place/Homestay+Pg+And+Accommodation/data=!4m7!3m6!1s0x3be7a94af7000007:0xa99799ac6c715795!8m2!3d19.4047873!4d72.8258427!16s%2Fg%2F11xp6nd97_!19sChIJBwAA90qp5zsRlVdxbKyZl6k?authuser=0&rclk=1",
+    "reviews": 0,
+    "rating": 0,
+    "competitors": [],
+    "website": null,
+    "phone": "073409 83570",
+    "phone_international": "+91 73409 83570",
+    "can_claim": true,
+    "owner": {
+      "id": "115435732074111401751",
+      "name": "Homestay Pg And Accommodation (Owner)",
+      "link": "https://www.google.com/maps/contrib/115435732074111401751"
+    },
+    "owner_posts": [],
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=F2sO46Ln-I2Wb5AIdgZWbQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=316.3199&pitch=0&thumbfov=100",
+    "main_category": "Backpacker Hostel",
+    "categories": [
+      "Backpacker Hostel"
+    ],
+    "workday_timing": null,
+    "status": null,
+    "is_temporarily_closed": false,
+    "is_permanently_closed": false,
+    "closed_on": "Open All Days",
+    "address": "Kailash Tower, near DMart, Nala Sopara, Yashvant Viva Twp, Vasai East, Vasai-Virar, Maharashtra 401209",
+    "price_range": null,
+    "reviews_per_rating": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJBwAA90qp5zsRlVdxbKyZl6k&q=Homestay+Pg+And+Accommodation&authuser=0&hl=en&gl=IN",
+    "coordinates": {
+      "latitude": 19.4047873,
+      "longitude": 72.8258427
+    },
+    "plus_code": "CR3G+W8 Vasai East, Vasai-Virar, Maharashtra",
+    "detailed_address": {
+      "ward": "Nala Sopara, Yashvant Viva Township, Vasai East",
+      "street": "Kailash Tower, near DMart",
+      "city": "Vasai-Virar",
+      "postal_code": "401209",
+      "state": "Maharashtra",
+      "country_code": "IN"
+    },
+    "time_zone": "Asia/Calcutta",
+    "is_rental": false,
+    "cid": "12220405079725922197",
+    "data_id": "0x3be7a94af7000007:0xa99799ac6c715795",
+    "kgmid": "/g/11xp6nd97_",
+    "about": [],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "menu": null,
+    "reservations": [],
+    "order_online_links": [],
+    "gas_prices": [],
+    "image_count": 1,
+    "images": [
+      {
+        "about": "All",
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=F2sO46Ln-I2Wb5AIdgZWbQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=316.3199&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-08T05:00:00"
+      },
+      {
+        "about": "Street View & 360°",
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=F2sO46Ln-I2Wb5AIdgZWbQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=316.3199&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-08T05:00:00"
+      }
+    ],
+    "featured_images": [
+      {
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=F2sO46Ln-I2Wb5AIdgZWbQ&cb_client=search.gws-prod.gps&w=203&h=100&yaw=316.3199&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-08T05:00:00"
+      }
+    ],
+    "on_site_places": [],
+    "customer_updates": [],
+    "featured_question": null,
+    "review_keywords": [],
+    "featured_reviews": [],
+    "query": "boys hostel pg in nalasopara west"
+  },
+  {
+    "place_id": "ChIJoWGKL7up5zsRBACiW5IMeio",
+    "name": "Abhinav Hostel",
+    "description": null,
+    "is_spending_on_ads": false,
+    "link": "https://www.google.com/maps/place/Abhinav+Hostel/data=!4m7!3m6!1s0x3be7a9bb2f8a61a1:0x2a7a0c925ba20004!8m2!3d19.4247796!4d72.8134666!16s%2Fg%2F11fj0tfc41!19sChIJoWGKL7up5zsRBACiW5IMeio?authuser=0&rclk=1",
+    "reviews": 0,
+    "rating": 0,
+    "competitors": [
+      {
+        "name": "ABK Boys Hostel",
+        "suggested_link": "https://www.google.com/maps/search/ABK+Boys+Hostel/@19.398827999999998,72.840611,19z?authuser=0&entry=ttu",
+        "reviews": 67,
+        "rating": 3.6,
+        "main_category": "Boys' hostel",
+        "categories": [
+          "Boys' hostel"
+        ],
+        "coordinates": {
+          "latitude": 19.398827999999998,
+          "longitude": 72.840611
+        }
+      },
+      {
+        "name": "CHINDER PG AND ROOMS.",
+        "suggested_link": "https://www.google.com/maps/search/CHINDER+PG+AND+ROOMS./@19.418591799999998,72.8390467,19z?authuser=0&entry=ttu",
+        "reviews": 12,
+        "rating": 3.3,
+        "main_category": "Student dormitory",
+        "categories": [
+          "Student dormitory"
+        ],
+        "coordinates": {
+          "latitude": 19.418591799999998,
+          "longitude": 72.8390467
+        }
+      },
+      {
+        "name": "Bluearrow pg",
+        "suggested_link": "https://www.google.com/maps/search/Bluearrow+pg/@19.418194,72.8177898,19z?authuser=0&entry=ttu",
+        "reviews": 8,
+        "rating": 3.8,
+        "main_category": "Girls' hostel",
+        "categories": [
+          "Girls' hostel"
+        ],
+        "coordinates": {
+          "latitude": 19.418194,
+          "longitude": 72.8177898
+        }
+      },
+      {
+        "name": "Apna PG",
+        "suggested_link": "https://www.google.com/maps/search/Apna+PG/@19.425404,72.81568279999999,19z?authuser=0&entry=ttu",
+        "reviews": 5,
+        "rating": 4.2,
+        "main_category": "Student dormitory",
+        "categories": [
+          "Student dormitory"
+        ],
+        "coordinates": {
+          "latitude": 19.425404,
+          "longitude": 72.81568279999999
+        }
+      },
+      {
+        "name": "Paying Guest Accomodation",
+        "suggested_link": "https://www.google.com/maps/search/Paying+Guest+Accomodation/@19.4162166,72.81623499999999,19z?authuser=0&entry=ttu",
+        "reviews": 5,
+        "rating": 5,
+        "main_category": "Guest house",
+        "categories": [
+          "Guest house"
+        ],
+        "coordinates": {
+          "latitude": 19.4162166,
+          "longitude": 72.81623499999999
+        }
+      }
+    ],
+    "website": null,
+    "phone": "091361 92985",
+    "phone_international": "+91 91361 92985",
+    "can_claim": false,
+    "owner": {
+      "id": "114127024815571357188",
+      "name": "Abhinav Hostel (Owner)",
+      "link": "https://www.google.com/maps/contrib/114127024815571357188"
+    },
+    "owner_posts": [],
+    "featured_image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF84Les9_pEEO6ziPJAi9krURHZmG301tFUji0PRYZfnH4zVG8NPbbkmVSFoxyyDAO_5P9eKOA8KDTZwkVFi2wd17BDl5vq1A5_rhzlAj4H5mPzj1afI0c6lCvj2XlqIHSLbTbL6w=w1920-h1080-k-no",
+    "main_category": "Student dormitory",
+    "categories": [
+      "Student dormitory"
+    ],
+    "workday_timing": null,
+    "status": null,
+    "is_temporarily_closed": false,
+    "is_permanently_closed": false,
+    "closed_on": "Open All Days",
+    "address": "Tapasya, Nilemore, Nalasopara West, Mumbai, Maharashtra 401203",
+    "price_range": null,
+    "reviews_per_rating": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJoWGKL7up5zsRBACiW5IMeio&q=Abhinav+Hostel&authuser=0&hl=en&gl=IN",
+    "coordinates": {
+      "latitude": 19.4247796,
+      "longitude": 72.8134666
+    },
+    "plus_code": "CRF7+W9 Nalasopara West, Nala Sopara, Maharashtra",
+    "detailed_address": {
+      "ward": "Nala Sopara, Nilemore, Nalasopara West",
+      "street": "Tapasya",
+      "city": "Mumbai, Vasai-Virar",
+      "postal_code": "401203",
+      "state": "Maharashtra",
+      "country_code": "IN"
+    },
+    "time_zone": "Asia/Calcutta",
+    "is_rental": false,
+    "cid": "3060772719493775364",
+    "data_id": "0x3be7a9bb2f8a61a1:0x2a7a0c925ba20004",
+    "kgmid": "/g/11fj0tfc41",
+    "about": [],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "menu": null,
+    "reservations": [],
+    "order_online_links": [],
+    "gas_prices": [],
+    "image_count": 8,
+    "images": [
+      {
+        "about": "All",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF84Les9_pEEO6ziPJAi9krURHZmG301tFUji0PRYZfnH4zVG8NPbbkmVSFoxyyDAO_5P9eKOA8KDTZwkVFi2wd17BDl5vq1A5_rhzlAj4H5mPzj1afI0c6lCvj2XlqIHSLbTbL6w=w1920-h1080-k-no",
+        "published_at_date": "2018-11-24T16:00:00"
+      },
+      {
+        "about": "Exterior",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAETK9XFJyRwVZU6PFeFarEUWL-F06S57JZSoXdv2r3042gX1vQH_qGqmSm-adhpW07yVmNlEHU1c-B_Hboo-Yklv7iUxSMyBJT8IN-1-Mwa3Asu96oV2x4xf9aTcRamQLSxc5g=w1920-h1080-k-no",
+        "published_at_date": "2018-11-24T16:00:00"
+      },
+      {
+        "about": "Videos",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF_ngTTOo78JA8OmMOrjkeouLzvnEJSfR3fbq7cf5NCNnd4M_FAPBzU7swRk2ODoMgh-Szpat6K6o2PTgG0rF4TRUCbKIY9k2hQKYcZ4YcNGPpPUQqX_cceLIDEno0hUppk9KrujfMuvZ4=w1920-h1080-k-no",
+        "published_at_date": "2026-05-28T02:00:00"
+      },
+      {
+        "about": "From visitors",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFS4Ba7GjUwFJxvRgT23x3zu2FMcPxHD4wukYkDo26gvnwCOzfxCVq_2xmBdBQqa8iA7UvIxynvnewA2_HY6JRoebAw4QhdT196TZsGX4ZTrSVVJ3C2qwsvpV6ckeA5uGHV-exFywT-fmv_=w1920-h1080-k-no",
+        "published_at_date": "2026-05-28T02:00:00"
+      },
+      {
+        "about": "By owner",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHULKIycDnGVEn3ZTFqxzXCgiBW73Opbq-xANVDAqJMvhYn8gws3r8LJqKXHK42E6P61Mmfx08e6g5asZwlYl0wGfEffa-FGW6u5jKNZ9DS5PnkN_xq4cAdjS9OIRu275AU2_zpmA=w1920-h1080-k-no",
+        "published_at_date": "2018-11-24T16:00:00"
+      },
+      {
+        "about": "Street View & 360°",
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FEy0NC4IigAkTeEIlR-0QA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=251.99934&pitch=0&thumbfov=100",
+        "published_at_date": "2025-01-08T04:00:00"
+      }
+    ],
+    "featured_images": [
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF84Les9_pEEO6ziPJAi9krURHZmG301tFUji0PRYZfnH4zVG8NPbbkmVSFoxyyDAO_5P9eKOA8KDTZwkVFi2wd17BDl5vq1A5_rhzlAj4H5mPzj1afI0c6lCvj2XlqIHSLbTbL6w=w1920-h1080-k-no",
+        "published_at_date": "2018-11-24T16:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAETK9XFJyRwVZU6PFeFarEUWL-F06S57JZSoXdv2r3042gX1vQH_qGqmSm-adhpW07yVmNlEHU1c-B_Hboo-Yklv7iUxSMyBJT8IN-1-Mwa3Asu96oV2x4xf9aTcRamQLSxc5g=w1920-h1080-k-no",
+        "published_at_date": "2018-11-24T16:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHULKIycDnGVEn3ZTFqxzXCgiBW73Opbq-xANVDAqJMvhYn8gws3r8LJqKXHK42E6P61Mmfx08e6g5asZwlYl0wGfEffa-FGW6u5jKNZ9DS5PnkN_xq4cAdjS9OIRu275AU2_zpmA=w1920-h1080-k-no",
+        "published_at_date": "2018-11-24T16:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF7ADWcQAJvOZq-WnOFLhgr52qWvzqtEkOkXNmUhC4G33RIZFyFFj6yBt0rFrx5S-rBSHcFaOKNNK8dkCZJttwkj0rAMKcLPn9muuEj3fvbuAwkrS5T5vBY3g6IIB6F4ldYIEUc8A=w1920-h1080-k-no",
+        "published_at_date": "2018-11-24T16:00:00"
+      }
+    ],
+    "on_site_places": [],
+    "customer_updates": [],
+    "featured_question": null,
+    "review_keywords": [],
+    "featured_reviews": [],
+    "query": "boys hostel pg in nalasopara west"
+  },
+  {
+    "place_id": "ChIJgcEX16qp5zsRV1lh_xeKNeM",
+    "name": "Paying Guest Accomodation",
+    "description": "Living and Pg Accomodation in 1bhk flat at 2500 rent only per person per month.\nNote: No deposit and no Brokerage.",
+    "is_spending_on_ads": false,
+    "link": "https://www.google.com/maps/place/Paying+Guest+Accomodation/data=!4m7!3m6!1s0x3be7a9aad717c181:0xe3358a17ff615957!8m2!3d19.4162166!4d72.816235!16s%2Fg%2F11s783wffj!19sChIJgcEX16qp5zsRV1lh_xeKNeM?authuser=0&rclk=1",
+    "reviews": 5,
+    "rating": 5,
+    "competitors": [
+      {
+        "name": "Apna PG",
+        "suggested_link": "https://www.google.com/maps/search/Apna+PG/@19.425404,72.81568279999999,19z?authuser=0&entry=ttu",
+        "reviews": 5,
+        "rating": 4.2,
+        "main_category": "Student dormitory",
+        "categories": [
+          "Student dormitory"
+        ],
+        "coordinates": {
+          "latitude": 19.425404,
+          "longitude": 72.81568279999999
+        }
+      },
+      {
+        "name": "Paying Guests rooms On Sharing Basic only For working Males at vasai west",
+        "suggested_link": "https://www.google.com/maps/search/Paying+Guests+rooms+On+Sharing+Basic+only+For+working+Males+at+vasai+west/@19.408770399999998,72.83446409999999,19z?authuser=0&entry=ttu",
+        "reviews": 3,
+        "rating": 4.3,
+        "main_category": "Guest house",
+        "categories": [
+          "Guest house"
+        ],
+        "coordinates": {
+          "latitude": 19.408770399999998,
+          "longitude": 72.83446409999999
+        }
+      },
+      {
+        "name": "Ricky Paying guest service",
+        "suggested_link": "https://www.google.com/maps/search/Ricky+Paying+guest+service/@19.432740400000004,72.8456066,19z?authuser=0&entry=ttu",
+        "reviews": 3,
+        "rating": 5,
+        "main_category": "Guest house",
+        "categories": [
+          "Guest house"
+        ],
+        "coordinates": {
+          "latitude": 19.432740400000004,
+          "longitude": 72.8456066
+        }
+      },
+      {
+        "name": "S P Paying Guest",
+        "suggested_link": "https://www.google.com/maps/search/S+P+Paying+Guest/@19.4739039,72.8234743,19z?authuser=0&entry=ttu",
+        "reviews": 0,
+        "rating": 0,
+        "main_category": "Hotel",
+        "categories": [
+          "Hotel"
+        ],
+        "coordinates": {
+          "latitude": 19.4739039,
+          "longitude": 72.8234743
+        }
+      },
+      {
+        "name": "Abhinav Hostel",
+        "suggested_link": "https://www.google.com/maps/search/Abhinav+Hostel/@19.4247796,72.8134666,19z?authuser=0&entry=ttu",
+        "reviews": 0,
+        "rating": 0,
+        "main_category": "Student dormitory",
+        "categories": [
+          "Student dormitory"
+        ],
+        "coordinates": {
+          "latitude": 19.4247796,
+          "longitude": 72.8134666
+        }
+      }
+    ],
+    "website": null,
+    "phone": "082104 11697",
+    "phone_international": "+91 82104 11697",
+    "can_claim": false,
+    "owner": {
+      "id": "108798983164955737779",
+      "name": "Paying Guest Accomodation (Owner)",
+      "link": "https://www.google.com/maps/contrib/108798983164955737779"
+    },
+    "owner_posts": [],
+    "featured_image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFzIIPhuJKuao58qanPe4uPc0zCLMrrj6BwEwFY7gLEWqLk8e7GBQKczAe82wA9SFIpyOhkhdDKsrsQv_LRXVaD8ctWpzZBRF3Rtv0WZBEYEaMo6kV5opPwZ1NqxP7qa2Z-_rOPcA=w1920-h1080-k-no",
+    "main_category": "Guest house",
+    "categories": [
+      "Guest house"
+    ],
+    "workday_timing": null,
+    "status": null,
+    "is_temporarily_closed": false,
+    "is_permanently_closed": false,
+    "closed_on": "Open All Days",
+    "address": "Station Rd, nearby hotel galaxy, Nala Sopara, Lakshmiben Chedda Nagar, Nalasopara West, Vasai-Virar, Maharashtra 401203",
+    "price_range": null,
+    "reviews_per_rating": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 5
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJgcEX16qp5zsRV1lh_xeKNeM&q=Paying+Guest+Accomodation&authuser=0&hl=en&gl=IN",
+    "coordinates": {
+      "latitude": 19.4162166,
+      "longitude": 72.81623499999999
+    },
+    "plus_code": "CR88+FF Nalasopara West, Nala Sopara, Maharashtra",
+    "detailed_address": {
+      "ward": "Nala Sopara, Lakshmiben Chedda Nagar, Nalasopara West",
+      "street": "Station Rd, nearby hotel galaxy",
+      "city": "Vasai-Virar",
+      "postal_code": "401203",
+      "state": "Maharashtra",
+      "country_code": "IN"
+    },
+    "time_zone": "Asia/Calcutta",
+    "is_rental": false,
+    "cid": "16372143856048757079",
+    "data_id": "0x3be7a9aad717c181:0xe3358a17ff615957",
+    "kgmid": "/g/11s783wffj",
+    "about": [],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "menu": null,
+    "reservations": [],
+    "order_online_links": [],
+    "gas_prices": [],
+    "image_count": 13,
+    "images": [
+      {
+        "about": "All",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFzIIPhuJKuao58qanPe4uPc0zCLMrrj6BwEwFY7gLEWqLk8e7GBQKczAe82wA9SFIpyOhkhdDKsrsQv_LRXVaD8ctWpzZBRF3Rtv0WZBEYEaMo6kV5opPwZ1NqxP7qa2Z-_rOPcA=w1920-h1080-k-no",
+        "published_at_date": "2022-09-07T06:00:00"
+      },
+      {
+        "about": "Latest",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG1tlhR1Oq1COLchg6lsWeOlt0IKd-mGLlp-1hd_PVBgOHKy6qURrsnU8LpC23h3Olf-5XgxAcFk4wqdB8aXrBem-paiPEm2Wb-3eBlKdanqwVZXZqAXJtCFEDTLfcSj9BDiusIRxnKOwS5=w1920-h1080-k-no",
+        "published_at_date": "2026-06-14T10:00:00"
+      },
+      {
+        "about": "Exterior",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHz749gcodXDGvWvAxtSYo4xZU4NnKh7RR7j4kr_xcvQTt_VEwtOOGSHWy8hAckklbQt1A0sD3zaJa4ht7XErzgk9nt3U_74wnhrt9o8m0VFFMz4RnJ0KrStO4NaXH4pOa3lQuTCw=w1920-h1080-k-no",
+        "published_at_date": "2022-09-06T15:00:00"
+      },
+      {
+        "about": "By owner",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHEIANPD4S00w7xf6yMooCZ_v47S0bOCP5n7cXK-X6nr3fo3S5E7KTuc7mh-5X5PUtcmh24zz1uKfcmXNLd1kJlxJ9gWZYDhwIAysQsNECSX_z6u_fhPcEFjCc9A43whEeMiLWX=w1920-h1080-k-no",
+        "published_at_date": "2022-08-29T08:00:00"
+      },
+      {
+        "about": "Street View & 360°",
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SvVdrcJK_dxHDx7plkuFuw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=271.08258&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-05T06:00:00"
+      }
+    ],
+    "featured_images": [
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFzIIPhuJKuao58qanPe4uPc0zCLMrrj6BwEwFY7gLEWqLk8e7GBQKczAe82wA9SFIpyOhkhdDKsrsQv_LRXVaD8ctWpzZBRF3Rtv0WZBEYEaMo6kV5opPwZ1NqxP7qa2Z-_rOPcA=w1920-h1080-k-no",
+        "published_at_date": "2022-09-07T06:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHz749gcodXDGvWvAxtSYo4xZU4NnKh7RR7j4kr_xcvQTt_VEwtOOGSHWy8hAckklbQt1A0sD3zaJa4ht7XErzgk9nt3U_74wnhrt9o8m0VFFMz4RnJ0KrStO4NaXH4pOa3lQuTCw=w1920-h1080-k-no",
+        "published_at_date": "2022-09-06T15:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHEIANPD4S00w7xf6yMooCZ_v47S0bOCP5n7cXK-X6nr3fo3S5E7KTuc7mh-5X5PUtcmh24zz1uKfcmXNLd1kJlxJ9gWZYDhwIAysQsNECSX_z6u_fhPcEFjCc9A43whEeMiLWX=w1920-h1080-k-no",
+        "published_at_date": "2022-08-29T08:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEH7ICAky1_jorSKRDEt3_nu5x7WYvDBNXM_YwWugXcSNRBiN1od5tgq_h6I3AomJm8X7mYJdOjMcNCn3to-LmRy5teuZmcAg7lwK92eoq4LITKDFENvO0SP4UDfSVRKwj9xQeZ=w1920-h1080-k-no",
+        "published_at_date": "2022-08-29T14:00:00"
+      }
+    ],
+    "on_site_places": [],
+    "customer_updates": [],
+    "featured_question": null,
+    "review_keywords": [],
+    "featured_reviews": [
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvNjZUWDdBRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnTUNvNjZUWDdBRRAB!2m1!1s0x0:0xe3358a17ff615957!3m1!1s2@1:CIHM0ogKEICAgMCo66TX7AE%7C%7C?hl=en",
+        "name": "Sarfraz Shahi",
+        "reviewer_id": "116841733654321412189",
+        "reviewer_profile": "https://www.google.com/maps/contrib/116841733654321412189?hl=en-GB",
+        "rating": 5,
+        "review_text": "Experience everything u wish for good stay and hospitality",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2025-04-20T02:03:52",
+        "response_from_owner_text": "Thanks for complement, I will appreciate more ",
+        "response_from_owner_ago": "a year ago",
+        "response_from_owner_date": "2025-04-20T16:52:05",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjWL0mq0IIlvzElK2NS2b6KZ7pQkmH_Fglo2XIljqk6YKoWllzp1-Q=s1920",
+        "total_number_of_reviews_by_reviewer": 2,
+        "total_number_of_photos_by_reviewer": 13,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvNmNMMzFRRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnTUNvNmNMMzFRRRAB!2m1!1s0x0:0xe3358a17ff615957!3m1!1s2@1:CIHM0ogKEICAgMCo6cL31QE%7C%7C?hl=en",
+        "name": "Kaifi Imteyaz",
+        "reviewer_id": "100557430620533395085",
+        "reviewer_profile": "https://www.google.com/maps/contrib/100557430620533395085?hl=en-GB",
+        "rating": 5,
+        "review_text": "Nice Environment, All good",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2025-04-18T06:29:39",
+        "response_from_owner_text": "Thanks for complement, I will appreciate more ",
+        "response_from_owner_ago": "a year ago",
+        "response_from_owner_date": "2025-04-20T16:51:39",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocID333SMuaxWBp4ijTzii9nExjnvzBqKkGXrP1xVBlRkGyKMFc=s1920",
+        "total_number_of_reviews_by_reviewer": 6,
+        "total_number_of_photos_by_reviewer": 9,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvdGNDcDZRRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnTURvdGNDcDZRRRAB!2m1!1s0x0:0xe3358a17ff615957!3m1!1s2@1:CIHM0ogKEICAgMDotcCp6QE%7C%7C?hl=en",
+        "name": "saddam ansari",
+        "reviewer_id": "107212617763233909588",
+        "reviewer_profile": "https://www.google.com/maps/contrib/107212617763233909588?hl=en-GB",
+        "rating": 5,
+        "review_text": "Excellent",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2025-04-27T07:46:43",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjUzAiJ_k9CbfhjRjE-MyuFzMRfrixj50hy5MvILvD-ana_PKDw=s1920",
+        "total_number_of_reviews_by_reviewer": 3,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WUGVqWnlZbU5SUTNGTmJIVTFkV0ZCUVVwM1gyYxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21WUGVqWnlZbU5SUTNGTmJIVTFkV0ZCUVVwM1gyYxAB!2m1!1s0x0:0xe3358a17ff615957!3m1!1s2@1:CAIQACodChtycF9oOmVPejZyYmNRQ3FNbHU1dWFBQUp3X2c%7C%7C?hl=en",
+        "name": "MD Shahanwaz Alam",
+        "reviewer_id": "110607240561943865001",
+        "reviewer_profile": "https://www.google.com/maps/contrib/110607240561943865001?hl=en-GB",
+        "rating": 5,
+        "review_text": null,
+        "original_language": null,
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "9 months ago",
+        "published_at_date": "2025-09-08T11:02:42",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocL2FBKdDyL8_QJTQ-l8v0601Fic4kEh34z_QBQHEzjThCOJWl0=s1920",
+        "total_number_of_reviews_by_reviewer": 9,
+        "total_number_of_photos_by_reviewer": 7,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvcWZIRDJ3RRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnTUNvcWZIRDJ3RRAB!2m1!1s0x0:0xe3358a17ff615957!3m1!1s2@1:CIHM0ogKEICAgMCoqfHD2wE%7C%7C?hl=en",
+        "name": "Mujahid Khan",
+        "reviewer_id": "110993747287256842852",
+        "reviewer_profile": "https://www.google.com/maps/contrib/110993747287256842852?hl=en-GB",
+        "rating": 5,
+        "review_text": null,
+        "original_language": null,
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2025-04-18T05:09:12",
+        "response_from_owner_text": "Thanks for complement, I will appreciate more ",
+        "response_from_owner_ago": "a year ago",
+        "response_from_owner_date": "2025-04-20T16:52:26",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjURfW1r2Nipyd4OrCjXN7_CggFWFKGxbJD9em3r27crgabP1jwSIw=s1920",
+        "total_number_of_reviews_by_reviewer": 3,
+        "total_number_of_photos_by_reviewer": 34,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      }
+    ],
+    "query": "boys hostel pg in nalasopara west"
+  },
+  {
+    "place_id": "ChIJDyWGEdKu5zsR-DxYYkEgWWw",
+    "name": "ABK Boys Hostel",
+    "description": null,
+    "is_spending_on_ads": false,
+    "link": "https://www.google.com/maps/place/ABK+Boys+Hostel/data=!4m7!3m6!1s0x3be7aed21186250f:0x6c59204162583cf8!8m2!3d19.398828!4d72.840611!16s%2Fg%2F1pyqjxp21!19sChIJDyWGEdKu5zsR-DxYYkEgWWw?authuser=0&rclk=1",
+    "reviews": 67,
+    "rating": 3.6,
+    "competitors": [
+      {
+        "name": "Dewan KuldIp Singh CA Students Hostel",
+        "suggested_link": "https://www.google.com/maps/search/Dewan+KuldIp+Singh+CA+Students+Hostel/@19.401980299999998,72.8397873,19z?authuser=0&entry=ttu",
+        "reviews": 165,
+        "rating": 4.5,
+        "main_category": "Student dormitory",
+        "categories": [
+          "Student dormitory"
+        ],
+        "coordinates": {
+          "latitude": 19.401980299999998,
+          "longitude": 72.8397873
+        }
+      },
+      {
+        "name": "Dr. B.R. Ambedkar Govt. BC Boys Hostel, Ramedi, Vasai (W)",
+        "suggested_link": "https://www.google.com/maps/search/Dr.+B.R.+Ambedkar+Govt.+BC+Boys+Hostel,+Ramedi,+Vasai+(W)/@19.3474328,72.8008346,19z?authuser=0&entry=ttu",
+        "reviews": 17,
+        "rating": 3.8,
+        "main_category": "Student dormitory",
+        "categories": [
+          "Student dormitory"
+        ],
+        "coordinates": {
+          "latitude": 19.3474328,
+          "longitude": 72.8008346
+        }
+      },
+      {
+        "name": "CHINDER PG AND ROOMS.",
+        "suggested_link": "https://www.google.com/maps/search/CHINDER+PG+AND+ROOMS./@19.418591799999998,72.8390467,19z?authuser=0&entry=ttu",
+        "reviews": 12,
+        "rating": 3.3,
+        "main_category": "Student dormitory",
+        "categories": [
+          "Student dormitory"
+        ],
+        "coordinates": {
+          "latitude": 19.418591799999998,
+          "longitude": 72.8390467
+        }
+      },
+      {
+        "name": "Paying Guests rooms On Sharing Basic only For working Males at vasai west",
+        "suggested_link": "https://www.google.com/maps/search/Paying+Guests+rooms+On+Sharing+Basic+only+For+working+Males+at+vasai+west/@19.408770399999998,72.83446409999999,19z?authuser=0&entry=ttu",
+        "reviews": 3,
+        "rating": 4.3,
+        "main_category": "Guest house",
+        "categories": [
+          "Guest house"
+        ],
+        "coordinates": {
+          "latitude": 19.408770399999998,
+          "longitude": 72.83446409999999
+        }
+      },
+      {
+        "name": "Abhinav Hostel",
+        "suggested_link": "https://www.google.com/maps/search/Abhinav+Hostel/@19.4247796,72.8134666,19z?authuser=0&entry=ttu",
+        "reviews": 0,
+        "rating": 0,
+        "main_category": "Student dormitory",
+        "categories": [
+          "Student dormitory"
+        ],
+        "coordinates": {
+          "latitude": 19.4247796,
+          "longitude": 72.8134666
+        }
+      }
+    ],
+    "website": null,
+    "phone": "087968 09536",
+    "phone_international": "+91 87968 09536",
+    "can_claim": true,
+    "owner": {
+      "id": "103953204588796388383",
+      "name": "ABK Boys Hostel (Owner)",
+      "link": "https://www.google.com/maps/contrib/103953204588796388383"
+    },
+    "owner_posts": [],
+    "featured_image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFv1fX2x1rp-dGoWGVtgPuZeXI3thET7Ox6aJ5QsXdbN_GRUPlzt1gcRlw5blnSn_VE43BJpJOznUVyS4AeRWG3ZyRlsYS96II8wMwctsNL080zGU8KbEAWPV0DYJjSxuVkqB3z=w1920-h1080-k-no",
+    "main_category": "Boys' hostel",
+    "categories": [
+      "Boys' hostel"
+    ],
+    "workday_timing": "10 am–5 am",
+    "status": null,
+    "is_temporarily_closed": false,
+    "is_permanently_closed": false,
+    "closed_on": "Open All Days",
+    "address": "9RXR+G6Q, Madhuban Township, Golani Naka, Vasai East, Vasai-Virar, Maharashtra 401208",
+    "price_range": null,
+    "reviews_per_rating": {
+      "1": 12,
+      "2": 3,
+      "3": 13,
+      "4": 14,
+      "5": 25
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJDyWGEdKu5zsR-DxYYkEgWWw&q=ABK+Boys+Hostel&authuser=0&hl=en&gl=IN",
+    "coordinates": {
+      "latitude": 19.398827999999998,
+      "longitude": 72.840611
+    },
+    "plus_code": null,
+    "detailed_address": {
+      "ward": "Madhuban Township, Golani Naka, Vasai East",
+      "street": "9RXR+G6Q",
+      "city": "Vasai-Virar",
+      "postal_code": "401208",
+      "state": "Maharashtra",
+      "country_code": "IN"
+    },
+    "time_zone": "Asia/Calcutta",
+    "is_rental": false,
+    "cid": "7807306894218378488",
+    "data_id": "0x3be7aed21186250f:0x6c59204162583cf8",
+    "kgmid": "/g/1pyqjxp21",
+    "about": [],
+    "hours": [
+      {
+        "day": "Monday",
+        "times": [
+          "10 am–5 am"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "times": [
+          "10 am–5 am"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "times": [
+          "10 am–5 am"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "times": [
+          "10 am–5 am"
+        ]
+      },
+      {
+        "day": "Friday",
+        "times": [
+          "10 am–5 am"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "times": [
+          "10 am–5 am"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "times": [
+          "10 am–5 am"
+        ]
+      }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "menu": null,
+    "reservations": [],
+    "order_online_links": [],
+    "gas_prices": [],
+    "image_count": 12,
+    "images": [
+      {
+        "about": "All",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFv1fX2x1rp-dGoWGVtgPuZeXI3thET7Ox6aJ5QsXdbN_GRUPlzt1gcRlw5blnSn_VE43BJpJOznUVyS4AeRWG3ZyRlsYS96II8wMwctsNL080zGU8KbEAWPV0DYJjSxuVkqB3z=w1920-h1080-k-no",
+        "published_at_date": "2019-09-13T06:00:00"
+      },
+      {
+        "about": "Exterior",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHxgKD0HmKOhEOwXP3wBlt7mkuBPA5_NHL9y3-CgKPleccEj6RfW7knBZui8y9mH-dQZjdXq6u0DXO76jbnE6t4OB7KaQHOZ8TYfP6zxkyyAJfV3N-YnxlRarw659F71gDt8m3S=w1920-h1080-k-no",
+        "published_at_date": "2022-07-15T03:00:00"
+      },
+      {
+        "about": "From visitors",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFVphjQpLDDVYCKwV3wKDS6W4Ox32LM3UqEY123QQAmX3JCKCEdWF0UF0Aq-YnUEm-OrRY6XoU5AQM8BFEKiijAt5ALBNrhEB76fDnAX82Jq6rBZfch_qn5n_I8B9w1qXIVJQrpqQ=w1920-h1080-k-no",
+        "published_at_date": "2019-02-03T09:00:00"
+      },
+      {
+        "about": "Street View & 360°",
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vZA8cz1lvKEn8-2hITuWfg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=100.92916&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-05T08:00:00"
+      }
+    ],
+    "featured_images": [
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFv1fX2x1rp-dGoWGVtgPuZeXI3thET7Ox6aJ5QsXdbN_GRUPlzt1gcRlw5blnSn_VE43BJpJOznUVyS4AeRWG3ZyRlsYS96II8wMwctsNL080zGU8KbEAWPV0DYJjSxuVkqB3z=w1920-h1080-k-no",
+        "published_at_date": "2019-09-13T06:00:00"
+      },
+      {
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vZA8cz1lvKEn8-2hITuWfg&cb_client=search.gws-prod.gps&w=203&h=100&yaw=100.92916&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-05T08:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHxgKD0HmKOhEOwXP3wBlt7mkuBPA5_NHL9y3-CgKPleccEj6RfW7knBZui8y9mH-dQZjdXq6u0DXO76jbnE6t4OB7KaQHOZ8TYfP6zxkyyAJfV3N-YnxlRarw659F71gDt8m3S=w1920-h1080-k-no",
+        "published_at_date": "2022-07-15T03:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFVphjQpLDDVYCKwV3wKDS6W4Ox32LM3UqEY123QQAmX3JCKCEdWF0UF0Aq-YnUEm-OrRY6XoU5AQM8BFEKiijAt5ALBNrhEB76fDnAX82Jq6rBZfch_qn5n_I8B9w1qXIVJQrpqQ=w1920-h1080-k-no",
+        "published_at_date": "2019-02-03T09:00:00"
+      }
+    ],
+    "on_site_places": [],
+    "customer_updates": [],
+    "featured_question": null,
+    "review_keywords": [],
+    "featured_reviews": [
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRb2M3M0tnEAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURRb2M3M0tnEAE!2m1!1s0x0:0x6c59204162583cf8!3m1!1s2@1:CIHM0ogKEICAgIDQoc73Kg%7C%7C?hl=en",
+        "name": "Rakesh Jha",
+        "reviewer_id": "100401842453681113369",
+        "reviewer_profile": "https://www.google.com/maps/contrib/100401842453681113369?hl=en-GB",
+        "rating": 1,
+        "review_text": "it is worst hostel as compared to other hostel in that area. u should never join this; no proper management, no study environment,no good food. if location is not good for late night journey. Hostel is  full of dancers and employed people.There is less number of ca student. Manager always finding way to make money through different way. Advance given is not returned back. They take 1 month tym  for returning money and when u left mumbai. They get  the cheque dishonoured.Managers even donot knw - how to talk.He appears from some illiterate family. He talks lyk illiterate.If u have money problem and u r not serious abt career, then only join this hostel. if u are serious about good career. never join this hostel. its management is of thieves. Manager is biggest thief among all.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "8 years ago",
+        "published_at_date": "2017-08-19T14:35:34",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocKgaf68yv-WlmvT_0FJy_jk2ULL5ygBKqhGIeKf_oXiyDpAA6pe=s1920",
+        "total_number_of_reviews_by_reviewer": 2,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN3aGF1dmpRRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN3aGF1dmpRRRAB!2m1!1s0x0:0x6c59204162583cf8!3m1!1s2@1:CIHM0ogKEICAgICwhauvjQE%7C%7C?hl=en",
+        "name": "Vaibhav Ambulkar",
+        "reviewer_id": "111538208561782244890",
+        "reviewer_profile": "https://www.google.com/maps/contrib/111538208561782244890?hl=en-GB",
+        "rating": 5,
+        "review_text": "Nice and clean environment. Reasonable hostel for students. Staff is co operative with students. Plus point is they are having mess committee in hostel. Good hostel",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "8 years ago",
+        "published_at_date": "2018-03-14T05:52:52",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocL7_8XK1KhAfuHspEPAYvZ325ixBl43RyYmWWE1iQVD4HrcoQ=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKalBDSVZ3EAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNKalBDSVZ3EAE!2m1!1s0x0:0x6c59204162583cf8!3m1!1s2@1:CIHM0ogKEICAgICJjPCIVw%7C%7C?hl=en",
+        "name": "Saurabh Patil",
+        "reviewer_id": "114748778994243804777",
+        "reviewer_profile": "https://www.google.com/maps/contrib/114748778994243804777?hl=en-GB",
+        "rating": 5,
+        "review_text": "I used to live here when my friend left me and I don't afford to live other expensive places.. I m really satisfied to live here",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "3 years ago",
+        "published_at_date": "2023-06-22T02:56:21",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjWoDreaIIWGV1mR-UMyhsX2MpkCgmH25DnOB2PuAYAu58JU26Rh=s1920",
+        "total_number_of_reviews_by_reviewer": 3,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBMGFtNmlnRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNBMGFtNmlnRRAB!2m1!1s0x0:0x6c59204162583cf8!3m1!1s2@1:CIHM0ogKEICAgICA0am6igE%7C%7C?hl=en",
+        "name": "Vinod Gupta",
+        "reviewer_id": "104438171579382325412",
+        "reviewer_profile": "https://www.google.com/maps/contrib/104438171579382325412?hl=en-GB",
+        "rating": 4,
+        "review_text": "Boys hostel situated near Evershine city Gate. 15 minutes away from Vasai road station by Rickshaw. It's a residential building converted into hostel with mess facility.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "8 years ago",
+        "published_at_date": "2018-01-06T08:36:21",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjUBTxrzqsA-ZI-TcjQkPIjVxE3AobkexskCFoEXnp9WDoVHMdV0JA=s1920",
+        "total_number_of_reviews_by_reviewer": 69,
+        "total_number_of_photos_by_reviewer": 31,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBOEpiTzJnRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURBOEpiTzJnRRAB!2m1!1s0x0:0x6c59204162583cf8!3m1!1s2@1:CIHM0ogKEICAgIDA8JbO2gE%7C%7C?hl=en",
+        "name": "Parag Mistry",
+        "reviewer_id": "100933265712978815989",
+        "reviewer_profile": "https://www.google.com/maps/contrib/100933265712978815989?hl=en-GB",
+        "rating": 4,
+        "review_text": "A neat and well maintained Boys Hostel along with good accommodation facilities. Great place for students and learners alike...",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "9 years ago",
+        "published_at_date": "2016-07-28T13:27:52",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjWpYw9VFiVV8cFB5YtCrDVEd6JfYldTNfgUTehw_xmsxK2E2o_Ezw=s1920",
+        "total_number_of_reviews_by_reviewer": 19,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNvdDRUa19RRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNvdDRUa19RRRAB!2m1!1s0x0:0x6c59204162583cf8!3m1!1s2@1:CIHM0ogKEICAgICot4Tk_QE%7C%7C?hl=en",
+        "name": "Kishore",
+        "reviewer_id": "111747272624704053452",
+        "reviewer_profile": "https://www.google.com/maps/contrib/111747272624704053452?hl=en-GB",
+        "rating": 3,
+        "review_text": "Not good for me...........but may be good for other boys/students........it depends on needs of others so,i suggest to you gyzz to self inquiry",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "7 years ago",
+        "published_at_date": "2019-03-05T02:15:25",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjWen0IUURAHM21p9DxIMQWVYHagx_mosHIf5KFsQVlF-qwBNtPL=s1920",
+        "total_number_of_reviews_by_reviewer": 54,
+        "total_number_of_photos_by_reviewer": 210,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM2M2MzWldREAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM2M2MzWldREAE!2m1!1s0x0:0x6c59204162583cf8!3m1!1s2@1:CIHM0ogKEICAgIC63c3ZWQ%7C%7C?hl=en",
+        "name": "Ankit Ghate",
+        "reviewer_id": "101899541407594851130",
+        "reviewer_profile": "https://www.google.com/maps/contrib/101899541407594851130?hl=en-GB",
+        "rating": 1,
+        "review_text": "One trustee, Govind sharma, a CA, have problems with low caste and muslim students. Sick man. 😡😡",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "4 years ago",
+        "published_at_date": "2021-09-10T21:18:37",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocIk-y3D2Zo44DJ2-ebyp3OGymYD3v9-W7zBCFBvH-WNpV0BpA=s1920",
+        "total_number_of_reviews_by_reviewer": 2,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNNzk2cnpRRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURNNzk2cnpRRRAB!2m1!1s0x0:0x6c59204162583cf8!3m1!1s2@1:CIHM0ogKEICAgIDM796rzQE%7C%7C?hl=en",
+        "name": "anand gaurav",
+        "reviewer_id": "107931105390948562662",
+        "reviewer_profile": "https://www.google.com/maps/contrib/107931105390948562662?hl=en-GB",
+        "rating": 4,
+        "review_text": "It's good for students to reside at this hostel as the fees is reasonable.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "Edited 6 years ago",
+        "published_at_date": "2020-01-16T18:28:22",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjV2UVnl83O_TgobiwRwjuXxFmW8MxVC5MdE8N6k4Hu0rdU3sec=s1920",
+        "total_number_of_reviews_by_reviewer": 7,
+        "total_number_of_photos_by_reviewer": 3,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      }
+    ],
+    "query": "boys hostel pg in nalasopara west"
+  },
+  {
+    "place_id": "ChIJUTlbYxap5zsRukmcwPhFyUE",
+    "name": "CHINDER PG AND ROOMS.",
+    "description": "BUDGET HOSTEL",
+    "is_spending_on_ads": false,
+    "link": "https://www.google.com/maps/place/CHINDER+PG+AND+ROOMS./data=!4m7!3m6!1s0x3be7a916635b3951:0x41c945f8c09c49ba!8m2!3d19.4185918!4d72.8390467!16s%2Fg%2F11sprx1czb!19sChIJUTlbYxap5zsRukmcwPhFyUE?authuser=0&rclk=1",
+    "reviews": 12,
+    "rating": 3.3,
+    "competitors": [
+      {
+        "name": "Bluearrow pg",
+        "suggested_link": "https://www.google.com/maps/search/Bluearrow+pg/@19.418194,72.8177898,19z?authuser=0&entry=ttu",
+        "reviews": 8,
+        "rating": 3.8,
+        "main_category": "Girls' hostel",
+        "categories": [
+          "Girls' hostel"
+        ],
+        "coordinates": {
+          "latitude": 19.418194,
+          "longitude": 72.8177898
+        }
+      },
+      {
+        "name": "Apna PG",
+        "suggested_link": "https://www.google.com/maps/search/Apna+PG/@19.425404,72.81568279999999,19z?authuser=0&entry=ttu",
+        "reviews": 5,
+        "rating": 4.2,
+        "main_category": "Student dormitory",
+        "categories": [
+          "Student dormitory"
+        ],
+        "coordinates": {
+          "latitude": 19.425404,
+          "longitude": 72.81568279999999
+        }
+      },
+      {
+        "name": "Paying Guests rooms On Sharing Basic only For working Males at vasai west",
+        "suggested_link": "https://www.google.com/maps/search/Paying+Guests+rooms+On+Sharing+Basic+only+For+working+Males+at+vasai+west/@19.408770399999998,72.83446409999999,19z?authuser=0&entry=ttu",
+        "reviews": 3,
+        "rating": 4.3,
+        "main_category": "Guest house",
+        "categories": [
+          "Guest house"
+        ],
+        "coordinates": {
+          "latitude": 19.408770399999998,
+          "longitude": 72.83446409999999
+        }
+      },
+      {
+        "name": "Ricky Paying guest service",
+        "suggested_link": "https://www.google.com/maps/search/Ricky+Paying+guest+service/@19.432740400000004,72.8456066,19z?authuser=0&entry=ttu",
+        "reviews": 3,
+        "rating": 5,
+        "main_category": "Guest house",
+        "categories": [
+          "Guest house"
+        ],
+        "coordinates": {
+          "latitude": 19.432740400000004,
+          "longitude": 72.8456066
+        }
+      },
+      {
+        "name": "Abhinav Hostel",
+        "suggested_link": "https://www.google.com/maps/search/Abhinav+Hostel/@19.4247796,72.8134666,19z?authuser=0&entry=ttu",
+        "reviews": 0,
+        "rating": 0,
+        "main_category": "Student dormitory",
+        "categories": [
+          "Student dormitory"
+        ],
+        "coordinates": {
+          "latitude": 19.4247796,
+          "longitude": 72.8134666
+        }
+      }
+    ],
+    "website": null,
+    "phone": null,
+    "phone_international": null,
+    "can_claim": false,
+    "owner": {
+      "id": "115153691158660935941",
+      "name": "CHINDER PG AND ROOMS. (Owner)",
+      "link": "https://www.google.com/maps/contrib/115153691158660935941"
+    },
+    "owner_posts": [],
+    "featured_image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGSQpmKnQqJCqsBxx4X69c4Um-2fXMItm15WrygLUd5WLm-wAJ44_5nORku8b1gowdWrj1hWKGtN7i7aZJbG4hiKsc1xLNYJ5xX3MJ6mFZsQElZneghRxeMLYE8WvYq7OVv3HU=w1920-h1080-k-no",
+    "main_category": "Student dormitory",
+    "categories": [
+      "Student dormitory"
+    ],
+    "workday_timing": "Open 24 hours",
+    "status": null,
+    "is_temporarily_closed": false,
+    "is_permanently_closed": false,
+    "closed_on": "Open All Days",
+    "address": "J. P. DUBEY CHAWL, ANNA DISH, NEAR KUMKUM MEDICAL, U. P. NAKA, Nala Sopara, Nalasopara East, Maharashtra 401209",
+    "price_range": null,
+    "reviews_per_rating": {
+      "1": 4,
+      "2": 0,
+      "3": 2,
+      "4": 0,
+      "5": 6
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJUTlbYxap5zsRukmcwPhFyUE&q=CHINDER+PG+AND+ROOMS.&authuser=0&hl=en&gl=IN",
+    "coordinates": {
+      "latitude": 19.418591799999998,
+      "longitude": 72.8390467
+    },
+    "plus_code": "CR9Q+CJ Nalasopara East, Nala Sopara, Vasai-Virar, Maharashtra",
+    "detailed_address": {
+      "ward": "Nala Sopara, Hawai Pada, Nalasopara East",
+      "street": "J. P. DUBEY CHAWL, ANNA DISH, NEAR KUMKUM MEDICAL, U. P. NAKA",
+      "city": "Vasai-Virar",
+      "postal_code": "401209",
+      "state": "Maharashtra",
+      "country_code": "IN"
+    },
+    "time_zone": "Asia/Calcutta",
+    "is_rental": false,
+    "cid": "4740397017469831610",
+    "data_id": "0x3be7a916635b3951:0x41c945f8c09c49ba",
+    "kgmid": "/g/11sprx1czb",
+    "about": [],
+    "hours": [
+      {
+        "day": "Monday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Friday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "times": [
+          "Open 24 hours"
+        ]
+      }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "menu": null,
+    "reservations": [],
+    "order_online_links": [],
+    "gas_prices": [],
+    "image_count": 19,
+    "images": [
+      {
+        "about": "All",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGSQpmKnQqJCqsBxx4X69c4Um-2fXMItm15WrygLUd5WLm-wAJ44_5nORku8b1gowdWrj1hWKGtN7i7aZJbG4hiKsc1xLNYJ5xX3MJ6mFZsQElZneghRxeMLYE8WvYq7OVv3HU=w1920-h1080-k-no",
+        "published_at_date": "2022-11-30T05:00:00"
+      },
+      {
+        "about": "Rooms",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHFWFRIHBbBaw0yRgPs4cLaQk6TXhyK7Hrvcc0NW80UvkRb1Ucshh35oAn_d3SdRjlqpl53m2cIzzcKx6biTbD5Nk_QHbHVVUGtDMzvZOuUuvwG4__vNtWaMRdScxm-xyiz2gnM6w=w1920-h1080-k-no",
+        "published_at_date": "2022-11-07T05:00:00"
+      },
+      {
+        "about": "Videos",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEB26oYw_8wENLJkv-yt17pJH1KHvBWG2_QpDzHNGObnFbpAiL273fDISbX2tbE-mVz9aGIOgy1mdKRvbUs7dygGIC_WzgQ8yW0PvcM0HYghALOuT3XJyPyq0HeAXgdzFxv9TIm=w1920-h1080-k-no",
+        "published_at_date": "2023-12-10T07:00:00"
+      },
+      {
+        "about": "Exterior",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHaMYwkhO-UacZErpKqNyv6YJ6nY4GKUVWl_bELuOWtsWCnWRgzT5zDc0URPWpKCpIV1jK3Zoi40BJ7-fuL8rpiTlDctjdzWS0SAXtPdFOsFTa4x0fnB85KqNtMSGq6MeleYVe3=w1920-h1080-k-no",
+        "published_at_date": "2022-11-30T11:00:00"
+      },
+      {
+        "about": "By owner",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEB26oYw_8wENLJkv-yt17pJH1KHvBWG2_QpDzHNGObnFbpAiL273fDISbX2tbE-mVz9aGIOgy1mdKRvbUs7dygGIC_WzgQ8yW0PvcM0HYghALOuT3XJyPyq0HeAXgdzFxv9TIm=w1920-h1080-k-no",
+        "published_at_date": "2023-12-10T07:00:00"
+      }
+    ],
+    "featured_images": [
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGSQpmKnQqJCqsBxx4X69c4Um-2fXMItm15WrygLUd5WLm-wAJ44_5nORku8b1gowdWrj1hWKGtN7i7aZJbG4hiKsc1xLNYJ5xX3MJ6mFZsQElZneghRxeMLYE8WvYq7OVv3HU=w1920-h1080-k-no",
+        "published_at_date": "2022-11-30T05:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEB26oYw_8wENLJkv-yt17pJH1KHvBWG2_QpDzHNGObnFbpAiL273fDISbX2tbE-mVz9aGIOgy1mdKRvbUs7dygGIC_WzgQ8yW0PvcM0HYghALOuT3XJyPyq0HeAXgdzFxv9TIm=w1920-h1080-k-no",
+        "published_at_date": "2023-12-10T07:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEYpYOrXrwo4ZErnqkLLBghoFYfyTfeQEDFPt4-YD2V9K4wYbt4OUAVFGeOgG-oqpmyq29uM7fq0uvUNyb5deUVHWJZ_1LCRu-SRC7XgRZ17bnzs5bUbRrPQYqVNI0zw1YwTdc=w1920-h1080-k-no",
+        "published_at_date": "2023-12-10T07:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHFWFRIHBbBaw0yRgPs4cLaQk6TXhyK7Hrvcc0NW80UvkRb1Ucshh35oAn_d3SdRjlqpl53m2cIzzcKx6biTbD5Nk_QHbHVVUGtDMzvZOuUuvwG4__vNtWaMRdScxm-xyiz2gnM6w=w1920-h1080-k-no",
+        "published_at_date": "2022-11-07T05:00:00"
+      }
+    ],
+    "on_site_places": [],
+    "customer_updates": [],
+    "featured_question": null,
+    "review_keywords": [],
+    "featured_reviews": [
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoUGNuQlhUVVZyVEZORE1ERlBUSE10T1VNelYxRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xoUGNuQlhUVVZyVEZORE1ERlBUSE10T1VNelYxRRAB!2m1!1s0x0:0x41c945f8c09c49ba!3m1!1s2@1:CAIQACodChtycF9oOlhPcnBXTUVrTFNDMDFPTHMtOUMzV1E%7C%7C?hl=en",
+        "name": "Dr.pankaj Jadhav",
+        "reviewer_id": "115443054616698095319",
+        "reviewer_profile": "https://www.google.com/maps/contrib/115443054616698095319?hl=en-GB",
+        "rating": 1,
+        "review_text": "Good pg .\nCheap price talk in details with owner or caretaker",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "5 months ago",
+        "published_at_date": "2026-01-07T06:34:19",
+        "response_from_owner_text": "THANK YOU SIR.",
+        "response_from_owner_ago": "5 months ago",
+        "response_from_owner_date": "2026-01-11T02:36:15",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjXvdwD-ILj4Ft8AyqLSRN2rcMWIftmkzhffqfG3U6ulrWwOCW0=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 4,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [
+          {
+            "id": "CIABIhCD_XIvgs92hOsynF1BZmAQ",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn0LVSWoen_zYdVGGaRjveL5GY__Ft_QMMoYCObGPDO5mVX82WNoOo5xQrf7EctSLEbE_AOL418SLStKiPQHT21_d6R7UXbxZe5-dFctvAjOL-vkbj0NxyLMBF_E6a0lcHMlY0OJI2FHPZVC=k-no",
+            "caption": null,
+            "width": 720,
+            "height": 1280
+          },
+          {
+            "id": "CIABIhBXRAtJhGmLdrH6Bd5x9nJc",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn3zPnF27mObHuJ65MkVmAEfn3qiEchj_BmmVt32wRnNSIA3H4AoQ71aacFeyGwNyGzslAOrVDTmohiASZ_MVVSVk6SkT_96_vtqQ254qAqdyxUsVhNHm3y4kxn5k8k7gQuhsRTZWKR-_L8=k-no",
+            "caption": null,
+            "width": 1280,
+            "height": 720
+          },
+          {
+            "id": "CIABIhCXBPShHeLflSB7uUaDWndl",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn3pbXT7PAZqTJL5ANBxYamd-K-8KVq9VDIJ_Mc6Wuqrxmwtju8cleEqE-E3DNXE3wpYPl74wke-8JAj6xSRXEJFi5ogOLbJBd1a0CMMCh-2zLb9CrdgPanZFYNXHt8pIf6DAah4rrX9Z893=k-no",
+            "caption": null,
+            "width": 720,
+            "height": 1280
+          },
+          {
+            "id": "CIABIhC3HOQuuzbsuGXAn64arUCf",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn2UZyJCD30qNfhsr2SXSNss5MSD8g7XoF9mrZojE8JiPuy2D35OWJZo95lgEAMwWR51bwwskkKHdYo8V8xw7hy3vIgOhpLVmMlVIiuooh3IVr70-kjU9w6TVg4TQVPrVkwRnfgp1SoNxmo=k-no",
+            "caption": null,
+            "width": 720,
+            "height": 1280
+          }
+        ],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSRFVrTkVjV1pzY0c5clVIRlNjVmhyUVY5dWRIYxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xSRFVrTkVjV1pzY0c5clVIRlNjVmhyUVY5dWRIYxAB!2m1!1s0x0:0x41c945f8c09c49ba!3m1!1s2@1:CAIQACodChtycF9oOlRDUkNEcWZscG9rUHFScVhrQV9udHc%7C%7C?hl=en",
+        "name": "Kamlesh Wagh",
+        "reviewer_id": "112853265502221597879",
+        "reviewer_profile": "https://www.google.com/maps/contrib/112853265502221597879?hl=en-GB",
+        "rating": 3,
+        "review_text": "What's the rent for boys share contact no",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "8 months ago",
+        "published_at_date": "2025-10-22T02:57:33",
+        "response_from_owner_text": "THANK YOU SIR.\nRS. 1500 / 2000 PER MONTH.",
+        "response_from_owner_ago": "8 months ago",
+        "response_from_owner_date": "2025-10-22T07:15:31",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjV8HdJWr1fWVexcZWC7ighVzgk6dWg5-RZ5klkAmux_Z0iqi-DG=s1920",
+        "total_number_of_reviews_by_reviewer": 49,
+        "total_number_of_photos_by_reviewer": 2,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5aU9EWk5UVjkyUVZoeGRYUkVXbUpRU3poUlVFRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s5aU9EWk5UVjkyUVZoeGRYUkVXbUpRU3poUlVFRRAB!2m1!1s0x0:0x41c945f8c09c49ba!3m1!1s2@1:CAIQACodChtycF9oOk9iODZNTV92QVhxdXREWmJQSzhRUEE%7C%7C?hl=en",
+        "name": "Muna Blogger",
+        "reviewer_id": "109211594924982915407",
+        "reviewer_profile": "https://www.google.com/maps/contrib/109211594924982915407?hl=en-GB",
+        "rating": 1,
+        "review_text": "Not clinging not refunded",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "10 months ago",
+        "published_at_date": "2025-08-06T22:04:33",
+        "response_from_owner_text": "THANK YOU SIR.",
+        "response_from_owner_ago": "8 months ago",
+        "response_from_owner_date": "2025-10-26T02:20:40",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocJbPTfO-HEFKNzQt8H13kl8fno5CNCaGKkbTHfQgCiSoMqg3Q=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3XzVtS0ZnEAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnTUR3XzVtS0ZnEAE!2m1!1s0x0:0x41c945f8c09c49ba!3m1!1s2@1:CIHM0ogKEICAgMDw_5mKFg%7C%7C?hl=en",
+        "name": "Irenic",
+        "reviewer_id": "112135171060416201029",
+        "reviewer_profile": "https://www.google.com/maps/contrib/112135171060416201029?hl=en-GB",
+        "rating": 5,
+        "review_text": "Thanks you",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2025-03-29T09:38:34",
+        "response_from_owner_text": "THANK YOU SIR.",
+        "response_from_owner_ago": "11 months ago",
+        "response_from_owner_date": "2025-07-07T17:15:48",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjX-4t6p3InYqTjloXFzzIOilchZtS067v_DgAkwBxvOr2QYv0w=s1920",
+        "total_number_of_reviews_by_reviewer": 6,
+        "total_number_of_photos_by_reviewer": 11,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlbFphT2RnEAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURlbFphT2RnEAE!2m1!1s0x0:0x41c945f8c09c49ba!3m1!1s2@1:CIHM0ogKEICAgIDelZaOdg%7C%7C?hl=en",
+        "name": "Runa Sharma",
+        "reviewer_id": "115623441928746764495",
+        "reviewer_profile": "https://www.google.com/maps/contrib/115623441928746764495?hl=en-GB",
+        "rating": 5,
+        "review_text": "Nice",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "3 years ago",
+        "published_at_date": "2022-10-15T15:58:37",
+        "response_from_owner_text": "THANK YOU SIR.",
+        "response_from_owner_ago": "3 years ago",
+        "response_from_owner_date": "2022-10-15T19:27:44",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjUSZFX5ZR8Austz8EkjSr-pq3Xr1YXdNDM5quQKF4poegQbx-u3=s1920",
+        "total_number_of_reviews_by_reviewer": 7,
+        "total_number_of_photos_by_reviewer": 6,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlOWItV2lnRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURlOWItV2lnRRAB!2m1!1s0x0:0x41c945f8c09c49ba!3m1!1s2@1:CIHM0ogKEICAgIDe9b-WigE%7C%7C?hl=en",
+        "name": "Arman khan",
+        "reviewer_id": "107878748647574213973",
+        "reviewer_profile": "https://www.google.com/maps/contrib/107878748647574213973?hl=en-GB",
+        "rating": 3,
+        "review_text": "Ók",
+        "original_language": "is",
+        "review_translated_text": "I drove.",
+        "translated_language": "en",
+        "published_at": "3 years ago",
+        "published_at_date": "2022-10-16T10:24:16",
+        "response_from_owner_text": "THANK YOU SIR.",
+        "response_from_owner_ago": "3 years ago",
+        "response_from_owner_date": "2022-10-16T14:13:13",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjU7WnyXukmFoDuO3rOU0LqOfl5N7Y3XahmVoxb5raYXXdUnIGM=s1920",
+        "total_number_of_reviews_by_reviewer": 55,
+        "total_number_of_photos_by_reviewer": 231,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kSFJYbEljSEZPVlhSMVkycDNRMmd6YWs1VlFuYxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25kSFJYbEljSEZPVlhSMVkycDNRMmd6YWs1VlFuYxAB!2m1!1s0x0:0x41c945f8c09c49ba!3m1!1s2@1:CAIQACodChtycF9oOndHRXlIcHFOVXR1Y2p3Q2gzak5VQnc%7C%7C?hl=en",
+        "name": "Nusrat Khan",
+        "reviewer_id": "102328194736039826994",
+        "reviewer_profile": "https://www.google.com/maps/contrib/102328194736039826994?hl=en-GB",
+        "rating": 5,
+        "review_text": null,
+        "original_language": null,
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "3 months ago",
+        "published_at_date": "2026-03-16T05:36:19",
+        "response_from_owner_text": "THANK YOU SIR",
+        "response_from_owner_ago": "3 months ago",
+        "response_from_owner_date": "2026-03-16T11:15:46",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocLVITVuxjE6FNUlltNyrO0Xr6TIcctcHTMeoi-K9EiXbuGkRQ=s1920",
+        "total_number_of_reviews_by_reviewer": 2,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KU1JsTnphbmRMWDJRMFpHSnRialF0UTFWeVJuYxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25KU1JsTnphbmRMWDJRMFpHSnRialF0UTFWeVJuYxAB!2m1!1s0x0:0x41c945f8c09c49ba!3m1!1s2@1:CAIQACodChtycF9oOnJSRlNzandLX2Q0ZGJtbjQtQ1VyRnc%7C%7C?hl=en",
+        "name": "Paresh Salaskar",
+        "reviewer_id": "105379760665895637629",
+        "reviewer_profile": "https://www.google.com/maps/contrib/105379760665895637629?hl=en-GB",
+        "rating": 1,
+        "review_text": null,
+        "original_language": null,
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "8 months ago",
+        "published_at_date": "2025-10-23T11:57:49",
+        "response_from_owner_text": "THANK YOU SIR.",
+        "response_from_owner_ago": "8 months ago",
+        "response_from_owner_date": "2025-10-25T04:06:26",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjUvhH_09ybazrmZfnw4orGe4x-QU2A1jrCNYt8UsO0usSqPloU=s1920",
+        "total_number_of_reviews_by_reviewer": 0,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      }
+    ],
+    "query": "boys hostel pg in nalasopara west"
+  },
+  {
+    "place_id": "ChIJTYz1xCmq5zsRTD9rQCEFWes",
+    "name": "BOYS HOSTEL ( PG FACILITY)",
+    "description": "WE HAVE 2 SHAREING OCCUPATION FOR BOYS AT REASONABLE PRICE WITH TOILET BATHROOM ATACHMENT WITH 24 HOURS WATER FACILITY AND WITH INVETOR BACKUP",
+    "is_spending_on_ads": false,
+    "link": "https://www.google.com/maps/place/BOYS+HOSTEL+(+PG+FACILITY)/data=!4m7!3m6!1s0x3be7aa29c4f58c4d:0xeb590521406b3f4c!8m2!3d19.4537004!4d72.8035365!16s%2Fg%2F11b6ghcrl6!19sChIJTYz1xCmq5zsRTD9rQCEFWes?authuser=0&rclk=1",
+    "reviews": 56,
+    "rating": 4,
+    "competitors": [
+      {
+        "name": "My PG Stay- Girls & Woman only",
+        "suggested_link": "https://www.google.com/maps/search/My+PG+Stay-+Girls+%26+Woman+only/@19.4553926,72.7997383,19z?authuser=0&entry=ttu",
+        "reviews": 29,
+        "rating": 3.1,
+        "main_category": "Working women's hostel",
+        "categories": [
+          "Working women's hostel"
+        ],
+        "coordinates": {
+          "latitude": 19.4553926,
+          "longitude": 72.7997383
+        }
+      },
+      {
+        "name": "Sunny girls hostel and pg",
+        "suggested_link": "https://www.google.com/maps/search/Sunny+girls+hostel+and+pg/@19.472466999999998,72.80081179999999,19z?authuser=0&entry=ttu",
+        "reviews": 5,
+        "rating": 5,
+        "main_category": "Girls' hostel",
+        "categories": [
+          "Girls' hostel"
+        ],
+        "coordinates": {
+          "latitude": 19.472466999999998,
+          "longitude": 72.80081179999999
+        }
+      },
+      {
+        "name": "Paying Guests rooms On Sharing Basic only For working Males at vasai west",
+        "suggested_link": "https://www.google.com/maps/search/Paying+Guests+rooms+On+Sharing+Basic+only+For+working+Males+at+vasai+west/@19.408770399999998,72.83446409999999,19z?authuser=0&entry=ttu",
+        "reviews": 3,
+        "rating": 4.3,
+        "main_category": "Guest house",
+        "categories": [
+          "Guest house"
+        ],
+        "coordinates": {
+          "latitude": 19.408770399999998,
+          "longitude": 72.83446409999999
+        }
+      },
+      {
+        "name": "Jain Pg",
+        "suggested_link": "https://www.google.com/maps/search/Jain+Pg/@19.4740453,72.8234937,19z?authuser=0&entry=ttu",
+        "reviews": 0,
+        "rating": 0,
+        "main_category": "Hotel",
+        "categories": [
+          "Hotel"
+        ],
+        "coordinates": {
+          "latitude": 19.4740453,
+          "longitude": 72.8234937
+        }
+      },
+      {
+        "name": "S P Paying Guest",
+        "suggested_link": "https://www.google.com/maps/search/S+P+Paying+Guest/@19.4739039,72.8234743,19z?authuser=0&entry=ttu",
+        "reviews": 0,
+        "rating": 0,
+        "main_category": "Hotel",
+        "categories": [
+          "Hotel"
+        ],
+        "coordinates": {
+          "latitude": 19.4739039,
+          "longitude": 72.8234743
+        }
+      }
+    ],
+    "website": null,
+    "phone": "084249 95206",
+    "phone_international": "+91 84249 95206",
+    "can_claim": false,
+    "owner": {
+      "id": "111697078490294583621",
+      "name": "BOYS HOSTEL ( PG FACILITY) (Owner)",
+      "link": "https://www.google.com/maps/contrib/111697078490294583621"
+    },
+    "owner_posts": [],
+    "featured_image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHImyrOX7bdAc_bQ1I7_xCWWX5m9NwXHmI4d7PZy8n8csQYtMJvLtP0aSAd1IalwdWJVV1z7_rIwXZW14xgpltaawrxrm74WO6cIPi6TMZodsD9eHQm_jfBFP__q9eto0JLEQzH-IwftGrL=w1920-h1080-k-no",
+    "main_category": "Boys' hostel",
+    "categories": [
+      "Boys' hostel"
+    ],
+    "workday_timing": "9 am–11 pm",
+    "status": null,
+    "is_temporarily_closed": false,
+    "is_permanently_closed": false,
+    "closed_on": "Open All Days",
+    "address": "BOYS HOSTEL VARKANA BHAVAN, near DESIRE FURNITURE, opp. BANJARA HOTEL, Chintamani Vihar, Tirupati Nagar, Virar West, Vasai-Virar, Maharashtra 401303",
+    "price_range": null,
+    "reviews_per_rating": {
+      "1": 7,
+      "2": 1,
+      "3": 7,
+      "4": 10,
+      "5": 31
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJTYz1xCmq5zsRTD9rQCEFWes&q=BOYS+HOSTEL+(+PG+FACILITY)&authuser=0&hl=en&gl=IN",
+    "coordinates": {
+      "latitude": 19.4537004,
+      "longitude": 72.80353649999999
+    },
+    "plus_code": "FR33+FC Vasai-Virar, Maharashtra",
+    "detailed_address": {
+      "ward": "Chintamani Vihar, Tirupati Nagar, Virar West",
+      "street": "BOYS HOSTEL VARKANA BHAVAN, near DESIRE FURNITURE, opp. BANJARA HOTEL",
+      "city": "Vasai-Virar",
+      "postal_code": "401303",
+      "state": "Maharashtra",
+      "country_code": "IN"
+    },
+    "time_zone": "Asia/Calcutta",
+    "is_rental": false,
+    "cid": "16958591512213143372",
+    "data_id": "0x3be7aa29c4f58c4d:0xeb590521406b3f4c",
+    "kgmid": "/g/11b6ghcrl6",
+    "about": [
+      {
+        "id": "amenities",
+        "name": "Amenities",
+        "options": [
+          {
+            "name": "Gender-neutral toilets",
+            "enabled": true
+          }
+        ]
+      }
+    ],
+    "hours": [
+      {
+        "day": "Monday",
+        "times": [
+          "9 am–11 pm"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "times": [
+          "9 am–11 pm"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "times": [
+          "9 am–11 pm"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "times": [
+          "9 am–11 pm"
+        ]
+      },
+      {
+        "day": "Friday",
+        "times": [
+          "9 am–11 pm"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "times": [
+          "9 am–11 pm"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "times": [
+          "9 am–11 pm"
+        ]
+      }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "menu": null,
+    "reservations": [],
+    "order_online_links": [],
+    "gas_prices": [],
+    "image_count": 89,
+    "images": [
+      {
+        "about": "All",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHImyrOX7bdAc_bQ1I7_xCWWX5m9NwXHmI4d7PZy8n8csQYtMJvLtP0aSAd1IalwdWJVV1z7_rIwXZW14xgpltaawrxrm74WO6cIPi6TMZodsD9eHQm_jfBFP__q9eto0JLEQzH-IwftGrL=w1920-h1080-k-no",
+        "published_at_date": "2025-07-28T17:00:00"
+      },
+      {
+        "about": "Rooms",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEPRcg_PaqS0gNTuKKX0CNkujTyWCIm_cBmqBNroDhq0ehOu1x3ERJFuIFVLkhA0nqz1JKUYdIySCJtZS4zHnAqiauIFLpJ5rG_zZD7mZ5MIYUmrdPQ0kmD0c4jDsylLmRMkAV2JQ=w1920-h1080-k-no",
+        "published_at_date": "2022-11-07T09:00:00"
+      },
+      {
+        "about": "Videos",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEWzUkYm2_T0NkkU92pVjOTmsHF08P4l0PskSx-Ie_J9iabDiCLDm7ntcuTpvJATRqRFOevl-3wjitp1fB05wMjCbox4jSVTJxU2A3zwD4m57rAqhRGN49JBci4x-JwV-2JPaKO=w1920-h1080-k-no",
+        "published_at_date": "2024-03-17T11:00:00"
+      },
+      {
+        "about": "Exterior",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHUbT3uH5NQct_gemkB9XJfrMdUZQ8PoHh2p1V8uQgAS3MDpH7LKw9pLkYtBWbInQ6jocky5Iity9FlP-7eBc3vouNirBpnBzWTmTXiSOaDOE4ZcFmorhdfGO-HJfLsvFrWIOY=w1920-h1080-k-no",
+        "published_at_date": "2021-03-29T08:00:00"
+      },
+      {
+        "about": "Food & drink",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFGbo-AiQRjdNvktnUikehSCvo6erWDAm3pQErviW3HwKA-WEA7XjpkEBT9xuuksPMjCb9At62u1DI5Hhh04Q6vKUgevUXnk0nYjRdFFe6U__UMc00KOK9c8em0Qb1GYTsTcDLb=w1920-h1080-k-no",
+        "published_at_date": "2024-03-17T11:00:00"
+      },
+      {
+        "about": "From visitors",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHCD2k57-LvfGoORJegCXlMr2zHDW_E7TQ1hCJZx5UlBxtR_OLQ5OcHHB447y17-3SJ3TPuvqh-nCxoW-_Ib-k2AB9SXrdi9bq84gk1OLobiQL4Ah40a6jTEqY7-ap0T6QJQncQ=w1920-h1080-k-no",
+        "published_at_date": "2024-11-17T18:00:00"
+      },
+      {
+        "about": "By owner",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEWzUkYm2_T0NkkU92pVjOTmsHF08P4l0PskSx-Ie_J9iabDiCLDm7ntcuTpvJATRqRFOevl-3wjitp1fB05wMjCbox4jSVTJxU2A3zwD4m57rAqhRGN49JBci4x-JwV-2JPaKO=w1920-h1080-k-no",
+        "published_at_date": "2024-03-17T11:00:00"
+      },
+      {
+        "about": "Street View & 360°",
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7hqWE59IU89KVP4P6Q6ffQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=247.77557&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-11T06:00:00"
+      }
+    ],
+    "featured_images": [
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHImyrOX7bdAc_bQ1I7_xCWWX5m9NwXHmI4d7PZy8n8csQYtMJvLtP0aSAd1IalwdWJVV1z7_rIwXZW14xgpltaawrxrm74WO6cIPi6TMZodsD9eHQm_jfBFP__q9eto0JLEQzH-IwftGrL=w1920-h1080-k-no",
+        "published_at_date": "2025-07-28T17:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEWzUkYm2_T0NkkU92pVjOTmsHF08P4l0PskSx-Ie_J9iabDiCLDm7ntcuTpvJATRqRFOevl-3wjitp1fB05wMjCbox4jSVTJxU2A3zwD4m57rAqhRGN49JBci4x-JwV-2JPaKO=w1920-h1080-k-no",
+        "published_at_date": "2024-03-17T11:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEPRcg_PaqS0gNTuKKX0CNkujTyWCIm_cBmqBNroDhq0ehOu1x3ERJFuIFVLkhA0nqz1JKUYdIySCJtZS4zHnAqiauIFLpJ5rG_zZD7mZ5MIYUmrdPQ0kmD0c4jDsylLmRMkAV2JQ=w1920-h1080-k-no",
+        "published_at_date": "2022-11-07T09:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHixmEvb2BfteKkRGfENiRsCR1jFgtug6ATs7nNTuwhMPQChdeoymx8k5KA2x3BPPHyvWrLuKpXLRZWAxYfkghzGo-K0OnsUIJedUZefafvzb-Dl-X9yKp3yEmCx-MEB_fqQaINd1riz82c=w1920-h1080-k-no",
+        "published_at_date": "2025-07-28T17:00:00"
+      }
+    ],
+    "on_site_places": [],
+    "customer_updates": [],
+    "featured_question": null,
+    "review_keywords": [],
+    "featured_reviews": [
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tzMmN5MVVlVlZDY2tKU1MwdHVabUkzVTBOVldGRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tzMmN5MVVlVlZDY2tKU1MwdHVabUkzVTBOVldGRRAB!2m1!1s0x0:0xeb590521406b3f4c!3m1!1s2@1:CAIQACodChtycF9oOks2cy1UeVVCckJSS0tuZmI3U0NVWFE%7C%7C?hl=en",
+        "name": "Bhupesh S",
+        "reviewer_id": "113146975282662158101",
+        "reviewer_profile": "https://www.google.com/maps/contrib/113146975282662158101?hl=en-GB",
+        "rating": 5,
+        "review_text": "Jain Hostel is one of the best boys’ PGs in Virar. The rooms are comfortable, clean, and well-maintained. The environment is peaceful, and the facilities provided are truly worth the price. It’s a safe and convenient place to stay, especially for students and working boys. Overall, a very good and reliable PG option in Virar.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "6 months ago",
+        "published_at_date": "2025-12-08T15:53:39",
+        "response_from_owner_text": "thanks for your valuable feedback",
+        "response_from_owner_ago": "6 months ago",
+        "response_from_owner_date": "2025-12-08T17:54:41",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocI1xs1oLOJwPDgJIxQHd-XoKvZPv92lIzp5orVBRyc3k_kuZ0A=s1920",
+        "total_number_of_reviews_by_reviewer": 7,
+        "total_number_of_photos_by_reviewer": 3,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzN1p6YjlnRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQzN1p6YjlnRRAB!2m1!1s0x0:0xeb590521406b3f4c!3m1!1s2@1:CIHM0ogKEICAgID37Zzb9gE%7C%7C?hl=en",
+        "name": "Yash Soni",
+        "reviewer_id": "108891280871580869156",
+        "reviewer_profile": "https://www.google.com/maps/contrib/108891280871580869156?hl=en-GB",
+        "rating": 5,
+        "review_text": "I felt like at home in this hostel. Hostel manager Bhavesh Bhaiya speaks very lovingly to the students living in the hostel. He has provided all the facilities for the students in the room like. There is a table and chair for reading.There is also a wardrobe to keep clothes. There is a good bed to sleep on. The room and bathroom are always cleaned well, the place where the hostel is located has a very beautiful environment, I really enjoyed staying in this hostel, thank you Bhavesh Bhaiya❤️",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2024-11-17T18:37:08",
+        "response_from_owner_text": "THANKS FOR YOUR VAULABLE FEEDBACK ❤️",
+        "response_from_owner_ago": "a year ago",
+        "response_from_owner_date": "2024-11-21T11:47:35",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjVGOULnU8u4wEOpRVcOliJR7KrfvQ99gEd_I16Ef76D_-B_QrHm=s1920",
+        "total_number_of_reviews_by_reviewer": 3,
+        "total_number_of_photos_by_reviewer": 4,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [
+          {
+            "id": "CIHM0ogKEICAgID37ZzbTg",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn1zhKNdVfDif_tMIP7eqPaxhhzEt0VDAqNWy4UzxfAZDKqfpvpit7cCxRINRUgghZeLsyA4xXkS_HN-8n24dlAiqTUVnaiqXa-Q_gEEDsrVa_okXez6oFeHIhg44G15e05lMeov=k-no",
+            "caption": null,
+            "width": 1907,
+            "height": 1080
+          },
+          {
+            "id": "CIHM0ogKEICAgID37ZzbzgE",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn37g9Kjg01mCBuJv3bsMW-vS4VGWz_5yExIPZgfwGxMwaevBZZKGlzm0I0311v94DVi8z3Nx3fy6vuwlyPvbSdXuvNUwPfDf6nBRBdaG-GdB6iJ-lwRV-zwzUpEMXKMJTr8Ys1jww=k-no",
+            "caption": null,
+            "width": 1913,
+            "height": 1080
+          },
+          {
+            "id": "CIHM0ogKEICAgID37ZzbLg",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn0VvZhvsmCxibw8ZckEt-OmMJUlfIEmbpkubB5GbzJJtDsHM1RBVohBK-nIRPrZFywROEqHCuo9-WgJPKOXWseizi_MjO5bYhJYpsWKafesLjxtgYToLhzlgoTEjHpBAWfXSaxj=k-no",
+            "caption": null,
+            "width": 2400,
+            "height": 1080
+          },
+          {
+            "id": "CIHM0ogKEICAgID37ZzbrgE",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn2CuLrLjAvPe2cX5UvPp6U0kR-neI_SfNo_eN_EZEtSrLRWOX7kCHy_rmBRpZP1a28jdWVH0J969lVyF7FtcQEf2E0NN6BnxWk06a9yeWQKiBe84p4QeXpGuIoVfaY7bvKiQiLcIQ=k-no",
+            "caption": null,
+            "width": 3072,
+            "height": 3072
+          }
+        ],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GRVlURjFlbkJVVUc0NGFFTTFkVU5xYTJ4TlFuYxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21GRVlURjFlbkJVVUc0NGFFTTFkVU5xYTJ4TlFuYxAB!2m1!1s0x0:0xeb590521406b3f4c!3m1!1s2@1:CAIQACodChtycF9oOmFEYTF1enBUUG44aEM1dUNqa2xNQnc%7C%7C?hl=en",
+        "name": "ishu Kumar",
+        "reviewer_id": "113613155459712355362",
+        "reviewer_profile": "https://www.google.com/maps/contrib/113613155459712355362?hl=en-GB",
+        "rating": 5,
+        "review_text": "I have 2 months of good experience neet cleaning room with 24-hour access to water supply good staff",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "9 months ago",
+        "published_at_date": "2025-09-16T13:38:58",
+        "response_from_owner_text": "thanks for your valuable feedback",
+        "response_from_owner_ago": "9 months ago",
+        "response_from_owner_date": "2025-09-16T19:29:16",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocKAmasZmXR-yt7SO3RoO5rfwUtBZlqfK5nSd2r9mOGjO0vUpQ=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KTFJEWm5TWGR6YTNNNVlsSklObVZYT1ZSUmExRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25KTFJEWm5TWGR6YTNNNVlsSklObVZYT1ZSUmExRRAB!2m1!1s0x0:0xeb590521406b3f4c!3m1!1s2@1:CAIQACodChtycF9oOnJLRDZnSXdza3M5YlJINmVXOVRRa1E%7C%7C?hl=en",
+        "name": "v “ni” A",
+        "reviewer_id": "117104478835812966022",
+        "reviewer_profile": "https://www.google.com/maps/contrib/117104478835812966022?hl=en-GB",
+        "rating": 5,
+        "review_text": "Best place for students & service people\n& best thing is this property is located in main city",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "6 months ago",
+        "published_at_date": "2025-12-29T14:28:33",
+        "response_from_owner_text": "thanks you for your valuable review",
+        "response_from_owner_ago": "5 months ago",
+        "response_from_owner_date": "2025-12-31T17:39:12",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocIX0QdTS-nV8ICL45AVO4c9MDziCu9Mf7n7rjE94zNfWgk6tQ=s1920",
+        "total_number_of_reviews_by_reviewer": 4,
+        "total_number_of_photos_by_reviewer": 1,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSURINjVhblNnEAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURINjVhblNnEAE!2m1!1s0x0:0xeb590521406b3f4c!3m1!1s2@1:CIHM0ogKEICAgIDH65anSg%7C%7C?hl=en",
+        "name": "Ashrith M",
+        "reviewer_id": "108753727587490601527",
+        "reviewer_profile": "https://www.google.com/maps/contrib/108753727587490601527?hl=en-GB",
+        "rating": 5,
+        "review_text": "I have been to this pg for 25 days did,nt face any kind of issue regarding water , power , and if there is any kind of issue it can be reported in reception where day and night someone will be present and best for students and working mens for a budget night stay",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2024-09-20T03:53:05",
+        "response_from_owner_text": "Thanks for your valuable feedback 🤗",
+        "response_from_owner_ago": "a year ago",
+        "response_from_owner_date": "2024-09-23T16:57:51",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjUa0vAj5Aj6LNdWmul2MwzcTzDLVpkk2Tl64-1mYrZ9yujxFZaY=s1920",
+        "total_number_of_reviews_by_reviewer": 4,
+        "total_number_of_photos_by_reviewer": 7,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [
+          {
+            "id": "CIHM0ogKEICAgIDH65anqgE",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn1VxR4Hzk1pvnNRcmaLSkw9qBokyMUiVSu2W63XbfMvPCvo0j5l5soUTgOAWSdlt8ohEuuT4IVpR4F7yeicryrY6t8d0aoBfHs6naQdb0bvGM7LITpAeQKxMQZO2sVwbcw2WyWi=k-no",
+            "caption": null,
+            "width": 3000,
+            "height": 4000
+          }
+        ],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNjd2NiT1JnEAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNjd2NiT1JnEAE!2m1!1s0x0:0xeb590521406b3f4c!3m1!1s2@1:CIHM0ogKEICAgICcwcbORg%7C%7C?hl=en",
+        "name": "Swapnil Jain",
+        "reviewer_id": "116464936117453047499",
+        "reviewer_profile": "https://www.google.com/maps/contrib/116464936117453047499?hl=en-GB",
+        "rating": 4,
+        "review_text": "Best boys hostel to stay in Virar West in front of Banjara Hotel. You will get share auto from station to reach hostel directly. Hostel having twin sharing with attached room with good basic facility at affordable rate.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "6 years ago",
+        "published_at_date": "2020-03-12T10:46:17",
+        "response_from_owner_text": "Thanks for your valuable reviews🩷",
+        "response_from_owner_ago": "2 years ago",
+        "response_from_owner_date": "2024-04-09T17:13:40",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocLj0iwAaAv12ozU5yuUBz2inA4PDQ0A1EQT_SZJ7xhM10WARA=s1920",
+        "total_number_of_reviews_by_reviewer": 11,
+        "total_number_of_photos_by_reviewer": 1,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEM3RxRnVRRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNEM3RxRnVRRRAB!2m1!1s0x0:0xeb590521406b3f4c!3m1!1s2@1:CIHM0ogKEICAgICD3tqFuQE%7C%7C?hl=en",
+        "name": "sanket gite",
+        "reviewer_id": "110075618721626692837",
+        "reviewer_profile": "https://www.google.com/maps/contrib/110075618721626692837?hl=en-GB",
+        "rating": 4,
+        "review_text": "Best hostel in vasai virar for job holders and college students, daily cleaning, staff friendly manager sir mr bhavesh jain sir very well maintained facilities are very nice room very nice and maintain around daily useful market very near.my experience is very good Here❤️",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "2 years ago",
+        "published_at_date": "2024-03-28T17:08:55",
+        "response_from_owner_text": "THANKS FOR YOUR VALUEABLE REVIEW TO US ❤️",
+        "response_from_owner_ago": "2 years ago",
+        "response_from_owner_date": "2024-03-28T17:20:34",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocIJtf2-IQjg-Po8ycF6rW_XFRnwhZkW1NbAr6vBzjRKYqjsi_g=s1920",
+        "total_number_of_reviews_by_reviewer": 2,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCNW9iZ3dnRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNCNW9iZ3dnRRAB!2m1!1s0x0:0xeb590521406b3f4c!3m1!1s2@1:CIHM0ogKEICAgICB5obgwgE%7C%7C?hl=en",
+        "name": "Nawaz Sati",
+        "reviewer_id": "103251642370648863788",
+        "reviewer_profile": "https://www.google.com/maps/contrib/103251642370648863788?hl=en-GB",
+        "rating": 5,
+        "review_text": "Very nice & homely atmosphere for students, cleanliness & building maintained, 24×7 electricity & Hot water facility in rooms. Very humble,kind & supportive staff. My stay felt like home & i wish to visit soon.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "3 years ago",
+        "published_at_date": "2022-12-24T07:52:41",
+        "response_from_owner_text": "THANKS FOR YOUR VALUABLE REVIEWS ",
+        "response_from_owner_ago": "3 years ago",
+        "response_from_owner_date": "2023-02-21T06:21:57",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocLHrpUHD7VJMDMahrb4x1H2y9cEAwvrG4uW9BJxDgDMwF3I_ds=s1920",
+        "total_number_of_reviews_by_reviewer": 66,
+        "total_number_of_photos_by_reviewer": 24,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      }
+    ],
+    "query": "boys hostel pg in nalasopara west"
+  },
+  {
+    "place_id": "ChIJs1SdWbap5zsRM9Jt_icatu8",
+    "name": "Apna PG",
+    "description": null,
+    "is_spending_on_ads": false,
+    "link": "https://www.google.com/maps/place/Apna+PG/data=!4m7!3m6!1s0x3be7a9b6599d54b3:0xefb61a27fe6dd233!8m2!3d19.425404!4d72.8156828!16s%2Fg%2F11fjy3k25s!19sChIJs1SdWbap5zsRM9Jt_icatu8?authuser=0&rclk=1",
+    "reviews": 5,
+    "rating": 4.2,
+    "competitors": [
+      {
+        "name": "SURAKSHA SMART CITY",
+        "suggested_link": "https://www.google.com/maps/search/SURAKSHA+SMART+CITY/@19.4315806,72.8100327,19z?authuser=0&entry=ttu",
+        "reviews": 13,
+        "rating": 3.5,
+        "main_category": "Student dormitory",
+        "categories": [
+          "Student dormitory"
+        ],
+        "coordinates": {
+          "latitude": 19.4315806,
+          "longitude": 72.8100327
+        }
+      },
+      {
+        "name": "CHINDER PG AND ROOMS.",
+        "suggested_link": "https://www.google.com/maps/search/CHINDER+PG+AND+ROOMS./@19.418591799999998,72.8390467,19z?authuser=0&entry=ttu",
+        "reviews": 12,
+        "rating": 3.3,
+        "main_category": "Student dormitory",
+        "categories": [
+          "Student dormitory"
+        ],
+        "coordinates": {
+          "latitude": 19.418591799999998,
+          "longitude": 72.8390467
+        }
+      },
+      {
+        "name": "Bluearrow pg",
+        "suggested_link": "https://www.google.com/maps/search/Bluearrow+pg/@19.418194,72.8177898,19z?authuser=0&entry=ttu",
+        "reviews": 8,
+        "rating": 3.8,
+        "main_category": "Girls' hostel",
+        "categories": [
+          "Girls' hostel"
+        ],
+        "coordinates": {
+          "latitude": 19.418194,
+          "longitude": 72.8177898
+        }
+      },
+      {
+        "name": "Paying Guest Accomodation",
+        "suggested_link": "https://www.google.com/maps/search/Paying+Guest+Accomodation/@19.4162166,72.81623499999999,19z?authuser=0&entry=ttu",
+        "reviews": 5,
+        "rating": 5,
+        "main_category": "Guest house",
+        "categories": [
+          "Guest house"
+        ],
+        "coordinates": {
+          "latitude": 19.4162166,
+          "longitude": 72.81623499999999
+        }
+      },
+      {
+        "name": "Abhinav Hostel",
+        "suggested_link": "https://www.google.com/maps/search/Abhinav+Hostel/@19.4247796,72.8134666,19z?authuser=0&entry=ttu",
+        "reviews": 0,
+        "rating": 0,
+        "main_category": "Student dormitory",
+        "categories": [
+          "Student dormitory"
+        ],
+        "coordinates": {
+          "latitude": 19.4247796,
+          "longitude": 72.8134666
+        }
+      }
+    ],
+    "website": null,
+    "phone": "088578 85875",
+    "phone_international": "+91 88578 85875",
+    "can_claim": false,
+    "owner": {
+      "id": "106912801294822173534",
+      "name": "Apna PG (Owner)",
+      "link": "https://www.google.com/maps/contrib/106912801294822173534"
+    },
+    "owner_posts": [],
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VXgxmaPOciHeu-YuC4aAxg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=249.07954&pitch=0&thumbfov=100",
+    "main_category": "Student dormitory",
+    "categories": [
+      "Student dormitory"
+    ],
+    "workday_timing": "Open 24 hours",
+    "status": null,
+    "is_temporarily_closed": false,
+    "is_permanently_closed": false,
+    "closed_on": "Open All Days",
+    "address": "Shop No 10, Govind Building, West, Nala Sopara, Nilemore, Nalasopara West, Mumbai, Vasai-Virar, Maharashtra 401203",
+    "price_range": null,
+    "reviews_per_rating": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 4
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJs1SdWbap5zsRM9Jt_icatu8&q=Apna+PG&authuser=0&hl=en&gl=IN",
+    "coordinates": {
+      "latitude": 19.425404,
+      "longitude": 72.81568279999999
+    },
+    "plus_code": "CRG8+57 Nalasopara West, Nala Sopara, Maharashtra",
+    "detailed_address": {
+      "ward": "Nala Sopara, Nilemore, Nalasopara West",
+      "street": "Shop No 10, Govind Building, West",
+      "city": "Mumbai, Vasai-Virar",
+      "postal_code": "401203",
+      "state": "Maharashtra",
+      "country_code": "IN"
+    },
+    "time_zone": "Asia/Calcutta",
+    "is_rental": false,
+    "cid": "17273022179900772915",
+    "data_id": "0x3be7a9b6599d54b3:0xefb61a27fe6dd233",
+    "kgmid": "/g/11fjy3k25s",
+    "about": [],
+    "hours": [
+      {
+        "day": "Monday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Friday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "times": [
+          "Open 24 hours"
+        ]
+      }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "menu": null,
+    "reservations": [],
+    "order_online_links": [],
+    "gas_prices": [],
+    "image_count": 1,
+    "images": [
+      {
+        "about": "All",
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VXgxmaPOciHeu-YuC4aAxg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=249.07954&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-05T05:00:00"
+      },
+      {
+        "about": "Street View & 360°",
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VXgxmaPOciHeu-YuC4aAxg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=249.07954&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-05T05:00:00"
+      }
+    ],
+    "featured_images": [
+      {
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VXgxmaPOciHeu-YuC4aAxg&cb_client=search.gws-prod.gps&w=203&h=100&yaw=249.07954&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-05T05:00:00"
+      }
+    ],
+    "on_site_places": [],
+    "customer_updates": [],
+    "featured_question": null,
+    "review_keywords": [],
+    "featured_reviews": [
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYOGNPUWxnRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURYOGNPUWxnRRAB!2m1!1s0x0:0xefb61a27fe6dd233!3m1!1s2@1:CIHM0ogKEICAgIDX8cOQlgE%7C%7C?hl=en",
+        "name": "Deepak Baikar",
+        "reviewer_id": "108651681187502976831",
+        "reviewer_profile": "https://www.google.com/maps/contrib/108651681187502976831?hl=en-GB",
+        "rating": 5,
+        "review_text": "Good introduction electronic items and good service for digi 1.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2024-10-28T15:26:03",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjWbbgfWmsYArMj0tqRjmNyp_7j9ITIPbn4iFhZ-ZosanSBiq9TS=s1920",
+        "total_number_of_reviews_by_reviewer": 4,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1MG83LWdnRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR1MG83LWdnRRAB!2m1!1s0x0:0xefb61a27fe6dd233!3m1!1s2@1:CIHM0ogKEICAgIDu0o7-ggE%7C%7C?hl=en",
+        "name": "Avy Yadav",
+        "reviewer_id": "107985630627764082929",
+        "reviewer_profile": "https://www.google.com/maps/contrib/107985630627764082929?hl=en-GB",
+        "rating": 5,
+        "review_text": "Best pg ever ☺️",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "3 years ago",
+        "published_at_date": "2022-08-17T10:28:32",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocKhNbZdGJ7oNmTMzCi6EsI9Zj1Ze4iw26WXYoyTFYt9gsqhEw=s1920",
+        "total_number_of_reviews_by_reviewer": 5,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLem9UMU5REAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURLem9UMU5REAE!2m1!1s0x0:0xefb61a27fe6dd233!3m1!1s2@1:CIHM0ogKEICAgIDKzoT1NQ%7C%7C?hl=en",
+        "name": "Hitesh Singh",
+        "reviewer_id": "102328151246710209527",
+        "reviewer_profile": "https://www.google.com/maps/contrib/102328151246710209527?hl=en-GB",
+        "rating": 1,
+        "review_text": "Worst case",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "5 years ago",
+        "published_at_date": "2021-05-11T18:48:43",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjX_MmU8Oqxnh0AlhjAG0_RQ5ApImQoWGfuUngmq-b8wo2GCGz1s9Q=s1920",
+        "total_number_of_reviews_by_reviewer": 6,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkak0zVnBhVkJRYWpOclpGQkNhV1owVGtkU2RXYxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xkak0zVnBhVkJRYWpOclpGQkNhV1owVGtkU2RXYxAB!2m1!1s0x0:0xefb61a27fe6dd233!3m1!1s2@1:CAIQACodChtycF9oOldjM3VpaVBQajNrZFBCaWZ0TkdSdWc%7C%7C?hl=en",
+        "name": "Anjali Singh",
+        "reviewer_id": "116119280402665991314",
+        "reviewer_profile": "https://www.google.com/maps/contrib/116119280402665991314?hl=en-GB",
+        "rating": 5,
+        "review_text": null,
+        "original_language": null,
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "7 months ago",
+        "published_at_date": "2025-11-27T04:36:26",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjWJO2TewH6L0aibcqUcgy9Q0GfalKHZ-GC305wVEGNx0ecn8Ifu=s1920",
+        "total_number_of_reviews_by_reviewer": 0,
+        "total_number_of_photos_by_reviewer": 1,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2dXM3LXpnRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQ2dXM3LXpnRRAB!2m1!1s0x0:0xefb61a27fe6dd233!3m1!1s2@1:CIHM0ogKEICAgID6us7-zgE%7C%7C?hl=en",
+        "name": "Ramesh Sharma",
+        "reviewer_id": "101072325370726144749",
+        "reviewer_profile": "https://www.google.com/maps/contrib/101072325370726144749?hl=en-GB",
+        "rating": 5,
+        "review_text": null,
+        "original_language": null,
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "4 years ago",
+        "published_at_date": "2021-09-27T11:31:27",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocKsZPjyEnPlYtZEHzAPAcqnxEi8J2GgbY0FIfJQRIlt-tIiFQ=s1920",
+        "total_number_of_reviews_by_reviewer": 0,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      }
+    ],
+    "query": "boys hostel pg in nalasopara west"
+  },
+  {
+    "place_id": "ChIJtfpc2p-p5zsRxTX39iiMnfo",
+    "name": "SURAKSHA SMART CITY",
+    "description": null,
+    "is_spending_on_ads": false,
+    "link": "https://www.google.com/maps/place/SURAKSHA+SMART+CITY/data=!4m7!3m6!1s0x3be7a99fda5cfab5:0xfa9d8c28f6f735c5!8m2!3d19.4315806!4d72.8100327!16s%2Fg%2F11h333qhzy!19sChIJtfpc2p-p5zsRxTX39iiMnfo?authuser=0&rclk=1",
+    "reviews": 13,
+    "rating": 3.5,
+    "competitors": [
+      {
+        "name": "CHINDER PG AND ROOMS.",
+        "suggested_link": "https://www.google.com/maps/search/CHINDER+PG+AND+ROOMS./@19.418591799999998,72.8390467,19z?authuser=0&entry=ttu",
+        "reviews": 12,
+        "rating": 3.3,
+        "main_category": "Student dormitory",
+        "categories": [
+          "Student dormitory"
+        ],
+        "coordinates": {
+          "latitude": 19.418591799999998,
+          "longitude": 72.8390467
+        }
+      },
+      {
+        "name": "URBAN DORMITORY",
+        "suggested_link": "https://www.google.com/maps/search/URBAN+DORMITORY/@19.3816897,72.8320572,19z?authuser=0&entry=ttu",
+        "reviews": 10,
+        "rating": 5,
+        "main_category": "Backpacker Hostel",
+        "categories": [
+          "Backpacker Hostel"
+        ],
+        "coordinates": {
+          "latitude": 19.3816897,
+          "longitude": 72.8320572
+        }
+      },
+      {
+        "name": "Bluearrow pg",
+        "suggested_link": "https://www.google.com/maps/search/Bluearrow+pg/@19.418194,72.8177898,19z?authuser=0&entry=ttu",
+        "reviews": 8,
+        "rating": 3.8,
+        "main_category": "Girls' hostel",
+        "categories": [
+          "Girls' hostel"
+        ],
+        "coordinates": {
+          "latitude": 19.418194,
+          "longitude": 72.8177898
+        }
+      },
+      {
+        "name": "Apna PG",
+        "suggested_link": "https://www.google.com/maps/search/Apna+PG/@19.425404,72.81568279999999,19z?authuser=0&entry=ttu",
+        "reviews": 5,
+        "rating": 4.2,
+        "main_category": "Student dormitory",
+        "categories": [
+          "Student dormitory"
+        ],
+        "coordinates": {
+          "latitude": 19.425404,
+          "longitude": 72.81568279999999
+        }
+      },
+      {
+        "name": "Paying Guest Accomodation",
+        "suggested_link": "https://www.google.com/maps/search/Paying+Guest+Accomodation/@19.4162166,72.81623499999999,19z?authuser=0&entry=ttu",
+        "reviews": 5,
+        "rating": 5,
+        "main_category": "Guest house",
+        "categories": [
+          "Guest house"
+        ],
+        "coordinates": {
+          "latitude": 19.4162166,
+          "longitude": 72.81623499999999
+        }
+      }
+    ],
+    "website": null,
+    "phone": "073878 97039",
+    "phone_international": "+91 73878 97039",
+    "can_claim": false,
+    "owner": {
+      "id": "103633952451127669884",
+      "name": "SURAKSHA SMART CITY (Owner)",
+      "link": "https://www.google.com/maps/contrib/103633952451127669884"
+    },
+    "owner_posts": [],
+    "featured_image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHAaX_eBbl0phyqxdDuzPZkHo6w5Hwmk9ca9_LzbqIZuTTV-YHPLzZ0SHDbwBWS5BBEZoHEZ3Prcn8m7HeNvrIcTC3_5gK7CBP0S6hzQYypygy8iNMrK1EHN1JmNKJyRpP07ps=w1920-h1080-k-no",
+    "main_category": "Student dormitory",
+    "categories": [
+      "Student dormitory"
+    ],
+    "workday_timing": "Open 24 hours",
+    "status": null,
+    "is_temporarily_closed": false,
+    "is_permanently_closed": false,
+    "closed_on": "Open All Days",
+    "address": "F-103, Sundaram Plaza, Yashwant Gaurav Rd, Nala Sopara, Nalasopara West, Mumbai, Vasai-Virar, Maharashtra 401203",
+    "price_range": null,
+    "reviews_per_rating": {
+      "1": 5,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 8
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJtfpc2p-p5zsRxTX39iiMnfo&q=SURAKSHA+SMART+CITY&authuser=0&hl=en&gl=IN",
+    "coordinates": {
+      "latitude": 19.4315806,
+      "longitude": 72.8100327
+    },
+    "plus_code": "CRJ6+J2 Nalasopara West, Nala Sopara, Maharashtra",
+    "detailed_address": {
+      "ward": "Nala Sopara, Nalasopara West",
+      "street": "F-103, Sundaram Plaza, Yashwant Gaurav Rd",
+      "city": "Mumbai, Vasai-Virar",
+      "postal_code": "401203",
+      "state": "Maharashtra",
+      "country_code": "IN"
+    },
+    "time_zone": "Asia/Calcutta",
+    "is_rental": false,
+    "cid": "18058744188395533765",
+    "data_id": "0x3be7a99fda5cfab5:0xfa9d8c28f6f735c5",
+    "kgmid": "/g/11h333qhzy",
+    "about": [
+      {
+        "id": "service_options",
+        "name": "Service options",
+        "options": [
+          {
+            "name": "On-site services",
+            "enabled": true
+          }
+        ]
+      }
+    ],
+    "hours": [
+      {
+        "day": "Monday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Friday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "times": [
+          "Open 24 hours"
+        ]
+      }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "menu": null,
+    "reservations": [],
+    "order_online_links": [],
+    "gas_prices": [],
+    "image_count": 2,
+    "images": [
+      {
+        "about": "All",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHAaX_eBbl0phyqxdDuzPZkHo6w5Hwmk9ca9_LzbqIZuTTV-YHPLzZ0SHDbwBWS5BBEZoHEZ3Prcn8m7HeNvrIcTC3_5gK7CBP0S6hzQYypygy8iNMrK1EHN1JmNKJyRpP07ps=w1920-h1080-k-no",
+        "published_at_date": "2021-06-10T06:00:00"
+      },
+      {
+        "about": "Exterior",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHAaX_eBbl0phyqxdDuzPZkHo6w5Hwmk9ca9_LzbqIZuTTV-YHPLzZ0SHDbwBWS5BBEZoHEZ3Prcn8m7HeNvrIcTC3_5gK7CBP0S6hzQYypygy8iNMrK1EHN1JmNKJyRpP07ps=w1920-h1080-k-no",
+        "published_at_date": "2021-06-10T06:00:00"
+      },
+      {
+        "about": "From visitors",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHAaX_eBbl0phyqxdDuzPZkHo6w5Hwmk9ca9_LzbqIZuTTV-YHPLzZ0SHDbwBWS5BBEZoHEZ3Prcn8m7HeNvrIcTC3_5gK7CBP0S6hzQYypygy8iNMrK1EHN1JmNKJyRpP07ps=w1920-h1080-k-no",
+        "published_at_date": "2021-06-10T06:00:00"
+      },
+      {
+        "about": "Street View & 360°",
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PB3u_nMipnfNgrbtXAMZNg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=147.10643&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-04T08:00:00"
+      }
+    ],
+    "featured_images": [
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHAaX_eBbl0phyqxdDuzPZkHo6w5Hwmk9ca9_LzbqIZuTTV-YHPLzZ0SHDbwBWS5BBEZoHEZ3Prcn8m7HeNvrIcTC3_5gK7CBP0S6hzQYypygy8iNMrK1EHN1JmNKJyRpP07ps=w1920-h1080-k-no",
+        "published_at_date": "2021-06-10T06:00:00"
+      },
+      {
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PB3u_nMipnfNgrbtXAMZNg&cb_client=search.gws-prod.gps&w=203&h=100&yaw=147.10643&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-04T08:00:00"
+      }
+    ],
+    "on_site_places": [],
+    "customer_updates": [],
+    "featured_question": null,
+    "review_keywords": [],
+    "featured_reviews": [
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNpdmNpY19BRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNpdmNpY19BRRAB!2m1!1s0x0:0xfa9d8c28f6f735c5!3m1!1s2@1:CIHM0ogKEICAgICivcic_AE%7C%7C?hl=en",
+        "name": "Sonal Patil",
+        "reviewer_id": "118261164730671238990",
+        "reviewer_profile": "https://www.google.com/maps/contrib/118261164730671238990?hl=en-GB",
+        "rating": 1,
+        "review_text": "very bad experience.. He gives very bad service specially for rent flats.. No value for time, money and words.\nYou will pay money to him only, don't expecting for what you want.. Please do not go and don't take his service..",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "5 years ago",
+        "published_at_date": "2020-11-12T15:16:18",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocKFN38XRMQoY3XX6ZBlhRT9AR6Jyj4tpZ2BgpOxwWHlyTIo6w=s1920",
+        "total_number_of_reviews_by_reviewer": 3,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNjdV9yUGNnEAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNjdV9yUGNnEAE!2m1!1s0x0:0xfa9d8c28f6f735c5!3m1!1s2@1:CIHM0ogKEICAgICcu_rPcg%7C%7C?hl=en",
+        "name": "Kunal Thakur",
+        "reviewer_id": "117595044364761093049",
+        "reviewer_profile": "https://www.google.com/maps/contrib/117595044364761093049?hl=en-GB",
+        "rating": 1,
+        "review_text": "Please don't go,\nVery very poor service,\nNo facilities,\nThey brought mony from peoples for the fake reasons, (sister's marriage )\nThey took valuable (Saman) from paying guest for reasons of his sister's marriage or engagement,\nNo water at all, (minimum 2 days )\nNo electricity\nAlways fake reason\n\nPlease dont go better stay safe any other natural place,",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "6 years ago",
+        "published_at_date": "2020-04-16T10:27:06",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocLH-ZOJEfJZlaIlYYDkOuhIhnoQPsfoLMG7giti0WuqG6-YzQ=s1920",
+        "total_number_of_reviews_by_reviewer": 2,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtejZXYXhBRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNtejZXYXhBRRAB!2m1!1s0x0:0xfa9d8c28f6f735c5!3m1!1s2@1:CIHM0ogKEICAgICmz6WaxAE%7C%7C?hl=en",
+        "name": "dilip singh",
+        "reviewer_id": "115945780105479686946",
+        "reviewer_profile": "https://www.google.com/maps/contrib/115945780105479686946?hl=en-GB",
+        "rating": 5,
+        "review_text": "need and clean flat\nBest part of this pg at the time of shifting I dont know place and distance but they pg owner proper coordinate to me and proper suggests",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "4 years ago",
+        "published_at_date": "2022-01-13T13:05:20",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocJ040mcwcRmB8RTHz8fJcXnzrUPwsLZMIyZNQkhYZ4JhuYAew=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZNVpMZ2R3EAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURZNVpMZ2R3EAE!2m1!1s0x0:0xfa9d8c28f6f735c5!3m1!1s2@1:CIHM0ogKEICAgIDY5ZLgdw%7C%7C?hl=en",
+        "name": "Danica Rodrigues",
+        "reviewer_id": "108747633543822710690",
+        "reviewer_profile": "https://www.google.com/maps/contrib/108747633543822710690?hl=en-GB",
+        "rating": 1,
+        "review_text": "Sad to say but yes it was a very bad experience they loot by taking registration fees ...there is no legal pg ...and no wifi is provided... but money is taken for wifi charges... This is the truth of this pg",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "7 years ago",
+        "published_at_date": "2019-05-16T10:56:56",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjW_gunzCE9R8o1-ejqN86j7_xQkyl6rmQeOLp2UTEPvtiqYnzM=s1920",
+        "total_number_of_reviews_by_reviewer": 3,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtejlMVVR3EAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNtejlMVVR3EAE!2m1!1s0x0:0xfa9d8c28f6f735c5!3m1!1s2@1:CIHM0ogKEICAgICmz9LUTw%7C%7C?hl=en",
+        "name": "ठाकुर अर्पित सिंह",
+        "reviewer_id": "114764605177063644363",
+        "reviewer_profile": "https://www.google.com/maps/contrib/114764605177063644363?hl=en-GB",
+        "rating": 5,
+        "review_text": "Legal n valuable pg\nExcellent services\nAll facilities here and all staff talking  politely",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "4 years ago",
+        "published_at_date": "2022-01-13T11:16:49",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjVvyH3hZ62mhSDaUhZK44T8VgFkc_V3KwOM2f5Yq35Igodc6grEpA=s1920",
+        "total_number_of_reviews_by_reviewer": 2,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtcjRHbGFBEAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNtcjRHbGFBEAE!2m1!1s0x0:0xfa9d8c28f6f735c5!3m1!1s2@1:CIHM0ogKEICAgICmr4GlaA%7C%7C?hl=en",
+        "name": "Akanksha Singh",
+        "reviewer_id": "102221109676505591286",
+        "reviewer_profile": "https://www.google.com/maps/contrib/102221109676505591286?hl=en-GB",
+        "rating": 5,
+        "review_text": "Good service given by dem, I shifted my brother to der, good ambience and hygiene maintained.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "4 years ago",
+        "published_at_date": "2022-01-13T16:57:39",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjUV58XifaYd_aQp-MYEEsWNfPxvQC6K5mS15OydpGiTI-qz8ehz=s1920",
+        "total_number_of_reviews_by_reviewer": 11,
+        "total_number_of_photos_by_reviewer": 2,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLem9UU2JnEAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURLem9UU2JnEAE!2m1!1s0x0:0xfa9d8c28f6f735c5!3m1!1s2@1:CIHM0ogKEICAgIDKzoTSbg%7C%7C?hl=en",
+        "name": "Hitesh Singh",
+        "reviewer_id": "102328151246710209527",
+        "reviewer_profile": "https://www.google.com/maps/contrib/102328151246710209527?hl=en-GB",
+        "rating": 1,
+        "review_text": "Worst ever... Please don't go there... They are just there for taking money by doing fraud.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "5 years ago",
+        "published_at_date": "2021-05-11T18:47:41",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjX_MmU8Oqxnh0AlhjAG0_RQ5ApImQoWGfuUngmq-b8wo2GCGz1s9Q=s1920",
+        "total_number_of_reviews_by_reviewer": 6,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSURVeHR5ai1nRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURVeHR5ai1nRRAB!2m1!1s0x0:0xfa9d8c28f6f735c5!3m1!1s2@1:CIHM0ogKEICAgIDUxtyj-gE%7C%7C?hl=en",
+        "name": "Gyani Travelor",
+        "reviewer_id": "105731117667688589131",
+        "reviewer_profile": "https://www.google.com/maps/contrib/105731117667688589131?hl=en-GB",
+        "rating": 1,
+        "review_text": "Worst hostel with no water no light .. you have to servive with extra money spending ..",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "6 years ago",
+        "published_at_date": "2019-08-21T16:39:21",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjXUl1Xn6Bxf5HzlKKIr3vIiAOxthJypPkmCpwQgMOqdRVOSdGG6=s1920",
+        "total_number_of_reviews_by_reviewer": 2,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      }
+    ],
+    "query": "boys hostel pg in nalasopara west"
+  },
+  {
+    "place_id": "ChIJCXUsxZip5zsRDabQlxq9q68",
+    "name": "Bluearrow pg",
+    "description": "Girls hostel near station nalasopara",
+    "is_spending_on_ads": false,
+    "link": "https://www.google.com/maps/place/Bluearrow+pg/data=!4m7!3m6!1s0x3be7a998c52c7509:0xafabbd1a97d0a60d!8m2!3d19.418194!4d72.8177898!16s%2Fg%2F11rhsy5jpq!19sChIJCXUsxZip5zsRDabQlxq9q68?authuser=0&rclk=1",
+    "reviews": 8,
+    "rating": 3.8,
+    "competitors": [
+      {
+        "name": "My PG Stay- Girls & Woman only",
+        "suggested_link": "https://www.google.com/maps/search/My+PG+Stay-+Girls+%26+Woman+only/@19.4553926,72.7997383,19z?authuser=0&entry=ttu",
+        "reviews": 29,
+        "rating": 3.1,
+        "main_category": "Working women's hostel",
+        "categories": [
+          "Working women's hostel"
+        ],
+        "coordinates": {
+          "latitude": 19.4553926,
+          "longitude": 72.7997383
+        }
+      },
+      {
+        "name": "SURAKSHA SMART CITY",
+        "suggested_link": "https://www.google.com/maps/search/SURAKSHA+SMART+CITY/@19.4315806,72.8100327,19z?authuser=0&entry=ttu",
+        "reviews": 13,
+        "rating": 3.5,
+        "main_category": "Student dormitory",
+        "categories": [
+          "Student dormitory"
+        ],
+        "coordinates": {
+          "latitude": 19.4315806,
+          "longitude": 72.8100327
+        }
+      },
+      {
+        "name": "CHINDER PG AND ROOMS.",
+        "suggested_link": "https://www.google.com/maps/search/CHINDER+PG+AND+ROOMS./@19.418591799999998,72.8390467,19z?authuser=0&entry=ttu",
+        "reviews": 12,
+        "rating": 3.3,
+        "main_category": "Student dormitory",
+        "categories": [
+          "Student dormitory"
+        ],
+        "coordinates": {
+          "latitude": 19.418591799999998,
+          "longitude": 72.8390467
+        }
+      },
+      {
+        "name": "Apna PG",
+        "suggested_link": "https://www.google.com/maps/search/Apna+PG/@19.425404,72.81568279999999,19z?authuser=0&entry=ttu",
+        "reviews": 5,
+        "rating": 4.2,
+        "main_category": "Student dormitory",
+        "categories": [
+          "Student dormitory"
+        ],
+        "coordinates": {
+          "latitude": 19.425404,
+          "longitude": 72.81568279999999
+        }
+      },
+      {
+        "name": "Abhinav Hostel",
+        "suggested_link": "https://www.google.com/maps/search/Abhinav+Hostel/@19.4247796,72.8134666,19z?authuser=0&entry=ttu",
+        "reviews": 0,
+        "rating": 0,
+        "main_category": "Student dormitory",
+        "categories": [
+          "Student dormitory"
+        ],
+        "coordinates": {
+          "latitude": 19.4247796,
+          "longitude": 72.8134666
+        }
+      }
+    ],
+    "website": null,
+    "phone": "089830 11663",
+    "phone_international": "+91 89830 11663",
+    "can_claim": false,
+    "owner": {
+      "id": "109027185362941900893",
+      "name": "Bluearrow pg (Owner)",
+      "link": "https://www.google.com/maps/contrib/109027185362941900893"
+    },
+    "owner_posts": [],
+    "featured_image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGptMI_wy7V4PH1NKYjOdNDsB44G_gHNi88qJ_XDnNEd9q0akAKQXOj8_sqVjmAxv6UtykN_WkLyUYXVeqpE8iDcDWbTaB8eRwyQAkbZJ-hZ0M0Nu0vnOMLFEqKN-gHeG5JO0nG=w1920-h1080-k-no",
+    "main_category": "Girls' hostel",
+    "categories": [
+      "Girls' hostel"
+    ],
+    "workday_timing": "Open 24 hours",
+    "status": null,
+    "is_temporarily_closed": false,
+    "is_permanently_closed": false,
+    "closed_on": "Open All Days",
+    "address": "1st floor, Om plaza, 52, west, near railway station, Nala Sopara, Nalasopara West, Maharashtra 401203",
+    "price_range": null,
+    "reviews_per_rating": {
+      "1": 2,
+      "2": 0,
+      "3": 0,
+      "4": 2,
+      "5": 4
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJCXUsxZip5zsRDabQlxq9q68&q=Bluearrow+pg&authuser=0&hl=en&gl=IN",
+    "coordinates": {
+      "latitude": 19.418194,
+      "longitude": 72.8177898
+    },
+    "plus_code": "CR99+74 Nalasopara West, Nala Sopara, Maharashtra",
+    "detailed_address": {
+      "ward": "Nala Sopara, Lakshmiben Chedda Nagar, Nalasopara West",
+      "street": "1st floor, Om plaza, 52, west, near railway station",
+      "city": "Vasai-Virar",
+      "postal_code": "401203",
+      "state": "Maharashtra",
+      "country_code": "IN"
+    },
+    "time_zone": "Asia/Calcutta",
+    "is_rental": false,
+    "cid": "12658419099568743949",
+    "data_id": "0x3be7a998c52c7509:0xafabbd1a97d0a60d",
+    "kgmid": "/g/11rhsy5jpq",
+    "about": [],
+    "hours": [
+      {
+        "day": "Monday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Friday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "times": [
+          "Open 24 hours"
+        ]
+      }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "menu": null,
+    "reservations": [],
+    "order_online_links": [],
+    "gas_prices": [],
+    "image_count": 10,
+    "images": [
+      {
+        "about": "All",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGptMI_wy7V4PH1NKYjOdNDsB44G_gHNi88qJ_XDnNEd9q0akAKQXOj8_sqVjmAxv6UtykN_WkLyUYXVeqpE8iDcDWbTaB8eRwyQAkbZJ-hZ0M0Nu0vnOMLFEqKN-gHeG5JO0nG=w1920-h1080-k-no",
+        "published_at_date": "2021-12-14T12:00:00"
+      },
+      {
+        "about": "By owner",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFpDHOsEGUanWuV_eRTvnlx8Ixdaf-iB1yjmFdRIIdJ50sJRWMjloys4yg0d_UUnpLd6UP_VG_tfxlRZ3Tlc4Aw1SGlMDqK6al-75sHN5mglZBUH_3dFT4bF2yLtr2XIpIcuo2Xrw=w1920-h1080-k-no",
+        "published_at_date": "2021-12-14T12:00:00"
+      },
+      {
+        "about": "Street View & 360°",
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=haOo_jeehHcbaE8jwF3Y7Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=189.09622&pitch=0&thumbfov=100",
+        "published_at_date": "2025-01-07T05:00:00"
+      }
+    ],
+    "featured_images": [
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGptMI_wy7V4PH1NKYjOdNDsB44G_gHNi88qJ_XDnNEd9q0akAKQXOj8_sqVjmAxv6UtykN_WkLyUYXVeqpE8iDcDWbTaB8eRwyQAkbZJ-hZ0M0Nu0vnOMLFEqKN-gHeG5JO0nG=w1920-h1080-k-no",
+        "published_at_date": "2021-12-14T12:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFpDHOsEGUanWuV_eRTvnlx8Ixdaf-iB1yjmFdRIIdJ50sJRWMjloys4yg0d_UUnpLd6UP_VG_tfxlRZ3Tlc4Aw1SGlMDqK6al-75sHN5mglZBUH_3dFT4bF2yLtr2XIpIcuo2Xrw=w1920-h1080-k-no",
+        "published_at_date": "2021-12-14T12:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAERNNwtD-mBzHKyI8h90_xllgywNi5KgPjakO5jrR1nGdzPF2nTmylUnPiDfhu5a8HXz7TIFPwFx7hKXl0bKuOZwypmY0immUzADL5y3SA_oCQkVzZIlETsDBLteQSgeWZeYj_G2g=w1920-h1080-k-no",
+        "published_at_date": "2023-02-14T10:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFWmcOQPPMmBkrHp25A6jc_MLYZCcJB4ovIXdYcE0OrxxAdz3KOv7wnKofCIW7aaimyHZHCr4cZhGmCM0K0bQVS-JPkfT56VaY19v3KgkOy66K5lNGW5Yif8I_xOA-pS423EA43=w1920-h1080-k-no",
+        "published_at_date": "2021-11-16T08:00:00"
+      }
+    ],
+    "on_site_places": [],
+    "customer_updates": [],
+    "featured_question": null,
+    "review_keywords": [],
+    "featured_reviews": [
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oc1ZVUnJWRlowV25KRFZFY3lPR1J6WVZJNGFsRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21oc1ZVUnJWRlowV25KRFZFY3lPR1J6WVZJNGFsRRAB!2m1!1s0x0:0xafabbd1a97d0a60d!3m1!1s2@1:CAIQACodChtycF9oOmhsVURrVFZ0WnJDVEcyOGRzYVI4alE%7C%7C?hl=en",
+        "name": "Vidhi Desai",
+        "reviewer_id": "113744991368842244828",
+        "reviewer_profile": "https://www.google.com/maps/contrib/113744991368842244828?hl=en-GB",
+        "rating": 4,
+        "review_text": "Best pg for girls .. safety also there for girls\nNearby nallasopara station room is there",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "5 months ago",
+        "published_at_date": "2026-01-03T10:23:55",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjUKf7jREieSPwNHtNhmZZrbE--QixuYOVJ-jWhP2XbX7qC9DiY=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 1,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBajk2S1lnEAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnTUNBajk2S1lnEAE!2m1!1s0x0:0xafabbd1a97d0a60d!3m1!1s2@1:CIHM0ogKEICAgMCAj96KYg%7C%7C?hl=en",
+        "name": "sanju pandhare",
+        "reviewer_id": "115666753801427098997",
+        "reviewer_profile": "https://www.google.com/maps/contrib/115666753801427098997?hl=en-GB",
+        "rating": 1,
+        "review_text": "Worst place and worst location- girls please don’t go it’s not safe place at all and it’s too far from station Auto took me 100 rs.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2025-02-05T12:49:35",
+        "response_from_owner_text": "If you are not staying in my pg then don't give wrong feedback..\n\n",
+        "response_from_owner_ago": "a year ago",
+        "response_from_owner_date": "2025-03-21T11:01:23",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocJMpA05wfSOCUWq9UAUBcNj8rGCRkSrwLhKng-cHs52iCK9cQ=s1920",
+        "total_number_of_reviews_by_reviewer": 5,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VOM2owZV9Vc3VTcFJREAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VOM2owZV9Vc3VTcFJREAE!2m1!1s0x0:0xafabbd1a97d0a60d!3m1!1s2@1:CIHM0ogKEN3j0e_UsuSpRQ%7C%7C?hl=en",
+        "name": "Vipul Chaurasiya",
+        "reviewer_id": "113142903624510568997",
+        "reviewer_profile": "https://www.google.com/maps/contrib/113142903624510568997?hl=en-GB",
+        "rating": 1,
+        "review_text": "The owner and the staff misbehave and don't know how to cordinate",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2025-06-03T09:50:15",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjWwgsq4wmjynQATdIPlA6WZ-YCJuRYXwbQDEF7eWh_vapBhpuKm=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKX0lfdl93RRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURKX0lfdl93RRAB!2m1!1s0x0:0xafabbd1a97d0a60d!3m1!1s2@1:CIHM0ogKEICAgIDJ_I_v_wE%7C%7C?hl=en",
+        "name": "Poonam Yadav",
+        "reviewer_id": "110272585073302896032",
+        "reviewer_profile": "https://www.google.com/maps/contrib/110272585073302896032?hl=en-GB",
+        "rating": 5,
+        "review_text": "Well good for girls to stay in this PG",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "2 years ago",
+        "published_at_date": "2023-07-13T07:34:39",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocIsJd3Ix_q78VSW-DbmKr-CbawgrQAFT-IYtcJQJmO60y5VzQ=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoX3FYYzVnRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNoX3FYYzVnRRAB!2m1!1s0x0:0xafabbd1a97d0a60d!3m1!1s2@1:CIHM0ogKEICAgICh_qXc5gE%7C%7C?hl=en",
+        "name": "Anant Rahatwal",
+        "reviewer_id": "105788950598854589470",
+        "reviewer_profile": "https://www.google.com/maps/contrib/105788950598854589470?hl=en-GB",
+        "rating": 5,
+        "review_text": "Good pg very reasonable price",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "3 years ago",
+        "published_at_date": "2023-02-14T10:28:34",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocJbFC9Dks9aix5jdKN91OD9IuLbsjbL3MCKaoTTvFZuXXGN9g=s1920",
+        "total_number_of_reviews_by_reviewer": 2,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHOEtQTHlBRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURHOEtQTHlBRRAB!2m1!1s0x0:0xafabbd1a97d0a60d!3m1!1s2@1:CIHM0ogKEICAgIDG8KPLyAE%7C%7C?hl=en",
+        "name": "aleena Khan",
+        "reviewer_id": "112979612753883089293",
+        "reviewer_profile": "https://www.google.com/maps/contrib/112979612753883089293?hl=en-GB",
+        "rating": 5,
+        "review_text": "very good agency",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "4 years ago",
+        "published_at_date": "2021-11-16T10:02:24",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocKQD3WlcaQf3M9XPvRuGTUtzN-ohHgwczlTR1KpS8_mH8qLMQ=s1920",
+        "total_number_of_reviews_by_reviewer": 2,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twRFRHcFBWblY0VkRkYU5sWlJSMUpmZDA5aFJVRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2twRFRHcFBWblY0VkRkYU5sWlJSMUpmZDA5aFJVRRAB!2m1!1s0x0:0xafabbd1a97d0a60d!3m1!1s2@1:CAIQACodChtycF9oOkpDTGpPVnV4VDdaNlZRR1Jfd09hRUE%7C%7C?hl=en",
+        "name": "Vaishnavi Yadav",
+        "reviewer_id": "100331430776721590170",
+        "reviewer_profile": "https://www.google.com/maps/contrib/100331430776721590170?hl=en-GB",
+        "rating": 5,
+        "review_text": "“The PG is very clean and comfortable. The facilities are good and the environment is safe and peaceful. The owner and staff are helpful and supportive. I am very satisfied staying he\n\n“Very nice PG with good facilities, clean rooms, and a friendly environment. Safe place to stay.\n“This PG feels like a private flat. Rooms are neat and well maintained. The location is convenient and the management is cooperative. I had a very good experience staying",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "2 months ago",
+        "published_at_date": "2026-04-16T06:26:00",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocL2wxUrifAVbdqVNZNTz7WoU6izNRT1uqCcGDQyrXjcg0HrEQ=s1920",
+        "total_number_of_reviews_by_reviewer": 2,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUROdzkybEFnEAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUROdzkybEFnEAE!2m1!1s0x0:0xafabbd1a97d0a60d!3m1!1s2@1:CIHM0ogKEICAgIDNw92lAg%7C%7C?hl=en",
+        "name": "Vikash Shah",
+        "reviewer_id": "115087593940904869250",
+        "reviewer_profile": "https://www.google.com/maps/contrib/115087593940904869250?hl=en-GB",
+        "rating": 4,
+        "review_text": null,
+        "original_language": null,
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "2 years ago",
+        "published_at_date": "2024-01-25T13:00:50",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocIHoHK9Y8GbQASIPA-W9GfYBU3zrE3fcMchyCTfI9htjSUlyQ=s1920",
+        "total_number_of_reviews_by_reviewer": 19,
+        "total_number_of_photos_by_reviewer": 28,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      }
+    ],
+    "query": "boys hostel pg in nalasopara west"
+  },
+  {
+    "place_id": "ChIJrY-YP4uv5zsRSu59ZnPpJ8E",
+    "name": "Raj Pg & Hostel",
+    "description": "Cheapest rate pg in whole mumbai with\ngood facilities including in rent all amenities\nNo-deposit\nNo - brokarage\nFacilities - including in rent\nLight bill\nKitchen (gas also)\nWiFi\nWashing machine\nLocker\nWater 24/7\nBed , bedsheet, pillow\nBalcony, garden and terece\nParking areas\nLocation - 5 mint walkable from railway station",
+    "is_spending_on_ads": false,
+    "link": "https://www.google.com/maps/place/Raj+Pg+%26+Hostel/data=!4m7!3m6!1s0x3be7af8b3f988fad:0xc127e973667dee4a!8m2!3d19.359131!4d72.8461792!16s%2Fg%2F11x5nlv6xq!19sChIJrY-YP4uv5zsRSu59ZnPpJ8E?authuser=0&hl=en&rclk=1",
+    "reviews": 55,
+    "rating": 4.8,
+    "competitors": [
+      {
+        "name": "Paying Guest Accomodation",
+        "suggested_link": "https://www.google.com/maps/search/Paying+Guest+Accomodation/@19.4162166,72.81623499999999,19z?authuser=0&hl=en&entry=ttu",
+        "reviews": 5,
+        "rating": 5,
+        "main_category": "Guest house",
+        "categories": [
+          "Guest house"
+        ],
+        "coordinates": {
+          "latitude": 19.4162166,
+          "longitude": 72.81623499999999
+        }
+      },
+      {
+        "name": "PG FOR WOMENS",
+        "suggested_link": "https://www.google.com/maps/search/PG+FOR+WOMENS/@19.3611204,72.85464689999999,19z?authuser=0&hl=en&entry=ttu",
+        "reviews": 4,
+        "rating": 3.3,
+        "main_category": "Bed & breakfast",
+        "categories": [
+          "Bed & breakfast"
+        ],
+        "coordinates": {
+          "latitude": 19.3611204,
+          "longitude": 72.85464689999999
+        }
+      },
+      {
+        "name": "Paying Guests rooms On Sharing Basic only For working Males at vasai west",
+        "suggested_link": "https://www.google.com/maps/search/Paying+Guests+rooms+On+Sharing+Basic+only+For+working+Males+at+vasai+west/@19.408770399999998,72.83446409999999,19z?authuser=0&hl=en&entry=ttu",
+        "reviews": 3,
+        "rating": 4.3,
+        "main_category": "Guest house",
+        "categories": [
+          "Guest house"
+        ],
+        "coordinates": {
+          "latitude": 19.408770399999998,
+          "longitude": 72.83446409999999
+        }
+      }
+    ],
+    "website": null,
+    "phone": "080809 09469",
+    "phone_international": "+91 80809 09469",
+    "can_claim": false,
+    "owner": {
+      "id": "111564782713798069836",
+      "name": "Raj Pg & Hostel (Owner)",
+      "link": "https://www.google.com/maps/contrib/111564782713798069836"
+    },
+    "owner_posts": [],
+    "featured_image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFN2JtHsxpRPmcvdzS5ap3KrcNTy8gCzojexB7-guqeBTzLc0fmzmjL7Ost5mYBelDuFnVDbJnOqfmwGS1VH-BKLLTbnFuQ3jdSoA6j1zzxuJSqT6xGTLwYXbntZQ-hXzClTFMJnywIrUce=w1920-h1080-k-no",
+    "main_category": "Student dormitory",
+    "categories": [
+      "Student dormitory"
+    ],
+    "workday_timing": "Open 24 hours",
+    "status": null,
+    "is_temporarily_closed": false,
+    "is_permanently_closed": false,
+    "closed_on": "Open All Days",
+    "address": "BUNGALOW NO-8, M Corp Vishwanath wines, near VISHWANATH WINES, Pareira Nagar, Naigaon East, Vasai-Virar, M Corp, Maharashtra 401208",
+    "price_range": null,
+    "reviews_per_rating": {
+      "1": 2,
+      "2": 0,
+      "3": 1,
+      "4": 0,
+      "5": 52
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJrY-YP4uv5zsRSu59ZnPpJ8E&q=Raj+Pg+%26+Hostel&authuser=0&hl=en&gl=IN",
+    "coordinates": {
+      "latitude": 19.359130999999998,
+      "longitude": 72.8461792
+    },
+    "plus_code": "9R5W+MF Vasai-Virar, Maharashtra",
+    "detailed_address": {
+      "ward": "Pareira Nagar, Naigaon East",
+      "street": "BUNGALOW NO-8, M Corp Vishwanath wines, near VISHWANATH WINES",
+      "city": "Vasai-Virar, M Corp",
+      "postal_code": "401208",
+      "state": "Maharashtra",
+      "country_code": "IN"
+    },
+    "time_zone": "Asia/Calcutta",
+    "is_rental": false,
+    "cid": "13918349855261847114",
+    "data_id": "0x3be7af8b3f988fad:0xc127e973667dee4a",
+    "kgmid": "/g/11x5nlv6xq",
+    "about": [
+      {
+        "id": "service_options",
+        "name": "Service options",
+        "options": [
+          {
+            "name": "On-site services",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "accessibility",
+        "name": "Accessibility",
+        "options": [
+          {
+            "name": "Assistive hearing loop",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "amenities",
+        "name": "Amenities",
+        "options": [
+          {
+            "name": "Gender-neutral toilets",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "crowd",
+        "name": "Crowd",
+        "options": [
+          {
+            "name": "LGBTQ+ friendly",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "parking",
+        "name": "Parking",
+        "options": [
+          {
+            "name": "Free parking garage",
+            "enabled": true
+          },
+          {
+            "name": "Free parking lot",
+            "enabled": true
+          },
+          {
+            "name": "Free street parking",
+            "enabled": true
+          },
+          {
+            "name": "On-site parking",
+            "enabled": true
+          },
+          {
+            "name": "Paid parking garage",
+            "enabled": true
+          }
+        ]
+      }
+    ],
+    "hours": [
+      {
+        "day": "Monday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Friday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "times": [
+          "Open 24 hours"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "times": [
+          "Open 24 hours"
+        ]
+      }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "menu": null,
+    "reservations": [],
+    "order_online_links": [],
+    "gas_prices": [],
+    "image_count": 50,
+    "images": [
+      {
+        "about": "All",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFN2JtHsxpRPmcvdzS5ap3KrcNTy8gCzojexB7-guqeBTzLc0fmzmjL7Ost5mYBelDuFnVDbJnOqfmwGS1VH-BKLLTbnFuQ3jdSoA6j1zzxuJSqT6xGTLwYXbntZQ-hXzClTFMJnywIrUce=w1920-h1080-k-no",
+        "published_at_date": "2025-03-22T05:00:00"
+      },
+      {
+        "about": "Rooms",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHYt6qe0IfTQd8TxkDDMTFcGw5ngBfU_qKFerZuT8h2JNTAfiXlo0wmNiXTraOXOv_HRPkvr3hNeaw3K1uZnJ_8MFBizHp_CrQXLO3N2_wCoPUu6k3pWjK49qsiZ2S-zSpiLPPXoYX875X_=w1920-h1080-k-no",
+        "published_at_date": "2025-03-22T05:00:00"
+      },
+      {
+        "about": "Videos",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG6o-ecFdrvAUcLIVVk2gi6loG5ZxEHHrTuMhuMBMCHCbAj2HpEE1ULa9zE__99yZk77QN2QdmlXO3-sMUb-5nn_kEbbckdqy5ZpjsFGHrKkz5UroPNL8Ko5CSAcHWq4xHqGqIhS5isxHyL=w1920-h1080-k-no",
+        "published_at_date": "2025-07-10T06:00:00"
+      },
+      {
+        "about": "Exterior",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHVfuxTnJ-8trR1IAPjwHsofqnkNbM7VgdY1bhxNZrLgU5rYCF48lNMwVmy1DXyhpzo-LVJ4ziHtuckcvt1sBdYCkR9KowHftEdcdQoecyvRC2y6j6UbTGctgBDURCpDtwJTi-tL9f4EkLf=w1920-h1080-k-no",
+        "published_at_date": "2025-08-01T06:00:00"
+      },
+      {
+        "about": "From visitors",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH4-leB2ijMu67M5WP0F81QddK1KWvvuJiXj3Kh5mM5iQ0Rz9DdYmJpmg7RbcSTR7WuGY9T-6CdMlndwIBYMx_MwrL427Oyly9rABsZb7pZBkAO08rLELxa2QkZYFo9KYKKoU9BIj5t5w8d=w1920-h1080-k-no",
+        "published_at_date": "2025-10-22T16:00:00"
+      },
+      {
+        "about": "By owner",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFaWQbtTwsXhbT0gwEMn1iG6OMg50JYnLy4dpi50P_ho90i-45cKJmqQ2oq-FPeX45qKN1rgFlTkzQuvVg-_F7W-n3DH1ie0PjVpMFQkY7yqsWbNepMe0S8VPWBJ-oQOqsqzHrz7zpOnW3O=w1920-h1080-k-no",
+        "published_at_date": "2025-10-23T16:00:00"
+      }
+    ],
+    "featured_images": [
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFN2JtHsxpRPmcvdzS5ap3KrcNTy8gCzojexB7-guqeBTzLc0fmzmjL7Ost5mYBelDuFnVDbJnOqfmwGS1VH-BKLLTbnFuQ3jdSoA6j1zzxuJSqT6xGTLwYXbntZQ-hXzClTFMJnywIrUce=w1920-h1080-k-no",
+        "published_at_date": "2025-03-22T05:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFaWQbtTwsXhbT0gwEMn1iG6OMg50JYnLy4dpi50P_ho90i-45cKJmqQ2oq-FPeX45qKN1rgFlTkzQuvVg-_F7W-n3DH1ie0PjVpMFQkY7yqsWbNepMe0S8VPWBJ-oQOqsqzHrz7zpOnW3O=w1920-h1080-k-no",
+        "published_at_date": "2025-10-23T16:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFipyCRxyomXjDcFQ0mLUWFlMDImsjtTorRFFsBVW4wYKZMD3OTf1UINHIVngsUYdwPAVHnEJ_mBczSRQ3FtdFPDGami9lxNelPLn5emyjyCzyhUUJt_itGqFMGLkYIAj05JWpSe8s6sEuu=w1920-h1080-k-no",
+        "published_at_date": "2025-03-22T05:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHYt6qe0IfTQd8TxkDDMTFcGw5ngBfU_qKFerZuT8h2JNTAfiXlo0wmNiXTraOXOv_HRPkvr3hNeaw3K1uZnJ_8MFBizHp_CrQXLO3N2_wCoPUu6k3pWjK49qsiZ2S-zSpiLPPXoYX875X_=w1920-h1080-k-no",
+        "published_at_date": "2025-03-22T05:00:00"
+      }
+    ],
+    "on_site_places": [],
+    "customer_updates": [],
+    "featured_question": null,
+    "review_keywords": [
+      {
+        "keyword": "budget friendly",
+        "count": 3
+      },
+      {
+        "keyword": "affordable cost",
+        "count": 2
+      },
+      {
+        "keyword": "job seeker accommodation",
+        "count": 2
+      },
+      {
+        "keyword": "environment",
+        "count": 2
+      },
+      {
+        "keyword": "management",
+        "count": 2
+      },
+      {
+        "keyword": "student accommodation",
+        "count": 2
+      },
+      {
+        "keyword": "station",
+        "count": 2
+      },
+      {
+        "keyword": "facilities",
+        "count": 9
+      }
+    ],
+    "featured_reviews": [
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25vNVpIRlRjRzVJVlZWalkzVTNUVGRyVlhGYWVtYxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25vNVpIRlRjRzVJVlZWalkzVTNUVGRyVlhGYWVtYxAB!2m1!1s0x0:0xc127e973667dee4a!3m1!1s2@1:CAIQACodChtycF9oOno5ZHFTcG5IVVVjY3U3TTdrVXFaemc%7C%7C?hl=en",
+        "name": "Kedarsingh Shinde",
+        "reviewer_id": "118236752820156811539",
+        "reviewer_profile": "https://www.google.com/maps/contrib/118236752820156811539?hl=en-GB",
+        "rating": 5,
+        "review_text": "I just wanted to say that I’ll be leaving the PG . It’s been a really great experience staying here — made some amazing memories, met wonderful people, and felt like home away from home.\nThank you all for the good time.\nThanks Ravikant bhaii it was an great...",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "7 months ago",
+        "published_at_date": "2025-10-30T06:24:04",
+        "response_from_owner_text": "Thank you sir ",
+        "response_from_owner_ago": "7 months ago",
+        "response_from_owner_date": "2025-10-30T08:27:16",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocIDh_v9DkZoudA4vIjoX--yxPndQtmtIf9SOOFlPKXYUtak70c=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214MFJHbFVVM0JwTjJob1MwY3RNVkJJTnpsc1VWRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT214MFJHbFVVM0JwTjJob1MwY3RNVkJJTnpsc1VWRRAB!2m1!1s0x0:0xc127e973667dee4a!3m1!1s2@1:CAIQACodChtycF9oOmx0RGlUU3BpN2hoS0ctMVBINzlsUVE%7C%7C?hl=en",
+        "name": "Raj Kumar",
+        "reviewer_id": "109805135448221791864",
+        "reviewer_profile": "https://www.google.com/maps/contrib/109805135448221791864?hl=en-GB",
+        "rating": 5,
+        "review_text": "Good location,\nNo croud\nEasy to reach station\nGood environment\nMentioned facilities are available.\nAll over excellent.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "8 months ago",
+        "published_at_date": "2025-10-13T03:33:46",
+        "response_from_owner_text": "Thank u",
+        "response_from_owner_ago": "Edited 8 months ago",
+        "response_from_owner_date": "2025-10-13T05:36:48",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocLA9hLXnhydtGIhFkSSyGpCk2le7IhmlJDxsQ9pGxbKDIOZ_w=s1920",
+        "total_number_of_reviews_by_reviewer": 2,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204NU9XTnZabk5tWmt0Nk4yZHVSMkp4UzIwMGJVRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT204NU9XTnZabk5tWmt0Nk4yZHVSMkp4UzIwMGJVRRAB!2m1!1s0x0:0xc127e973667dee4a!3m1!1s2@1:CAIQACodChtycF9oOm85OWNvZnNmZkt6N2duR2JxS200bUE%7C%7C?hl=en",
+        "name": "Suraj Dhatingan",
+        "reviewer_id": "117797168061117538897",
+        "reviewer_profile": "https://www.google.com/maps/contrib/117797168061117538897?hl=en-GB",
+        "rating": 5,
+        "review_text": "The pg has very comfortable culture specialy ravikant bhaiyya verry helpulful.he is always supportive.good environment.raj pg gives very affordable rates service to who comes mumbai for the first time.i like its environment and affordable rates.must come ☺️☺️☺️🤟",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "8 months ago",
+        "published_at_date": "2025-10-12T18:27:25",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjXh_q0mf9XnoPHiyYdHpcCKz96iYdzFeOQ16u88v3z-Oa0OZfbr=s1920",
+        "total_number_of_reviews_by_reviewer": 4,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0TFpYaGpRME5vZFV4U2NYbFBZbk5vZUVSVWNYYxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2t0TFpYaGpRME5vZFV4U2NYbFBZbk5vZUVSVWNYYxAB!2m1!1s0x0:0xc127e973667dee4a!3m1!1s2@1:CAIQACodChtycF9oOktLZXhjQ0NodUxScXlPYnNoeERUcXc%7C%7C?hl=en",
+        "name": "Devendra Nevarekar",
+        "reviewer_id": "110498658226921925766",
+        "reviewer_profile": "https://www.google.com/maps/contrib/110498658226921925766?hl=en-GB",
+        "rating": 5,
+        "review_text": "A great PG facilities are also very nice a budget friendly accomodation for students and job seekers in mumbai",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "8 months ago",
+        "published_at_date": "2025-10-12T17:58:50",
+        "response_from_owner_text": "Thank u ",
+        "response_from_owner_ago": "8 months ago",
+        "response_from_owner_date": "2025-10-12T20:23:39",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjUM6mVZo4PrmvFCR89kUXJkUQv_jA0RjDoZvVxcZeyreQC8_ig=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaWFRWVk9hMUkwVkVoa1MyNXpNRU5HWlRVd1MwRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xaWFRWVk9hMUkwVkVoa1MyNXpNRU5HWlRVd1MwRRAB!2m1!1s0x0:0xc127e973667dee4a!3m1!1s2@1:CAIQACodChtycF9oOlZXTVVOa1I0VEhkS25zMENGZTUwS0E%7C%7C?hl=en",
+        "name": "TopN Offers",
+        "reviewer_id": "115994122817263945213",
+        "reviewer_profile": "https://www.google.com/maps/contrib/115994122817263945213?hl=en-GB",
+        "rating": 5,
+        "review_text": "a very good experience at this pg. owner is supportive. facilities are good. A budget friendly pg for students , proffesionals , and others.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "9 months ago",
+        "published_at_date": "2025-09-16T08:38:40",
+        "response_from_owner_text": "Thank you so much sir ",
+        "response_from_owner_ago": "9 months ago",
+        "response_from_owner_date": "2025-09-16T10:39:38",
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocI26ffErvQ-rQFCqGWK6fcr8w-oTrtM-a_UN9byX_r1Jzvipw=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201UVJrTXlPV1Z1Y0c1UWJYSjRUV1F6WjFSTFRGRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT201UVJrTXlPV1Z1Y0c1UWJYSjRUV1F6WjFSTFRGRRAB!2m1!1s0x0:0xc127e973667dee4a!3m1!1s2@1:CAIQACodChtycF9oOm5QRkMyOWVucG5QbXJ4TWQzZ1RLTFE%7C%7C?hl=en",
+        "name": "Varun Dixit",
+        "reviewer_id": "112549604444286018413",
+        "reviewer_profile": "https://www.google.com/maps/contrib/112549604444286018413?hl=en-GB",
+        "rating": 5,
+        "review_text": "Amazing experience in this pg. The staff and people are very helpful. The cost is affordable.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2025-06-22T11:23:31",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjWJDIq7CfaSA3zJZX4oy64BCDm95x8lp1A4gyaP8M2oGs6y7LCV=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Vd1NIbEJUbXQ2VlUxV1IwWjJaamhFVFZsVk1IYxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25Vd1NIbEJUbXQ2VlUxV1IwWjJaamhFVFZsVk1IYxAB!2m1!1s0x0:0xc127e973667dee4a!3m1!1s2@1:CAIQACodChtycF9oOnUwSHlBTmt6VU1WR0Z2ZjhETVlVMHc%7C%7C?hl=en",
+        "name": "Rock Dancer",
+        "reviewer_id": "112506583363456134714",
+        "reviewer_profile": "https://www.google.com/maps/contrib/112506583363456134714?hl=en-GB",
+        "rating": 5,
+        "review_text": "Hello I'm atul this pg room is very good nd ravikant bhaiya is very smart so thanks bhaiya for stay in room ✨️❤️",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2025-06-22T12:08:47",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjWGwPorAy4GbKJx9WNvitfP0TrIonbyQdRrnN93vVzHQaOoV_E5=s1920",
+        "total_number_of_reviews_by_reviewer": 2,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paWVFrSTRTRFpMZWs5WGFHeFFkMDFWZVd0MWJYYxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2paWVFrSTRTRFpMZWs5WGFHeFFkMDFWZVd0MWJYYxAB!2m1!1s0x0:0xc127e973667dee4a!3m1!1s2@1:CAIQACodChtycF9oOjZYQkI4SDZLek9XaGxQd01VeWt1bXc%7C%7C?hl=en",
+        "name": "rahul more",
+        "reviewer_id": "104181427256931896140",
+        "reviewer_profile": "https://www.google.com/maps/contrib/104181427256931896140?hl=en-GB",
+        "rating": 5,
+        "review_text": "Best room and service and good red",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "6 months ago",
+        "published_at_date": "2025-12-18T09:38:58",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjXjlgQi98LCnQN2VcrAEncdnjPjAwLcwM7q5lCZ-7GPJpvLspNo=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      }
+    ],
+    "query": "boys hostel pg in nalasopara west"
+  }
+]

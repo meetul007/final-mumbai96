@@ -1,0 +1,215 @@
+/* ============================================================
+   MUMBAI EXHIBITIONS PAGE — SPECIFIC STYLES ONLY
+   Global styles are in styles.combined.css
+   ============================================================ */
+
+/* Hero Description */
+.ph-desc {
+  font-size: 15px;
+  color: rgba(255, 255, 255, 0.75);
+  line-height: 1.8;
+  margin-top: 16px;
+  max-width: 600px;
+  font-weight: 300;
+}
+
+/* Venue Grid */
+.venue-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+  margin: 20px 0;
+}
+
+.venue-card {
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 20px 18px;
+  transition: all 0.22s;
+}
+
+.venue-card:hover {
+  box-shadow: var(--sh-lg);
+  transform: translateY(-3px);
+}
+
+.venue-card h4 {
+  font-size: 14px;
+  font-weight: 800;
+  color: var(--ink);
+  margin-bottom: 8px;
+}
+
+.venue-card p {
+  font-size: 13px;
+  color: #374151;
+  line-height: 1.7;
+  font-weight: 300;
+  margin-bottom: 10px;
+}
+
+.vc-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  font-size: 11px;
+  color: var(--muted);
+  font-weight: 400;
+}
+
+.vc-meta span {
+  display: flex;
+  align-items: center;
+  gap: 3px;
+}
+
+/* Full-width Venue Card */
+.venue-card-full {
+  grid-column: 1 / -1;
+}
+
+@media (max-width: 760px) {
+  .venue-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .venue-card-full {
+    grid-column: 1;
+  }
+}
+
+/* B2B Trade Expos Grid */
+.card-grid-expos {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+  margin: 20px 0;
+}
+
+@media (max-width: 960px) {
+  .card-grid-expos {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 760px) {
+  .card-grid-expos {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Event Card */
+.event-card {
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 18px;
+  transition: all 0.22s;
+  display: flex;
+  flex-direction: column;
+}
+
+.event-card:hover {
+  box-shadow: var(--sh-lg);
+  transform: translateY(-3px);
+}
+
+.ec-top {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.event-card .dc-icon {
+  font-size: 1.6rem;
+  flex-shrink: 0;
+}
+
+.ec-title {
+  font-size: 14px;
+  font-weight: 800;
+  color: var(--ink);
+  margin-bottom: 8px;
+  line-height: 1.4;
+}
+
+.ec-body {
+  font-size: 12px;
+  color: #374151;
+  line-height: 1.7;
+  font-weight: 300;
+  margin-bottom: 10px;
+  flex-grow: 1;
+}
+
+.ec-meta {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-size: 11px;
+  color: var(--muted);
+  margin-bottom: 10px;
+}
+
+.ec-meta span {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.ec-cta {
+  font-size: 11px;
+  font-weight: 800;
+  color: var(--red);
+  text-decoration: none;
+  transition: all 0.18s;
+  display: inline-block;
+}
+
+.ec-cta:hover {
+  color: var(--dark);
+}
+
+/* Badges */
+.badge {
+  display: inline-block;
+  font-size: 9px;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 4px 8px;
+  border-radius: 4px;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.badge-gold {
+  background: rgba(245, 166, 35, 0.15);
+  color: #b8860b;
+}
+
+.badge-dark {
+  background: rgba(55, 27, 88, 0.1);
+  color: var(--dark);
+}
+
+.badge-red {
+  background: rgba(255, 107, 0, 0.1);
+  color: var(--red);
+}
+
+@media (max-width: 760px) {
+  .event-card {
+    padding: 16px;
+  }
+
+  .ec-title {
+    font-size: 13px;
+  }
+
+  .ec-body {
+    font-size: 12px;
+  }
+}

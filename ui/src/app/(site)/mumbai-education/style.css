@@ -1,0 +1,74 @@
+/* ============================================================
+   MUMBAI EDUCATION PAGE — SPECIFIC STYLES ONLY
+   Global styles are in styles.combined.css
+   ============================================================ */
+
+/* Price Table (Boards Admission Table) */
+.price-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.price-table th {
+  background: var(--dark);
+  color: #fff;
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  padding: 11px 16px;
+  text-align: left;
+}
+
+.price-table td {
+  padding: 11px 16px;
+  font-size: 13px;
+  border-bottom: 1px solid var(--border);
+}
+
+.price-table tr:last-child td {
+  border-bottom: none;
+}
+
+.price-table tr:hover td {
+  background: #f9f6ff;
+}
+
+/* Info Box (Scholarship List) */
+.info-box {
+  background: #fafaf7;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 20px;
+  margin: 20px 0;
+}
+
+.info-box h4 {
+  font-size: 13px;
+  font-weight: 800;
+  color: var(--ink);
+  margin-bottom: 12px;
+}
+
+.info-box ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.info-box li {
+  font-size: 13px;
+  color: #374151;
+  line-height: 1.8;
+  margin-bottom: 10px;
+  padding-left: 0;
+}
+
+.info-box li:last-child {
+  margin-bottom: 0;
+}
+
+.info-box strong {
+  font-weight: 700;
+  color: var(--ink);
+}

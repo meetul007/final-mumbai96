@@ -1,0 +1,6 @@
+venv/
+.idea/
+static/uploads
+app/listing/__pycache__
+*.pyc
+env.yml

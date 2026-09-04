@@ -1,0 +1,45 @@
+import { getWeather } from "@/lib/weather";
+import TemperaturePopulation from "./TempraturePopulation";
+
+export default async function LocationHero({
+  location,
+  tagline,
+  image,
+  icon_image,
+}) {
+  const weather = await getWeather(location);
+
+  return (
+    <section className="hero">
+      {image && (
+        <div
+          className="hero-img"
+          style={{ backgroundImage: `url(${image})` }}
+        ></div>
+      )}
+      <div className="hero-right-img">
+        {icon_image ? (
+          <img src={icon_image} alt={location} />
+        ) : (
+          <div className="hero-icon-placeholder">
+            {location?.charAt(0) || "M"}
+          </div>
+        )}
+      </div>
+      <div className="hero-ov"></div>
+      <div className="hero-c">
+        <div className="badge">
+          <span></span> Western Suburbs · {location}
+        </div>
+        <h1>
+          Explore <em>{location}</em>
+        </h1>
+        <p className="hero-sub">
+          Places · Food · Property · Nightlife · People · Services · Local Life
+          — your complete guide to {location}.
+        </p>
+        <TemperaturePopulation population="8L+" weather={weather} />
+      </div>
+    </section>
+  );
+}

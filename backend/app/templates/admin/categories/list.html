@@ -1,0 +1,205 @@
+{% extends "base.html" %}
+
+{% block title %}Categories | Admin{% endblock %}
+
+{% block content %}
+
+    <!-- ================= HEADER ================= -->
+    <div class="d-flex justify-content-between align-items-center mb-3 flex-wrap gap-2">
+        <h1 class="h3 mb-0">Categories</h1>
+
+        <a href="{{ url_for('admin.create_category') }}"
+           class="btn btn-primary btn-sm">
+            <i class="bi bi-plus-lg me-1"></i>
+            Add Category
+        </a>
+    </div>
+
+    <!-- ================= SEARCH + FILTER ================= -->
+    <form method="get"
+          class="row gx-2 gy-2 align-items-center mb-3">
+
+        <!-- Search -->
+        <div class="col-8 col-sm-6 col-md-8">
+            <input type="text"
+                   name="q"
+                   value="{{ search or '' }}"
+                   class="form-control form-control-sm"
+                   placeholder="Search categories...">
+        </div>
+
+        <!-- Mobile filter button -->
+        <div class="col-auto">
+            <button type="button"
+                    class="btn btn-outline-secondary btn-sm"
+                    data-bs-toggle="modal"
+                    data-bs-target="#filterModal">
+                <i class="bi bi-funnel"></i>
+            </button>
+        </div>
+
+        <!-- Search button -->
+        <div class="col-auto">
+            <button class="btn btn-primary btn-sm">
+                <i class="bi bi-search"></i>
+            </button>
+        </div>
+
+    </form>
+
+    <!-- ================= TABLE ================= -->
+    <div class="card">
+        <div class="table-responsive">
+            <table class="table mb-0 align-middle">
+
+                <thead>
+                <tr>
+                    <th>Name</th>
+                    <th class="d-none d-md-table-cell">Slug</th>
+                    <th>Status</th>
+                    <th class="d-none d-sm-table-cell">Image</th>
+                    <th class="text-end">Actions</th>
+                </tr>
+                </thead>
+
+                <tbody>
+                {% for c in categories %}
+                    <tr>
+
+                        <!-- Name -->
+                        <td>
+                            <div class="fw-semibold">{{ c.name }}</div>
+                            <div class="text-muted small d-md-none">
+                                {{ c.slug }}
+                            </div>
+                        </td>
+
+                        <!-- Slug (desktop only) -->
+                        <td class="d-none d-md-table-cell">
+                            {{ c.slug }}
+                        </td>
+
+                        <!-- Status -->
+                        <td>
+            <span class="badge
+              {{ 'bg-success-subtle' if c.is_active else 'bg-secondary-subtle' }}">
+              {{ 'Active' if c.is_active else 'Inactive' }}
+            </span>
+                        </td>
+
+                        <!-- Image -->
+                        <td class="d-none d-sm-table-cell">
+                            {% if c.image_path %}
+                                <img src="/static/uploads/{{ c.image_path }}"
+                                     class="rounded"
+                                     style="height:32px;width:32px;object-fit:cover;"
+                                     onclick="openImageModal('/static/uploads/{{ c.image_path }}')">
+                            {% else %}
+                                <span class="text-muted">—</span>
+                            {% endif %}
+                        </td>
+
+                        <!-- Actions -->
+                        <td class="text-end">
+                            <a href="{{ url_for('admin.edit_category', category_id=c.id) }}"
+                               class="btn btn-sm btn-outline-secondary">
+                                <i class="bi bi-pencil"></i>
+                            </a>
+                        </td>
+
+                    </tr>
+                {% else %}
+                    <tr>
+                        <td colspan="5"
+                            class="text-center text-muted py-4">
+                            No categories found
+                        </td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+
+            </table>
+        </div>
+    </div>
+
+    <!-- ================= PAGINATION ================= -->
+    {% include "admin/components/pagination.html" %}
+
+    <!-- ================= MOBILE FILTER MODAL ================= -->
+    <div class="modal fade"
+         id="filterModal"
+         tabindex="-1"
+         aria-hidden="true">
+
+        <div class="modal-dialog modal-dialog-centered modal-fullscreen-sm-down">
+            <div class="modal-content">
+
+                <div class="modal-header">
+                    <h5 class="modal-title">Filters</h5>
+                    <button type="button"
+                            class="btn-close"
+                            data-bs-dismiss="modal"></button>
+                </div>
+
+                <form method="get">
+
+                    <div class="modal-body">
+
+                        <!-- Preserve search -->
+                        <input type="hidden"
+                               name="q"
+                               value="{{ search or '' }}">
+
+                        <!-- Status filter -->
+                        <div class="mb-3">
+                            <label class="form-label">Status</label>
+                            <select name="status"
+                                    class="form-select form-select-sm">
+                                <option value="">All</option>
+                                <option value="active"
+                                        {% if request.args.get('status') == 'active' %}selected{% endif %}>
+                                    Active
+                                </option>
+                                <option value="inactive"
+                                        {% if request.args.get('status') == 'inactive' %}selected{% endif %}>
+                                    Inactive
+                                </option>
+                            </select>
+                        </div>
+
+                    </div>
+
+                    <div class="modal-footer">
+                        <a href="{{ url_for(request.endpoint) }}"
+                           class="btn btn-light btn-sm">
+                            Reset
+                        </a>
+
+                        <button type="submit"
+                                class="btn btn-primary btn-sm">
+                            Apply Filters
+                        </button>
+                    </div>
+
+                </form>
+
+            </div>
+        </div>
+    </div>
+
+{% endblock %}
+
+{% block extra_js %}
+    <script>
+        function openImageModal(src) {
+            const modalImg = document.getElementById("modalImage");
+            modalImg.src = src;
+
+            const modal = new bootstrap.Modal(
+                document.getElementById("imagePreviewModal")
+            );
+            modal.show();
+        }
+
+    </script>
+{% endblock %}

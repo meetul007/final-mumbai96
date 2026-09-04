@@ -1,0 +1,190 @@
+{% extends "base.html" %}
+{% block title %}SEO Aliases | Admin{% endblock %}
+
+{% block content %}
+
+<!-- ================= HEADER ================= -->
+<div class="d-flex justify-content-between align-items-center mb-3 flex-wrap gap-2">
+  <div>
+    <h1 class="h4 mb-0">SEO Aliases</h1>
+    <small class="text-muted">Search-friendly URLs & canonical mapping</small>
+  </div>
+
+  <a href="{{ url_for('admin.create_seo_alias') }}"
+     class="btn btn-primary btn-sm">
+    <i class="bi bi-plus-lg me-1"></i>
+    Add Alias
+  </a>
+</div>
+
+<!-- ================= SEARCH + FILTER ================= -->
+<form method="get"
+      class="row gx-2 gy-2 align-items-center mb-3">
+
+  <!-- Search -->
+  <div class="col-8 col-sm-6 col-md-4">
+    <input type="text"
+           name="q"
+           value="{{ search or '' }}"
+           class="form-control form-control-sm"
+           placeholder="Search alias slug...">
+  </div>
+
+  <!-- Mobile filter button -->
+  <div class="col-auto d-md-none">
+    <button type="button"
+            class="btn btn-outline-secondary btn-sm"
+            data-bs-toggle="modal"
+            data-bs-target="#filterModal">
+      <i class="bi bi-funnel"></i>
+    </button>
+  </div>
+
+  <!-- Submit -->
+  <div class="col-auto">
+    <button class="btn btn-primary btn-sm">
+      <i class="bi bi-search"></i>
+    </button>
+  </div>
+
+</form>
+
+<!-- ================= DESKTOP TABLE ================= -->
+<div class="card d-none d-md-block">
+  <div class="table-responsive">
+    <table class="table table-hover align-middle mb-0">
+
+      <thead>
+        <tr>
+          <th>Alias Slug</th>
+          <th>Category</th>
+          <th>Location</th>
+          <th>Status</th>
+          <th class="text-end">Actions</th>
+        </tr>
+      </thead>
+
+      <tbody>
+      {% for a in aliases %}
+        <tr>
+
+          <td>
+            <div class="fw-semibold">{{ a.slug }}</div>
+            <div class="text-muted small">
+              /{{ a.location.slug }}/{{ a.category.slug }}
+            </div>
+          </td>
+
+          <td>{{ a.category.name }}</td>
+          <td>{{ a.location.name }}</td>
+
+          <td>
+            <span class="badge
+              {{ 'bg-success-subtle text-success' if a.is_active else 'bg-secondary-subtle text-muted' }}">
+              {{ 'Active' if a.is_active else 'Inactive' }}
+            </span>
+          </td>
+
+          <td class="text-end">
+            <a href="{{ url_for('admin.edit_seo_alias', alias_id=a.id) }}"
+               class="btn btn-sm btn-outline-primary">
+              <i class="bi bi-pencil"></i>
+            </a>
+
+            {% if a.is_active %}
+              <form method="post"
+                    action="{{ url_for('admin.deactivate_seo_alias', alias_id=a.id) }}"
+                    class="d-inline">
+                <button class="btn btn-sm btn-outline-danger">
+                  <i class="bi bi-eye-slash"></i>
+                </button>
+              </form>
+            {% endif %}
+          </td>
+
+        </tr>
+      {% else %}
+        <tr>
+          <td colspan="5" class="text-center text-muted py-4">
+            No SEO aliases found
+          </td>
+        </tr>
+      {% endfor %}
+      </tbody>
+
+    </table>
+  </div>
+</div>
+
+<!-- ================= MOBILE CARD LIST ================= -->
+<div class="d-md-none">
+
+  {% for a in aliases %}
+    <div class="card mb-2">
+      <div class="card-body p-2">
+
+        <div class="d-flex justify-content-between align-items-start">
+          <div>
+            <div class="fw-semibold">{{ a.slug }}</div>
+            <div class="text-muted small">
+              {{ a.category.name }} • {{ a.location.name }}
+            </div>
+          </div>
+
+          <span class="badge
+            {{ 'bg-success-subtle text-success' if a.is_active else 'bg-secondary-subtle text-muted' }}">
+            {{ 'Active' if a.is_active else 'Inactive' }}
+          </span>
+        </div>
+
+        <div class="d-flex justify-content-end gap-2 mt-2">
+          <a href="{{ url_for('admin.edit_seo_alias', alias_id=a.id) }}"
+             class="btn btn-outline-primary btn-sm">
+            <i class="bi bi-pencil"></i>
+            Edit
+          </a>
+
+          {% if a.is_active %}
+            <form method="post"
+                  action="{{ url_for('admin.deactivate_seo_alias', alias_id=a.id) }}">
+              <button class="btn btn-outline-danger btn-sm">
+                <i class="bi bi-eye-slash"></i>
+              </button>
+            </form>
+          {% endif %}
+        </div>
+
+      </div>
+    </div>
+  {% else %}
+    <div class="text-center text-muted py-4">
+      No SEO aliases found
+    </div>
+  {% endfor %}
+
+</div>
+
+<!-- ================= PAGINATION ================= -->
+{% include "admin/components/pagination.html" %}
+
+<!-- ================= FILTER MODAL (MOBILE) ================= -->
+<div class="modal fade" id="filterModal" tabindex="-1">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+
+      <div class="modal-header">
+        <h5 class="modal-title">Filter SEO Aliases</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+
+      <div class="modal-body">
+        <p class="text-muted small mb-0">
+          Filters will be added here when required.
+        </p>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+{% endblock %}

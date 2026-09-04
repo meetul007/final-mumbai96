@@ -1,0 +1,82 @@
+.link-card {
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 16px 18px;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  transition: all 0.2s;
+  margin-bottom: 10px;
+}
+.link-card:hover {
+  box-shadow: var(--sh);
+  transform: translateX(4px);
+  border-color: var(--red);
+}
+.lc-icon {
+  font-size: 1.4rem;
+  flex-shrink: 0;
+}
+.lc-body {
+  flex: 1;
+  padding: 0%;
+}
+.lc-title {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--ink);
+  margin-bottom: 2px;
+}
+.lc-desc {
+  font-size: 11px;
+  color: var(--muted);
+  font-weight: 300;
+}
+.lc-arrow {
+  color: var(--red);
+  font-weight: 800;
+  font-size: 16px;
+}
+
+.step-list {
+  counter-reset: step;
+  list-style: none;
+  margin: 20px 0;
+}
+.step-list li {
+  counter-increment: step;
+  display: flex;
+  gap: 16px;
+  padding: 14px 0;
+  border-bottom: 1px solid var(--border);
+}
+.step-list li:last-child {
+  border-bottom: none;
+}
+.step-num {
+  background: var(--dark);
+  color: var(--gold);
+  font-family: "Bebas Neue", sans-serif;
+  font-size: 1rem;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  letter-spacing: 0.04em;
+}
+.step-body {
+  font-size: 13px;
+  color: #374151;
+  line-height: 1.7;
+  font-weight: 400;
+}
+.step-body strong {
+  font-weight: 700;
+  color: var(--ink);
+  display: block;
+  margin-bottom: 3px;
+}

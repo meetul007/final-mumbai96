@@ -1,0 +1,1375 @@
+{
+  "name": "Santacruz West",
+  "seo_title": "Santacruz West Mumbai - Complete Local Guide 2026 | Places, Food, Property, Schools, Hospitals | Mumbai96",
+  "seo_description": "Complete guide to Santacruz West, Mumbai - sub-areas (Linking Road, SV Road, Juhu Road, Daulat Nagar, Willingdon Colony, Prabhat Colony, Saraswat Colony, Bandra border), property prices, top schools, hospitals, banks, markets, commute, employers, events and 100+ local services. Mumbai96 - Mumbaikars' Very Own Platform.",
+  "seo_keywords": "Santacruz West Mumbai, Santacruz West guide, things to do in Santacruz West, places in Santacruz West, restaurants in Santacruz West, property prices Santacruz West, schools in Santacruz West, hospitals in Santacruz West, Linking Road Santacruz, SV Road Santacruz, Juhu Road, Daulat Nagar, Willingdon Colony, Prabhat Colony, dentists in Santacruz West, salons in Santacruz West, gyms in Santacruz West, plumbers in Santacruz West, tiffin services Santacruz West, banks in Santacruz West, Santacruz West pin code, Santacruz West area guide 2026",
+  "location_icon": "https://mumbai96.vercel.app/santacruz-west/images/og-santacruz-west.jpg",
+  "image": "https://mumbai96.vercel.app/santacruz-west/images/og-santacruz-west.jpg",
+  "about": "Santacruz West is an upscale residential suburb in Mumbai's Western Suburbs, known for the start of Linking Road, leafy colonies like Willingdon and Prabhat Colony, a strong East Indian heritage, premium cafés and great connectivity between Bandra and Juhu.",
+  "population": "100+l",
+  "municipal_body": "",
+  "food_tags": "",
+  "sub_areas": [],
+  "character_vibe": [],
+  "property_prices": [],
+  "places_to_visit": [],
+  "food": [],
+  "night_life": [],
+  "resident_profile": [],
+  "schools": [],
+  "hospitals": [],
+  "major_employers": [],
+  "grouped_listings": {},
+  "category_groups": [],
+  "travelling_connectivity": [],
+  "residential_societies": [],
+  "local_events": [],
+  "upcoming_projects": [],
+  "civic_data": {
+    "region": "Western Mumbai",
+    "ward": "",
+    "assembly_constituency": ""
+  },
+  "area_report_card": {},
+  "living_style": [],
+  "faq": [
+    {
+      "question": "What is Santacruz West known for?",
+      "answer": "Santacruz West is known for the start of the famous Linking Road shopping stretch, its upscale residential colonies like Willingdon and Prabhat Colony, a strong East Indian and Catholic heritage, leafy bungalow lanes, premium cafés and being a calm, well-connected suburb between Bandra and Juhu."
+    },
+    {
+      "question": "What is the pin code of Santacruz West?",
+      "answer": "Santacruz West primarily uses pin code 400054, with parts of the Juhu Road and Daulat Nagar belt also covered under 400054 and 400049."
+    },
+    {
+      "question": "What are the sub-areas within Santacruz West?",
+      "answer": "The main micro-localities within Santacruz West are Linking Road, SV Road, Juhu Road, Daulat Nagar, Willingdon Colony, Prabhat Colony, Saraswat Colony and the Santacruz station-west belt."
+    },
+    {
+      "question": "What is the property price in Santacruz West?",
+      "answer": "Property prices in Santacruz West range from around ₹1.7–2.6 Cr for a 1BHK in the SV Road/Daulat Nagar belt to ₹3–5 Cr for a 2BHK in Willingdon Colony and the Juhu Road belt. Rental rates range from ₹50,000 to ₹1.3 lakh+ per month depending on the sub-area and flat size (as of May 2026)."
+    },
+    {
+      "question": "How to commute from Santacruz West?",
+      "answer": "Santacruz West is served by Santacruz Station on the Western Line (about 25 min to Churchgate), with the domestic and international airports 10–15 minutes away. It also has BEST buses, easy access to SV Road, Linking Road and the Western Express Highway, and is close to Metro Line 1 and the upcoming Metro Line 2B."
+    },
+    {
+      "question": "Which hospitals are in Santacruz West?",
+      "answer": "Major hospitals in and near Santacruz West include Lilavati Hospital (Bandra) and Nanavati Max Hospital nearby, along with V.N. Desai Municipal Hospital, and several premium clinics and nursing homes across the SV Road and Linking Road belt."
+    },
+    {
+      "question": "Which schools are in Santacruz West?",
+      "answer": "Notable schools in Santacruz West include Podar International School, St. Teresa's High School, Holy Cross High School, Jankidevi Public School and several long-established convent and SSC schools."
+    },
+    {
+      "question": "How do I find the best dentists in Santacruz West?",
+      "answer": "Browse Mumbai96's Santacruz West listings, read reviews from locals and call directly. Our verified directory makes it easy."
+    }
+  ],
+  "categories": [
+    {
+      "slug": "street-food",
+      "name": "Street Food",
+      "emoji": "🌮",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "biryani-restaurants",
+      "name": "Biryani Restaurants",
+      "emoji": "🍚",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "chinese-restaurants",
+      "name": "Chinese Restaurants",
+      "emoji": "🥢",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "south-indian-restaurants",
+      "name": "South Indian Restaurants",
+      "emoji": "🥘",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "cafes-coffee-shops",
+      "name": "Cafes & Coffee Shops",
+      "emoji": "☕",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "bakeries",
+      "name": "Bakeries",
+      "emoji": "🥐",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "sweet-shops",
+      "name": "Sweet Shops",
+      "emoji": "🍬",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "ice-cream-shops",
+      "name": "Ice Cream Shops",
+      "emoji": "🍦",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "juice-shops",
+      "name": "Juice Shops",
+      "emoji": "🥤",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "seafood-restaurants",
+      "name": "Seafood Restaurants",
+      "emoji": "🦞",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "vegetarian-restaurants",
+      "name": "Vegetarian Restaurants",
+      "emoji": "🥗",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "fast-food-restaurants",
+      "name": "Fast Food Restaurants",
+      "emoji": "🍔",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "real-estate-agents",
+      "name": "Real Estate Agents",
+      "emoji": "🏠",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "flats-for-rent",
+      "name": "Flats for Rent",
+      "emoji": "🏢",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "flats-for-sale",
+      "name": "Flats for Sale",
+      "emoji": "🔑",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "paying-guest-accommodation",
+      "name": "Paying Guest Accommodation",
+      "emoji": "🛏️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "office-space-for-rent",
+      "name": "Office Space for Rent",
+      "emoji": "🏬",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "property-management",
+      "name": "Property Management",
+      "emoji": "📋",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "pharmacies",
+      "name": "Pharmacies",
+      "emoji": "💊",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "eye-doctors",
+      "name": "Eye Doctors",
+      "emoji": "👁️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "physiotherapists",
+      "name": "Physiotherapists",
+      "emoji": "🩹",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "ayurvedic-doctors",
+      "name": "Ayurvedic Doctors",
+      "emoji": "🌿",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "homeopathy-doctors",
+      "name": "Homeopathy Doctors",
+      "emoji": "🫙",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "blood-banks",
+      "name": "Blood Banks",
+      "emoji": "🩸",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "diagnostic-centres",
+      "name": "Diagnostic Centres",
+      "emoji": "🔬",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "dental-clinics",
+      "name": "Dental Clinics",
+      "emoji": "🪥",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "deaddiction-centres",
+      "name": "Deaddiction Centres",
+      "emoji": "🫁",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "clothing-stores",
+      "name": "Clothing Stores",
+      "emoji": "👗",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "jewellery-shops",
+      "name": "Jewellery Shops",
+      "emoji": "💍",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "mobile-phone-shops",
+      "name": "Mobile Phone Shops",
+      "emoji": "📱",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "electronics-stores",
+      "name": "Electronics Stores",
+      "emoji": "💻",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "optical-shops",
+      "name": "Optical Shops",
+      "emoji": "👓",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "grocery-stores",
+      "name": "Grocery Stores",
+      "emoji": "🛒",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "shoe-stores",
+      "name": "Shoe Stores",
+      "emoji": "👟",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "sports-goods-stores",
+      "name": "Sports Goods Stores",
+      "emoji": "⚽",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "book-stores",
+      "name": "Book Stores",
+      "emoji": "📚",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "stationery-stores",
+      "name": "Stationery Stores",
+      "emoji": "✏️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "baby-products-stores",
+      "name": "Baby Products Stores",
+      "emoji": "🍼",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "hardware-stores",
+      "name": "Hardware Stores",
+      "emoji": "🪛",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "pest-control",
+      "name": "Pest Control",
+      "emoji": "🐛",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "home-cleaning-services",
+      "name": "Home Cleaning Services",
+      "emoji": "🧹",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "painting-services",
+      "name": "Painting Services",
+      "emoji": "🖌️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "laundry-dry-cleaners",
+      "name": "Laundry & Dry Cleaners",
+      "emoji": "👕",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "water-purifier-services",
+      "name": "Water Purifier Services",
+      "emoji": "💧",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "cctv-installation",
+      "name": "CCTV Installation",
+      "emoji": "📷",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "false-ceiling-contractors",
+      "name": "False Ceiling Contractors",
+      "emoji": "🏗️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "sofa-repair-services",
+      "name": "Sofa Repair Services",
+      "emoji": "🪜",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "car-dealers",
+      "name": "Car Dealers",
+      "emoji": "🚕",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "bike-dealers",
+      "name": "Bike Dealers",
+      "emoji": "🛵",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "car-wash-services",
+      "name": "Car Wash Services",
+      "emoji": "🚿",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "second-hand-cars",
+      "name": "Second Hand Cars",
+      "emoji": "🚐",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "auto-parts-stores",
+      "name": "Auto Parts Stores",
+      "emoji": "⚙️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "petrol-pumps",
+      "name": "Petrol Pumps",
+      "emoji": "⛽",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "ev-charging-stations",
+      "name": "EV Charging Stations",
+      "emoji": "🔋",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "photographers",
+      "name": "Photographers",
+      "emoji": "📸",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "videographers",
+      "name": "Videographers",
+      "emoji": "🎥",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "photo-studios",
+      "name": "Photo Studios",
+      "emoji": "🎞️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "printing-shops",
+      "name": "Printing Shops",
+      "emoji": "🖨️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "movie-theatres",
+      "name": "Movie Theatres",
+      "emoji": "🎬",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "bowling-alleys",
+      "name": "Bowling Alleys",
+      "emoji": "🎳",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "gaming-zones",
+      "name": "Gaming Zones",
+      "emoji": "🎮",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "escape-rooms",
+      "name": "Escape Rooms",
+      "emoji": "🗝️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "stand-up-comedy-shows",
+      "name": "Stand-Up Comedy Shows",
+      "emoji": "🎤",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "creches-daycare",
+      "name": "Creches & Daycare",
+      "emoji": "🪆",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "playschools",
+      "name": "Playschools",
+      "emoji": "🧸",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "schools",
+      "name": "Schools",
+      "emoji": "🏫",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "colleges",
+      "name": "Colleges",
+      "emoji": "🎓",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "spoken-english-classes",
+      "name": "Spoken English Classes",
+      "emoji": "🗣️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "computer-classes",
+      "name": "Computer Classes",
+      "emoji": "⌨️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "swimming-classes",
+      "name": "Swimming Classes",
+      "emoji": "🏊",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "courier-services",
+      "name": "Courier Services",
+      "emoji": "🚚",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "co-working-spaces",
+      "name": "Co-Working Spaces",
+      "emoji": "💼",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "event-photographers",
+      "name": "Event Photographers",
+      "emoji": "🤳",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "digital-marketing-agencies",
+      "name": "Digital Marketing Agencies",
+      "emoji": "📣",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "web-designers",
+      "name": "Web Designers",
+      "emoji": "🌐",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "astrologers",
+      "name": "Astrologers",
+      "emoji": "🔮",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "vastu-consultants",
+      "name": "Vastu Consultants",
+      "emoji": "🧭",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "temples",
+      "name": "Temples",
+      "emoji": "🛕",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "churches",
+      "name": "Churches",
+      "emoji": "⛪",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "gurudwaras",
+      "name": "Gurudwaras",
+      "emoji": "🪯",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "detective-agencies-spy-agents",
+      "name": "Detective Agencies",
+      "emoji": "🕵️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "heritage-walks",
+      "name": "Heritage Walks",
+      "emoji": "🏛️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "east-indian-community",
+      "name": "East Indian Community",
+      "emoji": "⛪",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "community-halls",
+      "name": "Community Halls",
+      "emoji": "🏟️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "dabbawalas",
+      "name": "Dabbawalas",
+      "emoji": "🍱",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "libraries",
+      "name": "Libraries",
+      "emoji": "📖",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "dentists",
+      "name": "Dentists",
+      "emoji": "🦷",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "skin-doctors",
+      "name": "Skin Doctors",
+      "emoji": "🧴",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "ent-doctors",
+      "name": "ENT Doctors",
+      "emoji": "👂",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "spine-doctors",
+      "name": "Spine Doctors",
+      "emoji": "🦴",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "ortho-doctors",
+      "name": "Ortho Doctors",
+      "emoji": "🩼",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "heart-doctors",
+      "name": "Heart Doctors",
+      "emoji": "❤️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "gynecologist-obstetricians",
+      "name": "Gynecologists",
+      "emoji": "👩‍⚕️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "pediatrician-child-doctors",
+      "name": "Pediatricians",
+      "emoji": "🧒",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "maternity-hospitals",
+      "name": "Maternity Hospitals",
+      "emoji": "🤰",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "ivf-centers",
+      "name": "IVF Centers",
+      "emoji": "🧬",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "hospitals",
+      "name": "Hospitals",
+      "emoji": "🏥",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "medical-pathology-labs",
+      "name": "Pathology Labs",
+      "emoji": "🫧",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "psychologists",
+      "name": "Psychologists",
+      "emoji": "🧠",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "psychiatrists",
+      "name": "Psychiatrists",
+      "emoji": "💬",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "xray-sonography-centres",
+      "name": "X-Ray & Sonography",
+      "emoji": "🩻",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "spas",
+      "name": "Spas",
+      "emoji": "💆",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "salons",
+      "name": "Salons",
+      "emoji": "✂️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "beauty-parlours",
+      "name": "Beauty Parlours",
+      "emoji": "💄",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "makeover-artists",
+      "name": "Makeover Artists",
+      "emoji": "🪞",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "tattoo-artists",
+      "name": "Tattoo Artists",
+      "emoji": "🪡",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "gyms",
+      "name": "Gyms",
+      "emoji": "💪",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "personal-trainers",
+      "name": "Personal Trainers",
+      "emoji": "🏋️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "dietitians-nutritionists",
+      "name": "Dietitians & Nutritionists",
+      "emoji": "🥦",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "bridal-makeup-artists",
+      "name": "Bridal Makeup Artists",
+      "emoji": "👰",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "groom-makeup-artists",
+      "name": "Groom Makeup Artists",
+      "emoji": "🤵",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "dance-classes",
+      "name": "Dance Classes",
+      "emoji": "💃",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "zumba-classes",
+      "name": "Zumba Classes",
+      "emoji": "🕺",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "yoga-classes",
+      "name": "Yoga Classes",
+      "emoji": "🧘",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "music-classes",
+      "name": "Music Classes",
+      "emoji": "🎵",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "drawing-classes",
+      "name": "Drawing Classes",
+      "emoji": "🖍️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "wedding-planners",
+      "name": "Wedding Planners",
+      "emoji": "💒",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "destination-wedding-planners",
+      "name": "Destination Wedding Planners",
+      "emoji": "✈️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "birthday-event-planners",
+      "name": "Birthday Event Planners",
+      "emoji": "🎈",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "anniversary-event-planners",
+      "name": "Anniversary Planners",
+      "emoji": "🎊",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "baby-shower-planners",
+      "name": "Baby Shower Planners",
+      "emoji": "🎀",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "caterers",
+      "name": "Caterers",
+      "emoji": "🍽️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "banquet-halls",
+      "name": "Banquet Halls",
+      "emoji": "🏩",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "cars-on-rent",
+      "name": "Cars on Rent",
+      "emoji": "🚘",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "costumes-on-rent",
+      "name": "Costumes on Rent",
+      "emoji": "🎭",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "neet-tutorials",
+      "name": "NEET Tutorials",
+      "emoji": "🩺",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "pet-food-shops",
+      "name": "Pet Food Shops",
+      "emoji": "🐟",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "pet-doctors",
+      "name": "Pet Doctors",
+      "emoji": "🐶",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "elders-care",
+      "name": "Elders Care",
+      "emoji": "👴",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "women-care-centres",
+      "name": "Women Care Centres",
+      "emoji": "🩷",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "relationship-counsellor",
+      "name": "Relationship Counsellor",
+      "emoji": "💑",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "ngos",
+      "name": "NGOs",
+      "emoji": "🤝",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "ambulance-services",
+      "name": "Ambulance Services",
+      "emoji": "🚑",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "animal-shelters",
+      "name": "Animal Shelters",
+      "emoji": "🐕",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "security-services",
+      "name": "Security Services",
+      "emoji": "🔐",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "artifact-shops",
+      "name": "Artifact Shops",
+      "emoji": "🏺",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "carpenters",
+      "name": "Carpenters",
+      "emoji": "🪚",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "plumbers",
+      "name": "Plumbers",
+      "emoji": "🪠",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "electricians",
+      "name": "Electricians",
+      "emoji": "⚡",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "gift-shops",
+      "name": "Gift Shops",
+      "emoji": "🎁",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "cake-shops",
+      "name": "Cake Shops",
+      "emoji": "🎂",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "girls-hostel-pg",
+      "name": "Girls Hostel & PG",
+      "emoji": "👩",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "boys-hostel-pg",
+      "name": "Boys Hostel & PG",
+      "emoji": "👨",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "tiffin-services",
+      "name": "Tiffin Services",
+      "emoji": "🥡",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "driving-schools",
+      "name": "Driving Schools",
+      "emoji": "🚦",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "packers-and-movers",
+      "name": "Packers & Movers",
+      "emoji": "🏚️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "ac-service-and-repair-experts",
+      "name": "AC Service & Repair",
+      "emoji": "❄️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "mobile-phone-repair-experts",
+      "name": "Mobile Phone Repair",
+      "emoji": "🔩",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "laptop-repair-service-experts",
+      "name": "Laptop Repair",
+      "emoji": "💾",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "car-repair-shops",
+      "name": "Car Repair Shops",
+      "emoji": "🔨",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "bike-repair-shops",
+      "name": "Bike Repair Shops",
+      "emoji": "🛠️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "science-classes",
+      "name": "Science Classes",
+      "emoji": "🔭",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "maths-tutorials",
+      "name": "Maths Tutorials",
+      "emoji": "➗",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "physics-tutorials",
+      "name": "Physics Tutorials",
+      "emoji": "⚛️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "chemistry-tutorials",
+      "name": "Chemistry Tutorials",
+      "emoji": "🧪",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "ielts-classes",
+      "name": "IELTS Classes",
+      "emoji": "📝",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "jee-classes",
+      "name": "JEE Classes",
+      "emoji": "🔢",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "mht-cet-classes",
+      "name": "MHT-CET Classes",
+      "emoji": "📏",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "gmat-classes",
+      "name": "GMAT Classes",
+      "emoji": "🎯",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "gre-classes",
+      "name": "GRE Classes",
+      "emoji": "🏆",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "stock-brokers",
+      "name": "Stock Brokers",
+      "emoji": "📈",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "financial-advisors",
+      "name": "Financial Advisors",
+      "emoji": "💰",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "chartered-accountants-ca",
+      "name": "Chartered Accountants",
+      "emoji": "🧾",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "income-tax-consultants",
+      "name": "Income Tax Consultants",
+      "emoji": "📊",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "lawyers-and-advocates",
+      "name": "Lawyers & Advocates",
+      "emoji": "⚖️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "personal-loan-providers",
+      "name": "Personal Loan Providers",
+      "emoji": "💳",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "gold-loan-providers",
+      "name": "Gold Loan Providers",
+      "emoji": "🥇",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "home-loan-providers",
+      "name": "Home Loan Providers",
+      "emoji": "🏡",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "auto-loan-providers",
+      "name": "Auto Loan Providers",
+      "emoji": "🚌",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "business-loan-providers",
+      "name": "Business Loan Providers",
+      "emoji": "🏦",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "loan-against-property",
+      "name": "Loan Against Property",
+      "emoji": "📜",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "health-insurance-providers",
+      "name": "Health Insurance",
+      "emoji": "🛡️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "term-life-insurance-providers",
+      "name": "Life Insurance",
+      "emoji": "🌱",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "car-insurance-providers",
+      "name": "Car Insurance",
+      "emoji": "💥",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "bike-insurance-providers",
+      "name": "Bike Insurance",
+      "emoji": "🚲",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "travel-agents",
+      "name": "Travel Agents",
+      "emoji": "🧳",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "visa-consultants",
+      "name": "Visa Consultants",
+      "emoji": "🛂",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "passport-agents",
+      "name": "Passport Agents",
+      "emoji": "🛃",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "honeymoon-travel-agents",
+      "name": "Honeymoon Travel Agents",
+      "emoji": "🌅",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "medical-tourism",
+      "name": "Medical Tourism",
+      "emoji": "🏨",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "architects",
+      "name": "Architects",
+      "emoji": "📐",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "interior-designers",
+      "name": "Interior Designers",
+      "emoji": "🪟",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "furniture-and-decor-stores",
+      "name": "Furniture & Decor Stores",
+      "emoji": "🪵",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "light-decor-shops",
+      "name": "Light & Decor Shops",
+      "emoji": "💡",
+      "image": "",
+      "description": ""
+    }
+  ],
+  "best_services": [
+    {
+      "heading": "Why Santacruz West residents trust Mumbai96",
+      "text": "Unlike generic national directories, Mumbai96 focuses exclusively on Mumbai localities. Every listing in Santacruz West is verified for contact accuracy, and our review system ensures only genuine Mumbaikars leave feedback. Whether you just moved to Santacruz West or have lived here for years, Mumbai96 is your local companion."
+    },
+    {
+      "heading": "Services available in Santacruz West",
+      "text": "From healthcare (dentists, skin doctors, gynecologists, pediatricians) to home services (plumbers, electricians, carpenters), from lifestyle (salons, gyms, yoga) to food (restaurants, tiffin services, caterers) - Mumbai96 covers everything Santacruz West residents need, all in one place."
+    },
+    {
+      "heading": "About Santacruz West",
+      "text": "Santacruz West is part of Western Suburbs, one of Mumbai's most charming and upscale areas - home to Linking Road and a strong East Indian heritage. With a population of 3L+ residents and great connectivity to Bandra, Juhu and the airports, the demand for quality local services has never been higher. Mumbai96 is here to bridge that gap - making it easier for Santacruz West businesses to be found and for residents to find exactly what they need."
+    }
+  ],
+  "nearby_locations": [],
+  "source_file": "/home/bpl_borivali/mumbai96/ui/src/data/location/75 locations pages/western/santacruz-west.html"
+}

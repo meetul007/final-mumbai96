@@ -1,0 +1,3602 @@
+[
+  {
+    "place_id": "ChIJaWENDgCv5zsRWjiHbGnZL2c",
+    "name": "Shree sanwariya seth banquet hall",
+    "description": "Shree Sanwariya Seth Banquet Hall\n\nShree Sanwariya Seth Banquet Hall is the perfect venue to make your special occasions truly memorable. We offer a spacious and well-maintained hall ideal for weddings, engagements, receptions, birthday parties, anniversaries, corporate events, and other social gatherings.\n\nOur banquet hall features elegant interiors, comfortable seating arrangements, beautiful lighting, quality sound systems, and ample parking space for guests. Cleanliness, excellent service, and customer satisfaction are our top priorities.\n\nWith a dedicated team and budget-friendly packages, Shree Sanwariya Seth Banquet Hall ensures every event is organized smoothly and beautifully. Celebrate your precious moments with us and create unfo",
+    "is_spending_on_ads": false,
+    "link": "https://www.google.com/maps/place/Shree+sanwariya+seth+banquet+hall/data=!4m7!3m6!1s0x3be7af000e0d6169:0x672fd9696c87385a!8m2!3d19.3653437!4d72.88719!16s%2Fg%2F11yzsttyyb!19sChIJaWENDgCv5zsRWjiHbGnZL2c?authuser=0&hl=en&rclk=1",
+    "reviews": 12,
+    "rating": 4.9,
+    "competitors": [],
+    "website": "https://shree-sanwariya-seth-vasai-virar.grexa.site/",
+    "phone": "091194 44027",
+    "phone_international": "+91 91194 44027",
+    "can_claim": false,
+    "owner": {
+      "id": "110571407733885795610",
+      "name": "Shree sanwariya seth banquet hall (Owner)",
+      "link": "https://www.google.com/maps/contrib/110571407733885795610"
+    },
+    "owner_posts": [],
+    "featured_image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH9J3D05NtVaY32-6kIP9pSbzEiAyHourXLbPxerPudrM-v8oY1xe9RCOh7ZzR0rhhGawCeSZLmRBhvjJpZoYlDHwLdqRwRZSi80rYo1ge_nwsOpRDRo_jwYbZsy2qG5IG5Pxfm8vvQjAM7=w1920-h1080-k-no",
+    "main_category": "Banquet hall",
+    "categories": [
+      "Banquet hall"
+    ],
+    "workday_timing": "9 am–10 pm",
+    "status": null,
+    "is_temporarily_closed": false,
+    "is_permanently_closed": false,
+    "closed_on": "Open All Days",
+    "address": "9V8P+3MR, Juchandra - Bapane Rd, Bapane, Naigaon East, Bapane, Vasai-Virar, Maharashtra 401208",
+    "price_range": null,
+    "reviews_per_rating": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 11
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJaWENDgCv5zsRWjiHbGnZL2c&q=Shree+sanwariya+seth+banquet+hall&authuser=0&hl=en&gl=IN",
+    "coordinates": {
+      "latitude": 19.3653437,
+      "longitude": 72.88718999999999
+    },
+    "plus_code": null,
+    "detailed_address": {
+      "ward": "Bapane, Naigaon East",
+      "street": "9V8P+3MR, Juchandra - Bapane Rd",
+      "city": "Bapane, Vasai-Virar",
+      "postal_code": "401208",
+      "state": "Maharashtra",
+      "country_code": "IN"
+    },
+    "time_zone": "Asia/Calcutta",
+    "is_rental": false,
+    "cid": "7435400556627572826",
+    "data_id": "0x3be7af000e0d6169:0x672fd9696c87385a",
+    "kgmid": "/g/11yzsttyyb",
+    "about": [
+      {
+        "id": "service_options",
+        "name": "Service options",
+        "options": [
+          {
+            "name": "No-contact delivery",
+            "enabled": true
+          },
+          {
+            "name": "Delivery",
+            "enabled": true
+          },
+          {
+            "name": "On-site services",
+            "enabled": true
+          },
+          {
+            "name": "Dine-in",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "dining_options",
+        "name": "Dining options",
+        "options": [
+          {
+            "name": "Outside food allowed",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "amenities",
+        "name": "Amenities",
+        "options": [
+          {
+            "name": "Restroom",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "payments",
+        "name": "Payments",
+        "options": [
+          {
+            "name": "Google Pay",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "children",
+        "name": "Children",
+        "options": [
+          {
+            "name": "Has changing table(s)",
+            "enabled": true
+          },
+          {
+            "name": "Kid-friendly activities",
+            "enabled": true
+          },
+          {
+            "name": "Nursing room",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "parking",
+        "name": "Parking",
+        "options": [
+          {
+            "name": "On-site parking",
+            "enabled": true
+          },
+          {
+            "name": "Paid parking lot",
+            "enabled": true
+          },
+          {
+            "name": "Valet parking",
+            "enabled": true
+          }
+        ]
+      }
+    ],
+    "hours": [
+      {
+        "day": "Monday",
+        "times": [
+          "9 am–10 pm"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "times": [
+          "9 am–10 pm"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "times": [
+          "9 am–10 pm"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "times": [
+          "9 am–10 pm"
+        ]
+      },
+      {
+        "day": "Friday",
+        "times": [
+          "9 am–10 pm"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "times": [
+          "9 am–10 pm"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "times": [
+          "9 am–10 pm"
+        ]
+      }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "menu": null,
+    "reservations": [],
+    "order_online_links": [],
+    "gas_prices": [],
+    "image_count": 6,
+    "images": [
+      {
+        "about": "All",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH9J3D05NtVaY32-6kIP9pSbzEiAyHourXLbPxerPudrM-v8oY1xe9RCOh7ZzR0rhhGawCeSZLmRBhvjJpZoYlDHwLdqRwRZSi80rYo1ge_nwsOpRDRo_jwYbZsy2qG5IG5Pxfm8vvQjAM7=w1920-h1080-k-no",
+        "published_at_date": "2026-03-02T17:00:00"
+      },
+      {
+        "about": "Latest",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF0-o_bvIb8dJ0mpFHIvy9kQmcI7un12u6lVQymuz-y4NPXQ8KIXgH57XiTjYje701xNHFWRYsmEPHWiKGCVnc-3GUDTFF_Uz0Eg7dqHKYD99W3N9ototC5ZcXspco1NmSvoTgF-_m33QA=w1920-h1080-k-no",
+        "published_at_date": "2026-06-07T14:00:00"
+      },
+      {
+        "about": "Videos",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH9J3D05NtVaY32-6kIP9pSbzEiAyHourXLbPxerPudrM-v8oY1xe9RCOh7ZzR0rhhGawCeSZLmRBhvjJpZoYlDHwLdqRwRZSi80rYo1ge_nwsOpRDRo_jwYbZsy2qG5IG5Pxfm8vvQjAM7=w1920-h1080-k-no",
+        "published_at_date": "2026-03-02T17:00:00"
+      },
+      {
+        "about": "By owner",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF6NRlUNdo5Y3w9P1fTWturoIvEMpHMWkpCi2UHu0PTRWMBK-BUZ3dUsoUD2pJ_XATMh4dzY1TAYVD3YfjKpV8i4pwLUxejrfW4JIG7mVm0Cuyc1ZndTVPfF9ds_8QixcBZujPrJdmqMbE=w1920-h1080-k-no",
+        "published_at_date": "2026-06-07T14:00:00"
+      },
+      {
+        "about": "Street View & 360°",
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KhNy2onYO4-m1ow3PZ4OuQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=146.63963&pitch=0&thumbfov=100",
+        "published_at_date": "2026-03-08T06:00:00"
+      }
+    ],
+    "featured_images": [
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH9J3D05NtVaY32-6kIP9pSbzEiAyHourXLbPxerPudrM-v8oY1xe9RCOh7ZzR0rhhGawCeSZLmRBhvjJpZoYlDHwLdqRwRZSi80rYo1ge_nwsOpRDRo_jwYbZsy2qG5IG5Pxfm8vvQjAM7=w1920-h1080-k-no",
+        "published_at_date": "2026-03-02T17:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF6NRlUNdo5Y3w9P1fTWturoIvEMpHMWkpCi2UHu0PTRWMBK-BUZ3dUsoUD2pJ_XATMh4dzY1TAYVD3YfjKpV8i4pwLUxejrfW4JIG7mVm0Cuyc1ZndTVPfF9ds_8QixcBZujPrJdmqMbE=w1920-h1080-k-no",
+        "published_at_date": "2026-06-07T14:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGc9WDtR9m3Wegzixz8OF6nCbLooMt5RnGbfDsExipbd-xMl7UfJcGV8oPN6A-fjmaKGRpJ2NRuzj1R0mriFeUpuB0cO8pI-am_F-m7hEKeVnJxW0G6PsU-oRtm6zlM3ZBQ2aY3SY-RF5A=w1920-h1080-k-no",
+        "published_at_date": "2026-03-02T17:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHB9tiY8yunBiJaLQ_y-y2MlBzQi9HKGopTr5ngaMB1GjnxkbESX5znDrShtNdB3yL20tvS3wyi7soD_7-SVOKUUhvCAGaNypb5RerQHH3-0ffQdM80fJAW0W_3bz8vD2c_yQPNohbAgtfL=w1920-h1080-k-no",
+        "published_at_date": "2026-02-18T07:00:00"
+      }
+    ],
+    "on_site_places": [],
+    "customer_updates": [],
+    "featured_question": null,
+    "review_keywords": [],
+    "featured_reviews": [
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pVMFRHTnBlR2Q1ZVdOak9YTmhVRVpRZGsxVlRYYxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pVMFRHTnBlR2Q1ZVdOak9YTmhVRVpRZGsxVlRYYxAB!2m1!1s0x0:0x672fd9696c87385a!3m1!1s2@1:CAIQACodChtycF9oOjU0TGNpeGd5eWNjOXNhUEZQdk1VTXc%7C%7C?hl=en",
+        "name": "Jitendra Pal",
+        "reviewer_id": "106736763207973400862",
+        "reviewer_profile": "https://www.google.com/maps/contrib/106736763207973400862?hl=en-GB",
+        "rating": 5,
+        "review_text": "No.1 banquet hall",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "3 months ago",
+        "published_at_date": "2026-03-26T06:44:07",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocLeMAkj4YKrH21C4Gxz10goagAijZSrkH20q5uedJBDAA9Nng=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GbFNWVmlPVVpaV2pWNGNraENVWEpwWTBsMGRYYxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21GbFNWVmlPVVpaV2pWNGNraENVWEpwWTBsMGRYYxAB!2m1!1s0x0:0x672fd9696c87385a!3m1!1s2@1:CAIQACodChtycF9oOmFlSVViOUZZWjV4ckhCUXJpY0l0dXc%7C%7C?hl=en",
+        "name": "Gaurav singh Singh",
+        "reviewer_id": "115155733440373882237",
+        "reviewer_profile": "https://www.google.com/maps/contrib/115155733440373882237?hl=en-GB",
+        "rating": 5,
+        "review_text": "Good service",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "4 months ago",
+        "published_at_date": "2026-02-16T13:56:27",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjWVstarLnHfzpMxw2qzrovY2uNX0qRV8DNRlYrTk2KvahBEQLLQ=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214MWRWUnVMWEI1VmpKd1YwSkNRVFp3WDFoYVlVRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT214MWRWUnVMWEI1VmpKd1YwSkNRVFp3WDFoYVlVRRAB!2m1!1s0x0:0x672fd9696c87385a!3m1!1s2@1:CAIQACodChtycF9oOmx1dVRuLXB5VjJwV0JCQTZwX1haYUE%7C%7C?hl=en",
+        "name": "vikram tiwari",
+        "reviewer_id": "116131543588210347349",
+        "reviewer_profile": "https://www.google.com/maps/contrib/116131543588210347349?hl=en-GB",
+        "rating": 5,
+        "review_text": null,
+        "original_language": null,
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "3 months ago",
+        "published_at_date": "2026-03-16T14:51:51",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocI0CATToe3PpgAB_Sj6VdV9S7cKekN6eVfC607Lm8Lpfs-oBg=s1920",
+        "total_number_of_reviews_by_reviewer": 0,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sTWQwSjViVXQ1T0Vwc01YTmxkSE5ZV1c5R09FRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21sTWQwSjViVXQ1T0Vwc01YTmxkSE5ZV1c5R09FRRAB!2m1!1s0x0:0x672fd9696c87385a!3m1!1s2@1:CAIQACodChtycF9oOmlMd0J5bUt5OEpsMXNldHNYWW9GOEE%7C%7C?hl=en",
+        "name": "abhimanyu Pandey",
+        "reviewer_id": "107775161916618737240",
+        "reviewer_profile": "https://www.google.com/maps/contrib/107775161916618737240?hl=en-GB",
+        "rating": 5,
+        "review_text": null,
+        "original_language": null,
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "4 months ago",
+        "published_at_date": "2026-02-17T14:31:27",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocK0UfiriKkpK8fVJnGCQl63jPCzv-kWbTk8ukKt9VG1-ByXeg=s1920",
+        "total_number_of_reviews_by_reviewer": 4,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxb1p6UnZNR05PZVVOaFZWRlBhV0ZMUm0xcFdHYxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2kxb1p6UnZNR05PZVVOaFZWRlBhV0ZMUm0xcFdHYxAB!2m1!1s0x0:0x672fd9696c87385a!3m1!1s2@1:CAIQACodChtycF9oOi1oZzRvMGNOeUNhVVFPaWFLRm1pWGc%7C%7C?hl=en",
+        "name": "Arjun pandit",
+        "reviewer_id": "104690545464711759602",
+        "reviewer_profile": "https://www.google.com/maps/contrib/104690545464711759602?hl=en-GB",
+        "rating": 5,
+        "review_text": null,
+        "original_language": null,
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "4 months ago",
+        "published_at_date": "2026-02-17T14:31:01",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocLkw2SAVJsG3kNgL5D6rxquXiGWjNWoRlI443TIHPuFkRL5=s1920",
+        "total_number_of_reviews_by_reviewer": 0,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSRmQxaDFUa1JyU1VaS1VUWTJPRkpYTUU5clgxRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pSRmQxaDFUa1JyU1VaS1VUWTJPRkpYTUU5clgxRRAB!2m1!1s0x0:0x672fd9696c87385a!3m1!1s2@1:CAIQACodChtycF9oOjRFd1h1TkRrSUZKUTY2OFJXME9rX1E%7C%7C?hl=en",
+        "name": "Ashish Parmar",
+        "reviewer_id": "115530030668166239557",
+        "reviewer_profile": "https://www.google.com/maps/contrib/115530030668166239557?hl=en-GB",
+        "rating": 5,
+        "review_text": null,
+        "original_language": null,
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "4 months ago",
+        "published_at_date": "2026-02-17T05:20:50",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocKlxyWJMv28umPkG1u2iE-p_9wrClucIH-pjb0GhDCV1WutHw=s1920",
+        "total_number_of_reviews_by_reviewer": 0,
+        "total_number_of_photos_by_reviewer": 2,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOTGVFZHFWMkl5VmtseVZXUndORmxXU1Roc1pIYxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tOTGVFZHFWMkl5VmtseVZXUndORmxXU1Roc1pIYxAB!2m1!1s0x0:0x672fd9696c87385a!3m1!1s2@1:CAIQACodChtycF9oOkNLeEdqV2IyVklyVWRwNFlWSThsZHc%7C%7C?hl=en",
+        "name": "Shubham Vishwkarm",
+        "reviewer_id": "112678033241488935527",
+        "reviewer_profile": "https://www.google.com/maps/contrib/112678033241488935527?hl=en-GB",
+        "rating": 5,
+        "review_text": null,
+        "original_language": null,
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "4 months ago",
+        "published_at_date": "2026-02-17T05:15:33",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjWroSx9F5WPJQFqVwmynKaYjNu_dPSezKhkDxRunq0zI49yePxt=s1920",
+        "total_number_of_reviews_by_reviewer": 0,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGQmNYbHpXVzlaVm1GaVNtMWpaMVZyTlhVM1JsRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xGQmNYbHpXVzlaVm1GaVNtMWpaMVZyTlhVM1JsRRAB!2m1!1s0x0:0x672fd9696c87385a!3m1!1s2@1:CAIQACodChtycF9oOlFBcXlzWW9ZVmFiSm1jZ1VrNXU3RlE%7C%7C?hl=en",
+        "name": "Gyanendra Singh",
+        "reviewer_id": "106643548642501120273",
+        "reviewer_profile": "https://www.google.com/maps/contrib/106643548642501120273?hl=en-GB",
+        "rating": 5,
+        "review_text": null,
+        "original_language": null,
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "4 months ago",
+        "published_at_date": "2026-02-16T15:30:47",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocIGfr79PqXR_XGlou2l0SABOIkwHReqO8tsZed1WbuUItVjXA=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      }
+    ],
+    "query": "banquet halls in naigaon east"
+  },
+  {
+    "place_id": "ChIJS8dxCQCv5zsR3iJE5CLcVG8",
+    "name": "J&P Banquet hall",
+    "description": "An unforgettable banquet experience you won't want to miss.",
+    "is_spending_on_ads": false,
+    "link": "https://www.google.com/maps/place/J%26P+Banquet+hall/data=!4m7!3m6!1s0x3be7af000971c74b:0x6f54dc22e44422de!8m2!3d19.3596983!4d72.8548469!16s%2Fg%2F11xcvg8w0q!19sChIJS8dxCQCv5zsR3iJE5CLcVG8?authuser=0&hl=en&rclk=1",
+    "reviews": 37,
+    "rating": 4.8,
+    "competitors": [],
+    "website": "https://www.jandpbanquet.co.in/index.html",
+    "phone": "096655 22814",
+    "phone_international": "+91 96655 22814",
+    "can_claim": false,
+    "owner": {
+      "id": "118262772306980364235",
+      "name": "J&P Banquet hall (Owner)",
+      "link": "https://www.google.com/maps/contrib/118262772306980364235"
+    },
+    "owner_posts": [],
+    "featured_image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHC_8-cM5sb0DtIgx7T-adIFxMR0joW4sZTENGKSOpJsYVHweMJt55SFKrYaZD-TZZVNskMY0Hiz-ncMs3nHH9-e79SaiZn342LKjoTaTKr_-wgQRAMJ65OtijP1zOfkrC4o1Gr-mYQXnYa=w1920-h1080-k-no",
+    "main_category": "Banquet hall",
+    "categories": [
+      "Banquet hall"
+    ],
+    "workday_timing": null,
+    "status": null,
+    "is_temporarily_closed": false,
+    "is_permanently_closed": false,
+    "closed_on": "Open All Days",
+    "address": "Rashmi Pink City 3 Wing-T, Don Bosco Rd, Naigaon East, Vasai-Virar, Maharashtra 401208",
+    "price_range": null,
+    "reviews_per_rating": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 9,
+      "5": 28
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJS8dxCQCv5zsR3iJE5CLcVG8&q=J%26P+Banquet+hall&authuser=0&hl=en&gl=IN",
+    "coordinates": {
+      "latitude": 19.359698299999998,
+      "longitude": 72.8548469
+    },
+    "plus_code": "9V53+VW Naigaon East, Vasai-Virar, Maharashtra",
+    "detailed_address": {
+      "ward": "Naigaon East",
+      "street": "Rashmi Pink City 3 Wing-T, Don Bosco Rd",
+      "city": "Vasai-Virar",
+      "postal_code": "401208",
+      "state": "Maharashtra",
+      "country_code": "IN"
+    },
+    "time_zone": "Asia/Calcutta",
+    "is_rental": false,
+    "cid": "8022278878670365406",
+    "data_id": "0x3be7af000971c74b:0x6f54dc22e44422de",
+    "kgmid": "/g/11xcvg8w0q",
+    "about": [
+      {
+        "id": "amenities",
+        "name": "Amenities",
+        "options": [
+          {
+            "name": "Restroom",
+            "enabled": true
+          }
+        ]
+      }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "menu": null,
+    "reservations": [],
+    "order_online_links": [],
+    "gas_prices": [],
+    "image_count": 14,
+    "images": [
+      {
+        "about": "All",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHC_8-cM5sb0DtIgx7T-adIFxMR0joW4sZTENGKSOpJsYVHweMJt55SFKrYaZD-TZZVNskMY0Hiz-ncMs3nHH9-e79SaiZn342LKjoTaTKr_-wgQRAMJ65OtijP1zOfkrC4o1Gr-mYQXnYa=w1920-h1080-k-no",
+        "published_at_date": "2025-05-31T03:00:00"
+      },
+      {
+        "about": "Menu",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFaDBn6G8RokY2SvwSJ9DdejxjeARyBfBHRoDnUrDQ49XaKB9g53v8v76PrQLiDKlbpkPWi40titZ01lGuxVgv5RcZ5urK09I2B5U1jCjjv2kQ1qVgc22O3iW3uydQUu-0TCgAshfvJuC4=w1920-h1080-k-no",
+        "published_at_date": "2025-06-05T03:00:00"
+      },
+      {
+        "about": "Videos",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEIa_B8XVeN_E2LmZ_BbeuPCqR6BX34qmpCDcrDAgEtRc_mKpHmorFNI9PtT7Cdf9YUgmCs_Bk-ku_lB71hOqbQZt15toZH5bjlrDTTwA_QkRUf5ql_188cpuv9idn-w8cZLye8f_TRqlQ=w1920-h1080-k-no",
+        "published_at_date": "2025-05-31T03:00:00"
+      },
+      {
+        "about": "By owner",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH3iWZ2JOVbI7BKh13aaJUxm4iHzfESKsMzOI5qHBSKQUNR0-A7vUu6WFCQ-wo2DyErNc3g2PUHohpDaC5TQsZQX14IyRhSKPF7naMmtceEBB7H6OxRuCK2X7J9MFsRsH-GSQloiuqLWrk=w1920-h1080-k-no",
+        "published_at_date": "2025-05-31T03:00:00"
+      },
+      {
+        "about": "Street View & 360°",
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pqhZTCTu8DL5U077cY2bVg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=28.368866&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-09T06:00:00"
+      }
+    ],
+    "featured_images": [
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHC_8-cM5sb0DtIgx7T-adIFxMR0joW4sZTENGKSOpJsYVHweMJt55SFKrYaZD-TZZVNskMY0Hiz-ncMs3nHH9-e79SaiZn342LKjoTaTKr_-wgQRAMJ65OtijP1zOfkrC4o1Gr-mYQXnYa=w1920-h1080-k-no",
+        "published_at_date": "2025-05-31T03:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH3iWZ2JOVbI7BKh13aaJUxm4iHzfESKsMzOI5qHBSKQUNR0-A7vUu6WFCQ-wo2DyErNc3g2PUHohpDaC5TQsZQX14IyRhSKPF7naMmtceEBB7H6OxRuCK2X7J9MFsRsH-GSQloiuqLWrk=w1920-h1080-k-no",
+        "published_at_date": "2025-05-31T03:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF5hYinYhGYKeEidJH7z_Q_at1iTtIGxuP3Irx3b7jN7urZyHBotMJq0JoszaC4En6u2WA_mB_vCoAnJH3N8gS94YcOahiH_A6phCpH3xKSoUkw2EBsrWQOSIbGyVdrrNQRFaIxagpMzsA=w1920-h1080-k-no",
+        "published_at_date": "2026-02-14T16:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE2KMxU3nqPpVCEW64IOtPU823XKwJcPnYgLG7q5CaILAS7dJMwf2GL7eXU8gIqhJ9ECJbPrBn-Laitn2AXxjJu0cAd5aoPagwrTZraai35v2FqoV0v1lL2I_eg61HDyK79-Ta7-1ISOyU=w1920-h1080-k-no",
+        "published_at_date": "2026-02-14T19:00:00"
+      }
+    ],
+    "on_site_places": [],
+    "customer_updates": [],
+    "featured_question": null,
+    "review_keywords": [
+      {
+        "keyword": "spacious venue",
+        "count": 2
+      },
+      {
+        "keyword": "clean washrooms",
+        "count": 2
+      },
+      {
+        "keyword": "weddings",
+        "count": 4
+      },
+      {
+        "keyword": "cooperative staff",
+        "count": 3
+      },
+      {
+        "keyword": "family functions",
+        "count": 2
+      },
+      {
+        "keyword": "air conditioner",
+        "count": 3
+      },
+      {
+        "keyword": "valentine party",
+        "count": 2
+      },
+      {
+        "keyword": "value for money",
+        "count": 2
+      },
+      {
+        "keyword": "family gathering",
+        "count": 2
+      },
+      {
+        "keyword": "special celebrations",
+        "count": 2
+      }
+    ],
+    "featured_reviews": [
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pJelRWUXRlRmg1WTB3NWNIQkhkMWxZUkZCcVRrRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pJelRWUXRlRmg1WTB3NWNIQkhkMWxZUkZCcVRrRRAB!2m1!1s0x0:0x6f54dc22e44422de!3m1!1s2@1:CAIQACodChtycF9oOjIzTVQteFh5Y0w5cHBHd1lYRFBqTkE%7C%7C?hl=en",
+        "name": "Monu Dongre",
+        "reviewer_id": "107257588902673558865",
+        "reviewer_profile": "https://www.google.com/maps/contrib/107257588902673558865?hl=en-GB",
+        "rating": 5,
+        "review_text": "We attended the Valentine’s Party at JNP Banquet Hall, Naigaon (behind Don Bosco, Mumbai), and it was truly an amazing experience! ❤️✨\nThe decoration was absolutely beautiful with a romantic red theme, heart décor, and elegant lighting that created a perfect Valentine vibe. The ambience felt premium and very well organized.\nThe DJ and sound system were fantastic – the dance floor energy was super exciting! 🎶💃 Everyone enjoyed the music and had a great time.\nFood quality was delicious and fresh. The buffet arrangement was neat, and service staff were very polite and attentive.\nThe entire event was managed professionally, and everything ran smoothly. It was a memorable evening for us.\nHighly recommended for parties, weddings, and special celebrations in the Naigaon area! ⭐⭐⭐⭐⭐\nThank you JNP Banquet Hall for such a wonderful Valentine celebration! ❤️",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "4 months ago",
+        "published_at_date": "2026-02-14T16:56:58",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjUBRS6JmnsT8vx6QigwMeMuaKUgCsZFRiccwphCrxPBmkxr52tqqw=s1920",
+        "total_number_of_reviews_by_reviewer": 101,
+        "total_number_of_photos_by_reviewer": 677,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [
+          {
+            "id": "CIABIhDL7e4GZ3_BR6gp1UjHtPuL",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn2jnsgywlRMpjyn7pjghxwnevWMATHAenIoCaojLuqHszTanuqEo-qZNl7gZcNx2Y8FV_O8TUwP_2TdbesmRz_omSHQ8btZ2QpN7h0bpXJHsHyGaGH4OSjNqVfRhhWn1TpnjbMQh8NgDcA-=k-no",
+            "caption": null,
+            "width": 1280,
+            "height": 960
+          }
+        ],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KNmNXTlJOR0pEVWpKR0xUQXlSRWRSYlVoamVtYxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21KNmNXTlJOR0pEVWpKR0xUQXlSRWRSYlVoamVtYxAB!2m1!1s0x0:0x6f54dc22e44422de!3m1!1s2@1:CAIQACodChtycF9oOmJ6cWNRNGJDUjJGLTAyREdRbUhjemc%7C%7C?hl=en",
+        "name": "Nancy Gonsalves",
+        "reviewer_id": "117973140505410321051",
+        "reviewer_profile": "https://www.google.com/maps/contrib/117973140505410321051?hl=en-GB",
+        "rating": 5,
+        "review_text": "J&P Banquet is one of the best banquet I ever been to. Nice to have small partys\nGood ambience and good Vibes too. Very spacious they even provide clean washrooms for male & female and very good food. the banquet itself is very clean\nAnd the last not the least the banquet is superb🎉👍👏",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "4 months ago",
+        "published_at_date": "2026-02-14T16:38:29",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjXMUfG4xOk0RBYpJF1mCm3JB27vsB57Y5YiFrjjfMMQwOiTZ8k=s1920",
+        "total_number_of_reviews_by_reviewer": 6,
+        "total_number_of_photos_by_reviewer": 8,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [
+          {
+            "id": "CIABIhA5LrJCAGN15SRXMjNUUM-e",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn10RvlE5kNTyBWRncGIGltHo3qqBCStgkvsH00-RV6H2qh0vJQ3EOPETXuoIAbFVI45MxlnNyZPeTdpkCG8osoac-honAzmOWrNhWD9HdqbO3E7_yCF4VapWn9HJzqR_5RPl8wK4LnkcN7Q=k-no",
+            "caption": null,
+            "width": 4000,
+            "height": 1800
+          },
+          {
+            "id": "CIABIhDZU4486fRNkZRu6nbTFuYH",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn2psC9gl1Oqm6U0iswsvN4Xm8yw8vCm-4Yb8IVbtX-pTX1SCGRniwGiUdAwD8zg8NuMcltyGqsWJUrdngyscJ1xxgaGCbZV3mrfFvqZ4t-Hy5UZKwnlhxkq2QbvMBPjFXwurzLvAzYbJ0o=k-no",
+            "caption": null,
+            "width": 4000,
+            "height": 1800
+          }
+        ],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5alpGWmFlR2sxUzFSS00wRkZlaTFGTFVSaGRsRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2w5alpGWmFlR2sxUzFSS00wRkZlaTFGTFVSaGRsRRAB!2m1!1s0x0:0x6f54dc22e44422de!3m1!1s2@1:CAIQACodChtycF9oOl9jZFZaeGk1S1RKM0FFei1FLURhdlE%7C%7C?hl=en",
+        "name": "Bharat Midha",
+        "reviewer_id": "115419050601226516102",
+        "reviewer_profile": "https://www.google.com/maps/contrib/115419050601226516102?hl=en-GB",
+        "rating": 5,
+        "review_text": "An absolute 5-star experience! We had an amazing time over there and everyone couldn't stop craving about the food. The catering was top-notch, and the service staff was polite and efficient. It was a wonderful experience from the first meeting to the final, joyous event. There is ample space for parking. Do visit this amazing banquet hall and make your day a memorable one. Thanks to the whole team for making our day special.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "4 months ago",
+        "published_at_date": "2026-02-14T16:51:47",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocLXkflimV_B8GG53JqxAxnrLX_V_h536werU1_ACf4IwNFelg=s1920",
+        "total_number_of_reviews_by_reviewer": 3,
+        "total_number_of_photos_by_reviewer": 5,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25JNGRtMXBkVVZPYUU0eU9VNUdRVjloUVdGWmRuYxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25JNGRtMXBkVVZPYUU0eU9VNUdRVjloUVdGWmRuYxAB!2m1!1s0x0:0x6f54dc22e44422de!3m1!1s2@1:CAIQACodChtycF9oOnI4dm1pdUVOaE4yOU5GQV9hQWFZdnc%7C%7C?hl=en",
+        "name": "Alisha Emmanuel",
+        "reviewer_id": "107000893530779107734",
+        "reviewer_profile": "https://www.google.com/maps/contrib/107000893530779107734?hl=en-GB",
+        "rating": 5,
+        "review_text": "Amazing 😍 outstanding location, value for money, service was amazing the whole setup was great.\nI never thought I would ever see something so amazing in Naigaon.\nHats off to the team 😀.\nHighly recommend for any functions.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "3 months ago",
+        "published_at_date": "2026-03-06T17:39:59",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocL25B-pQoJ1WjMEuddNG7LtzFwfo4ed5erDmGBRNPSSdSYtl6A=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OS01IWkNkRVZYYW5wV1RXeDFjSGx1VUc1UGVVRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25OS01IWkNkRVZYYW5wV1RXeDFjSGx1VUc1UGVVRRAB!2m1!1s0x0:0x6f54dc22e44422de!3m1!1s2@1:CAIQACodChtycF9oOnNKMHZCdEVXanpWTWx1cHluUG5PeUE%7C%7C?hl=en",
+        "name": "Rehat Midha",
+        "reviewer_id": "110485878183198018487",
+        "reviewer_profile": "https://www.google.com/maps/contrib/110485878183198018487?hl=en-GB",
+        "rating": 5,
+        "review_text": "Best banquet hall in Naigaon or I would say in Mumbai. Very good ambience with Air conditioner. Foods are too good and the staff members are very cooperative. Enjoyed everybit of it. If you would like to make your day special then definately go for this banquet hall.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "4 months ago",
+        "published_at_date": "2026-02-14T17:32:03",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocL9wcxppog0cZJOowQYAAMGyanN4jm5M7EAem7Hl64mxjvojw=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pnMVlUZEtlUzFKWlhOQ1pVRjZaMFJZZVZFd05FRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pnMVlUZEtlUzFKWlhOQ1pVRjZaMFJZZVZFd05FRRAB!2m1!1s0x0:0x6f54dc22e44422de!3m1!1s2@1:CAIQACodChtycF9oOjg1YTdKeS1JZXNCZUF6Z0RYeVEwNEE%7C%7C?hl=en",
+        "name": "Rahul Sawant",
+        "reviewer_id": "105191394300363609082",
+        "reviewer_profile": "https://www.google.com/maps/contrib/105191394300363609082?hl=en-GB",
+        "rating": 5,
+        "review_text": "The hall is good in size for 100-150 people.. their food is really tasty and guests do mention it upfront in the event.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "4 months ago",
+        "published_at_date": "2026-02-25T17:43:32",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjV_k7vev1Km11ZrRIgGxYmqiX0IEicCzW_Rk01_utGAK8Sw26-1dA=s1920",
+        "total_number_of_reviews_by_reviewer": 12,
+        "total_number_of_photos_by_reviewer": 3,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKaE9FcHlRM1JrZW5CeFowZ3laRFZqWXpaeU9VRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tKaE9FcHlRM1JrZW5CeFowZ3laRFZqWXpaeU9VRRAB!2m1!1s0x0:0x6f54dc22e44422de!3m1!1s2@1:CAIQACodChtycF9oOkJhOEpyQ3RkenBxZ0gyZDVjYzZyOUE%7C%7C?hl=en",
+        "name": "aishwarya ajimon",
+        "reviewer_id": "113764215790329885721",
+        "reviewer_profile": "https://www.google.com/maps/contrib/113764215790329885721?hl=en-GB",
+        "rating": 5,
+        "review_text": "Best service good ambiance they organized valentine part which was great at just 150 per person enjoyed soo much got gifts for games had good truly amazing experience",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "4 months ago",
+        "published_at_date": "2026-02-14T17:24:44",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjUaIktGItWhtnMJvFYLumsm8o4ONFlCYNN1T7ZK_tPQyp7q3Nq4mw=s1920",
+        "total_number_of_reviews_by_reviewer": 8,
+        "total_number_of_photos_by_reviewer": 3,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [
+          {
+            "id": "CIABIhDvSaYZXOM1EWgWOqr3gLDS",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn0J8SjlMgufhc5BtDtsvCqkDdD7YaWDzC4s0-Q_d9e6Uecnx_f2GuA4oFcoRPuihm_Aiq_UD2gW5BzfXzng6xt4YWm2-jlABvbCvf3SuM3nrccvDU5n3N4dMN5Wo3Nbj5JuouuPhXN7KRbd=k-no",
+            "caption": null,
+            "width": 3072,
+            "height": 4096
+          },
+          {
+            "id": "CIABIhAYZTUyylsq5Juic622rCvD",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn2PojZ0xUwRCNr6Nc-3VZ1HXz9au0AD54dDv_XhQ4L_SQ-6ASD_IaOeIki1Sn-cD8zHTxPthgU0CDO2fO3RDRodn6rD_DQK2SrRko9QeedYQgrhLLnX-xXCpXC61sjTuCLCB5q9hWH-_JGI=k-no",
+            "caption": null,
+            "width": 3072,
+            "height": 4096
+          },
+          {
+            "id": "CIABIhBXo1shrJRQrK50UfG6AJUw",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn2BCIREhkoXWeiYhCp_upAT6pQayhyQ9EONVvMHFpqt77dgXIFPyyd9br4GR4Ia3AbC_BA-FPkBvUAKqgDd2Tn0Sxfnxz6VHDSNEa5UbKgoCGRBIU5rc8Si2dx2KHciV4vcNqQcrB0_vEbR=k-no",
+            "caption": null,
+            "width": 1080,
+            "height": 1440
+          }
+        ],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOdGVuaElaRXB0Wms4M2FVaDNiVFl0TjFScU4yYxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tOdGVuaElaRXB0Wms4M2FVaDNiVFl0TjFScU4yYxAB!2m1!1s0x0:0x6f54dc22e44422de!3m1!1s2@1:CAIQACodChtycF9oOkNtenhIZEptZk83aUh3bTYtN1RqN2c%7C%7C?hl=en",
+        "name": "Savio D'souza",
+        "reviewer_id": "105624112245809525250",
+        "reviewer_profile": "https://www.google.com/maps/contrib/105624112245809525250?hl=en-GB",
+        "rating": 4,
+        "review_text": "Excellent experience at @J&P Banquet Hall - Beautiful decor, cooperative staff, and spacious, clean venue with good ambiance for various events like weddings, family functions, and parties. Strongly Recommend!",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "5 months ago",
+        "published_at_date": "2026-01-21T10:43:59",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjU7OIokNyzXT0hhqD0waaxLRV04immQQSYFWbRD4NgMFjoKDsHn=s1920",
+        "total_number_of_reviews_by_reviewer": 3,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      }
+    ],
+    "query": "banquet halls in naigaon east"
+  },
+  {
+    "place_id": "ChIJ6S6WSfCv5zsRK5tdD7dqB1A",
+    "name": "Maharaja Banquet Hall",
+    "description": "Celebrate your special occasions at Maharaja Banquet Hall, the premier event venue in Naigaon East! Located on the 2nd Floor of Apeksha Shopping Center, Maharaja Banquet Hall is the perfect space to host unforgettable memories. From weddings to corporate events, our elegant hall provides a stunning backdrop for any celebration. Discover the perfect setting for your dream event.",
+    "is_spending_on_ads": false,
+    "link": "https://www.google.com/maps/place/Maharaja+Banquet+Hall/data=!4m7!3m6!1s0x3be7aff049962ee9:0x50076ab70f5d9b2b!8m2!3d19.3595476!4d72.8523887!16s%2Fg%2F11fj17c2l5!19sChIJ6S6WSfCv5zsRK5tdD7dqB1A?authuser=0&hl=en&rclk=1",
+    "reviews": 201,
+    "rating": 3.9,
+    "competitors": [
+      {
+        "name": "Maharaja Banquet Hall",
+        "suggested_link": "https://www.google.com/maps/search/Maharaja+Banquet+Hall/@19.285042999999998,72.86760799999999,19z?authuser=0&hl=en&entry=ttu",
+        "reviews": 3246,
+        "rating": 4.3,
+        "main_category": "Banquet hall",
+        "categories": [
+          "Banquet hall",
+          "Event venue",
+          "Wedding planner",
+          "Wedding service",
+          "Wedding venue"
+        ],
+        "coordinates": {
+          "latitude": 19.285042999999998,
+          "longitude": 72.86760799999999
+        }
+      },
+      {
+        "name": "Maharaja Banquet Hall - Best Banquet Hall Thane",
+        "suggested_link": "https://www.google.com/maps/search/Maharaja+Banquet+Hall+-+Best+Banquet+Hall+Thane/@19.2740142,72.9611287,19z?authuser=0&hl=en&entry=ttu",
+        "reviews": 2407,
+        "rating": 4.5,
+        "main_category": "Banquet hall",
+        "categories": [
+          "Banquet hall",
+          "Caterer",
+          "Concert hall",
+          "Conference center",
+          "Event venue",
+          "Festival hall",
+          "Function room facility",
+          "Wedding planner",
+          "Wedding service",
+          "Wedding venue"
+        ],
+        "coordinates": {
+          "latitude": 19.2740142,
+          "longitude": 72.9611287
+        }
+      },
+      {
+        "name": "HIRACHANDRA BANQUETS",
+        "suggested_link": "https://www.google.com/maps/search/HIRACHANDRA+BANQUETS/@19.4001704,72.8398886,19z?authuser=0&hl=en&entry=ttu",
+        "reviews": 34,
+        "rating": 4,
+        "main_category": "Banquet hall",
+        "categories": [
+          "Banquet hall"
+        ],
+        "coordinates": {
+          "latitude": 19.4001704,
+          "longitude": 72.8398886
+        }
+      },
+      {
+        "name": "Choudhary Hall (janwa samaj)",
+        "suggested_link": "https://www.google.com/maps/search/Choudhary+Hall+(janwa+samaj)/@19.357885,72.8620607,19z?authuser=0&hl=en&entry=ttu",
+        "reviews": 29,
+        "rating": 3.9,
+        "main_category": "Banquet hall",
+        "categories": [
+          "Banquet hall"
+        ],
+        "coordinates": {
+          "latitude": 19.357885,
+          "longitude": 72.8620607
+        }
+      },
+      {
+        "name": "balaji Banquet Hall",
+        "suggested_link": "https://www.google.com/maps/search/balaji+Banquet+Hall/@19.362960899999997,72.8591668,19z?authuser=0&hl=en&entry=ttu",
+        "reviews": 18,
+        "rating": 3.9,
+        "main_category": "Banquet hall",
+        "categories": [
+          "Banquet hall"
+        ],
+        "coordinates": {
+          "latitude": 19.362960899999997,
+          "longitude": 72.8591668
+        }
+      }
+    ],
+    "website": "https://maharajabanquethall.in/",
+    "phone": "079777 88018",
+    "phone_international": "+91 79777 88018",
+    "can_claim": false,
+    "owner": {
+      "id": "101000358819875972254",
+      "name": "Maharaja Banquet Hall (Owner)",
+      "link": "https://www.google.com/maps/contrib/101000358819875972254"
+    },
+    "owner_posts": [],
+    "featured_image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFH7Macopnvib6MTdhaERT3wDzb9a-pFjV9re1mfUFnfjSRW0fT_UAYrGUoeuSlPp9vLCodLi3Pxf9oy9k7dKDc34FO33vZ8gU_g7oXDN8J4HB1357WY9K-ezm4MurTolxH9oFO7D8NNnuu=w1920-h1080-k-no",
+    "main_category": "Banquet hall",
+    "categories": [
+      "Banquet hall",
+      "Event venue"
+    ],
+    "workday_timing": "10 am–8 pm",
+    "status": null,
+    "is_temporarily_closed": false,
+    "is_permanently_closed": false,
+    "closed_on": "Open All Days",
+    "address": "Rashmi Pink City 8, 2nd Floor, Apeksha Shopping Center, near Don Bosco High School, Naigaon East, Sarjamori, Maharashtra 401208",
+    "price_range": null,
+    "reviews_per_rating": {
+      "1": 20,
+      "2": 7,
+      "3": 33,
+      "4": 54,
+      "5": 87
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ6S6WSfCv5zsRK5tdD7dqB1A&q=Maharaja+Banquet+Hall&authuser=0&hl=en&gl=IN",
+    "coordinates": {
+      "latitude": 19.3595476,
+      "longitude": 72.85238869999999
+    },
+    "plus_code": "9V52+RX Sarjamori, Maharashtra",
+    "detailed_address": {
+      "ward": "Naigaon East",
+      "street": "Rashmi Pink City 8, 2nd Floor, Apeksha Shopping Center, near Don Bosco High School",
+      "city": "Sarjamori, Vasai-Virar",
+      "postal_code": "401208",
+      "state": "Maharashtra",
+      "country_code": "IN"
+    },
+    "time_zone": "Asia/Calcutta",
+    "is_rental": false,
+    "cid": "5766695182340561707",
+    "data_id": "0x3be7aff049962ee9:0x50076ab70f5d9b2b",
+    "kgmid": "/g/11fj17c2l5",
+    "about": [
+      {
+        "id": "service_options",
+        "name": "Service options",
+        "options": [
+          {
+            "name": "On-site services",
+            "enabled": true
+          },
+          {
+            "name": "Dine-in",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "accessibility",
+        "name": "Accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible car park",
+            "enabled": true
+          },
+          {
+            "name": "Wheelchair-accessible toilet",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "amenities",
+        "name": "Amenities",
+        "options": [
+          {
+            "name": "Restroom",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "payments",
+        "name": "Payments",
+        "options": [
+          {
+            "name": "Debit cards",
+            "enabled": true
+          },
+          {
+            "name": "NFC mobile payments",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "children",
+        "name": "Children",
+        "options": [
+          {
+            "name": "Good for kids birthday",
+            "enabled": true
+          }
+        ]
+      }
+    ],
+    "hours": [
+      {
+        "day": "Monday",
+        "times": [
+          "10 am–8 pm"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "times": [
+          "10 am–8 pm"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "times": [
+          "10 am–8 pm"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "times": [
+          "10 am–8 pm"
+        ]
+      },
+      {
+        "day": "Friday",
+        "times": [
+          "10 am–8 pm"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "times": [
+          "10 am–8 pm"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "times": [
+          "10 am–8 pm"
+        ]
+      }
+    ],
+    "most_popular_times": [
+      {
+        "hour_of_day": 19,
+        "average_popularity": 49,
+        "time_label": "7 pm"
+      },
+      {
+        "hour_of_day": 18,
+        "average_popularity": 46.285714285714285,
+        "time_label": "6 pm"
+      },
+      {
+        "hour_of_day": 17,
+        "average_popularity": 38.142857142857146,
+        "time_label": "5 pm"
+      }
+    ],
+    "popular_times": {
+      "Monday": [
+        {
+          "hour_of_day": 6,
+          "time_label": "6 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 7,
+          "time_label": "7 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 8,
+          "time_label": "8 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 9,
+          "time_label": "9 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 10,
+          "time_label": "10 am",
+          "popularity_percentage": 18,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 11,
+          "time_label": "11 am",
+          "popularity_percentage": 22,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 12,
+          "time_label": "12 pm",
+          "popularity_percentage": 20,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 13,
+          "time_label": "1 pm",
+          "popularity_percentage": 20,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 14,
+          "time_label": "2 pm",
+          "popularity_percentage": 20,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 15,
+          "time_label": "3 pm",
+          "popularity_percentage": 20,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 16,
+          "time_label": "4 pm",
+          "popularity_percentage": 23,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 17,
+          "time_label": "5 pm",
+          "popularity_percentage": 26,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 18,
+          "time_label": "6 pm",
+          "popularity_percentage": 32,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 19,
+          "time_label": "7 pm",
+          "popularity_percentage": 35,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 20,
+          "time_label": "8 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 21,
+          "time_label": "9 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 22,
+          "time_label": "10 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 23,
+          "time_label": "11 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        }
+      ],
+      "Tuesday": [
+        {
+          "hour_of_day": 6,
+          "time_label": "6 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 7,
+          "time_label": "7 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 8,
+          "time_label": "8 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 9,
+          "time_label": "9 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 10,
+          "time_label": "10 am",
+          "popularity_percentage": 21,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 11,
+          "time_label": "11 am",
+          "popularity_percentage": 20,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 12,
+          "time_label": "12 pm",
+          "popularity_percentage": 21,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 13,
+          "time_label": "1 pm",
+          "popularity_percentage": 20,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 14,
+          "time_label": "2 pm",
+          "popularity_percentage": 20,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 15,
+          "time_label": "3 pm",
+          "popularity_percentage": 22,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 16,
+          "time_label": "4 pm",
+          "popularity_percentage": 23,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 17,
+          "time_label": "5 pm",
+          "popularity_percentage": 27,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 18,
+          "time_label": "6 pm",
+          "popularity_percentage": 31,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 19,
+          "time_label": "7 pm",
+          "popularity_percentage": 36,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 20,
+          "time_label": "8 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 21,
+          "time_label": "9 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 22,
+          "time_label": "10 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 23,
+          "time_label": "11 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        }
+      ],
+      "Wednesday": [
+        {
+          "hour_of_day": 6,
+          "time_label": "6 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 7,
+          "time_label": "7 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 8,
+          "time_label": "8 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 9,
+          "time_label": "9 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 10,
+          "time_label": "10 am",
+          "popularity_percentage": 18,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 11,
+          "time_label": "11 am",
+          "popularity_percentage": 19,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 12,
+          "time_label": "12 pm",
+          "popularity_percentage": 19,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 13,
+          "time_label": "1 pm",
+          "popularity_percentage": 17,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 14,
+          "time_label": "2 pm",
+          "popularity_percentage": 15,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 15,
+          "time_label": "3 pm",
+          "popularity_percentage": 16,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 16,
+          "time_label": "4 pm",
+          "popularity_percentage": 18,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 17,
+          "time_label": "5 pm",
+          "popularity_percentage": 23,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 18,
+          "time_label": "6 pm",
+          "popularity_percentage": 29,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 19,
+          "time_label": "7 pm",
+          "popularity_percentage": 32,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 20,
+          "time_label": "8 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 21,
+          "time_label": "9 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 22,
+          "time_label": "10 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 23,
+          "time_label": "11 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        }
+      ],
+      "Thursday": [
+        {
+          "hour_of_day": 6,
+          "time_label": "6 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 7,
+          "time_label": "7 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 8,
+          "time_label": "8 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 9,
+          "time_label": "9 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 10,
+          "time_label": "10 am",
+          "popularity_percentage": 19,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 11,
+          "time_label": "11 am",
+          "popularity_percentage": 20,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 12,
+          "time_label": "12 pm",
+          "popularity_percentage": 23,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 13,
+          "time_label": "1 pm",
+          "popularity_percentage": 23,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 14,
+          "time_label": "2 pm",
+          "popularity_percentage": 27,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 15,
+          "time_label": "3 pm",
+          "popularity_percentage": 34,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 16,
+          "time_label": "4 pm",
+          "popularity_percentage": 50,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 17,
+          "time_label": "5 pm",
+          "popularity_percentage": 70,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 18,
+          "time_label": "6 pm",
+          "popularity_percentage": 90,
+          "popularity_description": "Usually as busy as it gets"
+        },
+        {
+          "hour_of_day": 19,
+          "time_label": "7 pm",
+          "popularity_percentage": 100,
+          "popularity_description": "Usually as busy as it gets"
+        },
+        {
+          "hour_of_day": 20,
+          "time_label": "8 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 21,
+          "time_label": "9 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 22,
+          "time_label": "10 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 23,
+          "time_label": "11 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        }
+      ],
+      "Friday": [
+        {
+          "hour_of_day": 6,
+          "time_label": "6 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 7,
+          "time_label": "7 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 8,
+          "time_label": "8 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 9,
+          "time_label": "9 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 10,
+          "time_label": "10 am",
+          "popularity_percentage": 21,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 11,
+          "time_label": "11 am",
+          "popularity_percentage": 22,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 12,
+          "time_label": "12 pm",
+          "popularity_percentage": 25,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 13,
+          "time_label": "1 pm",
+          "popularity_percentage": 25,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 14,
+          "time_label": "2 pm",
+          "popularity_percentage": 23,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 15,
+          "time_label": "3 pm",
+          "popularity_percentage": 21,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 16,
+          "time_label": "4 pm",
+          "popularity_percentage": 26,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 17,
+          "time_label": "5 pm",
+          "popularity_percentage": 35,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 18,
+          "time_label": "6 pm",
+          "popularity_percentage": 42,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 19,
+          "time_label": "7 pm",
+          "popularity_percentage": 42,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 20,
+          "time_label": "8 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 21,
+          "time_label": "9 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 22,
+          "time_label": "10 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 23,
+          "time_label": "11 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        }
+      ],
+      "Saturday": [
+        {
+          "hour_of_day": 6,
+          "time_label": "6 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 7,
+          "time_label": "7 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 8,
+          "time_label": "8 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 9,
+          "time_label": "9 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 10,
+          "time_label": "10 am",
+          "popularity_percentage": 16,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 11,
+          "time_label": "11 am",
+          "popularity_percentage": 19,
+          "popularity_description": "Usually not busy"
+        },
+        {
+          "hour_of_day": 12,
+          "time_label": "12 pm",
+          "popularity_percentage": 21,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 13,
+          "time_label": "1 pm",
+          "popularity_percentage": 22,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 14,
+          "time_label": "2 pm",
+          "popularity_percentage": 22,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 15,
+          "time_label": "3 pm",
+          "popularity_percentage": 25,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 16,
+          "time_label": "4 pm",
+          "popularity_percentage": 30,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 17,
+          "time_label": "5 pm",
+          "popularity_percentage": 34,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 18,
+          "time_label": "6 pm",
+          "popularity_percentage": 39,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 19,
+          "time_label": "7 pm",
+          "popularity_percentage": 37,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 20,
+          "time_label": "8 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 21,
+          "time_label": "9 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 22,
+          "time_label": "10 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 23,
+          "time_label": "11 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        }
+      ],
+      "Sunday": [
+        {
+          "hour_of_day": 6,
+          "time_label": "6 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 7,
+          "time_label": "7 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 8,
+          "time_label": "8 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 9,
+          "time_label": "9 am",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 10,
+          "time_label": "10 am",
+          "popularity_percentage": 34,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 11,
+          "time_label": "11 am",
+          "popularity_percentage": 42,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 12,
+          "time_label": "12 pm",
+          "popularity_percentage": 45,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 13,
+          "time_label": "1 pm",
+          "popularity_percentage": 43,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 14,
+          "time_label": "2 pm",
+          "popularity_percentage": 36,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 15,
+          "time_label": "3 pm",
+          "popularity_percentage": 35,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 16,
+          "time_label": "4 pm",
+          "popularity_percentage": 41,
+          "popularity_description": "Usually not too busy"
+        },
+        {
+          "hour_of_day": 17,
+          "time_label": "5 pm",
+          "popularity_percentage": 52,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 18,
+          "time_label": "6 pm",
+          "popularity_percentage": 61,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 19,
+          "time_label": "7 pm",
+          "popularity_percentage": 61,
+          "popularity_description": "Usually a little busy"
+        },
+        {
+          "hour_of_day": 20,
+          "time_label": "8 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 21,
+          "time_label": "9 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 22,
+          "time_label": "10 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        },
+        {
+          "hour_of_day": 23,
+          "time_label": "11 pm",
+          "popularity_percentage": 0,
+          "popularity_description": "Idle"
+        }
+      ]
+    },
+    "menu": null,
+    "reservations": [],
+    "order_online_links": [],
+    "gas_prices": [],
+    "image_count": 420,
+    "images": [
+      {
+        "about": "All",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFH7Macopnvib6MTdhaERT3wDzb9a-pFjV9re1mfUFnfjSRW0fT_UAYrGUoeuSlPp9vLCodLi3Pxf9oy9k7dKDc34FO33vZ8gU_g7oXDN8J4HB1357WY9K-ezm4MurTolxH9oFO7D8NNnuu=w1920-h1080-k-no",
+        "published_at_date": "2025-10-17T09:00:00"
+      },
+      {
+        "about": "Latest",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHlIeV_4-np52e3HjJswOGxajRybYCskR3_DJIHuclnZNfdTIEXUejt-5HE6ZTXLq_cgQwENg5Gwy2o-rUiUZ3IRmz7EiAI17BrW0qqE6vG6_pd3gvg3z9dLlYt7p1ZW4zhOpjluRPoLBLI=w1920-h1080-k-no",
+        "published_at_date": "2026-06-18T12:00:00"
+      },
+      {
+        "about": "Videos",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFXsyKN4q_VDEY6BIuv7lLJk4goW-2A_3ZbuYWY-Egdg9P-Cl30qUPH8w0luxEinoDpPdh6Uw4Lp_ykEdovXOzy6PFtC5ZcuOenINSlU2XLtbzysb4PdIHS5GvKnZlynIsTlCU=w1920-h1080-k-no",
+        "published_at_date": "2025-01-14T09:00:00"
+      },
+      {
+        "about": "Food & drink",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHlIeV_4-np52e3HjJswOGxajRybYCskR3_DJIHuclnZNfdTIEXUejt-5HE6ZTXLq_cgQwENg5Gwy2o-rUiUZ3IRmz7EiAI17BrW0qqE6vG6_pd3gvg3z9dLlYt7p1ZW4zhOpjluRPoLBLI=w1920-h1080-k-no",
+        "published_at_date": "2026-06-18T12:00:00"
+      },
+      {
+        "about": "Vibe",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFdtm88Ts1LTCmStBUV3pt2f3LYfG9l5OSynahiZalM_1MKL3qsGqd6LqPqMMRQreKBejrys_YssRkqkeTw1_Y7zbtGtr7woVD2Uhkx_bTBK2SxeYPy2jrdWgwl4l-cJJSA1Ej3=w1920-h1080-k-no",
+        "published_at_date": "2025-01-28T13:00:00"
+      },
+      {
+        "about": "By owner",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHeHUyHipnQm7IThvuW9JfWoFIRa0D7A-nH1jT5wDeBWBSx3b86A8t6XTU21HCRXKx7d1LMZ3cp8vv0rTDeo1poNovsJSuOrj9FaBMEcA1RVnpcTwwEVF6bbWMoAinXgpg_Bk8=w1920-h1080-k-no",
+        "published_at_date": "2024-08-28T11:00:00"
+      },
+      {
+        "about": "Street View & 360°",
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VR73kpi_tN5z3kN02dno0A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=222.73325&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-09T06:00:00"
+      }
+    ],
+    "featured_images": [
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFH7Macopnvib6MTdhaERT3wDzb9a-pFjV9re1mfUFnfjSRW0fT_UAYrGUoeuSlPp9vLCodLi3Pxf9oy9k7dKDc34FO33vZ8gU_g7oXDN8J4HB1357WY9K-ezm4MurTolxH9oFO7D8NNnuu=w1920-h1080-k-no",
+        "published_at_date": "2025-10-17T09:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHqxhuLgApLdU7dp1b8FnT2NojxY8mVuZlstNB8jHrl1AKTRCSU9KR3m4sNkP-cPZSnF31VdWwdcAbbW1Gb5pg0BYM4lvu1qHLa5IbNX59koyCiZkxQHdkUbEZ3-5vcRXNTaW9b=w1920-h1080-k-no",
+        "published_at_date": "2024-08-28T11:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHA4fvDbLmUcfO_CDo0Evr8N-FYiOn0lmqIIIIP7pl9LRAK8XNojRTbo2OvR8i_sSjzArTu_mU_x6sKbSGAptafg-7Kge1_Lxc5d0uVqKl84-rcLz1vrais49QGUMCgnDhKNbZD1AHfUQ7R=w1920-h1080-k-no",
+        "published_at_date": "2025-11-27T15:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE4OMxyKqQBjh4YJrgUgRLApLqHPr1rhkeuMl80NjNSeKPtqvg1cdMocWVcFtL62h4ASNLILUys0J4Tj53ZpQvAOPonvQhH-scXCIMu1AQiV6183f_8HL9ThEdNJAf_ui6hHgrSSlBOBRWi=w1920-h1080-k-no",
+        "published_at_date": "2026-02-09T10:00:00"
+      }
+    ],
+    "on_site_places": [],
+    "customer_updates": [
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzdGVyZTRRRRAB",
+        "link": "https://www.google.com/maps/@/data=!4m7!23m6!1m5!1sChdDSUhNMG9nS0VJQ0FnSUQzdGVyZTRRRRAB!2m1!1s0x0:0x50076ab70f5d9b2b!3m1!1s2@1:CIHM0ogKEICAgID3tere4QE%7C%7C?hl=en",
+        "name": "Sambhu sing Rathore",
+        "reviewer_id": "100588642025413459055",
+        "reviewer_profile": "https://www.google.com/maps/contrib/100588642025413459055?hl=en-GB",
+        "rating": null,
+        "text": "Maharaja banquet hall",
+        "original_language": "en",
+        "translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2024-11-17T09:20:02",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocLZp_RHlCg8UN1epj3eVATsHHNzwa9GmW29nn5exAwP_6B1vA=s1920",
+        "total_number_of_reviews_by_reviewer": 0,
+        "total_number_of_photos_by_reviewer": 81,
+        "is_local_guide": true,
+        "experience_details": [],
+        "photos": [
+          {
+            "id": "CIHM0ogKEICAgID3terekQE",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn2LLLXv6ku3izkSh-aAFEiL7x-8rWj7vdIWjWxhlnme3KE5BEWlE9MtgZomOf5fyT5ki172KlLW_oB1r32zba3-FILmOc04dYEfid8JRe3zP6xpbl0VLcvJm4pD6PCX46nYI5cBDg=k-no",
+            "caption": null,
+            "width": 3264,
+            "height": 2448
+          },
+          {
+            "id": "CIHM0ogKEICAgID3tereUQ",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn1mUGmiIhzaJn3n50slyR4wPBA3yGTMFPDDeV5c7YqYFR6l1TOrySdWpr-1Ir3ofvzUb-4VJm7q7WsFWI7g1DeTMxtenoqEyZjwevTdmRXRHzznRzP-76afehJ8-_zojSrqiibA=k-no",
+            "caption": null,
+            "width": 3264,
+            "height": 2448
+          },
+          {
+            "id": "CIHM0ogKEICAgID3tere0QE",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn1VzoHGf7c-5MbEN6P5qsvItLcEv6CofMLgZKqtp8ERxDiCdMfXrm__gQou5LzkcG-g1MEHe1VPOCnFQ0gFkxm06agjUIHxFuAXlAwLSlXJaFk9rapH4V3ifso5vlpWfVa1N0yzPQ=k-no",
+            "caption": null,
+            "width": 2448,
+            "height": 3264
+          },
+          {
+            "id": "CIHM0ogKEICAgID3tereMQ",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn1NrH-8LSOSyM01ybFNQtr8GFfPRUP5wLiCZ0HCXA00HRGWJVYnC_t3KiPkBla0whGxfkhEsUkcpI0IiQ_m9WOtZsAR5zj8DN7STBP8nB4USG0fTc-2Phx3jPYgFuHLFgY2PHM=k-no",
+            "caption": null,
+            "width": 2448,
+            "height": 3264
+          },
+          {
+            "id": "CIHM0ogKEICAgID3teresQE",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn132_kGS3l-bECY4x6ih5coTyj7wM7nGr5M8fln9a6PVlQbXR9A-cHCp9yVAovYZ5pDs-UnDJRx2ANjDSL8zYg1L-j_0jh44evJnM99xIvK1CoiHsVrzM-EoGFU5gbrFMnayAxI=k-no",
+            "caption": null,
+            "width": 3264,
+            "height": 2448
+          },
+          {
+            "id": "CIHM0ogKEICAgID3terecQ",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn3jSAHaZa99YwechjpqJyOOeIXkjRl5NE5vQ9n1jx_wddaj_mblieEoiri9Wj0jM4PxSSjXr_jCj2Ga5T2r_-4UMGoK3o5kXGrvc5Am3KAhF7OrzbadBYt0MNhFW4gsH2O37Pc=k-no",
+            "caption": null,
+            "width": 3264,
+            "height": 2448
+          },
+          {
+            "id": "CIHM0ogKEICAgID3tere8QE",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn2BvCMmxkk_pzUFzjRdLXVrkYPTvemcIKLwMBhTWYIcJg-ksoWz__eDiZ7zgbFm4L8J07rYb_vLUZ-4_wvKcu-HauuybHAT1ogsEc7LwZhlJJnrAA-jbkZm8aPMEYBqUGZanUg_KQ=k-no",
+            "caption": null,
+            "width": 2448,
+            "height": 3264
+          },
+          {
+            "id": "CIHM0ogKEICAgID3tereCQ",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn1y_9GreWSTRUIx1SgzEHo2tsES-8jPWlDeWChZmatgMQ-923Z8Zv4tqKSBzURqsXcrx-mc_CUn5hnyqdLWrRi1TDCGkDOw_vdpovvzXoI-kcqkEteMjBx2lylex2dNazIMRiOZ=k-no",
+            "caption": null,
+            "width": 2448,
+            "height": 3264
+          },
+          {
+            "id": "CIHM0ogKEICAgID3teqxsQE",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn0XzTCR-we7emPzd0AZG9AEGMbhZKGsS4sMSGEia1sErkD7oovWdmyXvTnJbWxC78q1shbYKna2X-g4yqcVuMkFQjngyvwtQ9DyoTEPBDK9c834cQjzIu3nrKBfvwEbDYKcuC07mA=k-no",
+            "caption": null,
+            "width": 1920,
+            "height": 1080
+          },
+          {
+            "id": "CIHM0ogKEICAgID3teqxcQ",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn2NHXhqY7qEyJCm8DZRe_wuw0kCuX8eI9w9uACZQxfwCUOjJR_nWuaJcv5fp3EOJrMsIVpYXLXSby7o9qwuNVwCFUHnFVF6S2WaoyA3NYEHCBKq1iF3XNrs6QX19cXPHHKri9co=k-no",
+            "caption": null,
+            "width": 2448,
+            "height": 3264
+          }
+        ],
+        "review_origin": "google"
+      }
+    ],
+    "featured_question": null,
+    "review_keywords": [
+      {
+        "keyword": "marriage space",
+        "count": 8
+      },
+      {
+        "keyword": "marriage hall",
+        "count": 6
+      },
+      {
+        "keyword": "spacious hall",
+        "count": 4
+      },
+      {
+        "keyword": "male servers",
+        "count": 2
+      },
+      {
+        "keyword": "family function",
+        "count": 2
+      },
+      {
+        "keyword": "payment in advance",
+        "count": 2
+      },
+      {
+        "keyword": "food quality",
+        "count": 2
+      },
+      {
+        "keyword": "decoration",
+        "count": 2
+      },
+      {
+        "keyword": "cleanliness",
+        "count": 2
+      },
+      {
+        "keyword": "location",
+        "count": 7
+      }
+    ],
+    "featured_reviews": [
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzbi02V1Z3EAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQzbi02V1Z3EAE!2m1!1s0x0:0x50076ab70f5d9b2b!3m1!1s2@1:CIHM0ogKEICAgID3n-6WVw%7C%7C?hl=en",
+        "name": "Rohini Gangurde",
+        "reviewer_id": "110561918907067048540",
+        "reviewer_profile": "https://www.google.com/maps/contrib/110561918907067048540?hl=en-GB",
+        "rating": 5,
+        "review_text": "Very nice hall it's excellent decoration good service nice room nice hall everything is all good service n staff ⚕️❤️🫶✨💕🎉👑Or khana to bohot acha hai.... Or price bhi renewable hai",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "Edited a year ago",
+        "published_at_date": "2024-11-20T10:33:00",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjVNteR-CqnIJis9rBLrpTOqwxnlcq0xpksG5DT3wM3i8ZQmAUwJ=s1920",
+        "total_number_of_reviews_by_reviewer": 3,
+        "total_number_of_photos_by_reviewer": 8,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [
+          {
+            "id": "CIHM0ogKEICAgICviILj6gE",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn3xYvnOXgbNFKg4zkDThFEYRT7wTprqSZW7tpCh9xx-4qjk__8vtgvEAqnNVffyqb1Tp12b5pdkFgiYxdkJzuKB1rsopYEhCqdLW7l4SWamc8NyLYFPSjcj_5q9aqpCayoOnt9jTw=k-no",
+            "caption": null,
+            "width": 720,
+            "height": 1280
+          },
+          {
+            "id": "CIHM0ogKEICAgICviILjGg",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn3vHvQTTlLsFz3KI4t_k7-G6rA3D86lsDIIfMLjnp00ntURCZQhkj9esUL1PKNR7FFkX29RGXevlpQSPXAW3rw0TjXPTiIIe8LOKhTKAIe53S6kJjB4SoGgikS8PTfrT4TFJOxu=k-no",
+            "caption": null,
+            "width": 1600,
+            "height": 1200
+          },
+          {
+            "id": "CIHM0ogKEICAgICviILjmgE",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn2LbA5EnrmCaG0y-pTuDD2mNlpNj1l7lbkcSaCeKaoLFeZQigX3sN1xCcOZsrWlINoioVkvt9k9MCeLRlZoBjTR2Vlxx2T2r0kXl3ZFlYfpNcZyz-S_Iv8yeKtRTDr-XgZE4S1pEw=k-no",
+            "caption": null,
+            "width": 480,
+            "height": 1040
+          },
+          {
+            "id": "CIHM0ogKEICAgICviILjWg",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn1HJG8TyTlf_yIRjVTJponXE3ngjE98fNuoPYOKg8F6vwCSFXN_EQx-HMcozoeT1beu2tnBmEfCHm8_w62kqEs-zJ7sbSr-IjB9-EZRxpBGJiTWCV6QNViG82-KAGrZXVlWpyKn=k-no",
+            "caption": null,
+            "width": 1200,
+            "height": 1600
+          }
+        ],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xd01GUnZMWGh1ZUZWMVYwdzNjamR2VVZkWGNWRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT20xd01GUnZMWGh1ZUZWMVYwdzNjamR2VVZkWGNWRRAB!2m1!1s0x0:0x50076ab70f5d9b2b!3m1!1s2@1:CAIQACodChtycF9oOm1wMFRvLXhueFV1V0w3cjdvUVdXcVE%7C%7C?hl=en",
+        "name": "Rexson Fernandes",
+        "reviewer_id": "117844451222535673970",
+        "reviewer_profile": "https://www.google.com/maps/contrib/117844451222535673970?hl=en-GB",
+        "rating": 1,
+        "review_text": "Worst Experience!\nOwner of the Hall is super rude and dominating. They will first ask you to pay full money in advance before the program and later will keep denying on any changes or request that you make. Owner acts as if he owns entire Naigaon. They will literally come upon you for a fight.\nIf you want to save money better go for other options like Balaji Party Hall or Bhunaji Banquet Hall.\nSay No to such Maniac Management.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "8 months ago",
+        "published_at_date": "2025-10-29T11:52:35",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjX7D-PZCA21ZJdon5UNevk8XEiMydezIitE4JPrvhI8kPWwx63j6A=s1920",
+        "total_number_of_reviews_by_reviewer": 60,
+        "total_number_of_photos_by_reviewer": 16,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4WVFubEZVbEZHTVZWM09WaDNMVFU1TVRGWlNFRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2t4WVFubEZVbEZHTVZWM09WaDNMVFU1TVRGWlNFRRAB!2m1!1s0x0:0x50076ab70f5d9b2b!3m1!1s2@1:CAIQACodChtycF9oOkxYQnlFUlFGMVV3OVh3LTU5MTFZSEE%7C%7C?hl=en",
+        "name": "Rakesh singh Rajpurohit",
+        "reviewer_id": "107818098542992735490",
+        "reviewer_profile": "https://www.google.com/maps/contrib/107818098542992735490?hl=en-GB",
+        "rating": 5,
+        "review_text": "It's fully furnished ac hall for any functiona small or bigger\nPlace looks and interior also good and high quality",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a month ago",
+        "published_at_date": "2026-05-12T09:07:05",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjVOwFL0djdJ5o0T5hE21I98-_YdKkCVZvmzQxPgsUHEnEmO1zM=s1920",
+        "total_number_of_reviews_by_reviewer": 8,
+        "total_number_of_photos_by_reviewer": 2,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aU1gzTXRSM2RYUlRVelduQjJUWHBRU1hFMVYyYxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25aU1gzTXRSM2RYUlRVelduQjJUWHBRU1hFMVYyYxAB!2m1!1s0x0:0x50076ab70f5d9b2b!3m1!1s2@1:CAIQACodChtycF9oOnZSX3MtR3dXRTUzWnB2TXpQSXE1V2c%7C%7C?hl=en",
+        "name": "Maya Chaudhary",
+        "reviewer_id": "116467812624086974993",
+        "reviewer_profile": "https://www.google.com/maps/contrib/116467812624086974993?hl=en-GB",
+        "rating": 1,
+        "review_text": "Very Pathetic Service. They will offer you perfect and best food and service at the time of booking. But they will offer you half cooked lowest quality of food at highest price and worst service at the time of actual wedding, where you  can't do any thing at the time of function after making all the payment in advance.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "7 months ago",
+        "published_at_date": "2025-11-25T13:18:42",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocLGyq8R_xCmLxZ1_vyjaZF0Jh2D8xAGzD9a5U3zFuTVgKPSMQ=s1920",
+        "total_number_of_reviews_by_reviewer": 2,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wNldWcERNMnhoUm01UWN6aHJOR3RHVTJJNWJXYxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25wNldWcERNMnhoUm01UWN6aHJOR3RHVTJJNWJXYxAB!2m1!1s0x0:0x50076ab70f5d9b2b!3m1!1s2@1:CAIQACodChtycF9oOnp6WVpDM2xhRm5QczhrNGtGU2I5bWc%7C%7C?hl=en",
+        "name": "arjun yadav",
+        "reviewer_id": "103739127839764922729",
+        "reviewer_profile": "https://www.google.com/maps/contrib/103739127839764922729?hl=en-GB",
+        "rating": 4,
+        "review_text": "It was goood... washrooms are not not as good as the hall...rest everything was nice",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a month ago",
+        "published_at_date": "2026-05-06T01:37:32",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjX9BwIffwPiMEe00a5tn7wX_xw5D_hh-vcfH2gNSFSJv2DyqBT-hw=s1920",
+        "total_number_of_reviews_by_reviewer": 24,
+        "total_number_of_photos_by_reviewer": 16,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsa2RXTmFTbTE2VmxoR1RVWjBPRVJYYWt0Q1IwRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tsa2RXTmFTbTE2VmxoR1RVWjBPRVJYYWt0Q1IwRRAB!2m1!1s0x0:0x50076ab70f5d9b2b!3m1!1s2@1:CAIQACodChtycF9oOklkdWNaSm16VlhGTUZ0OERXaktCR0E%7C%7C?hl=en",
+        "name": "Chanda Maurya",
+        "reviewer_id": "108920884510100881941",
+        "reviewer_profile": "https://www.google.com/maps/contrib/108920884510100881941?hl=en-GB",
+        "rating": 5,
+        "review_text": "Nice experience affordable discount price by the sir all facilities are available here manage lot of guests by this hall thanks 🙏",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "6 months ago",
+        "published_at_date": "2025-12-18T12:44:15",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjV1EoHYnILCpffWV7g9lZe5-mP3Rs_mLpVWTmBdHFNRk-d9UmMt=s1920",
+        "total_number_of_reviews_by_reviewer": 2,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2aU16eVpBEAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUN2aU16eVpBEAE!2m1!1s0x0:0x50076ab70f5d9b2b!3m1!1s2@1:CIHM0ogKEICAgICviMzyZA%7C%7C?hl=en",
+        "name": "Piku Gupta",
+        "reviewer_id": "105268842168517214762",
+        "reviewer_profile": "https://www.google.com/maps/contrib/105268842168517214762?hl=en-GB",
+        "rating": 5,
+        "review_text": "Naigaon ka super banquet hall all net n clean very luxurious hall ❤️❤️ thank you",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2024-12-07T12:13:02",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjWyRM8etUj63LjEMTrO2dJPWZJBITjgrM5dvqc6GEdXpnG0g8h1fQ=s1920",
+        "total_number_of_reviews_by_reviewer": 4,
+        "total_number_of_photos_by_reviewer": 1,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [
+          {
+            "id": "CIHM0ogKEICAgICviMzylAE",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn2heaX8LC_LgU3N6zJQj144OYAZfoiahvMFRbQZwlpEi6HcGExf6wst8w99_l5udoMheviMJD36PKaLjKLf14wngv5FvSPGgXYHQwf1glXT1WGvVXpTNMmvFRVuwSlegfqRLHbY=k-no",
+            "caption": null,
+            "width": 1600,
+            "height": 720
+          }
+        ],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBN3VIa0J3EAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnTURBN3VIa0J3EAE!2m1!1s0x0:0x50076ab70f5d9b2b!3m1!1s2@1:CIHM0ogKEICAgMDA7uHkBw%7C%7C?hl=en",
+        "name": "Chandan Kumar",
+        "reviewer_id": "101444790744766924133",
+        "reviewer_profile": "https://www.google.com/maps/contrib/101444790744766924133?hl=en-GB",
+        "rating": 5,
+        "review_text": "Maharaja Banquet Hall in Naigaon East, Mumbai, offers a spacious venue with a seating capacity of 300 and a floating capacity of 450 guests. The hall provides amenities such as valet parking, bridal dressing rooms, and allows for overnight weddings. Its location opposite Don Bosco School makes it easily accessible. The venue is suitable for various events, including weddings, engagements, and corporate functions. Operating hours are from 7 AM to 12 midnight.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2025-02-09T05:22:24",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjVN326Yw4ITKeWQujC43E4En93OtJEfQ2V_wf3qXwe5noLdw6ia=s1920",
+        "total_number_of_reviews_by_reviewer": 127,
+        "total_number_of_photos_by_reviewer": 1387,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      }
+    ],
+    "query": "banquet halls in naigaon east"
+  },
+  {
+    "place_id": "ChIJ00zCqyqv5zsRgnsHYeT4qvQ",
+    "name": "balaji Banquet Hall",
+    "description": "We're available for all your celebration And Occasions. We like to make your occasion more precious. Contact us for your Any Occasion.",
+    "is_spending_on_ads": false,
+    "link": "https://www.google.com/maps/place/balaji+Banquet+Hall/data=!4m7!3m6!1s0x3be7af2aabc24cd3:0xf4aaf8e461077b82!8m2!3d19.3629609!4d72.8591668!16s%2Fg%2F11n0gbchqm!19sChIJ00zCqyqv5zsRgnsHYeT4qvQ?authuser=0&hl=en&rclk=1",
+    "reviews": 18,
+    "rating": 3.9,
+    "competitors": [
+      {
+        "name": "Shree Balaji Pure Veg",
+        "suggested_link": "https://www.google.com/maps/search/Shree+Balaji+Pure+Veg/@19.3636739,72.85938519999999,19z?authuser=0&hl=en&entry=ttu",
+        "reviews": 309,
+        "rating": 3.6,
+        "main_category": "Family-friendly",
+        "categories": [
+          "Family-friendly"
+        ],
+        "coordinates": {
+          "latitude": 19.3636739,
+          "longitude": 72.85938519999999
+        }
+      },
+      {
+        "name": "Maharaja Banquet Hall",
+        "suggested_link": "https://www.google.com/maps/search/Maharaja+Banquet+Hall/@19.3595476,72.85238869999999,19z?authuser=0&hl=en&entry=ttu",
+        "reviews": 201,
+        "rating": 3.9,
+        "main_category": "Banquet hall",
+        "categories": [
+          "Banquet hall",
+          "Event venue"
+        ],
+        "coordinates": {
+          "latitude": 19.3595476,
+          "longitude": 72.85238869999999
+        }
+      },
+      {
+        "name": "Shree Balaji Banquet",
+        "suggested_link": "https://www.google.com/maps/search/Shree+Balaji+Banquet/@19.4064564,72.8263017,19z?authuser=0&hl=en&entry=ttu",
+        "reviews": 106,
+        "rating": 3.7,
+        "main_category": "Banquet hall",
+        "categories": [
+          "Banquet hall"
+        ],
+        "coordinates": {
+          "latitude": 19.4064564,
+          "longitude": 72.8263017
+        }
+      },
+      {
+        "name": "Balaji Open Ground Nallasopara East",
+        "suggested_link": "https://www.google.com/maps/search/Balaji+Open+Ground+Nallasopara+East/@19.4242264,72.8208166,19z?authuser=0&hl=en&entry=ttu",
+        "reviews": 76,
+        "rating": 4.2,
+        "main_category": "Banquet hall",
+        "categories": [
+          "Banquet hall",
+          "Catering food and drink supplier",
+          "Event venue"
+        ],
+        "coordinates": {
+          "latitude": 19.4242264,
+          "longitude": 72.8208166
+        }
+      },
+      {
+        "name": "Balaji Banquet Hall",
+        "suggested_link": "https://www.google.com/maps/search/Balaji+Banquet+Hall/@19.276577700000004,72.87009610000001,19z?authuser=0&hl=en&entry=ttu",
+        "reviews": 27,
+        "rating": 3.9,
+        "main_category": "Banquet hall",
+        "categories": [
+          "Banquet hall"
+        ],
+        "coordinates": {
+          "latitude": 19.276577700000004,
+          "longitude": 72.87009610000001
+        }
+      }
+    ],
+    "website": null,
+    "phone": null,
+    "phone_international": null,
+    "can_claim": false,
+    "owner": {
+      "id": "114364682475353809586",
+      "name": "balaji Banquet Hall (Owner)",
+      "link": "https://www.google.com/maps/contrib/114364682475353809586"
+    },
+    "owner_posts": [],
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WNptGoERimnnZ15uVh-EiQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=115.12797&pitch=0&thumbfov=100",
+    "main_category": "Banquet hall",
+    "categories": [
+      "Banquet hall"
+    ],
+    "workday_timing": null,
+    "status": null,
+    "is_temporarily_closed": false,
+    "is_permanently_closed": false,
+    "closed_on": "Open All Days",
+    "address": "Phase-5, Star City, Naigaon East Vasai Link Rd, Tivari, Naigaon East, Vasai-Virar, Maharashtra 401208",
+    "price_range": null,
+    "reviews_per_rating": {
+      "1": 2,
+      "2": 0,
+      "3": 2,
+      "4": 7,
+      "5": 7
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ00zCqyqv5zsRgnsHYeT4qvQ&q=balaji+Banquet+Hall&authuser=0&hl=en&gl=IN",
+    "coordinates": {
+      "latitude": 19.362960899999997,
+      "longitude": 72.8591668
+    },
+    "plus_code": "9V75+5M Naigaon East, Vasai-Virar, Maharashtra",
+    "detailed_address": {
+      "ward": "Tivari, Naigaon East",
+      "street": "Phase-5, Star City, Naigaon East Vasai Link Rd",
+      "city": "Vasai-Virar",
+      "postal_code": "401208",
+      "state": "Maharashtra",
+      "country_code": "IN"
+    },
+    "time_zone": "Asia/Calcutta",
+    "is_rental": false,
+    "cid": "17630177351059340162",
+    "data_id": "0x3be7af2aabc24cd3:0xf4aaf8e461077b82",
+    "kgmid": "/g/11n0gbchqm",
+    "about": [
+      {
+        "id": "service_options",
+        "name": "Service options",
+        "options": [
+          {
+            "name": "Dine-in",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "accessibility",
+        "name": "Accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible car park",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "amenities",
+        "name": "Amenities",
+        "options": [
+          {
+            "name": "Restroom",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "children",
+        "name": "Children",
+        "options": [
+          {
+            "name": "Good for kids birthday",
+            "enabled": true
+          }
+        ]
+      }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "menu": null,
+    "reservations": [],
+    "order_online_links": [],
+    "gas_prices": [],
+    "image_count": 2,
+    "images": [
+      {
+        "about": "All",
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WNptGoERimnnZ15uVh-EiQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=115.12797&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-09T07:00:00"
+      },
+      {
+        "about": "Street View & 360°",
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WNptGoERimnnZ15uVh-EiQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=115.12797&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-09T07:00:00"
+      }
+    ],
+    "featured_images": [
+      {
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WNptGoERimnnZ15uVh-EiQ&cb_client=search.gws-prod.gps&w=203&h=100&yaw=115.12797&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-09T07:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE5Att78Df5XGGKDJKFvYgNJL5PkLDhfnoGv-NEiV0hspEhY6WOtWVEm0j_lokoZQ_fHJB26hI-6GjtqOq-OzbGf6EUZOsFsDoeyrHYEaIANCh_s-_5DCbmL_Ci2zKNlofANUfcqg=w1920-h1080-k-no",
+        "published_at_date": "2024-01-06T15:00:00"
+      }
+    ],
+    "on_site_places": [],
+    "customer_updates": [
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQxcXZtZjlRRRAB",
+        "link": "https://www.google.com/maps/@/data=!4m7!23m6!1m5!1sChdDSUhNMG9nS0VJQ0FnSUQxcXZtZjlRRRAB!2m1!1s0x0:0xf4aaf8e461077b82!3m1!1s2@1:CIHM0ogKEICAgID1qvmf9QE%7C%7C?hl=en",
+        "name": "Walter Britto",
+        "reviewer_id": "102665335698215496292",
+        "reviewer_profile": "https://www.google.com/maps/contrib/102665335698215496292?hl=en-GB",
+        "rating": null,
+        "text": "Chicken Tandoori at Franks corner",
+        "original_language": "en",
+        "translated_text": null,
+        "translated_language": null,
+        "published_at": "2 years ago",
+        "published_at_date": "2024-01-06T14:59:53",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjWROFVGS2OjFwlqx9anO5gM3x7ET-2ZPO9kfOxFyk0HpaCyIK6Z=s1920",
+        "total_number_of_reviews_by_reviewer": 51,
+        "total_number_of_photos_by_reviewer": 27,
+        "is_local_guide": true,
+        "experience_details": [],
+        "photos": [
+          {
+            "id": "CIHM0ogKEICAgID1qvmfjQE",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn3pU28wPep8YI3Ei34zhNooJvIYnoSzKMVmGyy_luTzGzIqyvEzuAUFW8lNiFubvEON_sEprg8_R-iYXb10lAr_SU--MJVwS20XzgduySUq-YKa6eiHhk_yBUsOUjFzA01CCBaI1w=k-no",
+            "caption": null,
+            "width": 3024,
+            "height": 4032
+          }
+        ],
+        "review_origin": "google"
+      }
+    ],
+    "featured_question": null,
+    "review_keywords": [],
+    "featured_reviews": [
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYOEtuMFhnEAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURYOEtuMFhnEAE!2m1!1s0x0:0xf4aaf8e461077b82!3m1!1s2@1:CIHM0ogKEICAgIDX8Kn0Xg%7C%7C?hl=en",
+        "name": "Sidhartha Shivam",
+        "reviewer_id": "104413536766305240651",
+        "reviewer_profile": "https://www.google.com/maps/contrib/104413536766305240651?hl=en-GB",
+        "rating": 4,
+        "review_text": "Great place for marriage,Party, and all kind of family functions. Car parking is available, connectivity is also good in terms of transportation for public and private vehicle.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2024-10-23T08:15:57",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocL-nI9egcry1MuRzH8fazTE94nKYGU0SeWitF3aaRhSuGZ36_RU=s1920",
+        "total_number_of_reviews_by_reviewer": 30,
+        "total_number_of_photos_by_reviewer": 45,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSURxM3VyUi1nRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURxM3VyUi1nRRAB!2m1!1s0x0:0xf4aaf8e461077b82!3m1!1s2@1:CIHM0ogKEICAgIDq3urR-gE%7C%7C?hl=en",
+        "name": "Krishna",
+        "reviewer_id": "117863521313617537375",
+        "reviewer_profile": "https://www.google.com/maps/contrib/117863521313617537375?hl=en-GB",
+        "rating": 4,
+        "review_text": "Great place but building side road not good",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "4 years ago",
+        "published_at_date": "2021-07-09T18:03:29",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocJyVzhvpWn9BNERAEVOqY7q4BWUoWATACmC_ev9WI9cesSDpj4=s1920",
+        "total_number_of_reviews_by_reviewer": 81,
+        "total_number_of_photos_by_reviewer": 20,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCLUppVjR3RRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURCLUppVjR3RRAB!2m1!1s0x0:0xf4aaf8e461077b82!3m1!1s2@1:CIHM0ogKEICAgIDB-JiV4wE%7C%7C?hl=en",
+        "name": "Handpicked 2017",
+        "reviewer_id": "109322639016849008908",
+        "reviewer_profile": "https://www.google.com/maps/contrib/109322639016849008908?hl=en-GB",
+        "rating": 5,
+        "review_text": "It's a Great place for All Events",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "3 years ago",
+        "published_at_date": "2023-01-11T10:34:56",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocJi6DMjeSGqZsrpojYZ38b8qri53H76RqzVH_myGQ9I0C3tc2k=s1920",
+        "total_number_of_reviews_by_reviewer": 2,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQyNzl1NkxnEAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQyNzl1NkxnEAE!2m1!1s0x0:0xf4aaf8e461077b82!3m1!1s2@1:CIHM0ogKEICAgID279u6Lg%7C%7C?hl=en",
+        "name": "Om Sai Enterprises",
+        "reviewer_id": "115908858889310283490",
+        "reviewer_profile": "https://www.google.com/maps/contrib/115908858889310283490?hl=en-GB",
+        "rating": 1,
+        "review_text": "This property is permanently closed..",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "4 years ago",
+        "published_at_date": "2022-05-29T04:57:30",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjUGE0qfGt_Ob3U9IitzunP-9GmzskO7-vfDa-jfw2A-UcJ-MXg=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 1,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlcVlhbkx3EAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURlcVlhbkx3EAE!2m1!1s0x0:0xf4aaf8e461077b82!3m1!1s2@1:CIHM0ogKEICAgIDeqYanLw%7C%7C?hl=en",
+        "name": "Mamta Sharma",
+        "reviewer_id": "100669773462681372965",
+        "reviewer_profile": "https://www.google.com/maps/contrib/100669773462681372965?hl=en-GB",
+        "rating": 1,
+        "review_text": "Very bad service....",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "3 years ago",
+        "published_at_date": "2022-10-13T16:14:33",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocKeVOGwy-o4v2JCJiq7MR9EDFV-5LfZCEz6YaGdSUhpHQ96y98=s1920",
+        "total_number_of_reviews_by_reviewer": 3,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCdkxlX1JBEAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNCdkxlX1JBEAE!2m1!1s0x0:0xf4aaf8e461077b82!3m1!1s2@1:CIHM0ogKEICAgICBvLe_RA%7C%7C?hl=en",
+        "name": "Sahajan Ahmed",
+        "reviewer_id": "108381255407577126506",
+        "reviewer_profile": "https://www.google.com/maps/contrib/108381255407577126506?hl=en-GB",
+        "rating": 5,
+        "review_text": "Good",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "3 years ago",
+        "published_at_date": "2022-12-20T06:27:06",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjXe9ilqmn4uONqEciDoXqtpjPXCOwG_dFPJOHxJvNHKD3uieytp=s1920",
+        "total_number_of_reviews_by_reviewer": 8,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGSFNVWkhSRTVqYzFoQ1IycHllR05UYWs0MFRFRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tGSFNVWkhSRTVqYzFoQ1IycHllR05UYWs0MFRFRRAB!2m1!1s0x0:0xf4aaf8e461077b82!3m1!1s2@1:CAIQACodChtycF9oOkFHSUZHRE5jc1hCR2pyeGNTak40TEE%7C%7C?hl=en",
+        "name": "Sanjay Nag",
+        "reviewer_id": "115594464612029631549",
+        "reviewer_profile": "https://www.google.com/maps/contrib/115594464612029631549?hl=en-GB",
+        "rating": 5,
+        "review_text": null,
+        "original_language": null,
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "7 months ago",
+        "published_at_date": "2025-11-22T03:21:19",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocJ0MDZdFKryMWbTlQElkVwlpACESQGOOYbQv-0peJDjMQCbSg=s1920",
+        "total_number_of_reviews_by_reviewer": 2,
+        "total_number_of_photos_by_reviewer": 4,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FeVgxaEtRUzB0VEV0NE5ubG9PRzAyYlhoYWQyYxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25FeVgxaEtRUzB0VEV0NE5ubG9PRzAyYlhoYWQyYxAB!2m1!1s0x0:0xf4aaf8e461077b82!3m1!1s2@1:CAIQACodChtycF9oOnEyX1hKQS0tTEt4NnloOG02bXhad2c%7C%7C?hl=en",
+        "name": "Prashant 07",
+        "reviewer_id": "116589505788252693592",
+        "reviewer_profile": "https://www.google.com/maps/contrib/116589505788252693592?hl=en-GB",
+        "rating": 4,
+        "review_text": null,
+        "original_language": null,
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "10 months ago",
+        "published_at_date": "2025-08-05T20:18:51",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocJRCOHogiN1l1gzPJKtCcnPO5ktSwPZ2JTodnPyqebKc8QTFb8=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 2,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      }
+    ],
+    "query": "banquet halls in naigaon east"
+  },
+  {
+    "place_id": "ChIJwUlmHACv5zsRJAO1j6iJSQ4",
+    "name": "Bhunaji Banquet Hall",
+    "description": null,
+    "is_spending_on_ads": false,
+    "link": "https://www.google.com/maps/place/Bhunaji+Banquet+Hall/data=!4m7!3m6!1s0x3be7af001c6649c1:0xe4989a88fb50324!8m2!3d19.3624131!4d72.8591971!16s%2Fg%2F11mltf5vsg!19sChIJwUlmHACv5zsRJAO1j6iJSQ4?authuser=0&hl=en&rclk=1",
+    "reviews": 5,
+    "rating": 2.4,
+    "competitors": [],
+    "website": null,
+    "phone": null,
+    "phone_international": null,
+    "can_claim": true,
+    "owner": {
+      "id": "111606781080340060965",
+      "name": "Bhunaji Banquet Hall (Owner)",
+      "link": "https://www.google.com/maps/contrib/111606781080340060965"
+    },
+    "owner_posts": [],
+    "featured_image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGvimKDvjcwGtECIckqQUN6q7Ho9UjTNXWQIUtup1xGHR-KPgcSwySM_5rlwD5FKwUhG7xK3dP_3AhRK6sfpNKDNrCMp6K0EBg727oI1HF0cM0PVQjyYfyJD_mza7B9D3K2sAjN9S_yHh9r=w1920-h1080-k-no",
+    "main_category": "Banquet hall",
+    "categories": [
+      "Banquet hall"
+    ],
+    "workday_timing": null,
+    "status": null,
+    "is_temporarily_closed": false,
+    "is_permanently_closed": false,
+    "closed_on": "Open All Days",
+    "address": "Rashmi Star City, Naigaon East, Vasai-Virar, Maharashtra 401208",
+    "price_range": null,
+    "reviews_per_rating": {
+      "1": 1,
+      "2": 3,
+      "3": 0,
+      "4": 0,
+      "5": 1
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJwUlmHACv5zsRJAO1j6iJSQ4&q=Bhunaji+Banquet+Hall&authuser=0&hl=en&gl=IN",
+    "coordinates": {
+      "latitude": 19.362413099999998,
+      "longitude": 72.8591971
+    },
+    "plus_code": "9V65+XM Naigaon East, Vasai-Virar, Maharashtra",
+    "detailed_address": {
+      "ward": "Naigaon East",
+      "street": "Rashmi Star City",
+      "city": "Vasai-Virar",
+      "postal_code": "401208",
+      "state": "Maharashtra",
+      "country_code": "IN"
+    },
+    "time_zone": "Asia/Calcutta",
+    "is_rental": false,
+    "cid": "1029505346889384740",
+    "data_id": "0x3be7af001c6649c1:0xe4989a88fb50324",
+    "kgmid": "/g/11mltf5vsg",
+    "about": [
+      {
+        "id": "amenities",
+        "name": "Amenities",
+        "options": [
+          {
+            "name": "Restroom",
+            "enabled": true
+          }
+        ]
+      }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "menu": null,
+    "reservations": [],
+    "order_online_links": [],
+    "gas_prices": [],
+    "image_count": 21,
+    "images": [
+      {
+        "about": "All",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGvimKDvjcwGtECIckqQUN6q7Ho9UjTNXWQIUtup1xGHR-KPgcSwySM_5rlwD5FKwUhG7xK3dP_3AhRK6sfpNKDNrCMp6K0EBg727oI1HF0cM0PVQjyYfyJD_mza7B9D3K2sAjN9S_yHh9r=w1920-h1080-k-no",
+        "published_at_date": "2025-12-16T05:00:00"
+      },
+      {
+        "about": "Videos",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFP3TJ3x9RYvvuRCVnkjzJFSVdCBhGu4itDIr2nubMq1gH316nmdswRu4TXZwUvwoXKxcTw4IE0P2HOUoPurHlYmv4ih0CeFge2JBjWU4QIFaToCz5mkqtfA8b3tDGqRKaGH3GJMuBXO5xP=w1920-h1080-k-no",
+        "published_at_date": "2025-12-16T05:00:00"
+      }
+    ],
+    "featured_images": [
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGvimKDvjcwGtECIckqQUN6q7Ho9UjTNXWQIUtup1xGHR-KPgcSwySM_5rlwD5FKwUhG7xK3dP_3AhRK6sfpNKDNrCMp6K0EBg727oI1HF0cM0PVQjyYfyJD_mza7B9D3K2sAjN9S_yHh9r=w1920-h1080-k-no",
+        "published_at_date": "2025-12-16T05:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH6r0tVUbgASmXZT6FLGmYVQALtx1kO5XjFHLY0v9-9LoRoFL4_oBIM1HdyNXd4PRxjkShE6WLJrM5cuaGeCY5SDHD0m8Q_HAFEP-PzssuwvQn4i0kx7LmZ4rsJ0BC4xb9jb9WRReUBy-Q=w1920-h1080-k-no",
+        "published_at_date": "2025-11-13T11:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAERIgkFCCnxvE0mY6LHmMvZS4xaeFAdCBR9tVhO0Ve7uTWiNgUX4-TwIzcfGYpzegI1RVVL3pTf7KkBzwkefi0zkt7zDckZUVclXn3sKFpjiyeNuR6NVBVbhTHvMYCHyRMZKqe9VmPgp-iK=w1920-h1080-k-no",
+        "published_at_date": "2025-12-16T05:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGGGFdU64TzYk6K5WE1WgOZylyNe9VaIxuMpga0Ovx4lStP70pn4U24ZzSrERpt1ux6WQYt9davE3G2azLPi-l5o-CmdC2_-YRWq_i1ALW5WxSI809DXm_9LxDuuPa0ppg5OVhQisSzuT1q=w1920-h1080-k-no",
+        "published_at_date": "2025-12-16T05:00:00"
+      }
+    ],
+    "on_site_places": [],
+    "customer_updates": [
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHRjRjlvT2s1eFVIUjVkekIzT0daaU5qQlZaSFZNTjNkMlVsRRAB",
+        "link": "https://www.google.com/maps/@/data=!4m7!23m6!1m5!1sCi9DQUlRQUNvZENodHRjRjlvT2s1eFVIUjVkekIzT0daaU5qQlZaSFZNTjNkMlVsRRAB!2m1!1s0x0:0xe4989a88fb50324!3m1!1s2@1:CAIQACodChttcF9oOk5xUHR5dzB3OGZiNjBVZHVMN3d2UlE%7C%7C?hl=en",
+        "name": "Rocky Rajput",
+        "reviewer_id": "101666277685381331358",
+        "reviewer_profile": "https://www.google.com/maps/contrib/101666277685381331358?hl=en-GB",
+        "rating": null,
+        "text": "Bhunaji",
+        "original_language": "hi",
+        "translated_text": null,
+        "translated_language": null,
+        "published_at": "7 months ago",
+        "published_at_date": "2025-11-13T11:35:03",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocKuXg2ByuoSUQGLthCSfp4IV2KqLmxjwKHiM99FBKOO3INwmA=s1920",
+        "total_number_of_reviews_by_reviewer": 0,
+        "total_number_of_photos_by_reviewer": 27,
+        "is_local_guide": false,
+        "experience_details": [],
+        "photos": [
+          {
+            "id": "CIABIhCJNPPm0FDrpC62z25AG14h",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn221ApsG8tefJqMWvY3RcEVGhghpa-yXiuRMpUR7tOL3EGMuhw0adHcWRb2LWyGrgoIqYmFtXYHW4rB8NQ0aDyOIMngktTItl8tV8UCLQ-qwyGhTI-7VxplHt6ApWP9t2erAzlq-ZrRUHKS=k-no",
+            "caption": null,
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "CIABIhDZHpSPsg0KzuE1sDY-Krje",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn34xo0JWLwPoKFwsf_HiCUX8of5Umw_e__ZzCFCo377vUSgvahoM3o0uY9B-EoUlknk8kgZuX__NXPc7PEecMF2YYTl_OFs9nBpOncSt3Lp46mWdzpllTcI5k_h9Fe0z9p3MRD00wGg5lA=k-no",
+            "caption": null,
+            "width": 1920,
+            "height": 1080
+          },
+          {
+            "id": "CIABIhBywrICxgIYPQzcTfEXwS8O",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn1cBfUibg0lhq3U_9XtlPRNLw5c_FuuDaVCajwPYD6Z4bYgQWR839OS7vcMKTmSYTVkcIgANPjBmV7yMphWWNmvPXYTNDHTqDeCXZBW1_Uh8ZMssJzxi8Brn7rwj2vv_qqYfPVlFwEMIq1q=k-no",
+            "caption": null,
+            "width": 1040,
+            "height": 780
+          }
+        ],
+        "review_origin": "google"
+      }
+    ],
+    "featured_question": null,
+    "review_keywords": [],
+    "featured_reviews": [
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkcVJsaDJaazlTVGpOdWRIaHhRMWxUU25SMGJIYxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pkcVJsaDJaazlTVGpOdWRIaHhRMWxUU25SMGJIYxAB!2m1!1s0x0:0xe4989a88fb50324!3m1!1s2@1:CAIQACodChtycF9oOjdqRlh2Zk9STjNudHhxQ1lTSnR0bHc%7C%7C?hl=en",
+        "name": "ANIL GUPTA",
+        "reviewer_id": "115648106700763490871",
+        "reviewer_profile": "https://www.google.com/maps/contrib/115648106700763490871?hl=en-GB",
+        "rating": 2,
+        "review_text": "OK for small gathering of 150/200 person, can be better managed.",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "4 months ago",
+        "published_at_date": "2026-02-25T04:10:29",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocKF-xPl_rOJbB2CiSxighkNKVmuYl0eiKCmhbfZR_BpH-Qubw=s1920",
+        "total_number_of_reviews_by_reviewer": 70,
+        "total_number_of_photos_by_reviewer": 27,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [
+          {
+            "id": "CIABIhDtCaE-qPXTQGLgFTHVBQDj",
+            "url": "https://lh3.googleusercontent.com/grass-cs/ANxoTn1f7Z5XcI4rmYcBAvcZPWs1_zXDuZIPbQUxDLCQnTIC-mCB4CkTRzMruJsjOujgZ-9hOH8UGcrgU3IRzLhqUagWbHYdXm3-me4TpxYybzQM75EK2F8F40M0T92pK1bRX2K5Xs-bJEnaPQgP=k-no",
+            "caption": null,
+            "width": 802,
+            "height": 498
+          }
+        ],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFMlZrZHJkSEZxVm5sS2N6SmlNVWwyT0c5blRXYxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xFMlZrZHJkSEZxVm5sS2N6SmlNVWwyT0c5blRXYxAB!2m1!1s0x0:0xe4989a88fb50324!3m1!1s2@1:CAIQACodChtycF9oOlE2VkdrdHFqVnlKczJiMUl2OG9nTWc%7C%7C?hl=en",
+        "name": "Harshad Jire",
+        "reviewer_id": "107215181084165906762",
+        "reviewer_profile": "https://www.google.com/maps/contrib/107215181084165906762?hl=en-GB",
+        "rating": 1,
+        "review_text": null,
+        "original_language": null,
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "Edited a month ago",
+        "published_at_date": "2026-04-11T10:48:51",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjV7wRDd1aga1aiRCTZdi-OGb184d0pKMSeeM8GKOwE0KhSiGu_j=s1920",
+        "total_number_of_reviews_by_reviewer": 59,
+        "total_number_of_photos_by_reviewer": 8,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pBMWRXaDNNbnBJYTJwNVJHeG9Sa0pETlZkeWFGRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pBMWRXaDNNbnBJYTJwNVJHeG9Sa0pETlZkeWFGRRAB!2m1!1s0x0:0xe4989a88fb50324!3m1!1s2@1:CAIQACodChtycF9oOjA1dWh3MnpIa2p5RGxoRkJDNVdyaFE%7C%7C?hl=en",
+        "name": "balwant mahajan",
+        "reviewer_id": "107842342490937066690",
+        "reviewer_profile": "https://www.google.com/maps/contrib/107842342490937066690?hl=en-GB",
+        "rating": 2,
+        "review_text": null,
+        "original_language": null,
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "3 months ago",
+        "published_at_date": "2026-03-27T04:23:55",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocJB3nebqVtqUtsjZh5o1MZOHInl4J7qtQ2Z_j0vjQ3hINkTzw=s1920",
+        "total_number_of_reviews_by_reviewer": 2,
+        "total_number_of_photos_by_reviewer": 2,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pVd2ExVmpZMTlLV2tOQmNIcFlUVXBoTjNvd2NsRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pVd2ExVmpZMTlLV2tOQmNIcFlUVXBoTjNvd2NsRRAB!2m1!1s0x0:0xe4989a88fb50324!3m1!1s2@1:CAIQACodChtycF9oOjUwa1VjY19KWkNBcHpYTUphN3owclE%7C%7C?hl=en",
+        "name": "Ninad Bagwe",
+        "reviewer_id": "101820533447915774702",
+        "reviewer_profile": "https://www.google.com/maps/contrib/101820533447915774702?hl=en-GB",
+        "rating": 2,
+        "review_text": null,
+        "original_language": null,
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "5 months ago",
+        "published_at_date": "2026-01-25T08:21:07",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjWgk-A1OdTywynXGIDQmgfkfHayKsBElegomUq2zAh203tFcdi5Bw=s1920",
+        "total_number_of_reviews_by_reviewer": 7,
+        "total_number_of_photos_by_reviewer": 1,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t3eldGOXRjbmM0UkVvM1dXNURiRUpwVjAxVFptYxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2t3eldGOXRjbmM0UkVvM1dXNURiRUpwVjAxVFptYxAB!2m1!1s0x0:0xe4989a88fb50324!3m1!1s2@1:CAIQACodChtycF9oOkwzWF9tcnc4REo3WW5DbEJpV01TZmc%7C%7C?hl=en",
+        "name": "Rocky Rajput",
+        "reviewer_id": "101666277685381331358",
+        "reviewer_profile": "https://www.google.com/maps/contrib/101666277685381331358?hl=en-GB",
+        "rating": 5,
+        "review_text": null,
+        "original_language": null,
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "7 months ago",
+        "published_at_date": "2025-11-14T14:35:26",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocKuXg2ByuoSUQGLthCSfp4IV2KqLmxjwKHiM99FBKOO3INwmA=s1920",
+        "total_number_of_reviews_by_reviewer": 0,
+        "total_number_of_photos_by_reviewer": 27,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      }
+    ],
+    "query": "banquet halls in naigaon east"
+  },
+  {
+    "place_id": "ChIJ16OXa7mv5zsRfIeth84RsSM",
+    "name": "Choudhary Hall (janwa samaj)",
+    "description": null,
+    "is_spending_on_ads": false,
+    "link": "https://www.google.com/maps/place/Choudhary+Hall+(janwa+samaj)/data=!4m7!3m6!1s0x3be7afb96b97a3d7:0x23b111ce87ad877c!8m2!3d19.357885!4d72.8620607!16s%2Fg%2F11jzx9833g!19sChIJ16OXa7mv5zsRfIeth84RsSM?authuser=0&hl=en&rclk=1",
+    "reviews": 29,
+    "rating": 3.9,
+    "competitors": [
+      {
+        "name": "Maharaja Banquet Hall",
+        "suggested_link": "https://www.google.com/maps/search/Maharaja+Banquet+Hall/@19.3595476,72.85238869999999,19z?authuser=0&hl=en&entry=ttu",
+        "reviews": 201,
+        "rating": 3.9,
+        "main_category": "Banquet hall",
+        "categories": [
+          "Banquet hall",
+          "Event venue"
+        ],
+        "coordinates": {
+          "latitude": 19.3595476,
+          "longitude": 72.85238869999999
+        }
+      },
+      {
+        "name": "SahaJeevan Hall",
+        "suggested_link": "https://www.google.com/maps/search/SahaJeevan+Hall/@19.3576683,72.789513,19z?authuser=0&hl=en&entry=ttu",
+        "reviews": 182,
+        "rating": 4.1,
+        "main_category": "Banquet hall",
+        "categories": [
+          "Banquet hall"
+        ],
+        "coordinates": {
+          "latitude": 19.3576683,
+          "longitude": 72.789513
+        }
+      },
+      {
+        "name": "Choudhary banquet hall",
+        "suggested_link": "https://www.google.com/maps/search/Choudhary+banquet+hall/@19.096013499999998,72.8870824,19z?authuser=0&hl=en&entry=ttu",
+        "reviews": 161,
+        "rating": 3.6,
+        "main_category": "Banquet hall",
+        "categories": [
+          "Banquet hall"
+        ],
+        "coordinates": {
+          "latitude": 19.096013499999998,
+          "longitude": 72.8870824
+        }
+      },
+      {
+        "name": "AARADHYA BANQUET HALL",
+        "suggested_link": "https://www.google.com/maps/search/AARADHYA+BANQUET+HALL/@19.3844536,72.8157121,19z?authuser=0&hl=en&entry=ttu",
+        "reviews": 31,
+        "rating": 4.7,
+        "main_category": "Wedding venue",
+        "categories": [
+          "Wedding venue"
+        ],
+        "coordinates": {
+          "latitude": 19.3844536,
+          "longitude": 72.8157121
+        }
+      },
+      {
+        "name": "balaji Banquet Hall",
+        "suggested_link": "https://www.google.com/maps/search/balaji+Banquet+Hall/@19.362960899999997,72.8591668,19z?authuser=0&hl=en&entry=ttu",
+        "reviews": 18,
+        "rating": 3.9,
+        "main_category": "Banquet hall",
+        "categories": [
+          "Banquet hall"
+        ],
+        "coordinates": {
+          "latitude": 19.362960899999997,
+          "longitude": 72.8591668
+        }
+      }
+    ],
+    "website": null,
+    "phone": null,
+    "phone_international": null,
+    "can_claim": true,
+    "owner": {
+      "id": "111586517330941248271",
+      "name": "Choudhary Hall (janwa samaj) (Owner)",
+      "link": "https://www.google.com/maps/contrib/111586517330941248271"
+    },
+    "owner_posts": [],
+    "featured_image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEZ4sa60Pf5UgdFlx8Hw7gpsGg10KSthqSs8LnfF0HZLF2pEHJdIxp35DxIrEa3UO6cPdarWWyKX5k7NvWOP7XfjBHqdCgjw4k4huJSQajQG8YvXDmh5YdUDLHzrZ7_TeLfg4s=w1920-h1080-k-no",
+    "main_category": "Banquet hall",
+    "categories": [
+      "Banquet hall"
+    ],
+    "workday_timing": null,
+    "status": null,
+    "is_temporarily_closed": false,
+    "is_permanently_closed": false,
+    "closed_on": "Open All Days",
+    "address": "9V56+5R3, Sane Guruji Marg, Bapane, Naigaon East, Vasai-Virar, Maharashtra 401208",
+    "price_range": null,
+    "reviews_per_rating": {
+      "1": 5,
+      "2": 0,
+      "3": 4,
+      "4": 5,
+      "5": 15
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ16OXa7mv5zsRfIeth84RsSM&q=Choudhary+Hall+(janwa+samaj)&authuser=0&hl=en&gl=IN",
+    "coordinates": {
+      "latitude": 19.357885,
+      "longitude": 72.8620607
+    },
+    "plus_code": null,
+    "detailed_address": {
+      "ward": "Bapane, Naigaon East",
+      "street": "9V56+5R3, Sane Guruji Marg",
+      "city": "Vasai-Virar",
+      "postal_code": "401208",
+      "state": "Maharashtra",
+      "country_code": "IN"
+    },
+    "time_zone": "Asia/Calcutta",
+    "is_rental": false,
+    "cid": "2571856440942495612",
+    "data_id": "0x3be7afb96b97a3d7:0x23b111ce87ad877c",
+    "kgmid": "/g/11jzx9833g",
+    "about": [
+      {
+        "id": "accessibility",
+        "name": "Accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible car park",
+            "enabled": true
+          },
+          {
+            "name": "Wheelchair-accessible entrance",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "amenities",
+        "name": "Amenities",
+        "options": [
+          {
+            "name": "Restroom",
+            "enabled": true
+          }
+        ]
+      }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "menu": null,
+    "reservations": [],
+    "order_online_links": [],
+    "gas_prices": [],
+    "image_count": 20,
+    "images": [
+      {
+        "about": "All",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEZ4sa60Pf5UgdFlx8Hw7gpsGg10KSthqSs8LnfF0HZLF2pEHJdIxp35DxIrEa3UO6cPdarWWyKX5k7NvWOP7XfjBHqdCgjw4k4huJSQajQG8YvXDmh5YdUDLHzrZ7_TeLfg4s=w1920-h1080-k-no",
+        "published_at_date": "2022-11-25T12:00:00"
+      },
+      {
+        "about": "Vibe",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFCMAAEtBruYmuyz1MiSwYL8r7vIP30HZmL30oWfAWOxMEJ-TMeGnrouy-N2OPf8qP5--Ygd0wNPQUjj_alanVSSBAfgW10t7pifoCBHGO983qs1J8x23a-VqSsJEeySwNSE79h=w1920-h1080-k-no",
+        "published_at_date": "2023-08-15T09:00:00"
+      },
+      {
+        "about": "Street View & 360°",
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5Het6LwF90YlvhdlnAvCIA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=350.1644&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-09T07:00:00"
+      }
+    ],
+    "featured_images": [
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEZ4sa60Pf5UgdFlx8Hw7gpsGg10KSthqSs8LnfF0HZLF2pEHJdIxp35DxIrEa3UO6cPdarWWyKX5k7NvWOP7XfjBHqdCgjw4k4huJSQajQG8YvXDmh5YdUDLHzrZ7_TeLfg4s=w1920-h1080-k-no",
+        "published_at_date": "2022-11-25T12:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFtP8REo33eXxnE80g0SugtgI21qeh-VVnxRxdQUk4KVvUyb4xT2B0Qj3qtsjT2e1DjV8Gydq4Mp_mlkXoYIAq90-2CgofY7Jy1LxUdgeGO0gDqKo95Xy0CwfY5rTdYDvc5JaaUhWfViP-t=w1920-h1080-k-no",
+        "published_at_date": "2025-04-22T23:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHTAdz_oT5NB41qSikTVf_mfAzGyoHxWbMlG5qy0n0vD3bvDbb_nFDcHJJCleyFWFznAfkLxA70_XWjM8gfHWT8UlUYax0PjZNM5NNCcnFWOSlqIeAKDulqSXU2Fh2p_rcpLmMZ=w1920-h1080-k-no",
+        "published_at_date": "2023-12-31T06:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGr8wWiCaZa78LDOj7_qosCb5XiciGU53iKV8s6IC5TLWvb9DQLjesB6zPHR_CIOq9iZMf-NXPDhFr-kmIBO90gQjEn2c2E8UIGkDrodY8H9QwENuaMYBhGcHIdtueU05TV2UmU=w1920-h1080-k-no",
+        "published_at_date": "2023-12-31T06:00:00"
+      }
+    ],
+    "on_site_places": [],
+    "customer_updates": [],
+    "featured_question": null,
+    "review_keywords": [
+      {
+        "keyword": "marriage parties",
+        "count": 2
+      }
+    ],
+    "featured_reviews": [
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxRFlXWXdlRjlrUnpsSVRqVnpka280Um1Rd2RHYxAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2kxRFlXWXdlRjlrUnpsSVRqVnpka280Um1Rd2RHYxAB!2m1!1s0x0:0x23b111ce87ad877c!3m1!1s2@1:CAIQACodChtycF9oOi1DYWYweF9kRzlITjVzdko4RmQwdGc%7C%7C?hl=en",
+        "name": "Champat Choudhary",
+        "reviewer_id": "110273709946188937224",
+        "reviewer_profile": "https://www.google.com/maps/contrib/110273709946188937224?hl=en-GB",
+        "rating": 5,
+        "review_text": "Very Nice",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "5 months ago",
+        "published_at_date": "2026-01-25T04:02:17",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjV7g3E5asTmuv47ZgqeYWJ318xCCXkvaatoyZ3UAoWC6SsGcds=s1920",
+        "total_number_of_reviews_by_reviewer": 2,
+        "total_number_of_photos_by_reviewer": 11,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkRldsRlhaMkpCYlZaV1UwbFVOMWt0WDNwVVNVRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xkRldsRlhaMkpCYlZaV1UwbFVOMWt0WDNwVVNVRRAB!2m1!1s0x0:0x23b111ce87ad877c!3m1!1s2@1:CAIQACodChtycF9oOldFWlFXZ2JBbVZWU0lUN1ktX3pUSUE%7C%7C?hl=en",
+        "name": "AJAY SINGH",
+        "reviewer_id": "106303286461146838899",
+        "reviewer_profile": "https://www.google.com/maps/contrib/106303286461146838899?hl=en-GB",
+        "rating": 4,
+        "review_text": "Good place for party and marriage in budget, Avoid in 🌧️ session",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "11 months ago",
+        "published_at_date": "2025-07-14T03:11:39",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjWlhXU9qBCnhqt1eapjwYsdiC0zbOrq6ttUUbO09wYJwCr92PA=s1920",
+        "total_number_of_reviews_by_reviewer": 34,
+        "total_number_of_photos_by_reviewer": 75,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VPcnFqYnJsc3B5SHBnRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VPcnFqYnJsc3B5SHBnRRAB!2m1!1s0x0:0x23b111ce87ad877c!3m1!1s2@1:CIHM0ogKEOrqjbrlspyHpgE%7C%7C?hl=en",
+        "name": "Lalit Chaudhary",
+        "reviewer_id": "106758636597892245128",
+        "reviewer_profile": "https://www.google.com/maps/contrib/106758636597892245128?hl=en-GB",
+        "rating": 5,
+        "review_text": "Very good place for small functions and parties",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2025-06-07T07:20:18",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocL3Rl9VgA4kjXMs8X7BaIJCf20949mbxV5UYsRjTE24LQA4og=s1920",
+        "total_number_of_reviews_by_reviewer": 1,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoaFltWm1BRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURoaFltWm1BRRAB!2m1!1s0x0:0x23b111ce87ad877c!3m1!1s2@1:CIHM0ogKEICAgIDhhYmZmAE%7C%7C?hl=en",
+        "name": "Hari Choudhary",
+        "reviewer_id": "117921490749149520621",
+        "reviewer_profile": "https://www.google.com/maps/contrib/117921490749149520621?hl=en-GB",
+        "rating": 5,
+        "review_text": "It's good rate for marriage nd other birthday parties company meetings nd full facilities",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "3 years ago",
+        "published_at_date": "2023-03-13T08:57:50",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocIIkkEpaIm8Ity34-ZZ6iUfkEH9hu8qeJkDiRELxgQsWhNNJQ=s1920",
+        "total_number_of_reviews_by_reviewer": 16,
+        "total_number_of_photos_by_reviewer": 19,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2b0ppYldnEAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUN2b0ppYldnEAE!2m1!1s0x0:0x23b111ce87ad877c!3m1!1s2@1:CIHM0ogKEICAgICvoJibWg%7C%7C?hl=en",
+        "name": "Ashish gupta",
+        "reviewer_id": "111521901209930532392",
+        "reviewer_profile": "https://www.google.com/maps/contrib/111521901209930532392?hl=en-GB",
+        "rating": 1,
+        "review_text": "Very bad service 😔 not good everything",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2024-12-07T02:37:37",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocIYzbzIWuEp2VyCxTnmmoJHYR5Je6znVUxu3TZWf3zerMdHEw=s1920",
+        "total_number_of_reviews_by_reviewer": 3,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGcXVYaFh3EAE",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURGcXVYaFh3EAE!2m1!1s0x0:0x23b111ce87ad877c!3m1!1s2@1:CIHM0ogKEICAgIDFquXhXw%7C%7C?hl=en",
+        "name": "diineshsharrma Diinesh Sharrma",
+        "reviewer_id": "115416371734466332153",
+        "reviewer_profile": "https://www.google.com/maps/contrib/115416371734466332153?hl=en-GB",
+        "rating": 5,
+        "review_text": "Nice place for mid size party",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "2 years ago",
+        "published_at_date": "2023-11-05T15:04:24",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocKJqnAI2vaP21a6Ybma3JGEVbu2gB40zKktzLIgkTWinpso-w=s1920",
+        "total_number_of_reviews_by_reviewer": 15,
+        "total_number_of_photos_by_reviewer": 22,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQta3Bqam53RRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQta3Bqam53RRAB!2m1!1s0x0:0x23b111ce87ad877c!3m1!1s2@1:CIHM0ogKEICAgID-kpjjnwE%7C%7C?hl=en",
+        "name": "Ayush Gupta",
+        "reviewer_id": "114243238160949017846",
+        "reviewer_profile": "https://www.google.com/maps/contrib/114243238160949017846?hl=en-GB",
+        "rating": 4,
+        "review_text": "Nice and it is the train nice look",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "3 years ago",
+        "published_at_date": "2022-11-25T12:52:08",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjXwx9HdK0oIT5jgxZqy1FpI5Dlz7-a4SW4x9t_3wfmpK3_nd4dV=s1920",
+        "total_number_of_reviews_by_reviewer": 73,
+        "total_number_of_photos_by_reviewer": 512,
+        "is_local_guide": true,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2dU5fa2t3RRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR2dU5fa2t3RRAB!2m1!1s0x0:0x23b111ce87ad877c!3m1!1s2@1:CIHM0ogKEICAgIDvuN_kkwE%7C%7C?hl=en",
+        "name": "Akash Yadav",
+        "reviewer_id": "104625517515663276954",
+        "reviewer_profile": "https://www.google.com/maps/contrib/104625517515663276954?hl=en-GB",
+        "rating": 1,
+        "review_text": "everything is useless",
+        "original_language": "en",
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "a year ago",
+        "published_at_date": "2024-12-17T13:08:46",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjVzUnQFv945R9oWGsZA4i6kZ-_ERRe_YY1mnkN3uGEU3E65Fali=s1920",
+        "total_number_of_reviews_by_reviewer": 5,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      }
+    ],
+    "query": "banquet halls in naigaon east"
+  },
+  {
+    "place_id": "ChIJR4_yXruv5zsRbfyTI8FoimY",
+    "name": "Chaudhary banquet Hall",
+    "description": "A banquet hall is a large, versatile indoor space or building designed for hosting big social and corporate events like weddings, parties, and conferences, offering amenities such as catering, audio-visual equipment, flexible seating, and dedicated event management for a seamless, celebratory, or professional experience. These venues provide an elegant backdrop, often with customizable décor, designed to accommodate many guests and provide food service, from formal seated dinners to buffets.",
+    "is_spending_on_ads": false,
+    "link": "https://www.google.com/maps/place/Chaudhary+banquet+Hall/data=!4m7!3m6!1s0x3be7afbb5ef28f47:0x668a68c12393fc6d!8m2!3d19.3670083!4d72.8656319!16s%2Fg%2F11myl6k652!19sChIJR4_yXruv5zsRbfyTI8FoimY?authuser=0&rclk=1",
+    "reviews": 0,
+    "rating": 0,
+    "competitors": [],
+    "website": null,
+    "phone": null,
+    "phone_international": null,
+    "can_claim": false,
+    "owner": {
+      "id": "102836343493665493888",
+      "name": "Chaudhary banquet Hall (Owner)",
+      "link": "https://www.google.com/maps/contrib/102836343493665493888"
+    },
+    "owner_posts": [],
+    "featured_image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFmbrUHbuKYAeMOal1IfkOCVBJj6Au3funETeIQd760UNfCOWkHayt0NKVcsYp_n53Cv7oyZVs-efdqIrKsWGUVWN0AD0He04XOB5WpxTfN74l8kYVrQUgRK0b3Vcbw71VsRFR-_HvQO6iL=w1920-h1080-k-no",
+    "main_category": "Banquet hall",
+    "categories": [
+      "Banquet hall"
+    ],
+    "workday_timing": null,
+    "status": null,
+    "is_temporarily_closed": false,
+    "is_permanently_closed": false,
+    "closed_on": "Open All Days",
+    "address": "Naigaon - Juchandra Rd, near by power house, Tivari, Naigaon East, Naigaon, Vasai-Virar, Maharashtra 401208",
+    "price_range": null,
+    "reviews_per_rating": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJR4_yXruv5zsRbfyTI8FoimY&q=Chaudhary+banquet+Hall&authuser=0&hl=en&gl=IN",
+    "coordinates": {
+      "latitude": 19.3670083,
+      "longitude": 72.8656319
+    },
+    "plus_code": "9V88+R7 Naigaon East, Vasai-Virar, Maharashtra",
+    "detailed_address": {
+      "ward": "Tivari, Naigaon East",
+      "street": "Naigaon - Juchandra Rd, near by power house",
+      "city": "Naigaon, Vasai-Virar",
+      "postal_code": "401208",
+      "state": "Maharashtra",
+      "country_code": "IN"
+    },
+    "time_zone": "Asia/Calcutta",
+    "is_rental": false,
+    "cid": "7388833317389597805",
+    "data_id": "0x3be7afbb5ef28f47:0x668a68c12393fc6d",
+    "kgmid": "/g/11myl6k652",
+    "about": [],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "menu": null,
+    "reservations": [],
+    "order_online_links": [],
+    "gas_prices": [],
+    "image_count": 3,
+    "images": [
+      {
+        "about": "All",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFmbrUHbuKYAeMOal1IfkOCVBJj6Au3funETeIQd760UNfCOWkHayt0NKVcsYp_n53Cv7oyZVs-efdqIrKsWGUVWN0AD0He04XOB5WpxTfN74l8kYVrQUgRK0b3Vcbw71VsRFR-_HvQO6iL=w1920-h1080-k-no",
+        "published_at_date": "2026-01-02T16:00:00"
+      },
+      {
+        "about": "By owner",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGgjeiFDoyzQ2wxCGt89Jlcvu6yhJhv2EbbTZ4ZNzIrY5kNx_j3DQK3Eid280dZggtOZhyMNXCJVJwrylJ_VrrZ-DkLfbTEwYLc9ER9JfKxTsdr90-KZNFcqkqtTh7-3Uk8Mkz7p6utWWcC=w1920-h1080-k-no",
+        "published_at_date": "2026-01-02T16:00:00"
+      }
+    ],
+    "featured_images": [
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFmbrUHbuKYAeMOal1IfkOCVBJj6Au3funETeIQd760UNfCOWkHayt0NKVcsYp_n53Cv7oyZVs-efdqIrKsWGUVWN0AD0He04XOB5WpxTfN74l8kYVrQUgRK0b3Vcbw71VsRFR-_HvQO6iL=w1920-h1080-k-no",
+        "published_at_date": "2026-01-02T16:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGgjeiFDoyzQ2wxCGt89Jlcvu6yhJhv2EbbTZ4ZNzIrY5kNx_j3DQK3Eid280dZggtOZhyMNXCJVJwrylJ_VrrZ-DkLfbTEwYLc9ER9JfKxTsdr90-KZNFcqkqtTh7-3Uk8Mkz7p6utWWcC=w1920-h1080-k-no",
+        "published_at_date": "2026-01-02T16:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHEJ8M3M75hxLySW4hfCPCxJmqvZPU6bJpv9QKkBI-6Y0vxnxwSW237DiGf2BE_y5h2u-erwcb8wiERpsbDeu1SKi0k5xBpiyWB0bJyc52JoQT9lL5I0YmGYKVfSYKI_PgS7ITIfZ3N-jOR=w1920-h1080-k-no",
+        "published_at_date": "2026-01-02T16:00:00"
+      }
+    ],
+    "on_site_places": [],
+    "customer_updates": [],
+    "featured_question": null,
+    "review_keywords": [],
+    "featured_reviews": [],
+    "query": "banquet halls in naigaon east"
+  }
+]

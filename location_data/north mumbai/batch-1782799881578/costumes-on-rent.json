@@ -1,0 +1,272 @@
+[
+  {
+    "place_id": "ChIJA-nLGBSv5zsRxfYjsUizZw4",
+    "name": "Jeet Costumes",
+    "description": "We have huge variety of rented costumes for all your occasions and event. Let us help you with all your rental costume need.",
+    "is_spending_on_ads": false,
+    "link": "https://www.google.com/maps/place/Jeet+Costumes/@19.358057,72.845974,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7af1418cbe903:0xe67b348b123f6c5!8m2!3d19.358057!4d72.845974!16s%2Fg%2F11q4cj17w2?authuser=0&entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+    "reviews": 2,
+    "rating": 5,
+    "competitors": [
+      {
+        "name": "Sai umang fancy dress",
+        "suggested_link": "https://www.google.com/maps/search/Sai+umang+fancy+dress/@19.4056259,72.8461969,19z?authuser=0&entry=ttu",
+        "reviews": 38,
+        "rating": 4.6,
+        "main_category": "Costume store",
+        "categories": [
+          "Costume store"
+        ],
+        "coordinates": {
+          "latitude": 19.4056259,
+          "longitude": 72.8461969
+        }
+      },
+      {
+        "name": "ASHWIN DRESSWALA",
+        "suggested_link": "https://www.google.com/maps/search/ASHWIN+DRESSWALA/@19.380176,72.8322386,19z?authuser=0&entry=ttu",
+        "reviews": 14,
+        "rating": 4,
+        "main_category": "Dress and tuxedo rental service",
+        "categories": [
+          "Dress and tuxedo rental service",
+          "Costume rental service"
+        ],
+        "coordinates": {
+          "latitude": 19.380176,
+          "longitude": 72.8322386
+        }
+      },
+      {
+        "name": "Vishal Fancy Dresses",
+        "suggested_link": "https://www.google.com/maps/search/Vishal+Fancy+Dresses/@19.3774238,72.8274819,19z?authuser=0&entry=ttu",
+        "reviews": 9,
+        "rating": 5,
+        "main_category": "Full dress rental service",
+        "categories": [
+          "Full dress rental service"
+        ],
+        "coordinates": {
+          "latitude": 19.3774238,
+          "longitude": 72.8274819
+        }
+      },
+      {
+        "name": "Mudra Dresswala",
+        "suggested_link": "https://www.google.com/maps/search/Mudra+Dresswala/@19.3525097,72.8128519,19z?authuser=0&entry=ttu",
+        "reviews": 9,
+        "rating": 3.4,
+        "main_category": "Costume rental service",
+        "categories": [
+          "Costume rental service"
+        ],
+        "coordinates": {
+          "latitude": 19.3525097,
+          "longitude": 72.8128519
+        }
+      }
+    ],
+    "website": null,
+    "phone": "091584 10139",
+    "phone_international": "+91 91584 10139",
+    "can_claim": false,
+    "owner": {
+      "id": "112180534196281346800",
+      "name": "Jeet Costumes (Owner)",
+      "link": "https://www.google.com/maps/contrib/112180534196281346800"
+    },
+    "owner_posts": [],
+    "featured_image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEhxXdvpI0cniYpKdPWTIirjlj_lVlNKGzV5G3v0YF7-fhCds2ScMR6Ql4z_KfLjdhoL4cozsQiKANQGKjtyTVrtZDZfSiG5gT-Rovmu-fDA1xpoyuMYkD5C5c3qBrUVRWhtXU=w1920-h1080-k-no",
+    "main_category": "Clothing store",
+    "categories": [
+      "Clothing store"
+    ],
+    "workday_timing": "11 am–8 pm",
+    "status": null,
+    "is_temporarily_closed": false,
+    "is_permanently_closed": false,
+    "closed_on": "Open All Days",
+    "address": "Om Shanti Om C.H.S Station Road Residential Colony, Pareira Nagar, Naigaon East, Vasai-Virar, Maharashtra 401208",
+    "price_range": null,
+    "reviews_per_rating": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 2
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJA-nLGBSv5zsRxfYjsUizZw4&q=Jeet+Costumes&authuser=0&hl=en&gl=IN",
+    "coordinates": {
+      "latitude": 19.358057,
+      "longitude": 72.845974
+    },
+    "plus_code": "9R5W+69 Vasai-Virar, Maharashtra",
+    "detailed_address": {
+      "ward": "Pareira Nagar, Naigaon East",
+      "street": "Om Shanti Om C.H.S Station Road Residential Colony",
+      "city": "Vasai-Virar",
+      "postal_code": "401208",
+      "state": "Maharashtra",
+      "country_code": "IN"
+    },
+    "time_zone": "Asia/Calcutta",
+    "is_rental": false,
+    "cid": "1037995363923130053",
+    "data_id": "0x3be7af1418cbe903:0xe67b348b123f6c5",
+    "kgmid": "/g/11q4cj17w2",
+    "about": [],
+    "hours": [
+      {
+        "day": "Monday",
+        "times": [
+          "11 am–8 pm"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "times": [
+          "11 am–8 pm"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "times": [
+          "11 am–8 pm"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "times": [
+          "11 am–8 pm"
+        ]
+      },
+      {
+        "day": "Friday",
+        "times": [
+          "11 am–8 pm"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "times": [
+          "11 am–8 pm"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "times": [
+          "11 am–8 pm"
+        ]
+      }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "menu": null,
+    "reservations": [],
+    "order_online_links": [],
+    "gas_prices": [],
+    "image_count": 95,
+    "images": [
+      {
+        "about": "All",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEhxXdvpI0cniYpKdPWTIirjlj_lVlNKGzV5G3v0YF7-fhCds2ScMR6Ql4z_KfLjdhoL4cozsQiKANQGKjtyTVrtZDZfSiG5gT-Rovmu-fDA1xpoyuMYkD5C5c3qBrUVRWhtXU=w1920-h1080-k-no",
+        "published_at_date": "2024-03-14T17:00:00"
+      },
+      {
+        "about": "Inside",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF1aFBYbci6wzrnWhkw4BjCMKMFB8L55Ra9yLEYamkWVbpBxz8vcN3jo5_t17yJQrGMaYjJXthT288iyBxHUbIKqs9WQ_wokIhfA7-CMUtJwD7-QG9Yi0SIhZUZQdrGE0Qu3h5g=w1920-h1080-k-no",
+        "published_at_date": "2024-03-14T17:00:00"
+      },
+      {
+        "about": "Dress",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFggvQtTX7Xj6thtrNBTkYT-yjSW1D5wrz-NoFhrHEDxo-h5J9jYcYw3cKWABXF4kHwnC5RFjWdt4Vj-9Qj5FbtQ_X_Pne91u5g0xW-h5nAOk8XC_uFllEG-ArCeB2vzI2GxLlipQ=w1920-h1080-k-no",
+        "published_at_date": "2024-03-14T17:00:00"
+      },
+      {
+        "about": "By owner",
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEd2Qx_E8_WWnSXME6vFVYUlrgYLO1p10us0v_qdbzpw8QlgHQETUb2qqlDIf2PbtXcLfPQq__NZspRfGJsbNd9KywOo4Mn2PKHUJthLLot-roSWo1ZhA5yejM1x5_i-AcdILOt=w1920-h1080-k-no",
+        "published_at_date": "2023-01-30T12:00:00"
+      },
+      {
+        "about": "Street View & 360°",
+        "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=n5_-1rirplDR9JOEC1hO6g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=45.21373&pitch=0&thumbfov=100",
+        "published_at_date": "2026-04-09T06:00:00"
+      }
+    ],
+    "featured_images": [
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEhxXdvpI0cniYpKdPWTIirjlj_lVlNKGzV5G3v0YF7-fhCds2ScMR6Ql4z_KfLjdhoL4cozsQiKANQGKjtyTVrtZDZfSiG5gT-Rovmu-fDA1xpoyuMYkD5C5c3qBrUVRWhtXU=w1920-h1080-k-no",
+        "published_at_date": "2024-03-14T17:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEd2Qx_E8_WWnSXME6vFVYUlrgYLO1p10us0v_qdbzpw8QlgHQETUb2qqlDIf2PbtXcLfPQq__NZspRfGJsbNd9KywOo4Mn2PKHUJthLLot-roSWo1ZhA5yejM1x5_i-AcdILOt=w1920-h1080-k-no",
+        "published_at_date": "2023-01-30T12:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFggvQtTX7Xj6thtrNBTkYT-yjSW1D5wrz-NoFhrHEDxo-h5J9jYcYw3cKWABXF4kHwnC5RFjWdt4Vj-9Qj5FbtQ_X_Pne91u5g0xW-h5nAOk8XC_uFllEG-ArCeB2vzI2GxLlipQ=w1920-h1080-k-no",
+        "published_at_date": "2024-03-14T17:00:00"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEXYJ8IKoDdcQ74vREROnCuCHh296ONdBd-0pi-8aUWiR0R4oeky_UfPXWz9DA_Ryd-0s9DT4Sbyjq2r6Waz6_04iAncBxe0zddRvbrXcIOEsbFlsgk06O9qacJ6CbO5Fe7DSM2=w1920-h1080-k-no",
+        "published_at_date": "2022-11-16T04:00:00"
+      }
+    ],
+    "on_site_places": [],
+    "customer_updates": [],
+    "featured_question": null,
+    "review_keywords": [],
+    "featured_reviews": [
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtZ29XeHZRRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMtZ29XeHZRRRAB!2m1!1s0x0:0xe67b348b123f6c5!3m1!1s2@1:CIHM0ogKEICAgIC-goWxvQE%7C%7C?hl=en",
+        "name": "Preeti Sharma",
+        "reviewer_id": "117499353381011547895",
+        "reviewer_profile": "https://www.google.com/maps/contrib/117499353381011547895?hl=en-GB",
+        "rating": 5,
+        "review_text": null,
+        "original_language": null,
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "3 years ago",
+        "published_at_date": "2022-10-30T08:40:48",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a/ACg8ocL1ddwRnemtuUa1YvUjf7-U2V2apmIGuBypzu1XgBt-DL1SeA=s1920",
+        "total_number_of_reviews_by_reviewer": 3,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1NzVmbzVRRRAB",
+        "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN1NzVmbzVRRRAB!2m1!1s0x0:0xe67b348b123f6c5!3m1!1s2@1:CIHM0ogKEICAgICu75fo5QE%7C%7C?hl=en",
+        "name": "Tanmay Shirke",
+        "reviewer_id": "101733256652003839441",
+        "reviewer_profile": "https://www.google.com/maps/contrib/101733256652003839441?hl=en-GB",
+        "rating": 5,
+        "review_text": null,
+        "original_language": null,
+        "review_translated_text": null,
+        "translated_language": null,
+        "published_at": "3 years ago",
+        "published_at_date": "2022-08-09T16:25:45",
+        "response_from_owner_text": null,
+        "response_from_owner_ago": null,
+        "response_from_owner_date": null,
+        "response_from_owner_translated_text": null,
+        "avatar_link": "https://lh3.googleusercontent.com/a-/ALV-UjXL9exZUEGRWXjlRvOiwyWPMqW9buI7_Z9Nt26X4dO9Ffm7ZGzoBQ=s1920",
+        "total_number_of_reviews_by_reviewer": 2,
+        "total_number_of_photos_by_reviewer": 0,
+        "is_local_guide": false,
+        "experience_details": [],
+        "review_photos": [],
+        "review_origin": "google"
+      }
+    ],
+    "query": "costumes on rent in naigaon east"
+  }
+]

@@ -1,0 +1,1312 @@
+{
+  "name": "Uttan",
+  "seo_title": "Uttan Mumbai - Complete Local Guide 2026 | Beaches, Food, Property, Schools, Resorts | Mumbai96",
+  "seo_description": "Complete guide to Uttan, Mira-Bhayandar - sub-areas (Pali, Dongri, Chowk, Tarodi), beaches, fishing harbours, beach resorts, churches, property prices, schools, clinics, commute and 100+ local services. Mumbai96 - Mumbaikars' Very Own Platform.",
+  "seo_keywords": "Uttan Mumbai, Uttan beach, Uttan guide, things to do in Uttan, Pali beach Uttan, Dongri Uttan, beach resorts in Uttan, fishing village Uttan, Velankanni Church Uttan, restaurants in Uttan, seafood in Uttan, property prices Uttan, schools in Uttan, clinics in Uttan, commute from Uttan, Uttan pin code, Uttan area guide 2026",
+  "location_icon": "https://mumbai96.vercel.app/uttan/images/og-uttan.jpg",
+  "image": "https://mumbai96.vercel.app/uttan/images/og-uttan.jpg",
+  "about": "Uttan is a coastal fishing-village belt at the northwestern tip of Mira-Bhayandar, north of Mumbai. Known for its beaches, Koli and East Indian communities, beach resorts and churches.",
+  "population": "100+l",
+  "municipal_body": "",
+  "food_tags": "",
+  "sub_areas": [],
+  "character_vibe": [],
+  "property_prices": [],
+  "places_to_visit": [],
+  "food": [],
+  "night_life": [],
+  "resident_profile": [],
+  "schools": [],
+  "hospitals": [],
+  "major_employers": [],
+  "grouped_listings": {},
+  "category_groups": [],
+  "travelling_connectivity": [],
+  "residential_societies": [],
+  "local_events": [],
+  "upcoming_projects": [],
+  "civic_data": {
+    "region": "North Mumbai",
+    "ward": "",
+    "assembly_constituency": ""
+  },
+  "area_report_card": {},
+  "living_style": [],
+  "faq": [
+    {
+      "question": "What is Uttan known for?",
+      "answer": "Uttan is known for its scenic beaches (Uttan, Pali and Dongri), traditional Koli fishing villages, the East Indian Catholic community, beach resorts and weekend getaways, churches like Our Lady of the Sea, and a quiet, semi-rural coastal character at the northwestern tip of Mira-Bhayandar."
+    },
+    {
+      "question": "What is the pin code of Uttan?",
+      "answer": "Uttan comes under pin code 401106, which covers the Uttan, Pali, Dongri, Chowk and Tarodi village belt."
+    },
+    {
+      "question": "What are the sub-areas within Uttan?",
+      "answer": "The main pockets within Uttan are Uttan Village, Pali, Dongri, Chowk, Tarodi and the Uttan-Bhayandar road belt that connects to the rest of Mira-Bhayandar."
+    },
+    {
+      "question": "What is the property price in Uttan?",
+      "answer": "Property in Uttan is largely village homes, bungalows, NA plots and a few newer projects. Indicative rates range from ₹40-60 lakh for a 1BHK in newer buildings to ₹70 lakh-1.3 Cr for independent houses and sea-facing plots, with weekend villas commanding a premium (as of May 2026)."
+    },
+    {
+      "question": "How to commute from Uttan?",
+      "answer": "Uttan has no railway station of its own - the nearest is Bhayandar (about 7-9 km), reached by MBMC buses, autos and share autos via the Uttan-Bhayandar road. From Bhayandar, the Western Railway connects to the rest of Mumbai."
+    },
+    {
+      "question": "Which hospitals are near Uttan?",
+      "answer": "Uttan has local clinics and small nursing homes, while major hospitals like Jaslok and Apex (Bhayandar) and Bhaktivedanta and Wockhardt (Mira Road) are the nearest large facilities."
+    },
+    {
+      "question": "Which beaches are in Uttan?",
+      "answer": "Uttan is home to Uttan Beach, Pali Beach and Dongri Beach - relatively quiet, scenic beaches popular for weekend getaways, beach resorts and film shoots."
+    },
+    {
+      "question": "How do I find the best seafood restaurants in Uttan?",
+      "answer": "Browse Mumbai96's Uttan listings, read reviews from locals and call directly. Our verified directory makes it easy."
+    }
+  ],
+  "categories": [
+    {
+      "slug": "seafood-restaurants",
+      "name": "Seafood Restaurants",
+      "emoji": "🦞",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "east-indian-restaurants",
+      "name": "East Indian Restaurants",
+      "emoji": "🍲",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "beach-shacks",
+      "name": "Beach Shacks",
+      "emoji": "🏖️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "street-food",
+      "name": "Street Food",
+      "emoji": "🌮",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "cafes-coffee-shops",
+      "name": "Cafes & Coffee Shops",
+      "emoji": "☕",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "bakeries",
+      "name": "Bakeries",
+      "emoji": "🥐",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "sweet-shops",
+      "name": "Sweet Shops",
+      "emoji": "🍬",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "ice-cream-shops",
+      "name": "Ice Cream Shops",
+      "emoji": "🍦",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "juice-shops",
+      "name": "Juice Shops",
+      "emoji": "🥤",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "vegetarian-restaurants",
+      "name": "Vegetarian Restaurants",
+      "emoji": "🥗",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "fast-food-restaurants",
+      "name": "Fast Food Restaurants",
+      "emoji": "🍔",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "fish-markets",
+      "name": "Fish Markets",
+      "emoji": "🐟",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "real-estate-agents",
+      "name": "Real Estate Agents",
+      "emoji": "🏠",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "houses-for-rent",
+      "name": "Houses for Rent",
+      "emoji": "🏢",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "plots-for-sale",
+      "name": "Plots for Sale",
+      "emoji": "🔑",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "villas-for-rent",
+      "name": "Villas for Rent",
+      "emoji": "🏡",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "homestays",
+      "name": "Homestays",
+      "emoji": "🛏️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "property-management",
+      "name": "Property Management",
+      "emoji": "📋",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "pharmacies",
+      "name": "Pharmacies",
+      "emoji": "💊",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "eye-doctors",
+      "name": "Eye Doctors",
+      "emoji": "👁️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "physiotherapists",
+      "name": "Physiotherapists",
+      "emoji": "🩹",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "ayurvedic-doctors",
+      "name": "Ayurvedic Doctors",
+      "emoji": "🌿",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "homeopathy-doctors",
+      "name": "Homeopathy Doctors",
+      "emoji": "🫙",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "clinics",
+      "name": "Clinics",
+      "emoji": "🏥",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "diagnostic-centres",
+      "name": "Diagnostic Centres",
+      "emoji": "🔬",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "dental-clinics",
+      "name": "Dental Clinics",
+      "emoji": "🪥",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "general-physicians",
+      "name": "General Physicians",
+      "emoji": "🩺",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "clothing-stores",
+      "name": "Clothing Stores",
+      "emoji": "👗",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "jewellery-shops",
+      "name": "Jewellery Shops",
+      "emoji": "💍",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "mobile-phone-shops",
+      "name": "Mobile Phone Shops",
+      "emoji": "📱",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "electronics-stores",
+      "name": "Electronics Stores",
+      "emoji": "💻",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "optical-shops",
+      "name": "Optical Shops",
+      "emoji": "👓",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "grocery-stores",
+      "name": "Grocery Stores",
+      "emoji": "🛒",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "fishing-supplies",
+      "name": "Fishing Supplies",
+      "emoji": "🎣",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "sports-goods-stores",
+      "name": "Sports Goods Stores",
+      "emoji": "⚽",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "book-stores",
+      "name": "Book Stores",
+      "emoji": "📚",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "stationery-stores",
+      "name": "Stationery Stores",
+      "emoji": "✏️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "baby-products-stores",
+      "name": "Baby Products Stores",
+      "emoji": "🍼",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "hardware-stores",
+      "name": "Hardware Stores",
+      "emoji": "🪛",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "pest-control",
+      "name": "Pest Control",
+      "emoji": "🐛",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "home-cleaning-services",
+      "name": "Home Cleaning Services",
+      "emoji": "🧹",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "painting-services",
+      "name": "Painting Services",
+      "emoji": "🖌️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "laundry-dry-cleaners",
+      "name": "Laundry & Dry Cleaners",
+      "emoji": "👕",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "water-supply-services",
+      "name": "Water Supply Services",
+      "emoji": "💧",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "cctv-installation",
+      "name": "CCTV Installation",
+      "emoji": "📷",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "borewell-services",
+      "name": "Borewell Services",
+      "emoji": "🕳️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "solar-installers",
+      "name": "Solar Installers",
+      "emoji": "🔆",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "car-dealers",
+      "name": "Car Dealers",
+      "emoji": "🚕",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "bike-dealers",
+      "name": "Bike Dealers",
+      "emoji": "🛵",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "car-wash-services",
+      "name": "Car Wash Services",
+      "emoji": "🚿",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "beach-resorts",
+      "name": "Beach Resorts",
+      "emoji": "🏝️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "banquet-lawns",
+      "name": "Banquet Lawns",
+      "emoji": "⛺",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "boat-rides",
+      "name": "Boat Rides",
+      "emoji": "🚤",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "film-shoot-locations",
+      "name": "Film Shoot Locations",
+      "emoji": "🎬",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "photographers",
+      "name": "Photographers",
+      "emoji": "📸",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "videographers",
+      "name": "Videographers",
+      "emoji": "🎥",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "pre-wedding-shoots",
+      "name": "Pre-Wedding Shoots",
+      "emoji": "💑",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "petrol-pumps",
+      "name": "Petrol Pumps",
+      "emoji": "⛽",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "auto-rickshaw-services",
+      "name": "Auto Rickshaw Services",
+      "emoji": "🛺",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "cars-on-rent",
+      "name": "Cars on Rent",
+      "emoji": "🚘",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "car-repair-shops",
+      "name": "Car Repair Shops",
+      "emoji": "🔨",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "bike-repair-shops",
+      "name": "Bike Repair Shops",
+      "emoji": "🛠️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "creches-daycare",
+      "name": "Creches & Daycare",
+      "emoji": "🪆",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "playschools",
+      "name": "Playschools",
+      "emoji": "🧸",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "schools",
+      "name": "Schools",
+      "emoji": "🏫",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "tuition-classes",
+      "name": "Tuition Classes",
+      "emoji": "📖",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "spoken-english-classes",
+      "name": "Spoken English Classes",
+      "emoji": "🗣️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "computer-classes",
+      "name": "Computer Classes",
+      "emoji": "⌨️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "swimming-classes",
+      "name": "Swimming Classes",
+      "emoji": "🏊",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "courier-services",
+      "name": "Courier Services",
+      "emoji": "🚚",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "music-classes",
+      "name": "Music Classes",
+      "emoji": "🎵",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "dance-classes",
+      "name": "Dance Classes",
+      "emoji": "💃",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "event-photographers",
+      "name": "Event Photographers",
+      "emoji": "🤳",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "tour-guides",
+      "name": "Tour Guides",
+      "emoji": "🗺️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "water-sports",
+      "name": "Water Sports",
+      "emoji": "🏄",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "churches",
+      "name": "Churches",
+      "emoji": "⛪",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "temples",
+      "name": "Temples",
+      "emoji": "🛕",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "chapels-crosses",
+      "name": "Chapels & Crosses",
+      "emoji": "✝️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "astrologers",
+      "name": "Astrologers",
+      "emoji": "🔮",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "vastu-consultants",
+      "name": "Vastu Consultants",
+      "emoji": "🧭",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "heritage-walks",
+      "name": "Heritage Walks",
+      "emoji": "🏛️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "fishing-cooperatives",
+      "name": "Fishing Cooperatives",
+      "emoji": "🐟",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "community-halls",
+      "name": "Community Halls",
+      "emoji": "🎪",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "yoga-meditation-centres",
+      "name": "Yoga & Meditation",
+      "emoji": "🧘‍♂️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "self-help-groups",
+      "name": "Self Help Groups",
+      "emoji": "🤲",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "dentists",
+      "name": "Dentists",
+      "emoji": "🦷",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "skin-doctors",
+      "name": "Skin Doctors",
+      "emoji": "🧴",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "ent-doctors",
+      "name": "ENT Doctors",
+      "emoji": "👂",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "ortho-doctors",
+      "name": "Ortho Doctors",
+      "emoji": "🩼",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "heart-doctors",
+      "name": "Heart Doctors",
+      "emoji": "❤️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "gynecologist-obstetricians",
+      "name": "Gynecologists",
+      "emoji": "👩‍⚕️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "pediatrician-child-doctors",
+      "name": "Pediatricians",
+      "emoji": "🧒",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "maternity-clinics",
+      "name": "Maternity Clinics",
+      "emoji": "🤰",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "medical-pathology-labs",
+      "name": "Pathology Labs",
+      "emoji": "🫧",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "veterinary-doctors",
+      "name": "Veterinary Doctors",
+      "emoji": "🐶",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "hospitals",
+      "name": "Hospitals",
+      "emoji": "🏥",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "ambulance-services",
+      "name": "Ambulance Services",
+      "emoji": "🚑",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "psychologists",
+      "name": "Psychologists",
+      "emoji": "🧠",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "spas",
+      "name": "Spas",
+      "emoji": "💆",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "salons",
+      "name": "Salons",
+      "emoji": "✂️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "beauty-parlours",
+      "name": "Beauty Parlours",
+      "emoji": "💄",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "makeover-artists",
+      "name": "Makeover Artists",
+      "emoji": "🪞",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "bridal-makeup-artists",
+      "name": "Bridal Makeup Artists",
+      "emoji": "👰",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "gyms",
+      "name": "Gyms",
+      "emoji": "💪",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "personal-trainers",
+      "name": "Personal Trainers",
+      "emoji": "🏋️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "yoga-classes",
+      "name": "Yoga Classes",
+      "emoji": "🧘",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "dietitians-nutritionists",
+      "name": "Dietitians & Nutritionists",
+      "emoji": "🥦",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "zumba-classes",
+      "name": "Zumba Classes",
+      "emoji": "🕺",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "wedding-planners",
+      "name": "Wedding Planners",
+      "emoji": "💒",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "beach-wedding-venues",
+      "name": "Beach Wedding Venues",
+      "emoji": "🏖️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "destination-wedding-planners",
+      "name": "Destination Wedding Planners",
+      "emoji": "✈️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "birthday-event-planners",
+      "name": "Birthday Event Planners",
+      "emoji": "🎈",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "anniversary-event-planners",
+      "name": "Anniversary Planners",
+      "emoji": "🎊",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "caterers",
+      "name": "Caterers",
+      "emoji": "🍽️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "seafood-caterers",
+      "name": "Seafood Caterers",
+      "emoji": "🦐",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "banquet-halls",
+      "name": "Banquet Halls",
+      "emoji": "🏩",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "tent-decorators",
+      "name": "Tent & Decorators",
+      "emoji": "⛺",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "live-bands-djs",
+      "name": "Live Bands & DJs",
+      "emoji": "🎶",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "sound-light-services",
+      "name": "Sound & Light Services",
+      "emoji": "🔊",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "florists",
+      "name": "Florists",
+      "emoji": "💐",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "cake-shops",
+      "name": "Cake Shops",
+      "emoji": "🎂",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "costumes-on-rent",
+      "name": "Costumes on Rent",
+      "emoji": "🎭",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "tattoo-artists",
+      "name": "Tattoo Artists",
+      "emoji": "🪡",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "pet-doctors",
+      "name": "Pet Doctors",
+      "emoji": "🐶",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "pet-food-shops",
+      "name": "Pet Food Shops",
+      "emoji": "🐟",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "animal-shelters",
+      "name": "Animal Shelters",
+      "emoji": "🐕",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "elders-care",
+      "name": "Elders Care",
+      "emoji": "👴",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "women-care-centres",
+      "name": "Women Care Centres",
+      "emoji": "🩷",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "ngos",
+      "name": "NGOs",
+      "emoji": "🤝",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "lifeguard-services",
+      "name": "Lifeguard Services",
+      "emoji": "🛟",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "security-services",
+      "name": "Security Services",
+      "emoji": "🔐",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "police-stations",
+      "name": "Police Stations",
+      "emoji": "🚓",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "carpenters",
+      "name": "Carpenters",
+      "emoji": "🪚",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "plumbers",
+      "name": "Plumbers",
+      "emoji": "🪠",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "electricians",
+      "name": "Electricians",
+      "emoji": "⚡",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "boat-repair",
+      "name": "Boat Repair",
+      "emoji": "🛶",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "welders-fabricators",
+      "name": "Welders & Fabricators",
+      "emoji": "🔩",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "masons-contractors",
+      "name": "Masons & Contractors",
+      "emoji": "🧱",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "guest-houses",
+      "name": "Guest Houses",
+      "emoji": "🛏️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "tiffin-services",
+      "name": "Tiffin Services",
+      "emoji": "🥡",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "driving-schools",
+      "name": "Driving Schools",
+      "emoji": "🚦",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "packers-and-movers",
+      "name": "Packers & Movers",
+      "emoji": "🏚️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "ac-service-and-repair-experts",
+      "name": "AC Service & Repair",
+      "emoji": "❄️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "mobile-phone-repair-experts",
+      "name": "Mobile Phone Repair",
+      "emoji": "📱",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "appliance-repair",
+      "name": "Appliance Repair",
+      "emoji": "🧰",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "gardeners-landscaping",
+      "name": "Gardeners & Landscaping",
+      "emoji": "🌴",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "tailors",
+      "name": "Tailors",
+      "emoji": "🧵",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "maths-tutorials",
+      "name": "Maths Tutorials",
+      "emoji": "➗",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "science-classes",
+      "name": "Science Classes",
+      "emoji": "🔭",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "cooking-classes",
+      "name": "Cooking Classes",
+      "emoji": "🍳",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "water-tanker-services",
+      "name": "Water Tanker Services",
+      "emoji": "🚛",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "scrap-dealers",
+      "name": "Scrap Dealers",
+      "emoji": "♻️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "chartered-accountants-ca",
+      "name": "Chartered Accountants",
+      "emoji": "🧾",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "income-tax-consultants",
+      "name": "Income Tax Consultants",
+      "emoji": "📊",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "lawyers-and-advocates",
+      "name": "Lawyers & Advocates",
+      "emoji": "⚖️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "property-lawyers",
+      "name": "Property Lawyers",
+      "emoji": "📜",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "personal-loan-providers",
+      "name": "Personal Loan Providers",
+      "emoji": "💳",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "gold-loan-providers",
+      "name": "Gold Loan Providers",
+      "emoji": "🥇",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "home-loan-providers",
+      "name": "Home Loan Providers",
+      "emoji": "🏡",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "business-loan-providers",
+      "name": "Business Loan Providers",
+      "emoji": "🏦",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "loan-against-property",
+      "name": "Loan Against Property",
+      "emoji": "📃",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "health-insurance-providers",
+      "name": "Health Insurance",
+      "emoji": "🛡️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "term-life-insurance-providers",
+      "name": "Life Insurance",
+      "emoji": "🌱",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "boat-insurance",
+      "name": "Boat Insurance",
+      "emoji": "⛵",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "car-insurance-providers",
+      "name": "Car Insurance",
+      "emoji": "💥",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "bike-insurance-providers",
+      "name": "Bike Insurance",
+      "emoji": "🚲",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "travel-agents",
+      "name": "Travel Agents",
+      "emoji": "🧳",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "visa-consultants",
+      "name": "Visa Consultants",
+      "emoji": "🛂",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "passport-agents",
+      "name": "Passport Agents",
+      "emoji": "🛃",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "architects",
+      "name": "Architects",
+      "emoji": "📐",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "interior-designers",
+      "name": "Interior Designers",
+      "emoji": "🪟",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "building-contractors",
+      "name": "Building Contractors",
+      "emoji": "🏗️",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "furniture-and-decor-stores",
+      "name": "Furniture & Decor Stores",
+      "emoji": "🪵",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "light-decor-shops",
+      "name": "Light & Decor Shops",
+      "emoji": "💡",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "furniture-on-rent",
+      "name": "Furniture on Rent",
+      "emoji": "🪑",
+      "image": "",
+      "description": ""
+    }
+  ],
+  "best_services": [
+    {
+      "heading": "Why Uttan residents trust Mumbai96",
+      "text": "Unlike generic national directories, Mumbai96 focuses exclusively on Mumbai-region localities. Every listing in Uttan is verified for contact accuracy, and our review system ensures only genuine people leave feedback. Whether you live in Uttan's villages or are planning a weekend getaway, Mumbai96 is your local companion."
+    },
+    {
+      "heading": "Services available in Uttan",
+      "text": "From coastal essentials (seafood restaurants, fish markets, beach resorts, homestays) to home services (plumbers, electricians, carpenters, boat repair), from healthcare (clinics, dentists, general physicians) to events (caterers, banquet halls, wedding venues) - Mumbai96 covers what Uttan residents and visitors need, all in one place."
+    },
+    {
+      "heading": "About Uttan",
+      "text": "Uttan is a coastal fishing-village belt at the northwestern tip of the Mira-Bhayandar Municipal Corporation. Known for its beaches, Koli and East Indian communities, resorts and churches, it offers a rare slice of calm, seaside living near Mumbai. Mumbai96 is here to connect this close-knit community and its weekend visitors with the local services they need."
+    }
+  ],
+  "nearby_locations": [],
+  "source_file": "/home/bpl_borivali/mumbai96/ui/src/data/location/75 locations pages/north/uttan.html"
+}

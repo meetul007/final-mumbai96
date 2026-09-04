@@ -1,0 +1,115 @@
+{% extends "base.html" %}
+
+{% block title %}Edit Listing {{ listing.item_name }}{% endblock %}
+
+{% block content %}
+    <h1 class="h3 mb-4">Edit Listing: {{ listing.item_name }}</h1>
+
+    <form method="post" class="card">
+        <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+        <div class="card-body">
+
+            <div class="row g-3 mb-4">
+                <div class="col-md-3">
+                    <label class="form-label">Type</label>
+                    <select name="type" class="form-select">
+                        <option value="lost" {% if listing.type == 'lost' %}selected{% endif %}>Lost</option>
+                        <option value="found" {% if listing.type == 'found' %}selected{% endif %}>Found</option>
+                    </select>
+                </div>
+                <div class="col-md-6">
+                    <label class="form-label">Item Name</label>
+                    <input name="item_name" class="form-control" value="{{ listing.item_name }}">
+                </div>
+                <div class="col-md-3">
+                    <label class="form-label">Status</label>
+                    <select name="status" class="form-select">
+                        <option value="open" {% if listing.status == 'open' %}selected{% endif %}>Open</option>
+                        <option value="claimed" {% if listing.status == 'claimed' %}selected{% endif %}>Claimed</option>
+                        <option value="claim_requested" {% if listing.status == 'claim_requested' %}selected{% endif %}>Claim Requested</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="row g-3 mb-4">
+                <div class="col-md-4">
+                    <label class="form-label">Category</label>
+                    <select name="category" class="form-select">
+                        <option>Phone / Electronics</option>
+                        <option>Wallet / Purse</option>
+                        <option>Keys</option>
+                        <option>Pet / Animal</option>
+                        <option>Documents (Aadhaar/PAN etc)</option>
+                        <option>Bag / Luggage</option>
+                        <option>Jewellery</option>
+                        <option>Vehicle</option>
+                        <option>Other</option>
+                    </select>
+                </div>
+                <div class="col-md-4">
+                    <label class="form-label">Area / Location</label>
+                    <select name="area" class="form-select">
+                        <option>Andheri</option><option>Bandra</option><option>Borivali</option><option>Chembur</option>
+                        <option>Churchgate / Fort</option><option>Colaba</option><option>Dadar</option><option>Dahisar</option>
+                        <option>Dharavi</option><option>Ghatkopar</option><option>Goregaon</option><option>Juhu</option>
+                        <option>Kandivali</option><option>Kurla</option><option>Lower Parel</option><option>Malad</option>
+                        <option>Matunga</option><option>Mulund</option><option>Powai</option><option>Santacruz</option>
+                        <option>Sion</option><option>Thane (nearby)</option><option>Versova</option><option>Vikhroli</option>
+                        <option>Vile Parle</option><option>Wadala</option><option>Worli</option><option>Other</option>
+                    </select>
+                </div>
+                <div class="col-md-4">
+                    <label class="form-label">Date Lost/Found</label>
+                    <input name="date_lost_found" type="date" class="form-control"
+                           value="{{ listing.date_lost_found.strftime('%Y-%m-%d') if listing.date_lost_found else '' }}">
+                </div>
+            </div>
+
+            <div class="mb-4">
+                <label class="form-label">Description</label>
+                <textarea name="description" class="form-control" rows="4">{{ listing.description or '' }}</textarea>
+            </div>
+
+            <div class="row g-3 mb-4">
+                <div class="col-md-4">
+                    <label class="form-label">Reporter Name</label>
+                    <input name="reporter_name" class="form-control" value="{{ listing.reporter_name }}">
+                </div>
+                <div class="col-md-4">
+                    <label class="form-label">Contact Info</label>
+                    <input name="contact_info" class="form-control" value="{{ listing.contact_info }}">
+                </div>
+                <div class="col-md-4">
+                    <label class="form-label">Handover</label>
+                    <select name="handover" class="form-select">
+                        <option value="">—</option>
+                        <option value="self" {% if listing.handover == 'self' %}selected{% endif %}>Self (Holding It)</option>
+                        <option value="police" {% if listing.handover == 'police' %}selected{% endif %}>Handed to Police</option>
+                        <option value="security" {% if listing.handover == 'security' %}selected{% endif %}>Handed to Security</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="row g-3 mb-4">
+                <div class="col-md-6">
+                    <label class="form-label">Handover Location</label>
+                    <input name="handover_location" class="form-control" value="{{ listing.handover_location or '' }}">
+                </div>
+                <div class="col-md-3">
+                    <label class="form-label">&nbsp;</label>
+                    <div class="form-check">
+                        <input type="checkbox" name="is_active" class="form-check-input" value="1" id="isActive"
+                               {% if listing.is_active %}checked{% endif %}>
+                        <label class="form-check-label" for="isActive">Active</label>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="card-footer text-end">
+            <a href="{{ url_for('admin.lost_found_listings') }}" class="btn btn-light">Cancel</a>
+            <button type="submit" class="btn btn-primary">Save</button>
+        </div>
+    </form>
+{% endblock %}

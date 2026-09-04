@@ -1,0 +1,334 @@
+{% extends "base.html" %}
+
+{% block title %}{{ 'Edit' if celebrity else 'Create' }} Celebrity{% endblock %}
+
+{% block content %}
+    <h1 class="h3 mb-4">{{ 'Edit' if celebrity else 'Create' }} Celebrity</h1>
+
+    <form method="post" class="card" enctype="multipart/form-data">
+        <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+        <div class="card-body">
+            <div class="p-3 mb-4 border rounded" style="background:#fafafa;">
+                <h5 class="fw-semibold mb-3">Celebrity Photo</h5>
+                <div class="row g-3 align-items-start">
+                    <div class="col-md-8">
+                        <label class="form-label">Upload Image</label>
+                        <input type="file" name="celebrity_image_file" id="celebrity_image_file" class="form-control"
+                               accept="image/png, image/jpeg, image/webp"
+                               onchange="if(this.files&&this.files[0]){document.getElementById('img_preview').src = URL.createObjectURL(this.files[0]);}">
+                        <div class="form-text">Upload a JPG/PNG/WEBP file named after the celebrity (e.g. akshay-kumar.jpg) — it's auto-compressed, converted to WebP, and saved as <code>{{ celebrity.slug if celebrity else 'slug' }}.webp</code>. This overrides the URL below if both are provided.</div>
+
+                        <label class="form-label mt-3">Or paste Celebrity Image URL</label>
+                        <input name="wikipedia_image_url" id="wikipedia_image_url" class="form-control"
+                               value="{{ celebrity.wikipedia_image_url if celebrity else data.wikipedia_image_url if data else '' }}"
+                               oninput="document.getElementById('img_preview').src = this.value;">
+                        <div class="form-text">Paste any direct image URL (Wikipedia, Google, etc.) — only used if no file is uploaded above.</div>
+                    </div>
+                    <div class="col-md-4">
+                        <img id="img_preview"
+                             src="{{ celebrity.wikipedia_image_url if celebrity else data.wikipedia_image_url if data else '' }}"
+                             style="max-width:160px; max-height:160px; border-radius:6px; border:1px solid #ddd; display:block;"
+                             onerror="this.style.display='none'" onload="this.style.display='block'">
+                    </div>
+                </div>
+            </div>
+
+            <h5 class="fw-semibold mb-3">Basic Information</h5>
+            <div class="row g-3 mb-4">
+                <div class="col-md-4">
+                    <label class="form-label">Full Name <span class="text-danger">*</span></label>
+                    <input name="full_name" class="form-control" value="{{ celebrity.full_name if celebrity else data.full_name if data else '' }}">
+                    {% if errors and errors.full_name %}<div class="text-danger small">{{ errors.full_name }}</div>{% endif %}
+                </div>
+                <div class="col-md-4">
+                    <label class="form-label">Slug <span class="text-danger">*</span></label>
+                    <input name="slug" class="form-control" value="{{ celebrity.slug if celebrity else data.slug if data else '' }}">
+                    {% if errors and errors.slug %}<div class="text-danger small">{{ errors.slug }}</div>{% endif %}
+                </div>
+                <div class="col-md-2">
+                    <label class="form-label">Emoji</label>
+                    <input name="emoji" class="form-control" value="{{ celebrity.emoji if celebrity else data.emoji if data else '' }}">
+                </div>
+                <div class="col-md-2">
+                    <label class="form-label">Age</label>
+                    <input name="age" type="number" class="form-control" value="{{ celebrity.age if celebrity else data.age if data else '' }}">
+                </div>
+            </div>
+
+            <div class="row g-3 mb-4">
+                <div class="col-md-3">
+                    <label class="form-label">First Name</label>
+                    <input name="first_name" class="form-control" value="{{ celebrity.first_name if celebrity else data.first_name if data else '' }}">
+                </div>
+                <div class="col-md-3">
+                    <label class="form-label">Last Name</label>
+                    <input name="last_name" class="form-control" value="{{ celebrity.last_name if celebrity else data.last_name if data else '' }}">
+                </div>
+                <div class="col-md-3">
+                    <label class="form-label">Category <span class="text-danger">*</span></label>
+                    <input name="category" class="form-control" value="{{ celebrity.category if celebrity else data.category if data else '' }}">
+                    {% if errors and errors.category %}<div class="text-danger small">{{ errors.category }}</div>{% endif %}
+                </div>
+                <div class="col-md-3">
+                    <label class="form-label">Subcategory</label>
+                    <input name="subcategory" class="form-control" value="{{ celebrity.subcategory if celebrity else data.subcategory if data else '' }}">
+                </div>
+            </div>
+
+            <hr class="my-4">
+            <h5 class="fw-semibold mb-3">Profile & Identity</h5>
+            <div class="row g-3 mb-4">
+                <div class="col-md-3">
+                    <label class="form-label">Date of Birth</label>
+                    <input name="date_of_birth" class="form-control" value="{{ celebrity.date_of_birth if celebrity else data.date_of_birth if data else '' }}">
+                </div>
+                <div class="col-md-2">
+                    <label class="form-label">Gender</label>
+                    <input name="gender" class="form-control" value="{{ celebrity.gender if celebrity else data.gender if data else '' }}">
+                </div>
+                <div class="col-md-3">
+                    <label class="form-label">Birth City</label>
+                    <input name="birth_city" class="form-control" value="{{ celebrity.birth_city if celebrity else data.birth_city if data else '' }}">
+                </div>
+                <div class="col-md-2">
+                    <label class="form-label">Nationality</label>
+                    <input name="nationality" class="form-control" value="{{ celebrity.nationality if celebrity else data.nationality if data else '' }}">
+                </div>
+                <div class="col-md-2">
+                    <label class="form-label">Religion</label>
+                    <input name="religion" class="form-control" value="{{ celebrity.religion if celebrity else data.religion if data else '' }}">
+                </div>
+            </div>
+
+            <div class="row g-3 mb-4">
+                <div class="col-md-3">
+                    <label class="form-label">Marital Status</label>
+                    <input name="marital_status" class="form-control" value="{{ celebrity.marital_status if celebrity else data.marital_status if data else '' }}">
+                </div>
+                <div class="col-md-3">
+                    <label class="form-label">Spouse</label>
+                    <input name="spouse" class="form-control" value="{{ celebrity.spouse if celebrity else data.spouse if data else '' }}">
+                </div>
+                <div class="col-md-2">
+                    <label class="form-label">Children Count</label>
+                    <input name="children_count" type="number" class="form-control" value="{{ celebrity.children_count if celebrity else data.children_count if data else '' }}">
+                </div>
+                <div class="col-md-4">
+                    <label class="form-label">Children Names</label>
+                    <input name="children_names" class="form-control" value="{{ celebrity.children_names if celebrity else data.children_names if data else '' }}">
+                </div>
+            </div>
+
+            <div class="row g-3 mb-4">
+                <div class="col-md-3">
+                    <label class="form-label">Profession</label>
+                    <input name="profession" class="form-control" value="{{ celebrity.profession if celebrity else data.profession if data else '' }}">
+                </div>
+                <div class="col-md-3">
+                    <label class="form-label">Net Worth</label>
+                    <input name="net_worth" class="form-control" value="{{ celebrity.net_worth if celebrity else data.net_worth if data else '' }}">
+                </div>
+                <div class="col-md-3">
+                    <label class="form-label">Debut Work</label>
+                    <input name="debut_work" class="form-control" value="{{ celebrity.debut_work if celebrity else data.debut_work if data else '' }}">
+                </div>
+                <div class="col-md-3">
+                    <label class="form-label">Total Works</label>
+                    <input name="total_works" class="form-control" value="{{ celebrity.total_works if celebrity else data.total_works if data else '' }}">
+                </div>
+            </div>
+
+            <hr class="my-4">
+            <h5 class="fw-semibold mb-3">Hero & Display</h5>
+            <div class="row g-3 mb-4">
+                <div class="col-md-4">
+                    <label class="form-label">Hero Tag</label>
+                    <input name="hero_tag" class="form-control" value="{{ celebrity.hero_tag if celebrity else data.hero_tag if data else '' }}">
+                </div>
+                <div class="col-md-4">
+                    <label class="form-label">Name Line 1</label>
+                    <input name="name_line1" class="form-control" value="{{ celebrity.name_line1 if celebrity else data.name_line1 if data else '' }}">
+                </div>
+                <div class="col-md-4">
+                    <label class="form-label">Name Line 2</label>
+                    <input name="name_line2" class="form-control" value="{{ celebrity.name_line2 if celebrity else data.name_line2 if data else '' }}">
+                </div>
+            </div>
+            <div class="mb-4">
+                <label class="form-label">Subtitle</label>
+                <input name="subtitle" class="form-control" value="{{ celebrity.subtitle if celebrity else data.subtitle if data else '' }}">
+            </div>
+
+            <hr class="my-4">
+            <h5 class="fw-semibold mb-3">Mumbai Connection</h5>
+            <div class="row g-3 mb-4">
+                <div class="col-md-3">
+                    <label class="form-label">Neighbourhood</label>
+                    <input name="mumbai_neighbourhood" class="form-control" value="{{ celebrity.mumbai_neighbourhood if celebrity else data.mumbai_neighbourhood if data else '' }}">
+                </div>
+                <div class="col-md-3">
+                    <label class="form-label">Area Detail</label>
+                    <input name="mumbai_area_detail" class="form-control" value="{{ celebrity.mumbai_area_detail if celebrity else data.mumbai_area_detail if data else '' }}">
+                </div>
+                <div class="col-md-3">
+                    <label class="form-label">Home Name</label>
+                    <input name="mumbai_home_name" class="form-control" value="{{ celebrity.mumbai_home_name if celebrity else data.mumbai_home_name if data else '' }}">
+                </div>
+                <div class="col-md-3">
+                    <label class="form-label">Neighbourhood Slug</label>
+                    <input name="neighbourhood_slug" class="form-control" value="{{ celebrity.neighbourhood_slug if celebrity else data.neighbourhood_slug if data else '' }}">
+                </div>
+            </div>
+            <div class="mb-4">
+                <label class="form-label">Neighbourhood Description</label>
+                <textarea name="neighbourhood_desc" class="form-control" rows="2">{{ celebrity.neighbourhood_desc if celebrity else data.neighbourhood_desc if data else '' }}</textarea>
+            </div>
+
+            <hr class="my-4">
+            <h5 class="fw-semibold mb-3">Biography</h5>
+            <div class="mb-3">
+                <label class="form-label">Bio Paragraph 1</label>
+                <textarea name="bio_para_1" class="form-control" rows="3">{{ celebrity.bio_para_1 if celebrity else data.bio_para_1 if data else '' }}</textarea>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Bio Paragraph 2</label>
+                <textarea name="bio_para_2" class="form-control" rows="3">{{ celebrity.bio_para_2 if celebrity else data.bio_para_2 if data else '' }}</textarea>
+            </div>
+            <div class="mb-4">
+                <label class="form-label">Bio Paragraph 3</label>
+                <textarea name="bio_para_3" class="form-control" rows="3">{{ celebrity.bio_para_3 if celebrity else data.bio_para_3 if data else '' }}</textarea>
+            </div>
+
+            <hr class="my-4">
+            <h5 class="fw-semibold mb-3">Notable Works (up to 6)</h5>
+            {% for i in range(1, 7) %}
+            <div class="row g-3 mb-3 p-3 border rounded">
+                <div class="col-12 fw-semibold">Work {{ i }}</div>
+                <div class="col-md-2">
+                    <label class="form-label">Year</label>
+                    <input name="work{{ i }}_year" type="number" class="form-control" value="{{ celebrity['work%s_year'|format(i)] if celebrity else data['work%s_year'|format(i)] if data else '' }}">
+                </div>
+                <div class="col-md-4">
+                    <label class="form-label">Title</label>
+                    <input name="work{{ i }}_title" class="form-control" value="{{ celebrity['work%s_title'|format(i)] if celebrity else data['work%s_title'|format(i)] if data else '' }}">
+                </div>
+                <div class="col-md-4">
+                    <label class="form-label">Role</label>
+                    <input name="work{{ i }}_role" class="form-control" value="{{ celebrity['work%s_role'|format(i)] if celebrity else data['work%s_role'|format(i)] if data else '' }}">
+                </div>
+                <div class="col-md-2">
+                    <label class="form-label">Badge</label>
+                    <input name="work{{ i }}_badge" class="form-control" value="{{ celebrity['work%s_badge'|format(i)] if celebrity else data['work%s_badge'|format(i)] if data else '' }}">
+                </div>
+            </div>
+            {% endfor %}
+
+            <hr class="my-4">
+            <h5 class="fw-semibold mb-3">Awards (up to 5)</h5>
+            {% for i in range(1, 6) %}
+            <div class="mb-2">
+                <label class="form-label">Award {{ i }}</label>
+                <input name="award{{ i }}" class="form-control" value="{{ celebrity['award%s'|format(i)] if celebrity else data['award%s'|format(i)] if data else '' }}">
+            </div>
+            {% endfor %}
+
+            <hr class="my-4">
+            <h5 class="fw-semibold mb-3">FAQs (up to 5)</h5>
+            {% for i in range(1, 6) %}
+            <div class="row g-3 mb-3 p-3 border rounded">
+                <div class="col-12 fw-semibold">FAQ {{ i }}</div>
+                <div class="col-md-6">
+                    <label class="form-label">Question</label>
+                    <textarea name="faq{{ i }}_q" class="form-control" rows="2">{{ celebrity['faq%s_q'|format(i)] if celebrity else data['faq%s_q'|format(i)] if data else '' }}</textarea>
+                </div>
+                <div class="col-md-6">
+                    <label class="form-label">Answer</label>
+                    <textarea name="faq{{ i }}_a" class="form-control" rows="2">{{ celebrity['faq%s_a'|format(i)] if celebrity else data['faq%s_a'|format(i)] if data else '' }}</textarea>
+                </div>
+            </div>
+            {% endfor %}
+
+            <hr class="my-4">
+            <h5 class="fw-semibold mb-3">Related Celebrities (up to 4)</h5>
+            {% for i in range(1, 5) %}
+            <div class="row g-3 mb-3 p-3 border rounded">
+                <div class="col-12 fw-semibold">Related {{ i }}</div>
+                <div class="col-md-3">
+                    <label class="form-label">Name</label>
+                    <input name="related{{ i }}_name" class="form-control" value="{{ celebrity['related%s_name'|format(i)] if celebrity else data['related%s_name'|format(i)] if data else '' }}">
+                </div>
+                <div class="col-md-3">
+                    <label class="form-label">Slug</label>
+                    <input name="related{{ i }}_slug" class="form-control" value="{{ celebrity['related%s_slug'|format(i)] if celebrity else data['related%s_slug'|format(i)] if data else '' }}">
+                </div>
+                <div class="col-md-2">
+                    <label class="form-label">Emoji</label>
+                    <input name="related{{ i }}_emoji" class="form-control" value="{{ celebrity['related%s_emoji'|format(i)] if celebrity else data['related%s_emoji'|format(i)] if data else '' }}">
+                </div>
+                <div class="col-md-4">
+                    <label class="form-label">Area</label>
+                    <input name="related{{ i }}_area" class="form-control" value="{{ celebrity['related%s_area'|format(i)] if celebrity else data['related%s_area'|format(i)] if data else '' }}">
+                </div>
+            </div>
+            {% endfor %}
+
+            <hr class="my-4">
+            <h5 class="fw-semibold mb-3">Social & External</h5>
+            <div class="row g-3 mb-4">
+                <div class="col-md-4">
+                    <label class="form-label">Wikipedia URL</label>
+                    <input name="wikipedia_url" class="form-control" value="{{ celebrity.wikipedia_url if celebrity else data.wikipedia_url if data else '' }}">
+                </div>
+                <div class="col-md-2">
+                    <label class="form-label">Instagram Handle</label>
+                    <input name="instagram_handle" class="form-control" value="{{ celebrity.instagram_handle if celebrity else data.instagram_handle if data else '' }}">
+                </div>
+                <div class="col-md-2">
+                    <label class="form-label">Twitter Handle</label>
+                    <input name="twitter_handle" class="form-control" value="{{ celebrity.twitter_handle if celebrity else data.twitter_handle if data else '' }}">
+                </div>
+            </div>
+
+            <hr class="my-4">
+            <h5 class="fw-semibold mb-3">SEO</h5>
+            <div class="row g-3 mb-4">
+                <div class="col-md-6">
+                    <label class="form-label">Page Title</label>
+                    <input name="page_title" class="form-control" value="{{ celebrity.page_title if celebrity else data.page_title if data else '' }}">
+                </div>
+                <div class="col-md-6">
+                    <label class="form-label">Canonical URL</label>
+                    <input name="canonical_url" class="form-control" value="{{ celebrity.canonical_url if celebrity else data.canonical_url if data else '' }}">
+                </div>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Meta Description</label>
+                <textarea name="meta_description" class="form-control" rows="2">{{ celebrity.meta_description if celebrity else data.meta_description if data else '' }}</textarea>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Meta Keywords</label>
+                <input name="meta_keywords" class="form-control" value="{{ celebrity.meta_keywords if celebrity else data.meta_keywords if data else '' }}">
+            </div>
+            <div class="row g-3 mb-4">
+                <div class="col-md-6">
+                    <label class="form-label">OG Title</label>
+                    <input name="og_title" class="form-control" value="{{ celebrity.og_title if celebrity else data.og_title if data else '' }}">
+                </div>
+                <div class="col-md-6">
+                    <label class="form-label">Schema Alternate Names</label>
+                    <input name="schema_alternate_names" class="form-control" value="{{ celebrity.schema_alternate_names if celebrity else data.schema_alternate_names if data else '' }}">
+                </div>
+            </div>
+            <div class="mb-4">
+                <label class="form-label">OG Description</label>
+                <textarea name="og_description" class="form-control" rows="2">{{ celebrity.og_description if celebrity else data.og_description if data else '' }}</textarea>
+            </div>
+
+        </div>
+
+        <div class="card-footer text-end">
+            <a href="{{ url_for('admin.celebrities') }}" class="btn btn-light">Cancel</a>
+            <button type="submit" class="btn btn-primary">Save</button>
+        </div>
+    </form>
+{% endblock %}

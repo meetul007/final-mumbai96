@@ -1,0 +1,310 @@
+{
+  "north": [
+    {
+      "name": "Bhayandar East",
+      "slug": "bhayandar-east"
+    },
+    {
+      "name": "Bhayandar West",
+      "slug": "bhayandar-west"
+    },
+    {
+      "name": "Mira Road East",
+      "slug": "mira-road-east"
+    },
+    {
+      "name": "Naigaon East",
+      "slug": "naigaon-east"
+    },
+    {
+      "name": "Naigaon West",
+      "slug": "naigaon-west"
+    },
+    {
+      "name": "Nalasopara East",
+      "slug": "nalasopara-east"
+    },
+    {
+      "name": "Nalasopara West",
+      "slug": "nalasopara-west"
+    },
+    {
+      "name": "Uttan",
+      "slug": "uttan"
+    },
+    {
+      "name": "Vasai East",
+      "slug": "vasai-east"
+    },
+    {
+      "name": "Vasai West",
+      "slug": "vasai-west"
+    },
+    {
+      "name": "Virar East",
+      "slug": "virar-east"
+    },
+    {
+      "name": "Virar West",
+      "slug": "virar-west"
+    }
+  ],
+  "western": [
+    {
+      "name": "Andheri East",
+      "slug": "andheri-east"
+    },
+    {
+      "name": "Andheri West",
+      "slug": "andheri-west"
+    },
+    {
+      "name": "Bandra East",
+      "slug": "bandra-east"
+    },
+    {
+      "name": "Bandra West",
+      "slug": "bandra-west"
+    },
+    {
+      "name": "Borivali East",
+      "slug": "borivali-east"
+    },
+    {
+      "name": "Borivali West",
+      "slug": "borivali-west"
+    },
+    {
+      "name": "Dahisar East",
+      "slug": "dahisar-east"
+    },
+    {
+      "name": "Dahisar West",
+      "slug": "dahisar-west"
+    },
+    {
+      "name": "Gorai",
+      "slug": "gorai"
+    },
+    {
+      "name": "Goregaon East",
+      "slug": "goregaon-east"
+    },
+    {
+      "name": "Goregaon West",
+      "slug": "goregaon-west"
+    },
+    {
+      "name": "Jogeshwari East",
+      "slug": "jogeshwari-east"
+    },
+    {
+      "name": "Jogeshwari West",
+      "slug": "jogeshwari-west"
+    },
+    {
+      "name": "Juhu",
+      "slug": "juhu"
+    },
+    {
+      "name": "Kandivali East",
+      "slug": "kandivali-east"
+    },
+    {
+      "name": "Kandivali West",
+      "slug": "kandivali-west"
+    },
+    {
+      "name": "Khar East",
+      "slug": "khar-east"
+    },
+    {
+      "name": "Khar West",
+      "slug": "khar-west"
+    },
+    {
+      "name": "Madh Island",
+      "slug": "madh-marve-island"
+    },
+    {
+      "name": "Mahim",
+      "slug": "mahim"
+    },
+    {
+      "name": "Malad East",
+      "slug": "malad-east"
+    },
+    {
+      "name": "Malad West",
+      "slug": "malad-west"
+    },
+    {
+      "name": "Pali Hill",
+      "slug": "pali-hill"
+    },
+    {
+      "name": "Santacruz East",
+      "slug": "santacruz-east"
+    },
+    {
+      "name": "Santacruz West",
+      "slug": "santacruz-west"
+    },
+    {
+      "name": "Versova",
+      "slug": "versova"
+    },
+    {
+      "name": "Vile Parle East",
+      "slug": "vile-parle-east"
+    },
+    {
+      "name": "Vile Parle West",
+      "slug": "vile-parle-west"
+    }
+  ],
+  "central": [
+    {
+      "name": "Bhandup",
+      "slug": "bhandup"
+    },
+    {
+      "name": "Chembur",
+      "slug": "chembur"
+    },
+    {
+      "name": "Ghatkopar East",
+      "slug": "ghatkopar-east"
+    },
+    {
+      "name": "Ghatkopar West",
+      "slug": "ghatkopar-west"
+    },
+    {
+      "name": "Kurla",
+      "slug": "kurla"
+    },
+    {
+      "name": "Mulund East",
+      "slug": "mulund-east"
+    },
+    {
+      "name": "Mulund West",
+      "slug": "mulund-west"
+    },
+    {
+      "name": "Powai",
+      "slug": "powai"
+    },
+    {
+      "name": "Sion",
+      "slug": "sion"
+    },
+    {
+      "name": "Vikhroli",
+      "slug": "vikhroli"
+    },
+    {
+      "name": "Wadala",
+      "slug": "wadala"
+    }
+  ],
+  "south": [
+    {
+      "name": "Altamount Road",
+      "slug": "altamount-road"
+    },
+    {
+      "name": "Bandra Kurla Complex",
+      "slug": "bkc"
+    },
+    {
+      "name": "Breach Candy",
+      "slug": "breach-candy"
+    },
+    {
+      "name": "Byculla",
+      "slug": "byculla"
+    },
+    {
+      "name": "Charni Road",
+      "slug": "charni-road"
+    },
+    {
+      "name": "Churchgate",
+      "slug": "churchgate"
+    },
+    {
+      "name": "Colaba",
+      "slug": "colaba"
+    },
+    {
+      "name": "Cuffe Parade",
+      "slug": "cuffe-parade"
+    },
+    {
+      "name": "Dadar East",
+      "slug": "dadar-east"
+    },
+    {
+      "name": "Dadar West",
+      "slug": "dadar-west"
+    },
+    {
+      "name": "Fort",
+      "slug": "fort"
+    },
+    {
+      "name": "Grant Road",
+      "slug": "grant-road"
+    },
+    {
+      "name": "Kalbadevi",
+      "slug": "kalbadevi"
+    },
+    {
+      "name": "Lower Parel East",
+      "slug": "lower-parel-east"
+    },
+    {
+      "name": "Lower Parel West",
+      "slug": "lower-parel-west"
+    },
+    {
+      "name": "Mahalaxmi",
+      "slug": "mahalaxmi"
+    },
+    {
+      "name": "Malabar Hill",
+      "slug": "malabar-hill"
+    },
+    {
+      "name": "Marine Lines",
+      "slug": "marine-lines"
+    },
+    {
+      "name": "Matunga",
+      "slug": "matunga"
+    },
+    {
+      "name": "Mumbai Central",
+      "slug": "mumbai-central"
+    },
+    {
+      "name": "Pedder Road",
+      "slug": "pedder-road"
+    },
+    {
+      "name": "Prabhadevi",
+      "slug": "prabhadevi"
+    },
+    {
+      "name": "Tardeo",
+      "slug": "tardeo"
+    },
+    {
+      "name": "Worli",
+      "slug": "worli"
+    }
+  ]
+}

@@ -1,0 +1,371 @@
+{% extends "base.html" %}
+{% block title %}Create Listing{% endblock %}
+
+{% block content %}
+    <h1 class="h3 mb-4">Create Listing</h1>
+
+    <form method="post" enctype="multipart/form-data" class="card shadow-sm">
+        <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+
+        <div class="card-body">
+
+            <!-- ================= BASIC RELATION ================= -->
+            <h6 class="fw-semibold mb-3">Business & Location</h6>
+
+            <div class="row g-3">
+                <div class="col-md-6">
+                    <label class="form-label">Business</label>
+                    <select name="business_id" class="form-select">
+                        <option value="">-- Select Business --</option>
+                        {% for b in businesses %}
+                            <option value="{{ b.id }}"
+                                    {% if listing and listing.business_id == b.id %}selected{% endif %}>
+                                {{ b.name }}
+                            </option>
+                        {% endfor %}
+                    </select>
+                    {% if errors and errors.business_id %}
+                        <div class="text-danger small">{{ errors.business_id }}</div>
+                    {% endif %}
+                </div>
+
+                <div class="col-md-6">
+                    <label class="form-label">Location</label>
+                    <select name="location_id" class="form-select">
+                        <option value="">-- Select Location --</option>
+                        {% for l in locations %}
+                            <option value="{{ l.id }}"
+                                    {% if listing and listing.location_id == l.id %}selected{% endif %}>
+                                {{ l.name }}
+                            </option>
+                        {% endfor %}
+                    </select>
+                    {% if errors and errors.location_id %}
+                        <div class="text-danger small">{{ errors.location_id }}</div>
+                    {% endif %}
+                </div>
+            </div>
+
+            <hr class="my-4">
+
+            <!-- ================= CONTACT ================= -->
+            <h6 class="fw-semibold mb-3">Contact Information</h6>
+
+            <div class="row g-3">
+                <div class="col-md-6">
+                    <label class="form-label">Phone</label>
+                    <input type="text" name="phone" class="form-control"
+                           value="{{ listing.phone if listing else '' }}">
+                </div>
+
+                <div class="col-md-6">
+                    <label class="form-label">Email</label>
+                    <input type="email" name="email" class="form-control"
+                           value="{{ listing.email if listing else '' }}">
+                </div>
+
+                <div class="col-12">
+                    <label class="form-label">Address</label>
+                    <textarea name="address" class="form-control" rows="2">
+{{ listing.address if listing else '' }}
+        </textarea>
+                </div>
+            </div>
+
+            <hr class="my-4">
+
+            <!-- ================= BUSINESS DETAILS ================= -->
+            <h6 class="fw-semibold mb-3">Business Details</h6>
+
+            <div class="row g-3">
+                <div class="col-12">
+                    <label class="form-label fw-semibold">Opening Hours</label>
+
+                    {% set days = ["Mon","Tue","Wed","Thu","Fri","Sat","Sun"] %}
+                    {% set minutes = ["00","15","30","45"] %}
+                    {% set hours = range(1,13) %}
+
+                    {% for day in days %}
+                        <div class="row g-2 align-items-center mb-2 opening-row" data-day="{{ day }}">
+
+                            <div class="col-md-2 fw-semibold">{{ day }}</div>
+
+                            <!-- OPEN -->
+                            <div class="col-md-2">
+                                <select class="form-select open-hour">
+                                    {% for h in hours %}
+                                        <option value="{{ h }}">{{ h }}</option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+
+                            <div class="col-md-2">
+                                <select class="form-select open-minute">
+                                    {% for m in minutes %}
+                                        <option value="{{ m }}">{{ m }}</option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+
+                            <div class="col-md-2">
+                                <select class="form-select open-meridian">
+                                    <option value="AM">AM</option>
+                                    <option value="PM">PM</option>
+                                </select>
+                            </div>
+
+                            <!-- CLOSE -->
+                            <div class="col-md-2">
+                                <select class="form-select close-hour">
+                                    {% for h in hours %}
+                                        <option value="{{ h }}">{{ h }}</option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+
+                            <div class="col-md-1">
+                                <select class="form-select close-minute">
+                                    {% for m in minutes %}
+                                        <option value="{{ m }}">{{ m }}</option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+
+                            <div class="col-md-1">
+                                <select class="form-select close-meridian">
+                                    <option value="AM">AM</option>
+                                    <option value="PM">PM</option>
+                                </select>
+                            </div>
+
+                            <!-- CLOSED -->
+                            <div class="col-md-1 text-center">
+                                <input type="checkbox" class="form-check-input closed-day">
+                                <small class="d-block">Closed</small>
+                            </div>
+
+                        </div>
+                    {% endfor %}
+
+                    <input type="hidden" name="opening_hours" id="opening_hours_json">
+                </div>
+
+                <div class="col-12">
+                    <label class="form-label">
+                        Google Maps Location URL
+                        <small class="text-muted">(Paste Google Maps link)</small>
+                    </label>
+
+                    <input
+                            type="url"
+                            name="google_map_url"
+                            class="form-control"
+                            placeholder="https://maps.google.com/?q=..."
+                            value="{{ listing.google_map_url if listing else '' }}"
+                    >
+
+                    <div class="form-text">
+                        Open Google Maps → Share → Copy link
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <label class="form-label">Services</label>
+
+                    <div class="border rounded p-2">
+                        {% for s in services_options %}
+                            <div class="form-check">
+                                <input class="form-check-input service-option"
+                                       type="checkbox"
+                                       value="{{ s }}"
+                                       {% if listing and s in (listing.services or []) %}checked{% endif %}>
+                                <label class="form-check-label">{{ s }}</label>
+                            </div>
+                        {% endfor %}
+                    </div>
+
+                    <input type="hidden" name="services" id="services_json">
+                </div>
+
+                <div class="col-md-6">
+                    <label class="form-label">Features</label>
+
+                    <div class="row">
+                        {% for f in features_options %}
+                            <div class="col-6">
+                                <div class="form-check form-switch">
+                                    <input class="form-check-input feature-option"
+                                           type="checkbox"
+                                           value="{{ f }}"
+                                           {% if listing and f in (listing.features or []) %}checked{% endif %}>
+                                    <label class="form-check-label">{{ f }}</label>
+                                </div>
+                            </div>
+                        {% endfor %}
+                    </div>
+
+                    <input type="hidden" name="features" id="features_json">
+                </div>
+
+                <div class="col-md-6">
+                    <label class="form-label">About</label>
+                    <textarea name="about" class="form-control" rows="2">
+{{ listing.about if listing else '' }}
+        </textarea>
+                </div>
+            </div>
+
+            <hr class="my-4">
+
+            <!-- ================= MEDIA ================= -->
+            <h6 class="fw-semibold mb-3">Media</h6>
+
+            <div class="row g-3">
+                <div class="col-md-6">
+                    <label class="form-label">Banner Image</label>
+                    <input type="file" name="banner_image" class="form-control" accept="image/*">
+                    {% if listing and listing.banner_image %}
+                        <img src="/static/uploads/{{ listing.banner_image }}"
+                             class="mt-2 rounded w-100"
+                             style="height:140px;object-fit:cover">
+                    {% endif %}
+                </div>
+
+                <div class="col-md-6 d-flex align-items-end">
+                    <div class="form-check mt-4">
+                        <input type="checkbox" name="is_published" class="form-check-input"
+                               {% if listing and listing.is_published %}checked{% endif %}>
+                        <label class="form-check-label">Publish Listing</label>
+                    </div>
+                </div>
+            </div>
+
+            {% if errors and errors.duplicate %}
+                <div class="text-danger small mt-3">{{ errors.duplicate }}</div>
+            {% endif %}
+
+        </div>
+
+        <!-- FOOTER -->
+        <div class="card-footer d-flex justify-content-end gap-2">
+            <a href="{{ url_for('admin.dashboard') }}" class="btn btn-light">Cancel</a>
+            <button type="submit" class="btn btn-primary">Save Listing</button>
+        </div>
+    </form>
+{% endblock %}
+
+{% block extra_js %}
+
+    <script>
+        const EXISTING_OPENING_HOURS = {{ listing.opening_hours|tojson if listing and listing.opening_hours else '{}' }};
+    </script>
+
+    <script>
+        function to24Hour(hour, minute, meridian) {
+            hour = parseInt(hour);
+            if (meridian === "PM" && hour !== 12) hour += 12;
+            if (meridian === "AM" && hour === 12) hour = 0;
+            return `${hour.toString().padStart(2, '0')}:${minute}`;
+        }
+
+        function from24Hour(time) {
+            if (!time) return {hour: "9", minute: "00", meridian: "AM"};
+
+            let [h, m] = time.split(":").map(Number);
+            let meridian = h >= 12 ? "PM" : "AM";
+            if (h === 0) h = 12;
+            if (h > 12) h -= 12;
+
+            return {
+                hour: h.toString(),
+                minute: m.toString().padStart(2, "0"),
+                meridian
+            };
+        }
+
+        /* ================= SAVE JSON ================= */
+        function collectAllJson() {
+
+            /* SERVICES */
+            document.getElementById("services_json").value = JSON.stringify(
+                [...document.querySelectorAll('.service-option:checked')]
+                    .map(el => el.value)
+            );
+
+            /* FEATURES */
+            document.getElementById("features_json").value = JSON.stringify(
+                [...document.querySelectorAll('.feature-option:checked')]
+                    .map(el => el.value)
+            );
+
+            /* OPENING HOURS */
+            const hours = {};
+
+            document.querySelectorAll('.opening-row').forEach(row => {
+                const day = row.dataset.day;
+                const closed = row.querySelector('.closed-day').checked;
+
+                if (closed) {
+                    hours[day] = {closed: true};
+                    return;
+                }
+
+                hours[day] = {
+                    open: to24Hour(
+                        row.querySelector('.open-hour').value,
+                        row.querySelector('.open-minute').value,
+                        row.querySelector('.open-meridian').value
+                    ),
+                    close: to24Hour(
+                        row.querySelector('.close-hour').value,
+                        row.querySelector('.close-minute').value,
+                        row.querySelector('.close-meridian').value
+                    )
+                };
+            });
+
+            document.getElementById("opening_hours_json").value = JSON.stringify(hours);
+        }
+
+        /* ================= HYDRATE UI (EDIT MODE) ================= */
+        function hydrateOpeningHours() {
+            if (!EXISTING_OPENING_HOURS) return;
+
+            document.querySelectorAll('.opening-row').forEach(row => {
+                const day = row.dataset.day;
+                const data = EXISTING_OPENING_HOURS[day];
+                if (!data) return;
+
+                if (data.closed) {
+                    row.querySelector('.closed-day').checked = true;
+                    row.querySelectorAll('select').forEach(s => s.disabled = true);
+                    return;
+                }
+
+                const open = from24Hour(data.open);
+                const close = from24Hour(data.close);
+
+                row.querySelector('.open-hour').value = open.hour;
+                row.querySelector('.open-minute').value = open.minute;
+                row.querySelector('.open-meridian').value = open.meridian;
+
+                row.querySelector('.close-hour').value = close.hour;
+                row.querySelector('.close-minute').value = close.minute;
+                row.querySelector('.close-meridian').value = close.meridian;
+            });
+        }
+
+        /* DISABLE SELECTS WHEN CLOSED */
+        document.querySelectorAll('.closed-day').forEach(cb => {
+            cb.addEventListener('change', () => {
+                const row = cb.closest('.opening-row');
+                row.querySelectorAll('select').forEach(s => s.disabled = cb.checked);
+            });
+        });
+
+        /* 🔥 IMPORTANT BINDINGS */
+        document.addEventListener("DOMContentLoaded", hydrateOpeningHours);
+        document.querySelector("form").addEventListener("submit", collectAllJson);
+    </script>
+
+{% endblock %}

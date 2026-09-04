@@ -1,0 +1,18 @@
+.post-form {
+  background: #fff;
+  border: 1.5px solid var(--border);
+  border-radius: 16px;
+  padding: 28px;
+  margin: 20px 0;
+}
+.form-row-ask {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+@media (max-width: 760px) {
+  .form-row-ask {
+    grid-template-columns: 1fr;
+  }
+}

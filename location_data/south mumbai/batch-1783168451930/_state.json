@@ -1,0 +1,1508 @@
+{
+  "batchId": "batch-1783168451930",
+  "location": "mumbai-central",
+  "params": {
+    "city": "Mumbai Central",
+    "maxResults": 20,
+    "extractionMethod": "detailed",
+    "enableWebsiteContacts": false,
+    "enableEmailsSocial": false,
+    "enableReviewsExtraction": false,
+    "maxReviews": 20,
+    "enablePhotosExtraction": false,
+    "maxPhotos": 6,
+    "enablePhoneInfo": false,
+    "enrichmentFilters": [],
+    "filterReviewsGt": 5,
+    "filterReviewsLt": "",
+    "countries": [],
+    "states": [],
+    "lang": ""
+  },
+  "categories": [
+    {
+      "slug": "co-working-spaces",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:34:11.935Z",
+      "completedAt": "2026-07-04T12:34:36.608Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "event-photographers",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:34:36.609Z",
+      "completedAt": "2026-07-04T12:34:58.091Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "digital-marketing-agencies",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:34:58.093Z",
+      "completedAt": "2026-07-04T12:35:29.111Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "astrologers",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:35:29.112Z",
+      "completedAt": "2026-07-04T12:35:53.234Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "ortho-doctors",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:35:53.236Z",
+      "completedAt": "2026-07-04T12:36:19.342Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "heart-doctors",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:36:19.343Z",
+      "completedAt": "2026-07-04T12:36:35.422Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "gynecologist-obstetricians",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:36:35.423Z",
+      "completedAt": "2026-07-04T12:36:58.918Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "pediatrician-child-doctors",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:36:58.922Z",
+      "completedAt": "2026-07-04T12:37:17.027Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "street-food",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:37:17.028Z",
+      "completedAt": "2026-07-04T12:37:35.143Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "biryani-restaurants",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:37:35.152Z",
+      "completedAt": "2026-07-04T12:38:00.368Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "chinese-restaurants",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:38:00.369Z",
+      "completedAt": "2026-07-04T12:38:24.497Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "south-indian-restaurants",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:38:24.498Z",
+      "completedAt": "2026-07-04T12:39:03.352Z",
+      "resultCount": 18,
+      "error": null
+    },
+    {
+      "slug": "cafes-coffee-shops",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:39:03.354Z",
+      "completedAt": "2026-07-04T12:39:36.890Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "bakeries",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:39:36.892Z",
+      "completedAt": "2026-07-04T12:40:11.438Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "sweet-shops",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:40:11.439Z",
+      "completedAt": "2026-07-04T12:40:37.595Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "ice-cream-shops",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:40:37.596Z",
+      "completedAt": "2026-07-04T12:41:16.372Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "juice-shops",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:41:16.373Z",
+      "completedAt": "2026-07-04T12:41:34.494Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "seafood-restaurants",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:41:34.497Z",
+      "completedAt": "2026-07-04T12:42:04.770Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "vegetarian-restaurants",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:42:04.771Z",
+      "completedAt": "2026-07-04T12:42:26.906Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "fast-food-restaurants",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:42:26.907Z",
+      "completedAt": "2026-07-04T12:42:45.004Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "real-estate-agents",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:42:45.004Z",
+      "completedAt": "2026-07-04T12:43:05.098Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "flats-for-rent",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:43:05.100Z",
+      "completedAt": "2026-07-04T12:43:25.196Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "flats-for-sale",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:43:25.197Z",
+      "completedAt": "2026-07-04T12:43:41.295Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "paying-guest-accommodation",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:43:41.298Z",
+      "completedAt": "2026-07-04T12:44:05.419Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "office-space-for-rent",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:44:05.420Z",
+      "completedAt": "2026-07-04T12:44:29.285Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "property-management",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:44:29.286Z",
+      "completedAt": "2026-07-04T12:44:53.106Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "pharmacies",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:44:53.110Z",
+      "completedAt": "2026-07-04T12:45:11.207Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "eye-doctors",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:45:11.211Z",
+      "completedAt": "2026-07-04T12:45:27.309Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "physiotherapists",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:45:27.311Z",
+      "completedAt": "2026-07-04T12:45:47.563Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "ayurvedic-doctors",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:45:47.565Z",
+      "completedAt": "2026-07-04T12:46:03.674Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "homeopathy-doctors",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:46:03.675Z",
+      "completedAt": "2026-07-04T12:46:19.757Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "blood-banks",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:46:19.759Z",
+      "completedAt": "2026-07-04T12:46:43.971Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "diagnostic-centres",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:46:43.972Z",
+      "completedAt": "2026-07-04T12:47:12.090Z",
+      "resultCount": 19,
+      "error": null
+    },
+    {
+      "slug": "dental-clinics",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:47:12.091Z",
+      "completedAt": "2026-07-04T12:47:34.206Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "deaddiction-centres",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:47:34.207Z",
+      "completedAt": "2026-07-04T12:47:50.301Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "clothing-stores",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:47:50.302Z",
+      "completedAt": "2026-07-04T12:48:08.409Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "jewellery-shops",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:48:08.410Z",
+      "completedAt": "2026-07-04T12:48:30.516Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "mobile-phone-shops",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:48:30.517Z",
+      "completedAt": "2026-07-04T12:48:50.625Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "electronics-stores",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:48:50.627Z",
+      "completedAt": "2026-07-04T12:49:14.208Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "optical-shops",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:49:14.209Z",
+      "completedAt": "2026-07-04T12:49:30.329Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "grocery-stores",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:49:30.331Z",
+      "completedAt": "2026-07-04T12:49:46.450Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "shoe-stores",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:49:46.451Z",
+      "completedAt": "2026-07-04T12:50:08.576Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "sports-goods-stores",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:50:08.577Z",
+      "completedAt": "2026-07-04T12:50:26.688Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "book-stores",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:50:26.689Z",
+      "completedAt": "2026-07-04T12:50:50.012Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "stationery-stores",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:50:50.014Z",
+      "completedAt": "2026-07-04T12:51:17.253Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "baby-products-stores",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:51:17.254Z",
+      "completedAt": "2026-07-04T12:51:39.360Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "hardware-stores",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:51:39.364Z",
+      "completedAt": "2026-07-04T12:51:57.851Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "pest-control",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:51:57.852Z",
+      "completedAt": "2026-07-04T12:52:09.940Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "home-cleaning-services",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:52:09.941Z",
+      "completedAt": "2026-07-04T12:52:32.048Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "painting-services",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:52:32.050Z",
+      "completedAt": "2026-07-04T12:52:50.195Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "laundry-dry-cleaners",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:52:50.196Z",
+      "completedAt": "2026-07-04T12:53:10.302Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "water-purifier-services",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:53:10.303Z",
+      "completedAt": "2026-07-04T12:53:30.408Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "cctv-installation",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:53:30.410Z",
+      "completedAt": "2026-07-04T12:53:56.081Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "false-ceiling-contractors",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:53:56.083Z",
+      "completedAt": "2026-07-04T12:54:18.207Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "sofa-repair-services",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:54:18.208Z",
+      "completedAt": "2026-07-04T12:54:38.317Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "car-dealers",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:54:38.318Z",
+      "completedAt": "2026-07-04T12:54:56.416Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "bike-dealers",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:54:56.418Z",
+      "completedAt": "2026-07-04T12:55:12.514Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "car-wash-services",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:55:12.515Z",
+      "completedAt": "2026-07-04T12:55:26.593Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "second-hand-cars",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:55:26.596Z",
+      "completedAt": "2026-07-04T12:55:40.686Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "auto-parts-stores",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:55:40.687Z",
+      "completedAt": "2026-07-04T12:55:52.758Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "petrol-pumps",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:55:52.760Z",
+      "completedAt": "2026-07-04T12:56:10.885Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "ev-charging-stations",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:56:10.887Z",
+      "completedAt": "2026-07-04T12:56:49.310Z",
+      "resultCount": 17,
+      "error": null
+    },
+    {
+      "slug": "photographers",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:56:49.311Z",
+      "completedAt": "2026-07-04T12:57:05.400Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "videographers",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:57:05.401Z",
+      "completedAt": "2026-07-04T12:57:33.531Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "photo-studios",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:57:33.532Z",
+      "completedAt": "2026-07-04T12:58:08.586Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "printing-shops",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:58:08.589Z",
+      "completedAt": "2026-07-04T12:58:45.420Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "movie-theatres",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:58:45.423Z",
+      "completedAt": "2026-07-04T12:59:05.541Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "bowling-alleys",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:59:05.542Z",
+      "completedAt": "2026-07-04T12:59:25.661Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "gaming-zones",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:59:25.662Z",
+      "completedAt": "2026-07-04T12:59:53.279Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "escape-rooms",
+      "status": "completed",
+      "startedAt": "2026-07-04T12:59:53.280Z",
+      "completedAt": "2026-07-04T13:00:11.393Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "stand-up-comedy-shows",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:00:11.394Z",
+      "completedAt": "2026-07-04T13:00:33.482Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "creches-daycare",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:00:33.482Z",
+      "completedAt": "2026-07-04T13:00:59.619Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "playschools",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:00:59.620Z",
+      "completedAt": "2026-07-04T13:01:17.703Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "schools",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:01:17.706Z",
+      "completedAt": "2026-07-04T13:01:31.787Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "colleges",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:01:31.788Z",
+      "completedAt": "2026-07-04T13:01:52.741Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "spoken-english-classes",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:01:52.743Z",
+      "completedAt": "2026-07-04T13:02:19.234Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "computer-classes",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:02:19.235Z",
+      "completedAt": "2026-07-04T13:02:39.326Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "swimming-classes",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:02:39.329Z",
+      "completedAt": "2026-07-04T13:03:01.446Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "courier-services",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:03:01.447Z",
+      "completedAt": "2026-07-04T13:03:23.215Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "web-designers",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:03:23.216Z",
+      "completedAt": "2026-07-04T13:03:41.317Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "vastu-consultants",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:03:41.318Z",
+      "completedAt": "2026-07-04T13:04:09.652Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "temples",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:04:09.654Z",
+      "completedAt": "2026-07-04T13:04:23.756Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "churches",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:04:23.757Z",
+      "completedAt": "2026-07-04T13:04:41.907Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "gurudwaras",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:04:41.908Z",
+      "completedAt": "2026-07-04T13:05:04.505Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "heritage-walks",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:05:04.507Z",
+      "completedAt": "2026-07-04T13:05:20.628Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "fishing-community",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:05:20.629Z",
+      "completedAt": "2026-07-04T13:05:53.055Z",
+      "resultCount": 19,
+      "error": null
+    },
+    {
+      "slug": "slum-tours",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:05:53.056Z",
+      "completedAt": "2026-07-04T13:06:19.203Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "dabbawalas",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:06:19.206Z",
+      "completedAt": "2026-07-04T13:06:39.405Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "bollywood-studios",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:06:39.406Z",
+      "completedAt": "2026-07-04T13:07:01.534Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "dentists",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:07:01.535Z",
+      "completedAt": "2026-07-04T13:07:19.641Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "skin-doctors",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:07:19.643Z",
+      "completedAt": "2026-07-04T13:07:43.769Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "ent-doctors",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:07:43.771Z",
+      "completedAt": "2026-07-04T13:08:09.953Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "spine-doctors",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:08:09.955Z",
+      "completedAt": "2026-07-04T13:08:28.066Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "maternity-hospitals",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:08:28.068Z",
+      "completedAt": "2026-07-04T13:08:50.268Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "ivf-centers",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:08:50.270Z",
+      "completedAt": "2026-07-04T13:09:08.377Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "hospitals",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:09:08.378Z",
+      "completedAt": "2026-07-04T13:09:28.491Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "medical-pathology-labs",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:09:28.492Z",
+      "completedAt": "2026-07-04T13:09:46.596Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "psychologists",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:09:46.597Z",
+      "completedAt": "2026-07-04T13:10:08.751Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "psychiatrists",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:10:08.754Z",
+      "completedAt": "2026-07-04T13:10:26.866Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "xray-sonography-centres",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:10:26.869Z",
+      "completedAt": "2026-07-04T13:10:49.357Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "spas",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:10:49.358Z",
+      "completedAt": "2026-07-04T13:11:16.058Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "salons",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:11:16.059Z",
+      "completedAt": "2026-07-04T13:11:38.371Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "beauty-parlours",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:11:38.372Z",
+      "completedAt": "2026-07-04T13:11:54.706Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "makeover-artists",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:11:54.707Z",
+      "completedAt": "2026-07-04T13:12:10.803Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "tattoo-artists",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:12:10.805Z",
+      "completedAt": "2026-07-04T13:12:28.933Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "gyms",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:12:28.935Z",
+      "completedAt": "2026-07-04T13:12:45.043Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "personal-trainers",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:12:45.044Z",
+      "completedAt": "2026-07-04T13:13:01.142Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "dietitians-nutritionists",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:13:01.145Z",
+      "completedAt": "2026-07-04T13:13:24.112Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "bridal-makeup-artists",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:13:24.113Z",
+      "completedAt": "2026-07-04T13:13:46.015Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "groom-makeup-artists",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:13:46.017Z",
+      "completedAt": "2026-07-04T13:14:09.182Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "dance-classes",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:14:09.183Z",
+      "completedAt": "2026-07-04T13:14:27.286Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "zumba-classes",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:14:27.287Z",
+      "completedAt": "2026-07-04T13:14:51.185Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "yoga-classes",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:14:51.186Z",
+      "completedAt": "2026-07-04T13:15:09.289Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "music-classes",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:15:09.291Z",
+      "completedAt": "2026-07-04T13:15:27.167Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "drawing-classes",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:15:27.170Z",
+      "completedAt": "2026-07-04T13:15:45.281Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "wedding-planners",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:15:45.282Z",
+      "completedAt": "2026-07-04T13:16:05.381Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "destination-wedding-planners",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:16:05.383Z",
+      "completedAt": "2026-07-04T13:16:21.507Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "birthday-event-planners",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:16:21.510Z",
+      "completedAt": "2026-07-04T13:16:41.636Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "anniversary-event-planners",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:16:41.637Z",
+      "completedAt": "2026-07-04T13:17:04.340Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "baby-shower-planners",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:17:04.341Z",
+      "completedAt": "2026-07-04T13:17:24.459Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "caterers",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:17:24.460Z",
+      "completedAt": "2026-07-04T13:17:47.499Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "banquet-halls",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:17:47.501Z",
+      "completedAt": "2026-07-04T13:18:07.628Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "cars-on-rent",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:18:07.629Z",
+      "completedAt": "2026-07-04T13:18:27.763Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "costumes-on-rent",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:18:27.764Z",
+      "completedAt": "2026-07-04T13:18:57.450Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "furniture-on-rent",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:18:57.452Z",
+      "completedAt": "2026-07-04T13:19:13.547Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "stock-brokers",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:19:13.551Z",
+      "completedAt": "2026-07-04T13:19:25.634Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "financial-advisors",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:19:25.636Z",
+      "completedAt": "2026-07-04T13:19:41.719Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "chartered-accountants-ca",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:19:41.720Z",
+      "completedAt": "2026-07-04T13:19:57.802Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "income-tax-consultants",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:19:57.804Z",
+      "completedAt": "2026-07-04T13:20:13.878Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "lawyers-and-advocates",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:20:13.880Z",
+      "completedAt": "2026-07-04T13:20:33.984Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "personal-loan-providers",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:20:33.987Z",
+      "completedAt": "2026-07-04T13:20:52.076Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "gold-loan-providers",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:20:52.077Z",
+      "completedAt": "2026-07-04T13:21:12.197Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "home-loan-providers",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:21:12.199Z",
+      "completedAt": "2026-07-04T13:21:32.317Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "auto-loan-providers",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:21:32.319Z",
+      "completedAt": "2026-07-04T13:21:52.429Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "business-loan-providers",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:21:52.430Z",
+      "completedAt": "2026-07-04T13:22:08.510Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "loan-against-property",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:22:08.512Z",
+      "completedAt": "2026-07-04T13:22:24.622Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "health-insurance-providers",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:22:24.624Z",
+      "completedAt": "2026-07-04T13:22:44.720Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "term-life-insurance-providers",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:22:44.722Z",
+      "completedAt": "2026-07-04T13:23:00.799Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "car-insurance-providers",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:23:00.800Z",
+      "completedAt": "2026-07-04T13:23:16.885Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "bike-insurance-providers",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:23:16.886Z",
+      "completedAt": "2026-07-04T13:23:32.897Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "travel-agents",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:23:32.899Z",
+      "completedAt": "2026-07-04T13:23:49.030Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "visa-consultants",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:23:49.033Z",
+      "completedAt": "2026-07-04T13:24:10.266Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "passport-agents",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:24:10.270Z",
+      "completedAt": "2026-07-04T13:24:26.380Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "honeymoon-travel-agents",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:24:26.389Z",
+      "completedAt": "2026-07-04T13:24:42.604Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "medical-tourism",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:24:42.605Z",
+      "completedAt": "2026-07-04T13:25:03.885Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "architects",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:25:03.888Z",
+      "completedAt": "2026-07-04T13:25:26.041Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "interior-designers",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:25:26.043Z",
+      "completedAt": "2026-07-04T13:25:42.136Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "furniture-and-decor-stores",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:25:42.140Z",
+      "completedAt": "2026-07-04T13:26:02.289Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "light-decor-shops",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:26:02.291Z",
+      "completedAt": "2026-07-04T13:26:22.456Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "artifact-shops",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:26:22.458Z",
+      "completedAt": "2026-07-04T13:26:45.384Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "carpenters",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:26:45.386Z",
+      "completedAt": "2026-07-04T13:27:07.551Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "plumbers",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:27:07.552Z",
+      "completedAt": "2026-07-04T13:27:27.712Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "electricians",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:27:27.714Z",
+      "completedAt": "2026-07-04T13:27:44.067Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "gift-shops",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:27:44.069Z",
+      "completedAt": "2026-07-04T13:28:20.278Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "cake-shops",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:28:20.280Z",
+      "completedAt": "2026-07-04T13:28:49.715Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "girls-hostel-pg",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:28:49.716Z",
+      "completedAt": "2026-07-04T13:29:09.896Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "boys-hostel-pg",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:29:09.898Z",
+      "completedAt": "2026-07-04T13:29:25.991Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "tiffin-services",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:29:25.992Z",
+      "completedAt": "2026-07-04T13:29:50.140Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "driving-schools",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:29:50.144Z",
+      "completedAt": "2026-07-04T13:30:08.259Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "packers-and-movers",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:30:08.260Z",
+      "completedAt": "2026-07-04T13:30:24.373Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "ac-service-and-repair-experts",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:30:24.375Z",
+      "completedAt": "2026-07-04T13:30:44.522Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "mobile-phone-repair-experts",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:30:44.525Z",
+      "completedAt": "2026-07-04T13:31:00.613Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "laptop-repair-service-experts",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:31:00.615Z",
+      "completedAt": "2026-07-04T13:31:22.731Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "car-repair-shops",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:31:22.733Z",
+      "completedAt": "2026-07-04T13:31:46.850Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "bike-repair-shops",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:31:46.852Z",
+      "completedAt": "2026-07-04T13:32:02.976Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "science-classes",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:32:02.982Z",
+      "completedAt": "2026-07-04T13:32:17.073Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "maths-tutorials",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:32:17.076Z",
+      "completedAt": "2026-07-04T13:32:38.874Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "physics-tutorials",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:32:38.877Z",
+      "completedAt": "2026-07-04T13:33:01.705Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "chemistry-tutorials",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:33:01.707Z",
+      "completedAt": "2026-07-04T13:33:25.618Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "ielts-classes",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:33:25.621Z",
+      "completedAt": "2026-07-04T13:33:43.749Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "jee-classes",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:33:43.751Z",
+      "completedAt": "2026-07-04T13:33:59.866Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "mht-cet-classes",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:33:59.881Z",
+      "completedAt": "2026-07-04T13:34:15.985Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "gmat-classes",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:34:15.987Z",
+      "completedAt": "2026-07-04T13:34:36.096Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "gre-classes",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:34:36.099Z",
+      "completedAt": "2026-07-04T13:34:54.211Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "neet-tutorials",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:34:54.213Z",
+      "completedAt": "2026-07-04T13:35:12.303Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "pet-food-shops",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:35:12.306Z",
+      "completedAt": "2026-07-04T13:35:30.478Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "pet-doctors",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:35:30.479Z",
+      "completedAt": "2026-07-04T13:36:02.140Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "elders-care",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:36:02.141Z",
+      "completedAt": "2026-07-04T13:36:22.547Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "women-care-centres",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:36:22.557Z",
+      "completedAt": "2026-07-04T13:36:36.671Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "relationship-counsellor",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:36:36.674Z",
+      "completedAt": "2026-07-04T13:36:52.766Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "ngos",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:36:52.769Z",
+      "completedAt": "2026-07-04T13:37:10.852Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "ambulance-services",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:37:10.854Z",
+      "completedAt": "2026-07-04T13:37:28.942Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "animal-shelters",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:37:28.944Z",
+      "completedAt": "2026-07-04T13:37:50.769Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "security-services",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:37:50.771Z",
+      "completedAt": "2026-07-04T13:38:06.919Z",
+      "resultCount": 20,
+      "error": null
+    },
+    {
+      "slug": "detective-agencies-spy-agents",
+      "status": "completed",
+      "startedAt": "2026-07-04T13:38:06.928Z",
+      "completedAt": "2026-07-04T13:38:28.133Z",
+      "resultCount": 20,
+      "error": null
+    }
+  ],
+  "startedAt": "2026-07-04T12:34:11.930Z",
+  "completedAt": "2026-07-04T13:38:28.135Z",
+  "totalBusinessesFound": 3693,
+  "isComplete": true
+}
