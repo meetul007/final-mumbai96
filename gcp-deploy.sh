@@ -527,6 +527,9 @@ if [ "$DEPLOY_FRONTEND" = true ]; then
     # --- Build ---
     log_info "🔹 Building Next.js application..."
 
+    # Keep the generated HTML and static chunks from the same build.
+    rm -rf "$FRONTEND_PATH/.next"
+
     if npm run build 2>&1 | tee -a "$LOG_FILE"; then
         log_success "✅ Build completed successfully"
     else
@@ -597,6 +600,16 @@ EOF
         log_warning "⚠️ Port $FRONTEND_PORT not yet detected (Next.js may take longer to start)"
     fi
 
+    # --- Regenerate static location pages ---
+    log_info "🔹 Regenerating static location pages..."
+    cd "$PROJECT_ROOT"
+    if node "$PROJECT_ROOT/regenerate-static-pages.js" 2>&1 | tee -a "$LOG_FILE"; then
+        log_success "✅ Static location pages regenerated"
+    else
+        log_error "❌ Failed to regenerate static location pages"
+        exit 1
+    fi
+
     log ""
 fi
 
@@ -627,6 +640,7 @@ server {
 
     listen 80;
     server_name _;
+    charset utf-8;
 
     client_max_body_size 50M;
 

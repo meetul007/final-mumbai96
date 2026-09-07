@@ -2,152 +2,56 @@
 
 import React, { useState, useEffect, useRef } from "react";
 import Link from "next/link";
-import { useRouter } from "next/navigation";
+import { useRouter, usePathname } from "next/navigation";
 // import "./Navbar.css";
 import SearchBar from "./SearchBox";
 import { useAuth } from "@/context/auth/AuthContext";
 import locationZones from "@/data/location-zones.json";
 
-const EXTERNAL_HOODS = {
-  north: (locationZones?.north || []).map((item) => [item.name, `/${item.slug}`]),
-  western: (locationZones?.western || []).map((item) => [item.name, `/${item.slug}`]),
-  central: (locationZones?.central || []).map((item) => [item.name, `/${item.slug}`]),
-  south: (locationZones?.south || []).map((item) => [item.name, `/${item.slug}`]),
-};
-
 // ── Data ──────────────────────────────────────────────────────
-const ZONES = [
-  {
-    id: "north",
+const ZONE_META = {
+  north: {
     label: "🌴 North",
     emoji: "🌴",
     name: "NORTH MUMBAI",
     count: "Virar to Mira Road",
-    hoods: [
-      ["Virar West", "/virar-west"],
-      ["Virar East", "/virar-east"],
-      ["Nala Sopara West", "/nalasopara-west"],
-      ["Nala Sopara East", "/nalasopara-east"],
-      ["Vasai West", "/vasai-west"],
-      ["Vasai East", "/vasai-east"],
-      ["Naigaon West", "/naigaon-west"],
-      ["Naigaon East", "/naigaon-east"],
-      ["Bhayandar West", "/bhayandar-west"],
-      ["Bhayandar East", "/bhayandar-east"],
-      ["Uttan", "/uttan"],
-      ["Mira Road East", "/mira-road-east"],
-    ],
     link: "/north-mumbai",
-    areaCount: "12 Areas",
   },
-  {
-    id: "western",
+  western: {
     label: "🌊 Western",
     emoji: "🌊",
     name: "WESTERN MUMBAI",
     count: "Gorai to Pali Hill",
-    hoods: [
-      ["Gorai", "/gorai"],
-      ["Dahisar West", "/dahisar-west"],
-      ["Dahisar East", "/dahisar-east"],
-      ["Borivali West", "/borivali-west"],
-      ["Borivali East", "/borivali-east"],
-      ["Kandivali West", "/kandivali-west"],
-      ["Kandivali East", "/kandivali-east"],
-      ["Malad West", "/malad-west"],
-      ["Madh Marve", "/madh-marve"],
-      ["Malad East", "/malad-east"],
-      ["Goregaon West", "/goregaon-west"],
-      ["Goregaon East", "/goregaon-east"],
-      // ["Ram Mandir", "/ram-mandir"],
-      ["Jogeshwari West", "/jogeshwari-west"],
-      ["Jogeshwari East", "/jogeshwari-east"],
-      ["Andheri West", "/andheri-west"],
-      ["Andheri East", "/andheri-east"],
-      ["Juhu", "/juhu"],
-      ["Versova", "/versova"],
-      ["Vile Parle West", "/vile-parle-west"],
-      ["Vile Parle East", "/vile-parle-east"],
-      ["Santa Cruz West", "/santacruz-west"],
-      ["Santa Cruz East", "/santacruz-east"],
-      ["Khar West", "/khar-west"],
-      ["Khar East", "/khar-east"],
-      ["Bandra West", "/bandra-west"],
-      ["Bandra East", "/bandra-east"],
-      ["Mahim", "/mahim"],
-      ["Pali Hill", "/pali-hill"],
-      // ["Matunga Road", "/matunga-road"],
-    ],
     link: "/western-mumbai",
-    areaCount: "27 Areas",
   },
-  {
-    id: "central",
+  central: {
     label: "🚆 Central",
     emoji: "🚆",
     name: "CENTRAL MUMBAI",
     count: "Mulund to Wadala",
-    hoods: [
-      ["Mulund West", "/mulund-west"],
-      ["Mulund East", "/mulund-east"],
-      ["Bhandup", "/bhandup"],
-      ["Vikhroli", "/vikhroli"],
-      ["Powai", "/powai"],
-      ["Chembur", "/chembur"],
-      ["Ghatkopar West", "/ghatkopar-west"],
-      ["Ghatkopar East", "/ghatkopar-east"],
-      ["Kurla", "/kurla"],
-      ["Sion", "/sion"],
-      // ["Antop Hill", "/antop-hill"],
-      ["Wadala", "/wadala"],
-    ],
     link: "/central-mumbai",
-    areaCount: "12 Areas",
   },
-  {
-    id: "south",
+  south: {
     label: "🏙️ South",
     emoji: "🏙️",
     name: "SOUTH MUMBAI",
     count: "BKC to Colaba",
-    hoods: [
-      ["BKC", "/bkc"],
-      ["Matunga", "/matunga"],
-      ["Dadar West", "/dadar-west"],
-      ["Dadar East", "/dadar-east"],
-      ["Prabhadevi", "/prabhadevi"],
-      ["Lower Parel West", "/lower-parel-west"],
-      ["Lower Parel East", "/lower-parel-east"],
-      ["Worli", "/worli"],
-      ["Mahalaxmi", "/mahalaxmi"],
-      ["Marine Lines", "/marine-lines"],
-      ["Mumbai Central", "/mumbai-central"],
-      ["Grant Road", "/grant-road"],
-      ["Charni Road", "/charni-road"],
-      ["Byculla", "/byculla"],
-      ["Pedder Road", "/pedder-road"],
-      ["Altamount Road", "/altamount-road"],
-      ["Tardeo", "/tardeo"],
-      ["Breach Candy", "/breach-candy"],
-      ["Malabar Hill", "/malabar-hill"],
-      ["Kalbadevi", "/kalbadevi"],
-      ["Churchgate", "/churchgate"],
-      ["Fort", "/fort"],
-      ["Cuffe Parade", "/cuffe-parade"],
-      ["Colaba", "/colaba"],
-    ],
     link: "/south-mumbai",
-    areaCount: "14 Areas",
   },
-];
+};
 
-for (const zone of ZONES) {
-  const hoods = EXTERNAL_HOODS[zone.id];
-  if (hoods?.length) {
-    zone.hoods = hoods;
-    zone.areaCount = `${hoods.length} Areas`;
-  }
-}
+const ZONES = Object.keys(ZONE_META).map((id) => {
+  const hoods = (locationZones?.[id] || []).map((item) => [
+    item.name,
+    `/${item.slug}`,
+  ]);
+  return {
+    id,
+    ...ZONE_META[id],
+    hoods,
+    areaCount: `${hoods.length} Areas`,
+  };
+});
 
 // ── Chevron Icon ──────────────────────────────────────────────
 function ChevronIcon({ className = "" }) {
@@ -1182,6 +1086,7 @@ function MobileDrawer({ open, onClose, isLoggedIn, user, logout }) {
 // ── Main Navbar ───────────────────────────────────────────────
 export default function Navbar() {
   const router = useRouter();
+  const pathname = usePathname();
   const { user, isLoggedIn, logout } = useAuth();
   const [scrolled, setScrolled] = useState(false);
   const [drawerOpen, setDrawerOpen] = useState(false);
@@ -1201,6 +1106,13 @@ export default function Navbar() {
       document.body.style.overflow = "";
     };
   }, [drawerOpen]);
+
+  // Close the drawer after navigation so its overlay and body lock do not persist.
+  useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect
+    setDrawerOpen(false);
+    document.body.style.overflow = "";
+  }, [pathname]);
 
   // Close drawer on Escape
   useEffect(() => {

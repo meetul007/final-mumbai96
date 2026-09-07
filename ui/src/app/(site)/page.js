@@ -1,6 +1,5 @@
 import Community from "@/components/Home/Community";
 import Explorer from "@/components/Home/Explorer";
-import Footer from "@/components/Footer";
 import Hero from "@/components/Home/Hero";
 import Pillars from "@/components/Home/Pillars";
 import Pulse from "@/components/Home/Pulse";

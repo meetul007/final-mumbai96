@@ -29,10 +29,10 @@ export default function Explorer() {
   const zones = locationZones;
 
   const titles = {
-    north: "🌐 North Mumbai",
-    western: "🌊 Western Mumbai",
-    central: "🏙️ Central Mumbai",
-    south: "⚓ South Mumbai",
+    north: "North Mumbai",
+    western: "Western Mumbai",
+    central: "Central Mumbai",
+    south: "South Mumbai",
   };
 
   return (

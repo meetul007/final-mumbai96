@@ -7,6 +7,11 @@ class Config:
         "postgresql://mumbai96_user:Mumbai96FixedPass2026@localhost:5432/mumbai96"
     )
     SQLALCHEMY_TRACK_MODIFICATIONS = False
+    # Force UTF-8 on every DB connection so text/JSON columns never get
+    # mangled regardless of server locale or cluster defaults.
+    SQLALCHEMY_ENGINE_OPTIONS = {
+        "connect_args": {"client_encoding": "utf8"},
+    }
     JWT_SECRET_KEY = os.getenv("JWT_SECRET_KEY", "super-secret-admin-key")
     SECRET_KEY = os.getenv("APP_SECRET_KEY", "super-secret-admin-key")
     UPLOAD_FOLDER = "static/uploads"

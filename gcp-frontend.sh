@@ -70,6 +70,7 @@ echo ""
 # ==========================================
 
 echo "🔹 Building Next.js application..."
+rm -rf "$FRONTEND_PATH/.next"
 npm run build
 
 echo "✅ Build completed"
@@ -120,6 +121,17 @@ else
     echo "❌ Frontend failed to start. Check logs:"
     echo "   sudo journalctl -u mumbai96-frontend --no-pager -n 20"
 fi
+
+# ==========================================
+# Step 7: Regenerate static location pages
+# ==========================================
+
+echo "🔹 Regenerating static location pages..."
+cd "$PROJECT_ROOT"
+node "$PROJECT_ROOT/regenerate-static-pages.js"
+
+echo "🔹 Reloading nginx..."
+sudo systemctl reload nginx
 
 echo ""
 echo "=========================================="

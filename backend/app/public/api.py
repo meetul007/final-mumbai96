@@ -511,7 +511,14 @@ def get_business_images(business, base_url, gallery_limit=5):
     gallery = []
 
     for img in business.images:
-        url = f"{base_url}/static/uploads/{img.image_path}"
+        # Support absolute URLs (for example, Google-hosted fallback images).
+        if img.image_path and (
+            img.image_path.startswith("http://")
+            or img.image_path.startswith("https://")
+        ):
+            url = img.image_path
+        else:
+            url = f"{base_url}/static/uploads/{img.image_path}"
 
         if img.is_primary and not primary:
             primary = url
@@ -1244,6 +1251,7 @@ def public_search():
                 "redirect": (
                     f"/{listing.location.slug}/"
                     f"{business.category.slug}/"
+                    f"{business.slug}"
                 ),
                 "fallback_level": "exact",
                 "seo": {

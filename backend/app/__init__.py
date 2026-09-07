@@ -47,6 +47,14 @@ def create_app():
         origins="*"
     )
 
+    @app.after_request
+    def set_response_charset(response):
+        if response.mimetype == "application/json":
+            response.headers["Content-Type"] = "application/json; charset=utf-8"
+        elif response.mimetype == "text/html":
+            response.headers["Content-Type"] = "text/html; charset=utf-8"
+        return response
+
     @app.context_processor
     def inject_globals():
         return {

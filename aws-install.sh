@@ -169,6 +169,7 @@ sudo tee /etc/nginx/conf.d/mumbai96.conf > /dev/null <<EOF
 server {
     listen 80;
     server_name $SERVER_NAME;
+    charset utf-8;
 
     client_max_body_size 20M;
 

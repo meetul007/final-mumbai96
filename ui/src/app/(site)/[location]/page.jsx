@@ -135,28 +135,50 @@ function buildGroupMap(categoryGroups) {
   return map;
 }
 
+function hasMeaningfulStaticData(data) {
+  if (!data || typeof data !== "object") return false;
+
+  // A populated location page needs real content. If the static JSON is just
+  // an empty shell, prefer the backend API so users see useful data.
+  const hasCategories = Array.isArray(data.category_groups)
+    ? data.category_groups.length > 0
+    : data.category_groups && typeof data.category_groups === "object"
+      ? Object.keys(data.category_groups).length > 0
+      : false;
+
+  const hasFood = Array.isArray(data.food) && data.food.length > 0;
+  const hasPlaces = Array.isArray(data.places_to_visit) && data.places_to_visit.length > 0;
+  const hasAbout = typeof data.about === "string" && data.about.trim().length > 20;
+
+  return hasCategories || hasFood || hasPlaces || hasAbout;
+}
+
 const getLocationData = cache(async (slug) => {
   if (!slug) return null;
 
-  // 1) Prefer local static file: src/data/locations-static/<slug>.json
-  //    This lets Explore show deterministic per-location content.
+  // 1) Try local static file: src/data/locations-static/<slug>.json
+  let staticData = null;
+  let staticFileExists = false;
   try {
     const staticFilePath = path.join(STATIC_DATA_DIR, `${slug}.json`);
     const raw = await fs.readFile(staticFilePath, "utf8");
-    const parsed = JSON.parse(raw);
-    if (parsed && typeof parsed === "object") {
-      return parsed;
-    }
+    staticData = JSON.parse(raw);
+    staticFileExists = true;
   } catch {
     // No static file for this slug; fallback logic below.
   }
 
-  // 2) If static-only mode is enabled, do not call remote API.
-  if (STATIC_ONLY_MODE) {
-    return null;
+  // 2) If the static file has real content, use it.
+  if (staticData && hasMeaningfulStaticData(staticData)) {
+    return staticData;
   }
 
-  // 3) Fallback to remote API (existing behavior).
+  // 3) If static-only mode is enabled, return the shell (or null).
+  if (STATIC_ONLY_MODE) {
+    return staticFileExists ? staticData : null;
+  }
+
+  // 4) Static file is missing or empty → fetch from backend API.
   try {
     const res = await fetch(
       `${process.env.NEXT_PUBLIC_API_BASE_URL}/api/public/location/${slug}`,
@@ -169,7 +191,9 @@ const getLocationData = cache(async (slug) => {
 
     return res.json();
   } catch (err) {
-    return null;
+    // 5) API also failed: return the empty static shell if we have one,
+    //    otherwise report location not found.
+    return staticFileExists ? staticData : null;
   }
 });
 

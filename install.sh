@@ -94,7 +94,12 @@ echo "🔹 Setting up frontend..."
 
 cd $FRONTEND_PATH
 npm install
+rm -rf "$FRONTEND_PATH/.next"
 npm run build
+
+# Restore the rich standalone location HTML pages for nginx static fallback.
+cd "$PROJECT_ROOT"
+node "$PROJECT_ROOT/regenerate-static-pages.js"
 
 pm2 start npm --name "mumbai96-frontend" -- start
 pm2 save
@@ -110,6 +115,7 @@ sudo tee /etc/nginx/sites-available/mumbai96 > /dev/null <<EOF
 server {
     listen 80;
     server_name $SERVER_NAME;
+    charset utf-8;
 
     location /api {
         proxy_pass http://127.0.0.1:5002;
