@@ -12,13 +12,10 @@ const CATEGORY_LABELS = {
   actress: "💃 Actresses",
   tv: "📺 TV Celebs",
   natak: "🎭 Natak / Theatre",
-  director: "🎥 Directors",
-  producer: "🎬 Producers",
+  director: "🎥 Directors / Producers",
   influencer: "📱 Influencers",
   sports: "🏏 Sports",
-  sportsperson: "🏅 Sportspersons",
   music: "🎵 Music",
-  musician: "🎼 Musicians",
   business: "💼 Business",
   comedian: "😂 Comedians",
   designer: "✂️ Designers",
@@ -150,7 +147,7 @@ export default function CelebritiesClient({ initialData }) {
       </div>
 
       <main id="celeb-main-content">
-        {featured.length > 0 && filter === "all" && !query && (
+        {false && (
           <section
             aria-labelledby="celeb-featured-h"
             className="celeb-featured-section"

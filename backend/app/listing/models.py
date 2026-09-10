@@ -1,4 +1,5 @@
 from datetime import datetime, timedelta, date
+from dateutil import parser as date_parser
 from app.extensions import db
 from werkzeug.security import generate_password_hash, check_password_hash
 import secrets
@@ -505,17 +506,21 @@ class Celebrity(db.Model):
             return self.age
 
         dob_str = str(self.date_of_birth).strip()
+        dob = None
 
-        # Try common date formats
-        for fmt in ("%d %B %Y", "%B %d %Y", "%B %d, %Y", "%Y-%m-%d", "%m/%d/%Y", "%d/%m/%Y"):
+        for fmt in ("%d %B %Y", "%d %b %Y", "%B %d %Y", "%B %d, %Y", "%b %d %Y", "%b %d, %Y",
+                    "%Y-%m-%d", "%m/%d/%Y", "%d/%m/%Y", "%d-%m-%Y"):
             try:
                 dob = datetime.strptime(dob_str, fmt).date()
                 break
             except ValueError:
                 continue
-        else:
-            # Could not parse — fall back to stored value
-            return self.age
+
+        if dob is None:
+            try:
+                dob = date_parser.parse(dob_str, dayfirst=True).date()
+            except (ValueError, OverflowError):
+                return self.age
 
         today = date.today()
         age = today.year - dob.year - ((today.month, today.day) < (dob.month, dob.day))
