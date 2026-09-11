@@ -1,0 +1,1739 @@
+{
+  "seo_title": "",
+  "seo_description": "",
+  "seo_keywords": "",
+  "image": "/images/locations/below-hero/north/mira-road-east.webp",
+  "location_icon": "/images/locations/name-boards/mira-road-east.webp",
+  "name": "Mira Road East",
+  "about_title": "Mira Road East, Mira-Bhayandar - Cosmopolitan Townships & Affordable Living",
+  "about": "Mira Road East is one of the largest, most cosmopolitan and rapidly developing residential hubs in the northern Mumbai Metropolitan Region. Under the Mira-Bhayandar Municipal Corporation (MBMC), it is known for its planned townships, wide internal roads, bustling markets and a remarkably diverse community. Whether you need a dentist in Shanti Nagar, a salon in Sheetal Nagar, or a reliable plumber in Kanakia - Mumbai96 has verified listings with real reviews, direct numbers and everything a Mumbaikar needs to find the right service fast.",
+  "about_commute": "Western Line - approx 55-65 min to Churchgate",
+  "about_tag": "Cosmopolitan Township Hub",
+  "about_stats": [
+    {
+      "value": "9L+",
+      "label": "Est. Popul. (MBMC) 2026"
+    },
+    {
+      "value": "MBMC",
+      "label": "Municipal Body"
+    },
+    {
+      "value": "401107",
+      "label": "Primary Pin Code"
+    },
+    {
+      "value": "Shanti Nagar",
+      "label": "Major Township"
+    }
+  ],
+  "places_to_visit": [
+    {
+      "tag": "Township",
+      "name": "Shanti Nagar, Mira Road East",
+      "description": "One of Mira Road East's largest and best-known townships - sectors, gardens, markets and a strong cosmopolitan community feel.",
+      "icon": "🏙️"
+    },
+    {
+      "tag": "Leisure",
+      "name": "Jal Mandir & MBMC Gardens, Mira Road East",
+      "description": "Local gardens, jogging tracks and the Jain Jal Mandir complex are popular green and spiritual spots for Mira Road East families.",
+      "icon": "🌳"
+    },
+    {
+      "tag": "Lifestyle",
+      "name": "Shopping Malls & High Streets, Mira Road East",
+      "description": "Malls and busy high streets near the station make Mira Road East a major shopping and entertainment destination for the area.",
+      "icon": "🛍️"
+    }
+  ],
+  "food_tags": "Gujarati Thalis, Mughlai & Kebabs, Punjabi Dhabas, Chaat Corners, South Indian, Street Pav Bhaji, Chinese Stalls, Sweet & Farsan",
+  "food": [
+    {
+      "name": "Gujarati & Punjabi Restaurants, Mira Road East",
+      "description": "Affordable thalis and North Indian family restaurants are a Mira Road East staple across its townships.",
+      "icon": "🍛"
+    },
+    {
+      "name": "Mughlai & Kebab Joints, Mira Road East",
+      "description": "Popular kebab, biryani and rolls spots reflect Mira Road East's diverse, food-loving community.",
+      "icon": "🍢"
+    },
+    {
+      "name": "Street Chinese & Chaat, Mira Road East",
+      "description": "Indo-Chinese and chaat stalls come alive in the evenings along the main internal roads.",
+      "icon": "🍜"
+    },
+    {
+      "name": "Tiffin Services, Mira Road East",
+      "description": "Home-style tiffins delivered across Shanti Nagar, Sheetal Nagar and the station belt - a lifeline for working residents.",
+      "icon": "🥘"
+    }
+  ],
+  "night_life": [
+    {
+      "name": "Cinemas & Multiplexes, Mira Road East",
+      "description": "Local multiplexes screen the latest Bollywood, Hollywood and regional films - a popular evening outing.",
+      "icon": "🎬"
+    },
+    {
+      "name": "Food Streets, Mira Road East",
+      "description": "The main roads come alive after dark with kebabs, chaat, pav bhaji, dosa and Chinese stalls.",
+      "icon": "🍴"
+    },
+    {
+      "name": "Gardens & Township Greens, Mira Road East",
+      "description": "Shanti Nagar and Sheetal Nagar gardens are popular evening spots for families and senior citizens.",
+      "icon": "🌳"
+    },
+    {
+      "name": "Dessert & Ice Cream Parlours",
+      "description": "Dessert and ice cream parlours across Mira Road East stay busy late into the evening with young crowds.",
+      "icon": "🍦"
+    }
+  ],
+  "night_life_tips": [
+    "Auto rickshaws & share autos easily available till late",
+    "Food delivery apps active till midnight",
+    "Last local trains - check Western Railway timings",
+    "Mostly a lively but safe residential area at night"
+  ],
+  "sub_areas": [
+    {
+      "tag": "Township",
+      "name": "Shanti Nagar, Mira Road East",
+      "description": "One of the largest planned townships in Mira Road East - sectors, gardens, markets and a strong cosmopolitan community.",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600&q=80"
+    },
+    {
+      "tag": "Residential",
+      "name": "Sheetal Nagar, Mira Road East",
+      "description": "A well-known residential cluster popular with families, with its own markets, schools and bus connectivity.",
+      "image": "https://images.unsplash.com/photo-1582560475093-ba66accbc424?w=600&q=80"
+    },
+    {
+      "tag": "Premium",
+      "name": "Kanakia, Mira Road East",
+      "description": "An upmarket pocket of Mira Road East with premium high-rise projects, clubhouses and newer commercial developments.",
+      "image": "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=600&q=80"
+    },
+    {
+      "tag": "Mixed Use",
+      "name": "Beverly Park, Mira Road East",
+      "description": "A central residential-commercial hub with shops, restaurants and easy access to the station and main roads.",
+      "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=600&q=80"
+    },
+    {
+      "tag": "Residential",
+      "name": "Silver Park, Mira Road East",
+      "description": "A dense, well-connected residential pocket popular with middle-income families, close to schools and markets.",
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=80"
+    },
+    {
+      "tag": "Quiet Belt",
+      "name": "Hatkesh & Penkar Pada, Mira Road East",
+      "description": "Quieter residential pockets on the eastern edge of Mira Road East with newer projects and green surroundings.",
+      "image": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=600&q=80"
+    }
+  ],
+  "character_vibe": [
+    {
+      "keyword": "Cosmopolitan"
+    },
+    {
+      "keyword": "Affordable"
+    },
+    {
+      "keyword": "Township Living"
+    },
+    {
+      "keyword": "Diverse Community"
+    },
+    {
+      "keyword": "Foodie Belt"
+    },
+    {
+      "keyword": "Family-Friendly"
+    },
+    {
+      "keyword": "Fast Developing"
+    }
+  ],
+  "character_vibe_description": "Character & Vibe An honest snapshot - the energy, the people, the pace. The kind of thing no other directory tells you. Mira Road East is a buzzing, cosmopolitan township suburb. Mornings begin with the rush to Mira Road station, shops open early, and the township markets hum with shoppers through the day. It's value-driven Mumbai living - spacious flats for the money, wide internal roads, and a vibrant, mixed-community energy. The area is one of the most diverse in the region - Gujarati, North Indian, Muslim, Marathi and South Indian residents all live side by side. Festivals, food, society events and busy markets are central to life here, giving Mira Road East a genuinely multicultural, neighbourly character.",
+  "character_vibe_image": "https://images.unsplash.com/photo-1561612217-4f5d0b4c6ea8?w=800&q=80",
+  "resident_profile": [
+    {
+      "segment": "Gujarati Families",
+      "description": "Large, established trading community across Mira Road East"
+    },
+    {
+      "segment": "North Indian Households",
+      "description": "Strong presence in Shanti Nagar & Sheetal Nagar"
+    },
+    {
+      "segment": "Muslim Community",
+      "description": "Vibrant, well-rooted community with markets & eateries"
+    },
+    {
+      "segment": "Young Professionals",
+      "description": "Commuters to Andheri, Borivali & BKC offices"
+    },
+    {
+      "segment": "South Indian Families",
+      "description": "Strong presence across the townships"
+    },
+    {
+      "segment": "Business Owners",
+      "description": "Shopkeepers & traders across the commercial belts"
+    }
+  ],
+  "resident_profile_image": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=800&q=80",
+  "resident_profile_description": "Resident Profile A genuinely cosmopolitan cross-section of the Mumbai region - here's who you'll find calling Mira Road East home. Mira Road East draws families from every community looking for affordable, spacious homes in large townships. Gujarati and North Indian families form a big share, alongside a strong Muslim community, Marathi households and South Indian residents. Many are young salaried professionals and business owners commuting to Andheri, Borivali and BKC.",
+  "property_prices": [
+    {
+      "sub_area": "Silver Park / Station Belt - 1BHK",
+      "price": "₹48 – 68 L",
+      "rental": "₹11,000 – ₹17,000/mo",
+      "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=200&q=80"
+    },
+    {
+      "sub_area": "Shanti Nagar / Sheetal Nagar - 2BHK",
+      "price": "₹78 L – 1.05 Cr",
+      "rental": "₹18,000 – ₹26,000/mo",
+      "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=200&q=80"
+    },
+    {
+      "sub_area": "Kanakia Area - 2BHK (premium)",
+      "price": "₹95 L – 1.2 Cr",
+      "rental": "₹22,000 – ₹30,000/mo",
+      "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=200&q=80"
+    },
+    {
+      "sub_area": "Beverly Park - Retail Shop (per sqft)",
+      "price": "₹16,000 – ₹26,000/sqft",
+      "rental": "Negotiable, high-footfall stretch",
+      "image": "https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?w=200&q=80"
+    }
+  ],
+  "schools": [
+    {
+      "name": "RBK International Academy, Mira Road East",
+      "location": "Mira Road East",
+      "badge": "IB / Cambridge",
+      "image": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=200&q=80"
+    },
+    {
+      "name": "N L Dalmia High School, Mira Road East",
+      "location": "Mira Road East",
+      "badge": "ICSE",
+      "image": "https://images.unsplash.com/photo-1588072432836-e10032774350?w=200&q=80"
+    },
+    {
+      "name": "Rustomjee Cambridge International, Mira Road East",
+      "location": "Mira Road East",
+      "badge": "ICSE / Cambridge",
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=200&q=80"
+    },
+    {
+      "name": "Ryan International School, Mira Road East",
+      "location": "Shanti Nagar, Mira Road East",
+      "badge": "CBSE",
+      "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=200&q=80"
+    },
+    {
+      "name": "St. Xavier's High School, Mira Road East",
+      "location": "Sheetal Nagar, Mira Road East",
+      "badge": "SSC",
+      "image": "https://images.unsplash.com/photo-1600195077077-7c815b6fd7b5?w=200&q=80"
+    },
+    {
+      "name": "N L Dalmia Institute & Jr College, Mira Road East",
+      "location": "Mira Road East",
+      "badge": "Jr College / PG",
+      "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=200&q=80"
+    }
+  ],
+  "hospitals": [
+    {
+      "type": "Super-speciality",
+      "name": "Bhaktivedanta Hospital, Mira Road East",
+      "description": "A leading multi & super-speciality hospital in Mira Road East - trusted for advanced treatment, surgery and emergency care.",
+      "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=400&q=80"
+    },
+    {
+      "type": "Super-speciality",
+      "name": "Wockhardt Hospital, Mira Road East",
+      "description": "A major private super-speciality hospital serving Mira Road East with cardiology, oncology and critical care.",
+      "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=400&q=80"
+    },
+    {
+      "type": "Multi-speciality",
+      "name": "Aanchal Hospital, Mira Road East",
+      "description": "A well-regarded local hospital with 24-hour emergency, ICU, maternity and general medicine in Mira Road East.",
+      "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=400&q=80"
+    },
+    {
+      "type": "General Hospital",
+      "name": "Sterling / Local Hospitals, Mira Road East",
+      "description": "Several reliable multi-speciality hospitals across the townships handle everyday and emergency medical needs.",
+      "image": "https://images.unsplash.com/photo-1516841273335-e39b37888115?w=400&q=80"
+    },
+    {
+      "type": "Nursing Home",
+      "name": "Local Nursing Homes, Sheetal Nagar",
+      "description": "Nursing homes and 24-hour clinics around Shanti Nagar and Sheetal Nagar serve the daily needs of residents.",
+      "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=400&q=80"
+    },
+    {
+      "type": "Diagnostics",
+      "name": "Dr. Lal PathLabs / Metropolis, Mira Road East",
+      "description": "Multiple diagnostic collection centres across Mira Road East for blood tests, reports and health packages.",
+      "image": "https://images.unsplash.com/photo-1587351021759-3e566b6af7cc?w=400&q=80"
+    }
+  ],
+  "banks": [
+    {
+      "name": "State Bank of India",
+      "image": "https://images.unsplash.com/photo-1556742031-c6961e8560b0?w=300&q=80"
+    },
+    {
+      "name": "HDFC Bank",
+      "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=300&q=80"
+    },
+    {
+      "name": "ICICI Bank",
+      "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=300&q=80"
+    },
+    {
+      "name": "Axis Bank",
+      "image": "https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?w=300&q=80"
+    },
+    {
+      "name": "Bank of Maharashtra",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=300&q=80"
+    },
+    {
+      "name": "Kotak Mahindra Bank",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=300&q=80"
+    },
+    {
+      "name": "Bank of Baroda",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=300&q=80"
+    },
+    {
+      "name": "Saraswat Co-op Bank",
+      "image": "https://images.unsplash.com/photo-1567427017947-545c5f8d16ad?w=300&q=80"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Shanti Nagar Market, Mira Road East",
+      "description": "The retail heart of Mira Road East - clothing, groceries, electronics, eateries and street food in one busy stretch.",
+      "image": "https://images.unsplash.com/photo-1488459716781-31db52582fe9?w=600&q=80"
+    },
+    {
+      "name": "Station Road Sabzi Mandi, Mira Road East",
+      "description": "The daily vegetable and fruit market near Mira Road station - fresh produce at local prices for commuters and homemakers.",
+      "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=600&q=80"
+    },
+    {
+      "name": "Sheetal Nagar Market, Mira Road East",
+      "description": "A neighbourhood market serving the Sheetal Nagar belt - daily provisions, bakeries, sweet shops and small retail.",
+      "image": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=600&q=80"
+    },
+    {
+      "name": "Beverly Park High Street, Mira Road East",
+      "description": "Clothing, footwear, eateries and household goods - one of Mira Road East's busiest shopping high streets.",
+      "image": "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=600&q=80"
+    },
+    {
+      "name": "Hardware & Wholesale Shops, Mira Road East",
+      "description": "Hardware, electrical and packaging supply shops serving the area's builders, traders and home owners.",
+      "image": "https://images.unsplash.com/photo-1533900298318-6b8da08a523e?w=600&q=80"
+    },
+    {
+      "name": "Silver Park Street Bazaar, Mira Road East",
+      "description": "Affordable clothes, household goods and street food - a popular evening and weekend shopping stretch for families.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=600&q=80"
+    }
+  ],
+  "travelling_connectivity": [
+    {
+      "name": "Churchgate by Train",
+      "icon": "🚆",
+      "distance": "55-65 min",
+      "tag": ""
+    },
+    {
+      "name": "Andheri by Train",
+      "icon": "🚉",
+      "distance": "30 min",
+      "tag": ""
+    },
+    {
+      "name": "Autos & Share Autos",
+      "icon": "🛺",
+      "distance": "Abundant",
+      "tag": ""
+    },
+    {
+      "name": "Highway via Dahisar",
+      "icon": "🛣️",
+      "distance": "WEH",
+      "tag": ""
+    }
+  ],
+  "commute_description": "Mira Road East runs on the Western Railway, with MBMC buses, autos and road links toward the highway adding to its connectivity.",
+  "commute_detail_items": [
+    {
+      "name": "Western Railway - Mira Road Station",
+      "description": "The lifeline of Mira Road East - fast and slow locals to Churchgate, Borivali, Andheri and Virar. The east side serves the main townships.",
+      "icon": "🚗",
+      "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?w=200&q=80"
+    },
+    {
+      "name": "Bus Routes from Mira Road East",
+      "description": "MBMC buses connect Mira Road East to Bhayandar, Borivali, Dahisar and Thane, covering Shanti Nagar, Sheetal Nagar and Beverly Park.",
+      "icon": "🚗",
+      "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?w=200&q=80"
+    },
+    {
+      "name": "Road Access from Mira Road East",
+      "description": "Connected to the Western Express Highway via Dahisar - convenient for road trips to Borivali, Ghodbunder Road and Thane.",
+      "icon": "🚗",
+      "image": "https://images.unsplash.com/photo-1566378246598-5b11a0d486cc?w=200&q=80"
+    },
+    {
+      "name": "Upcoming Metro Access, Mira Road East",
+      "description": "The proposed Metro Line 9 extension toward Mira-Bhayandar will give Mira Road East faster connectivity to Dahisar and the metro network.",
+      "icon": "🚗",
+      "image": "https://images.unsplash.com/photo-1581262208435-41726149a759?w=200&q=80"
+    }
+  ],
+  "major_employers": [
+    {
+      "sector": "Retail & Trade",
+      "name": "Township Retail Belts, Mira Road East",
+      "description": "Thousands of shops, showrooms and trading businesses across the townships make local retail the biggest employer in Mira Road East.",
+      "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=400&q=80"
+    },
+    {
+      "sector": "Healthcare",
+      "name": "Hospitals & Clinics, Mira Road East",
+      "description": "Bhaktivedanta, Wockhardt and many clinics and labs make healthcare a major source of employment in Mira Road East.",
+      "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=400&q=80"
+    },
+    {
+      "sector": "Education",
+      "name": "Schools, Institutes & Coaching, Mira Road East",
+      "description": "RBK, N L Dalmia, Rustomjee and numerous coaching classes employ teachers and staff across Mira Road East.",
+      "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80"
+    },
+    {
+      "sector": "Small Industry",
+      "name": "Local Workshops & Units, Mira Road East",
+      "description": "Small manufacturing units, godowns and workshops on the eastern belt provide steady blue-collar employment.",
+      "image": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=400&q=80"
+    },
+    {
+      "sector": "Commuter Workforce",
+      "name": "Commuters to Andheri, Borivali & BKC",
+      "description": "A large share of Mira Road East residents work in the western suburbs and business districts, commuting daily by the Western line.",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&q=80"
+    },
+    {
+      "sector": "SMEs & Home Business",
+      "name": "Local SMEs & Home Enterprises",
+      "description": "Tiffin kitchens, tailoring units, coaching classes and home-run businesses thrive across Mira Road East's townships.",
+      "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=400&q=80"
+    }
+  ],
+  "residential_societies": [
+    {
+      "name": "Shanti Nagar Sectors, Mira Road East",
+      "description": "Shanti Nagar - large sectored township, family-friendly",
+      "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=200&q=80"
+    },
+    {
+      "name": "Sheetal Nagar Phases, Mira Road East",
+      "description": "Sheetal Nagar - popular mid-income residential cluster",
+      "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=200&q=80"
+    },
+    {
+      "name": "Kanakia Sevens & Towers, Mira Road East",
+      "description": "Kanakia - premium high-rises with clubhouses",
+      "image": "https://images.unsplash.com/photo-1560185127-6a8c3f6b8f3c?w=200&q=80"
+    },
+    {
+      "name": "Beverly Park Residences, Mira Road East",
+      "description": "Beverly Park - central, mixed residential-commercial",
+      "image": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?w=200&q=80"
+    },
+    {
+      "name": "Silver Park CHS, Mira Road East",
+      "description": "Silver Park - dense, well-connected family societies",
+      "image": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=200&q=80"
+    },
+    {
+      "name": "Rustomjee Projects, Mira Road East",
+      "description": "Premium gated complexes with modern amenities",
+      "image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=200&q=80"
+    },
+    {
+      "name": "Hatkesh Residences, Mira Road East",
+      "description": "Hatkesh - quieter, greener newer developments",
+      "image": "https://images.unsplash.com/photo-1600607687644-c7f34b5e9d56?w=200&q=80"
+    },
+    {
+      "name": "Older CHS Clusters, Mira Road East",
+      "description": "Affordable rentals, strong community feel",
+      "image": "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=200&q=80"
+    }
+  ],
+  "local_events": [
+    {
+      "name": "Ganesh Chaturthi in Mira Road East",
+      "description": "Township mandals across Shanti Nagar, Sheetal Nagar and Silver Park host vibrant Ganesh festivals with grand visarjan processions.",
+      "date": "Aug – Sep",
+      "image": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?w=400&q=80"
+    },
+    {
+      "name": "Navratri Garba in Mira Road East",
+      "description": "With a large Gujarati community, Mira Road East hosts energetic garba and dandiya nights across its townships.",
+      "date": "Oct",
+      "image": "https://images.unsplash.com/photo-1547573854-74d2a71d0826?w=400&q=80"
+    },
+    {
+      "name": "Eid Festivities in Mira Road East",
+      "description": "The vibrant Muslim community celebrates Eid with festive markets, special food stalls and lively evening gatherings.",
+      "date": "Varies",
+      "image": "https://images.unsplash.com/photo-1518972559570-7cc1309f3229?w=400&q=80"
+    },
+    {
+      "name": "Diwali & Festive Shopping, Mira Road East",
+      "description": "The township markets and high streets light up for Diwali - one of the busiest festive shopping seasons in Mira Road East.",
+      "date": "Oct – Nov",
+      "image": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=400&q=80"
+    },
+    {
+      "name": "Society Cricket Leagues, Mira Road East",
+      "description": "Township and society cricket leagues run through winter - a big part of Mira Road East's community sporting culture.",
+      "date": "Nov – Mar",
+      "image": "https://images.unsplash.com/photo-1531058020387-3be344556be6?w=400&q=80"
+    },
+    {
+      "name": "Local Food & Street Festivals, Mira Road East",
+      "description": "Community food fairs and multicultural street food pop-ups are a regular weekend draw across Mira Road East.",
+      "date": "Year Round",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=400&q=80"
+    }
+  ],
+  "upcoming_projects": [
+    {
+      "name": "Metro Line 9 - Dahisar to Mira-Bhayandar",
+      "description": "The Metro Line 9 extension will dramatically improve connectivity for Mira Road East residents to Dahisar and the wider metro network.",
+      "status": "Ongoing",
+      "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=400&q=80"
+    },
+    {
+      "name": "Versova–Bhayandar Coastal Road Link",
+      "description": "The proposed coastal road and sea link will give the Mira-Bhayandar belt, including Mira Road East, a faster route to the western suburbs.",
+      "status": "Ongoing",
+      "image": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=400&q=80"
+    },
+    {
+      "name": "Township Redevelopment, Mira Road East",
+      "description": "Older Shanti Nagar and Sheetal Nagar buildings are being lined up for redevelopment, releasing new modern housing supply.",
+      "status": "Upcoming",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&q=80"
+    },
+    {
+      "name": "New Commercial & IT Spaces, Kanakia",
+      "description": "Proposed Grade A commercial and co-working developments near Kanakia aim to bring more local jobs to Mira Road East.",
+      "status": "Upcoming",
+      "image": "https://images.unsplash.com/photo-1568992687947-868a62a9f521?w=400&q=80"
+    },
+    {
+      "name": "Internal Road Widening, Mira Road East",
+      "description": "MBMC road widening and junction upgrades aim to ease daily traffic across Mira Road East's busy township belts.",
+      "status": "Planned",
+      "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?w=400&q=80"
+    },
+    {
+      "name": "MBMC Civic & Drainage Upgrades",
+      "description": "Planned drainage, road and water infrastructure upgrades across Mira Road East to support its fast-growing population.",
+      "status": "Planned",
+      "image": "https://images.unsplash.com/photo-1559825481-12a05cc00344?w=400&q=80"
+    }
+  ],
+  "civic_data": {
+    "pin_code": {
+      "label": "Pin Code",
+      "value": "401107",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=300&q=80"
+    },
+    "municipal_body": {
+      "label": "Municipal Body",
+      "value": "MBMC (Mira-Bhayandar)",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=300&q=80"
+    },
+    "assembly_constituency": {
+      "label": "Assembly Constituency",
+      "value": "Mira Bhayandar (147)",
+      "image": "https://images.unsplash.com/photo-1503551723145-6c040742065b?w=300&q=80"
+    },
+    "police_station": {
+      "label": "Police Station",
+      "value": "Naya Nagar, Kashimira",
+      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=300&q=80"
+    },
+    "post_office": {
+      "label": "Post Office",
+      "value": "Mira Road East (401107)",
+      "image": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=300&q=80"
+    },
+    "fire_station": {
+      "label": "Fire Station",
+      "value": "MBMC Fire Brigade",
+      "image": "https://images.unsplash.com/photo-1534536281715-e28d76689b4d?w=300&q=80"
+    },
+    "est_popul_(mbmc)": {
+      "label": "Est. Popul. (MBMC)",
+      "value": "9 Lakh+ (2026 est.)",
+      "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=300&q=80"
+    },
+    "railway_line": {
+      "label": "Railway Line",
+      "value": "Western Railway",
+      "image": "https://images.unsplash.com/photo-1487958449943-2429e8be8625?w=300&q=80"
+    }
+  },
+  "area_report_card": {
+    "affordability_in_mira_road_east": 5,
+    "daily_essentials_in_mira_road_east": 5,
+    "healthcare_in_mira_road_east": 5,
+    "connectivity_in_mira_road_east": 3,
+    "schools_education": 5,
+    "safety_in_mira_road_east": 4
+  },
+  "living_style": [
+    {
+      "name": "Housing & Property in Mira Road East",
+      "description": "₹48L-₹1.2Cr depending on sub-area - Silver Park affordable, Kanakia premium. Strong, value-driven rental market.",
+      "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=80&q=80",
+      "icon": "🏠"
+    },
+    {
+      "name": "Schools & Education in Mira Road East",
+      "description": "RBK, N L Dalmia, Rustomjee, Ryan and many SSC/CBSE schools - one of the strongest education belts in the region.",
+      "image": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=80&q=80",
+      "icon": "🏠"
+    },
+    {
+      "name": "Healthcare in Mira Road East",
+      "description": "Bhaktivedanta and Wockhardt super-speciality hospitals locally, plus Aanchal and many clinics and diagnostic labs.",
+      "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=80&q=80",
+      "icon": "🏠"
+    },
+    {
+      "name": "Community Character of Mira Road East",
+      "description": "A genuinely cosmopolitan mix of Gujarati, North Indian, Muslim, Marathi and South Indian communities - lively and welcoming.",
+      "image": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=80&q=80",
+      "icon": "🏠"
+    }
+  ],
+  "faq": [],
+  "category_sections": [
+    {
+      "key": "section_1",
+      "heading": "Food, Real Estate & Health",
+      "categories": [
+        {
+          "slug": "street-food",
+          "name": "Street Food",
+          "emoji": "🌮"
+        },
+        {
+          "slug": "biryani-restaurants",
+          "name": "Biryani Restaurants",
+          "emoji": "🍚"
+        },
+        {
+          "slug": "chinese-restaurants",
+          "name": "Chinese Restaurants",
+          "emoji": "🥢"
+        },
+        {
+          "slug": "south-indian-restaurants",
+          "name": "South Indian Restaurants",
+          "emoji": "🥘"
+        },
+        {
+          "slug": "cafes-coffee-shops",
+          "name": "Cafes & Coffee Shops",
+          "emoji": "☕"
+        },
+        {
+          "slug": "bakeries",
+          "name": "Bakeries",
+          "emoji": "🥐"
+        },
+        {
+          "slug": "sweet-shops",
+          "name": "Sweet Shops",
+          "emoji": "🍬"
+        },
+        {
+          "slug": "ice-cream-shops",
+          "name": "Ice Cream Shops",
+          "emoji": "🍦"
+        },
+        {
+          "slug": "juice-shops",
+          "name": "Juice Shops",
+          "emoji": "🥤"
+        },
+        {
+          "slug": "seafood-restaurants",
+          "name": "Seafood Restaurants",
+          "emoji": "🦞"
+        },
+        {
+          "slug": "vegetarian-restaurants",
+          "name": "Vegetarian Restaurants",
+          "emoji": "🥗"
+        },
+        {
+          "slug": "fast-food-restaurants",
+          "name": "Fast Food Restaurants",
+          "emoji": "🍔"
+        },
+        {
+          "slug": "real-estate-agents",
+          "name": "Real Estate Agents",
+          "emoji": "🏠"
+        },
+        {
+          "slug": "flats-for-rent",
+          "name": "Flats for Rent",
+          "emoji": "🏢"
+        },
+        {
+          "slug": "flats-for-sale",
+          "name": "Flats for Sale",
+          "emoji": "🔑"
+        },
+        {
+          "slug": "paying-guest-accommodation",
+          "name": "Paying Guest Accommodation",
+          "emoji": "🛏️"
+        },
+        {
+          "slug": "office-space-for-rent",
+          "name": "Office Space for Rent",
+          "emoji": "🏬"
+        },
+        {
+          "slug": "property-management",
+          "name": "Property Management",
+          "emoji": "📋"
+        },
+        {
+          "slug": "pharmacies",
+          "name": "Pharmacies",
+          "emoji": "💊"
+        },
+        {
+          "slug": "eye-doctors",
+          "name": "Eye Doctors",
+          "emoji": "👁️"
+        },
+        {
+          "slug": "physiotherapists",
+          "name": "Physiotherapists",
+          "emoji": "🩹"
+        },
+        {
+          "slug": "ayurvedic-doctors",
+          "name": "Ayurvedic Doctors",
+          "emoji": "🌿"
+        },
+        {
+          "slug": "homeopathy-doctors",
+          "name": "Homeopathy Doctors",
+          "emoji": "🫙"
+        },
+        {
+          "slug": "blood-banks",
+          "name": "Blood Banks",
+          "emoji": "🩸"
+        },
+        {
+          "slug": "diagnostic-centres",
+          "name": "Diagnostic Centres",
+          "emoji": "🔬"
+        }
+      ]
+    },
+    {
+      "key": "section_2",
+      "heading": "Clinics, Shopping & Home Services",
+      "categories": [
+        {
+          "slug": "dental-clinics",
+          "name": "Dental Clinics",
+          "emoji": "🪥"
+        },
+        {
+          "slug": "deaddiction-centres",
+          "name": "Deaddiction Centres",
+          "emoji": "🫁"
+        },
+        {
+          "slug": "clothing-stores",
+          "name": "Clothing Stores",
+          "emoji": "👗"
+        },
+        {
+          "slug": "jewellery-shops",
+          "name": "Jewellery Shops",
+          "emoji": "💍"
+        },
+        {
+          "slug": "mobile-phone-shops",
+          "name": "Mobile Phone Shops",
+          "emoji": "📱"
+        },
+        {
+          "slug": "electronics-stores",
+          "name": "Electronics Stores",
+          "emoji": "💻"
+        },
+        {
+          "slug": "optical-shops",
+          "name": "Optical Shops",
+          "emoji": "👓"
+        },
+        {
+          "slug": "grocery-stores",
+          "name": "Grocery Stores",
+          "emoji": "🛒"
+        },
+        {
+          "slug": "shoe-stores",
+          "name": "Shoe Stores",
+          "emoji": "👟"
+        },
+        {
+          "slug": "sports-goods-stores",
+          "name": "Sports Goods Stores",
+          "emoji": "⚽"
+        },
+        {
+          "slug": "book-stores",
+          "name": "Book Stores",
+          "emoji": "📚"
+        },
+        {
+          "slug": "stationery-stores",
+          "name": "Stationery Stores",
+          "emoji": "✏️"
+        },
+        {
+          "slug": "baby-products-stores",
+          "name": "Baby Products Stores",
+          "emoji": "🍼"
+        },
+        {
+          "slug": "hardware-stores",
+          "name": "Hardware Stores",
+          "emoji": "🪛"
+        },
+        {
+          "slug": "pest-control",
+          "name": "Pest Control",
+          "emoji": "🐛"
+        },
+        {
+          "slug": "home-cleaning-services",
+          "name": "Home Cleaning Services",
+          "emoji": "🧹"
+        },
+        {
+          "slug": "painting-services",
+          "name": "Painting Services",
+          "emoji": "🖌️"
+        },
+        {
+          "slug": "laundry-dry-cleaners",
+          "name": "Laundry & Dry Cleaners",
+          "emoji": "👕"
+        },
+        {
+          "slug": "water-purifier-services",
+          "name": "Water Purifier Services",
+          "emoji": "💧"
+        },
+        {
+          "slug": "cctv-installation",
+          "name": "CCTV Installation",
+          "emoji": "📷"
+        },
+        {
+          "slug": "false-ceiling-contractors",
+          "name": "False Ceiling Contractors",
+          "emoji": "🏗️"
+        },
+        {
+          "slug": "sofa-repair-services",
+          "name": "Sofa Repair Services",
+          "emoji": "🪜"
+        },
+        {
+          "slug": "car-dealers",
+          "name": "Car Dealers",
+          "emoji": "🚕"
+        },
+        {
+          "slug": "bike-dealers",
+          "name": "Bike Dealers",
+          "emoji": "🛵"
+        },
+        {
+          "slug": "car-wash-services",
+          "name": "Car Wash Services",
+          "emoji": "🚿"
+        }
+      ]
+    },
+    {
+      "key": "section_3",
+      "heading": "Automobiles, Entertainment & Education",
+      "categories": [
+        {
+          "slug": "second-hand-cars",
+          "name": "Second Hand Cars",
+          "emoji": "🚐"
+        },
+        {
+          "slug": "auto-parts-stores",
+          "name": "Auto Parts Stores",
+          "emoji": "⚙️"
+        },
+        {
+          "slug": "petrol-pumps",
+          "name": "Petrol Pumps",
+          "emoji": "⛽"
+        },
+        {
+          "slug": "ev-charging-stations",
+          "name": "EV Charging Stations",
+          "emoji": "🔋"
+        },
+        {
+          "slug": "photographers",
+          "name": "Photographers",
+          "emoji": "📸"
+        },
+        {
+          "slug": "videographers",
+          "name": "Videographers",
+          "emoji": "🎥"
+        },
+        {
+          "slug": "photo-studios",
+          "name": "Photo Studios",
+          "emoji": "🎞️"
+        },
+        {
+          "slug": "printing-shops",
+          "name": "Printing Shops",
+          "emoji": "🖨️"
+        },
+        {
+          "slug": "movie-theatres",
+          "name": "Movie Theatres",
+          "emoji": "🎬"
+        },
+        {
+          "slug": "bowling-alleys",
+          "name": "Bowling Alleys",
+          "emoji": "🎳"
+        },
+        {
+          "slug": "gaming-zones",
+          "name": "Gaming Zones",
+          "emoji": "🎮"
+        },
+        {
+          "slug": "escape-rooms",
+          "name": "Escape Rooms",
+          "emoji": "🗝️"
+        },
+        {
+          "slug": "stand-up-comedy-shows",
+          "name": "Stand-Up Comedy Shows",
+          "emoji": "🎤"
+        },
+        {
+          "slug": "creches-daycare",
+          "name": "Creches & Daycare",
+          "emoji": "🪆"
+        },
+        {
+          "slug": "playschools",
+          "name": "Playschools",
+          "emoji": "🧸"
+        },
+        {
+          "slug": "schools",
+          "name": "Schools",
+          "emoji": "🏫"
+        },
+        {
+          "slug": "colleges",
+          "name": "Colleges",
+          "emoji": "🎓"
+        },
+        {
+          "slug": "spoken-english-classes",
+          "name": "Spoken English Classes",
+          "emoji": "🗣️"
+        },
+        {
+          "slug": "computer-classes",
+          "name": "Computer Classes",
+          "emoji": "⌨️"
+        },
+        {
+          "slug": "swimming-classes",
+          "name": "Swimming Classes",
+          "emoji": "🏊"
+        },
+        {
+          "slug": "courier-services",
+          "name": "Courier Services",
+          "emoji": "🚚"
+        },
+        {
+          "slug": "co-working-spaces",
+          "name": "Co-Working Spaces",
+          "emoji": "💼"
+        },
+        {
+          "slug": "event-photographers",
+          "name": "Event Photographers",
+          "emoji": "🤳"
+        },
+        {
+          "slug": "digital-marketing-agencies",
+          "name": "Digital Marketing Agencies",
+          "emoji": "📣"
+        },
+        {
+          "slug": "web-designers",
+          "name": "Web Designers",
+          "emoji": "🌐"
+        }
+      ]
+    },
+    {
+      "key": "section_4",
+      "heading": "Culture, Spirituality & Medical Specialists",
+      "categories": [
+        {
+          "slug": "astrologers",
+          "name": "Astrologers",
+          "emoji": "🔮"
+        },
+        {
+          "slug": "vastu-consultants",
+          "name": "Vastu Consultants",
+          "emoji": "🧭"
+        },
+        {
+          "slug": "temples",
+          "name": "Temples",
+          "emoji": "🛕"
+        },
+        {
+          "slug": "churches",
+          "name": "Churches",
+          "emoji": "⛪"
+        },
+        {
+          "slug": "mosques",
+          "name": "Mosques",
+          "emoji": "🕌"
+        },
+        {
+          "slug": "jain-derasars",
+          "name": "Jain Derasars",
+          "emoji": "🕉️"
+        },
+        {
+          "slug": "gurudwaras",
+          "name": "Gurudwaras",
+          "emoji": "🪯"
+        },
+        {
+          "slug": "community-halls",
+          "name": "Community Halls",
+          "emoji": "🎪"
+        },
+        {
+          "slug": "dabbawalas",
+          "name": "Dabbawalas",
+          "emoji": "🍱"
+        },
+        {
+          "slug": "yoga-meditation-centres",
+          "name": "Yoga & Meditation Centres",
+          "emoji": "🧘‍♂️"
+        },
+        {
+          "slug": "banquet-grounds",
+          "name": "Banquet Grounds",
+          "emoji": "⛺"
+        },
+        {
+          "slug": "dentists",
+          "name": "Dentists",
+          "emoji": "🦷"
+        },
+        {
+          "slug": "skin-doctors",
+          "name": "Skin Doctors",
+          "emoji": "🧴"
+        },
+        {
+          "slug": "ent-doctors",
+          "name": "ENT Doctors",
+          "emoji": "👂"
+        },
+        {
+          "slug": "spine-doctors",
+          "name": "Spine Doctors",
+          "emoji": "🦴"
+        },
+        {
+          "slug": "ortho-doctors",
+          "name": "Ortho Doctors",
+          "emoji": "🩼"
+        },
+        {
+          "slug": "heart-doctors",
+          "name": "Heart Doctors",
+          "emoji": "❤️"
+        },
+        {
+          "slug": "gynecologist-obstetricians",
+          "name": "Gynecologists",
+          "emoji": "👩‍⚕️"
+        },
+        {
+          "slug": "pediatrician-child-doctors",
+          "name": "Pediatricians",
+          "emoji": "🧒"
+        },
+        {
+          "slug": "maternity-hospitals",
+          "name": "Maternity Hospitals",
+          "emoji": "🤰"
+        },
+        {
+          "slug": "ivf-centers",
+          "name": "IVF Centers",
+          "emoji": "🧬"
+        },
+        {
+          "slug": "hospitals",
+          "name": "Hospitals",
+          "emoji": "🏥"
+        },
+        {
+          "slug": "medical-pathology-labs",
+          "name": "Pathology Labs",
+          "emoji": "🫧"
+        },
+        {
+          "slug": "psychologists",
+          "name": "Psychologists",
+          "emoji": "🧠"
+        },
+        {
+          "slug": "psychiatrists",
+          "name": "Psychiatrists",
+          "emoji": "💬"
+        }
+      ]
+    },
+    {
+      "key": "section_5",
+      "heading": "Wellness, Beauty & Events",
+      "categories": [
+        {
+          "slug": "xray-sonography-centres",
+          "name": "X-Ray & Sonography",
+          "emoji": "🩻"
+        },
+        {
+          "slug": "spas",
+          "name": "Spas",
+          "emoji": "💆"
+        },
+        {
+          "slug": "salons",
+          "name": "Salons",
+          "emoji": "✂️"
+        },
+        {
+          "slug": "beauty-parlours",
+          "name": "Beauty Parlours",
+          "emoji": "💄"
+        },
+        {
+          "slug": "makeover-artists",
+          "name": "Makeover Artists",
+          "emoji": "🪞"
+        },
+        {
+          "slug": "tattoo-artists",
+          "name": "Tattoo Artists",
+          "emoji": "🪡"
+        },
+        {
+          "slug": "gyms",
+          "name": "Gyms",
+          "emoji": "💪"
+        },
+        {
+          "slug": "personal-trainers",
+          "name": "Personal Trainers",
+          "emoji": "🏋️"
+        },
+        {
+          "slug": "dietitians-nutritionists",
+          "name": "Dietitians & Nutritionists",
+          "emoji": "🥦"
+        },
+        {
+          "slug": "bridal-makeup-artists",
+          "name": "Bridal Makeup Artists",
+          "emoji": "👰"
+        },
+        {
+          "slug": "groom-makeup-artists",
+          "name": "Groom Makeup Artists",
+          "emoji": "🤵"
+        },
+        {
+          "slug": "dance-classes",
+          "name": "Dance Classes",
+          "emoji": "💃"
+        },
+        {
+          "slug": "zumba-classes",
+          "name": "Zumba Classes",
+          "emoji": "🕺"
+        },
+        {
+          "slug": "yoga-classes",
+          "name": "Yoga Classes",
+          "emoji": "🧘"
+        },
+        {
+          "slug": "music-classes",
+          "name": "Music Classes",
+          "emoji": "🎵"
+        },
+        {
+          "slug": "drawing-classes",
+          "name": "Drawing Classes",
+          "emoji": "🖍️"
+        },
+        {
+          "slug": "wedding-planners",
+          "name": "Wedding Planners",
+          "emoji": "💒"
+        },
+        {
+          "slug": "destination-wedding-planners",
+          "name": "Destination Wedding Planners",
+          "emoji": "✈️"
+        },
+        {
+          "slug": "birthday-event-planners",
+          "name": "Birthday Event Planners",
+          "emoji": "🎈"
+        },
+        {
+          "slug": "anniversary-event-planners",
+          "name": "Anniversary Planners",
+          "emoji": "🎊"
+        },
+        {
+          "slug": "baby-shower-planners",
+          "name": "Baby Shower Planners",
+          "emoji": "🎀"
+        },
+        {
+          "slug": "caterers",
+          "name": "Caterers",
+          "emoji": "🍽️"
+        },
+        {
+          "slug": "banquet-halls",
+          "name": "Banquet Halls",
+          "emoji": "🏩"
+        },
+        {
+          "slug": "cars-on-rent",
+          "name": "Cars on Rent",
+          "emoji": "🚘"
+        },
+        {
+          "slug": "costumes-on-rent",
+          "name": "Costumes on Rent",
+          "emoji": "🎭"
+        }
+      ]
+    },
+    {
+      "key": "section_6",
+      "heading": "Care, Community & Safety",
+      "categories": [
+        {
+          "slug": "neet-tutorials",
+          "name": "NEET Tutorials",
+          "emoji": "🩺"
+        },
+        {
+          "slug": "pet-food-shops",
+          "name": "Pet Food Shops",
+          "emoji": "🐟"
+        },
+        {
+          "slug": "pet-doctors",
+          "name": "Pet Doctors",
+          "emoji": "🐶"
+        },
+        {
+          "slug": "elders-care",
+          "name": "Elders Care",
+          "emoji": "👴"
+        },
+        {
+          "slug": "women-care-centres",
+          "name": "Women Care Centres",
+          "emoji": "🩷"
+        },
+        {
+          "slug": "relationship-counsellor",
+          "name": "Relationship Counsellor",
+          "emoji": "💑"
+        },
+        {
+          "slug": "ngos",
+          "name": "NGOs",
+          "emoji": "🤝"
+        },
+        {
+          "slug": "ambulance-services",
+          "name": "Ambulance Services",
+          "emoji": "🚑"
+        },
+        {
+          "slug": "animal-shelters",
+          "name": "Animal Shelters",
+          "emoji": "🐕"
+        },
+        {
+          "slug": "security-services",
+          "name": "Security Services",
+          "emoji": "🔐"
+        }
+      ]
+    },
+    {
+      "key": "section_7",
+      "heading": "Repairs, Tutoring & Hospitality",
+      "categories": [
+        {
+          "slug": "artifact-shops",
+          "name": "Artifact Shops",
+          "emoji": "🏺"
+        },
+        {
+          "slug": "carpenters",
+          "name": "Carpenters",
+          "emoji": "🪚"
+        },
+        {
+          "slug": "plumbers",
+          "name": "Plumbers",
+          "emoji": "🪠"
+        },
+        {
+          "slug": "electricians",
+          "name": "Electricians",
+          "emoji": "⚡"
+        },
+        {
+          "slug": "gift-shops",
+          "name": "Gift Shops",
+          "emoji": "🎁"
+        },
+        {
+          "slug": "cake-shops",
+          "name": "Cake Shops",
+          "emoji": "🎂"
+        },
+        {
+          "slug": "girls-hostel-pg",
+          "name": "Girls Hostel & PG",
+          "emoji": "👩"
+        },
+        {
+          "slug": "boys-hostel-pg",
+          "name": "Boys Hostel & PG",
+          "emoji": "👨"
+        },
+        {
+          "slug": "tiffin-services",
+          "name": "Tiffin Services",
+          "emoji": "🥡"
+        },
+        {
+          "slug": "driving-schools",
+          "name": "Driving Schools",
+          "emoji": "🚦"
+        },
+        {
+          "slug": "packers-and-movers",
+          "name": "Packers & Movers",
+          "emoji": "🏚️"
+        },
+        {
+          "slug": "ac-service-and-repair-experts",
+          "name": "AC Service & Repair",
+          "emoji": "❄️"
+        },
+        {
+          "slug": "mobile-phone-repair-experts",
+          "name": "Mobile Phone Repair",
+          "emoji": "🔩"
+        },
+        {
+          "slug": "laptop-repair-service-experts",
+          "name": "Laptop Repair",
+          "emoji": "💾"
+        },
+        {
+          "slug": "car-repair-shops",
+          "name": "Car Repair Shops",
+          "emoji": "🔨"
+        },
+        {
+          "slug": "bike-repair-shops",
+          "name": "Bike Repair Shops",
+          "emoji": "🛠️"
+        },
+        {
+          "slug": "science-classes",
+          "name": "Science Classes",
+          "emoji": "🔭"
+        },
+        {
+          "slug": "maths-tutorials",
+          "name": "Maths Tutorials",
+          "emoji": "➗"
+        },
+        {
+          "slug": "physics-tutorials",
+          "name": "Physics Tutorials",
+          "emoji": "⚛️"
+        },
+        {
+          "slug": "chemistry-tutorials",
+          "name": "Chemistry Tutorials",
+          "emoji": "🧪"
+        },
+        {
+          "slug": "ielts-classes",
+          "name": "IELTS Classes",
+          "emoji": "📝"
+        },
+        {
+          "slug": "jee-classes",
+          "name": "JEE Classes",
+          "emoji": "🔢"
+        },
+        {
+          "slug": "mht-cet-classes",
+          "name": "MHT-CET Classes",
+          "emoji": "📏"
+        },
+        {
+          "slug": "gmat-classes",
+          "name": "GMAT Classes",
+          "emoji": "🎯"
+        },
+        {
+          "slug": "gre-classes",
+          "name": "GRE Classes",
+          "emoji": "🏆"
+        }
+      ]
+    },
+    {
+      "key": "section_8",
+      "heading": "Finance, Insurance & Home Decor",
+      "categories": [
+        {
+          "slug": "furniture-on-rent",
+          "name": "Furniture on Rent",
+          "emoji": "🪑"
+        },
+        {
+          "slug": "stock-brokers",
+          "name": "Stock Brokers",
+          "emoji": "📈"
+        },
+        {
+          "slug": "financial-advisors",
+          "name": "Financial Advisors",
+          "emoji": "💰"
+        },
+        {
+          "slug": "chartered-accountants-ca",
+          "name": "Chartered Accountants",
+          "emoji": "🧾"
+        },
+        {
+          "slug": "income-tax-consultants",
+          "name": "Income Tax Consultants",
+          "emoji": "📊"
+        },
+        {
+          "slug": "lawyers-and-advocates",
+          "name": "Lawyers & Advocates",
+          "emoji": "⚖️"
+        },
+        {
+          "slug": "personal-loan-providers",
+          "name": "Personal Loan Providers",
+          "emoji": "💳"
+        },
+        {
+          "slug": "gold-loan-providers",
+          "name": "Gold Loan Providers",
+          "emoji": "🥇"
+        },
+        {
+          "slug": "home-loan-providers",
+          "name": "Home Loan Providers",
+          "emoji": "🏡"
+        },
+        {
+          "slug": "auto-loan-providers",
+          "name": "Auto Loan Providers",
+          "emoji": "🚌"
+        },
+        {
+          "slug": "business-loan-providers",
+          "name": "Business Loan Providers",
+          "emoji": "🏦"
+        },
+        {
+          "slug": "loan-against-property",
+          "name": "Loan Against Property",
+          "emoji": "📜"
+        },
+        {
+          "slug": "health-insurance-providers",
+          "name": "Health Insurance",
+          "emoji": "🛡️"
+        },
+        {
+          "slug": "term-life-insurance-providers",
+          "name": "Life Insurance",
+          "emoji": "🌱"
+        },
+        {
+          "slug": "car-insurance-providers",
+          "name": "Car Insurance",
+          "emoji": "💥"
+        },
+        {
+          "slug": "bike-insurance-providers",
+          "name": "Bike Insurance",
+          "emoji": "🚲"
+        },
+        {
+          "slug": "travel-agents",
+          "name": "Travel Agents",
+          "emoji": "🧳"
+        },
+        {
+          "slug": "visa-consultants",
+          "name": "Visa Consultants",
+          "emoji": "🛂"
+        },
+        {
+          "slug": "passport-agents",
+          "name": "Passport Agents",
+          "emoji": "🛃"
+        },
+        {
+          "slug": "honeymoon-travel-agents",
+          "name": "Honeymoon Travel Agents",
+          "emoji": "🌅"
+        },
+        {
+          "slug": "medical-tourism",
+          "name": "Medical Tourism",
+          "emoji": "🏨"
+        },
+        {
+          "slug": "architects",
+          "name": "Architects",
+          "emoji": "📐"
+        },
+        {
+          "slug": "interior-designers",
+          "name": "Interior Designers",
+          "emoji": "🪟"
+        },
+        {
+          "slug": "furniture-and-decor-stores",
+          "name": "Furniture & Decor Stores",
+          "emoji": "🪵"
+        },
+        {
+          "slug": "light-decor-shops",
+          "name": "Light & Decor Shops",
+          "emoji": "💡"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "slug": "dentists",
+      "name": "Dentists",
+      "emoji": "🦷",
+      "image": "https://mumbai96.com/mira-road-east/images/01-dentists-in-mira-road-east.jpg",
+      "description": "Local Services · Mira Road East"
+    },
+    {
+      "slug": "skin-doctors",
+      "name": "Skin Doctors",
+      "emoji": "🧴",
+      "image": "https://mumbai96.com/mira-road-east/images/02-skin-doctors-in-mira-road-east.jpg",
+      "description": "Local Services · Mira Road East"
+    },
+    {
+      "slug": "gynecologists",
+      "name": "Gynecologists in Mira Road East",
+      "emoji": "👩‍⚕️",
+      "image": "https://mumbai96.com/mira-road-east/images/03-gynecologists-in-mira-road-east.jpg",
+      "description": "Local Services · Mira Road East"
+    },
+    {
+      "slug": "salons",
+      "name": "Salons",
+      "emoji": "✂️",
+      "image": "https://mumbai96.com/mira-road-east/images/04-salons-in-mira-road-east.jpg",
+      "description": "Local Services · Mira Road East"
+    },
+    {
+      "slug": "plumbers",
+      "name": "Plumbers",
+      "emoji": "🪠",
+      "image": "https://mumbai96.com/mira-road-east/images/05-plumbers-in-mira-road-east.jpg",
+      "description": "Local Services · Mira Road East"
+    },
+    {
+      "slug": "electricians",
+      "name": "Electricians",
+      "emoji": "⚡",
+      "image": "https://mumbai96.com/mira-road-east/images/06-electricians-in-mira-road-east.jpg",
+      "description": "Local Services · Mira Road East"
+    },
+    {
+      "slug": "gyms",
+      "name": "Gyms",
+      "emoji": "💪",
+      "image": "https://mumbai96.com/mira-road-east/images/07-gyms-in-mira-road-east.jpg",
+      "description": "Local Services · Mira Road East"
+    },
+    {
+      "slug": "restaurants",
+      "name": "Restaurants in Mira Road East",
+      "emoji": "🍽️",
+      "image": "https://mumbai96.com/mira-road-east/images/08-restaurants-in-mira-road-east.jpg",
+      "description": "Local Services · Mira Road East"
+    },
+    {
+      "slug": "tiffin-services",
+      "name": "Tiffin Services",
+      "emoji": "🥡",
+      "image": "https://mumbai96.com/mira-road-east/images/09-tiffin-services-in-mira-road-east.jpg",
+      "description": "Local Services · Mira Road East"
+    },
+    {
+      "slug": "real-estate",
+      "name": "Real Estate in Mira Road East",
+      "emoji": "🏠",
+      "image": "https://mumbai96.com/mira-road-east/images/10-real-estate-in-mira-road-east.jpg",
+      "description": "Local Services · Mira Road East"
+    }
+  ],
+  "best_services": [
+    {
+      "name": "Best Services in Mira Road East, Mira-Bhayandar - Mumbai96 Guide",
+      "description": "Finding trusted local services in Mira Road East just got easier. Mumbai96 is Mira Road East's dedicated local directory - a Mumbaikar-built platform that connects residents with verified dentists, skin doctors, salons, plumbers, electricians, gyms, restaurants and 90+ other service categories."
+    },
+    {
+      "name": "Why Mira Road East residents trust Mumbai96",
+      "description": "Unlike generic national directories, Mumbai96 focuses exclusively on Mumbai-region localities. Every listing in Mira Road East is verified for contact accuracy, and our review system ensures only genuine residents leave feedback. Whether you just moved to Mira Road East or have lived here for years, Mumbai96 is your local companion."
+    },
+    {
+      "name": "Services available in Mira Road East",
+      "description": "From healthcare (dentists, skin doctors, gynecologists, pediatricians) to home services (plumbers, electricians, carpenters), from lifestyle (salons, gyms, yoga) to food (restaurants, tiffin services, caterers) - Mumbai96 covers everything Mira Road East residents need, all in one place."
+    },
+    {
+      "name": "About Mira Road East",
+      "description": "Mira Road East is part of the Mira-Bhayandar Municipal Corporation, one of the Mumbai region's fastest-growing, most cosmopolitan and affordable suburbs. With large townships, strong schools and a diverse community, the demand for quality local services has never been higher. Mumbai96 is here to bridge that gap - making it easier for Mira Road East businesses to be found and for residents to find exactly what they need."
+    }
+  ],
+  "nearby_locations": [
+    {
+      "slug": "bhayandar-west",
+      "name": "Bhayandar West"
+    },
+    {
+      "slug": "bhayandar-east",
+      "name": "Bhayandar East"
+    },
+    {
+      "slug": "dahisar",
+      "name": "Dahisar"
+    },
+    {
+      "slug": "borivali-east",
+      "name": "Borivali East"
+    },
+    {
+      "slug": "kashimira",
+      "name": "Kashimira"
+    },
+    {
+      "slug": "naigaon",
+      "name": "Naigaon"
+    }
+  ],
+  "population": "9L+",
+  "municipal_body": "MBMC"
+}

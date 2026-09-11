@@ -1,4 +1,7 @@
+
+
 import { getIcon } from "@/lib/iconMapper";
+import styles from "./locationPage.module.css";
 
 export default function LocalLifeSection({
   location,
@@ -8,23 +11,31 @@ export default function LocalLifeSection({
   const formattedLocation = location?.replace(/-/g, " ");
 
   return (
-    <section className="guide-sec" id="locallife">
-      <div className="con">
-        <p className="sl">🏘️ Local Life</p>
+    <section className={styles.guideSec} id="locallife">
+      <div className={styles.con}>
+        <p className={styles.sl}>Local Life</p>
 
-        <h2 className="st">
-          Living in <em>{formattedLocation}</em>
+        <h2 className={styles.st}>
+          Living in <em>
+    {formattedLocation.split(" ").map(word => 
+      word.charAt(0).toUpperCase() + word.slice(1)
+    ).join(" ")}
+  </em>
         </h2>
 
-        <p className="sd">{description}</p>
+        <p className={styles.sd}>{description}</p>
 
-        <div className="list-grid">
+        <div className={styles.listGrid}>
           {items.map((item, index) => (
-            <div className="list-item" key={index}>
-              <span className="li-icon">{getIcon(item)}</span>
+            <div className={styles.listItem} key={index}>
+              {item.image ? (
+                <img src={item.image} alt={item.name} />
+              ) : (
+                <span className={styles.liIcon}>{getIcon(item)}</span>
+              )}
 
               <div>
-                <h5>{item.name}</h5>
+                <h3>{item.name}</h3>
                 <p>{item.description}</p>
               </div>
             </div>

@@ -1,0 +1,1772 @@
+{
+  "seo_title": "Bandra East Mumbai - Complete Local Guide 2026 | Places, Food, Property, Schools, Hospitals | Mumbai96",
+  "seo_description": "Complete guide to Bandra East, Mumbai - sub-areas (BKC, Kala Nagar, Government Colony, Bharat Nagar, Behrampada, Garib Nagar), property prices, top schools, hospitals, banks, markets, commute, employers, events and 100+ local services. Mumbai96 - Mumbaikars' Very Own Platform.",
+  "seo_keywords": "Bandra East Mumbai, Bandra East guide, things to do in Bandra East, places in Bandra East, restaurants in Bandra East, property prices Bandra East, schools in Bandra East, hospitals in Bandra East, BKC Mumbai, Bandra Kurla Complex, Kala Nagar Mumbai, Government Colony Bandra East, Bandra Terminus, Bharat Nagar Mumbai, dentists in Bandra East, salons in Bandra East, gyms in Bandra East, plumbers in Bandra East, electricians in Bandra East, tiffin services Bandra East, banks in Bandra East, commute from Bandra East, Bandra East pin code, Bandra East area guide 2026",
+  "image": "/images/locations/below-hero/west/bandra-east.webp",
+  "location_icon": "/images/locations/name-boards/bandra-east.webp",
+  "name": "Bandra East",
+  "about_title": "Bandra East, Mumbai - BKC Business District & Civic Hub",
+  "about": "Bandra East is one of Mumbai's most important commercial corridors, anchored by the Bandra-Kurla Complex (BKC) - India's premier planned business district. Alongside corporate towers sit Kala Nagar's political residences, sprawling Government Colony quarters, and dense residential pockets like Kherwadi and Bharat Nagar, creating a striking mix of high finance and everyday Mumbai life. Whether you need a dentist near Kala Nagar, a salon in Government Colony, or a reliable plumber in Kherwadi - Mumbai96 has verified listings with real reviews, direct numbers and everything a Mumbaikar needs to find the right service fast.",
+  "about_commute": "Western Line - 22 min to Churchgate",
+  "about_tag": "BKC Business Hub",
+  "about_stats": [
+    {
+      "value": "4L+",
+      "label": "Est. Popul. 2026"
+    },
+    {
+      "value": "MCGM",
+      "label": "Municipal Body (H/E Ward)"
+    },
+    {
+      "value": "BKC",
+      "label": "India's Top Business District"
+    },
+    {
+      "value": "2L+",
+      "label": "Jobs in BKC alone"
+    }
+  ],
+  "places_to_visit": [
+    {
+      "tag": "Business District",
+      "name": "Bandra-Kurla Complex (BKC)",
+      "description": "India's premier planned business district - home to banks, MNCs, the NSE, the diamond bourse and the US Consulate.",
+      "icon": "🏙️"
+    },
+    {
+      "tag": "Landmark",
+      "name": "Bandra-Worli Sea Link (East End)",
+      "description": "The eastern landing of Mumbai's iconic cable-stayed bridge, a gateway connecting the suburb to South Mumbai.",
+      "icon": "🌉"
+    },
+    {
+      "tag": "Venue",
+      "name": "MMRDA Grounds & Jio World, BKC",
+      "description": "BKC's open grounds and the Jio World Convention Centre host India's biggest concerts, expos and cultural events.",
+      "icon": "🎪"
+    }
+  ],
+  "food_tags": "BKC Fine Dining, Corporate Cafes, Kherwadi Street Food, Mughlai & Kebabs, South Indian Tiffin, Government Colony Canteens, Late Night Eateries, Juice & Falooda",
+  "food": [
+    {
+      "name": "BKC Restaurant Row",
+      "description": "Upscale global restaurants and lounges catering to BKC's corporate and expat crowd.",
+      "icon": "🍽️"
+    },
+    {
+      "name": "Kherwadi & Bharat Nagar Street Food",
+      "description": "Kebabs, rolls, biryani and chaat from legendary local stalls serving the residential belt.",
+      "icon": "🍢"
+    },
+    {
+      "name": "Corporate Cafes, BKC",
+      "description": "Quick coffee, sandwiches and meal counters fuelling thousands of office-goers daily.",
+      "icon": "☕"
+    },
+    {
+      "name": "Tiffin Services, Bandra East",
+      "description": "Home-style meals delivered to offices and homes - a lifeline for Bandra East's workforce.",
+      "icon": "🥘"
+    }
+  ],
+  "night_life": [
+    {
+      "name": "BKC Rooftop Bars & Lounges",
+      "description": "Stylish bars and lounges in BKC cater to the corporate after-work crowd with skyline views.",
+      "icon": "🍻"
+    },
+    {
+      "name": "PVR & Multiplexes near BKC",
+      "description": "Premium cinemas in and around BKC screen the latest Bollywood and global films.",
+      "icon": "🎬"
+    },
+    {
+      "name": "Concerts at Jio World & MMRDA Grounds",
+      "description": "BKC's venues host India's biggest live concerts, festivals and cultural shows.",
+      "icon": "🎶"
+    },
+    {
+      "name": "Late Night Eateries, Kherwadi",
+      "description": "Local eateries near Kherwadi and the highway stay open late, serving hot food to night-shift workers.",
+      "icon": "🌙"
+    }
+  ],
+  "night_life_tips": [
+    "Check local Facebook groups for event updates",
+    "Ola/Uber are easily available late nights",
+    "Food delivery apps active till midnight",
+    "Railway/Metro last times vary - check apps"
+  ],
+  "sub_areas": [
+    {
+      "tag": "Business District",
+      "name": "BKC, Bandra East",
+      "description": "India's premier business hub - corporate HQs, banks, the NSE, consulates and the Jio World complex.",
+      "image": "https://images.unsplash.com/photo-1554469384-e58fac16e23a?w=600&q=80"
+    },
+    {
+      "tag": "Premium Belt",
+      "name": "Kala Nagar, Bandra East",
+      "description": "A prominent residential pocket near BKC, known for political residences and premium apartments.",
+      "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=600&q=80"
+    },
+    {
+      "tag": "Government Quarters",
+      "name": "Government Colony, Bandra East",
+      "description": "Sprawling state-government staff quarters with open layouts, schools and a strong community fabric.",
+      "image": "https://images.unsplash.com/photo-1582560475093-ba66accbc424?w=600&q=80"
+    },
+    {
+      "tag": "Residential",
+      "name": "Kherwadi, Bandra East",
+      "description": "Dense, lively residential pocket popular with middle-income families - markets, eateries and connectivity.",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600&q=80"
+    },
+    {
+      "tag": "Market Hub",
+      "name": "Bharat Nagar, Bandra East",
+      "description": "A bustling residential-commercial pocket with local markets, street food and strong community life.",
+      "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=600&q=80"
+    },
+    {
+      "tag": "Transit Belt",
+      "name": "Bandra Terminus Area",
+      "description": "The outstation-rail gateway - busy with travellers, hotels, eateries and transit-friendly housing.",
+      "image": "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=600&q=80"
+    }
+  ],
+  "character_vibe": [
+    {
+      "keyword": "Corporate Hub"
+    },
+    {
+      "keyword": "Civic & Government"
+    },
+    {
+      "keyword": "Mixed Income"
+    },
+    {
+      "keyword": "Well Connected"
+    },
+    {
+      "keyword": "Event Capital"
+    },
+    {
+      "keyword": "Redevelopment Zone"
+    },
+    {
+      "keyword": "Affordable vs Bandra West"
+    }
+  ],
+  "character_vibe_description": "Character & Vibe An honest snapshot - the energy, the people, the pace. The kind of thing no other directory tells you. Bandra East lives a double life. By day, BKC roars - suited bankers, glass towers, valet queues and power lunches. Step a few lanes east and the rhythm changes completely: Kherwadi and Bharat Nagar buzz with markets, chai stalls and family life, while Government Colony moves at an easy, settled pace. It's a place where India's biggest deals are signed minutes away from everyday neighbourhood life. It's genuinely mixed - corporate professionals, government employees, old residents of Kala Nagar, and tightly-knit communities in the eastern pockets. That coexistence of high finance and grounded Mumbai is exactly what gives Bandra East its unique energy.",
+  "character_vibe_image": "https://images.unsplash.com/photo-1561612217-4f5d0b4c6ea8?w=800&q=80",
+  "resident_profile": [
+    {
+      "segment": "BKC Professionals",
+      "description": "Bankers, consultants & corporates near BKC"
+    },
+    {
+      "segment": "Government Employees",
+      "description": "State staff in Government Colony quarters"
+    },
+    {
+      "segment": "Old Mumbai Families",
+      "description": "Multi-generational residents in Kherwadi"
+    },
+    {
+      "segment": "Trading Community",
+      "description": "Small business families in Bharat Nagar"
+    },
+    {
+      "segment": "Young Professionals",
+      "description": "Renters who want to live near BKC jobs"
+    },
+    {
+      "segment": "Diverse Communities",
+      "description": "Tight-knit, cosmopolitan eastern pockets"
+    }
+  ],
+  "resident_profile_image": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=800&q=80",
+  "resident_profile_description": "Resident Profile A cross-section of Mumbai - here's who you'll find calling Bandra East home. Bandra East is home to BKC corporate professionals in premium Kala Nagar towers, generations of state-government employees in Government Colony, long-settled middle-income families in Kherwadi and Bharat Nagar, and a dense, vibrant community in the eastern pockets. It's a true working Mumbai locality, layered with high finance.",
+  "property_prices": [
+    {
+      "sub_area": "Kala Nagar / BKC Edge - 2BHK",
+      "price": "₹3 – 5 Cr",
+      "rental": "₹70,000 – ₹1,50,000/mo",
+      "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=200&q=80"
+    },
+    {
+      "sub_area": "BKC-Facing Premium - 2BHK+",
+      "price": "₹5 – 8 Cr+",
+      "rental": "₹1,20,000 – ₹2,50,000/mo",
+      "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=200&q=80"
+    },
+    {
+      "sub_area": "Kherwadi / Government Colony - 1BHK",
+      "price": "₹1.4 – 2.2 Cr",
+      "rental": "₹30,000 – ₹48,000/mo",
+      "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=200&q=80"
+    },
+    {
+      "sub_area": "BKC - Commercial Office (per sqft)",
+      "price": "₹250 – ₹450/sqft",
+      "rental": "Lease: Premium grade-A, 3–9 year terms",
+      "image": "https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?w=200&q=80"
+    }
+  ],
+  "schools": [
+    {
+      "name": "Dhirubhai Ambani International School, BKC",
+      "location": "BKC, Bandra East",
+      "badge": "IB / IGCSE",
+      "image": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=200&q=80"
+    },
+    {
+      "name": "American School of Bombay, BKC",
+      "location": "BKC, Bandra East",
+      "badge": "International",
+      "image": "https://images.unsplash.com/photo-1588072432836-e10032774350?w=200&q=80"
+    },
+    {
+      "name": "MET Rishikul Vidyalaya, Bandra East",
+      "location": "Bandra Reclamation, Bandra East",
+      "badge": "ICSE / CBSE",
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=200&q=80"
+    },
+    {
+      "name": "IES Manik Vidyamandir, Bandra East",
+      "location": "Government Colony, Bandra East",
+      "badge": "SSC",
+      "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=200&q=80"
+    },
+    {
+      "name": "Government Colony High School, Bandra East",
+      "location": "Government Colony, Bandra East",
+      "badge": "SSC",
+      "image": "https://images.unsplash.com/photo-1600195077077-7c815b6fd7b5?w=200&q=80"
+    },
+    {
+      "name": "Kherwadi Municipal School, Bandra East",
+      "location": "Kherwadi, Bandra East",
+      "badge": "SSC",
+      "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=200&q=80"
+    }
+  ],
+  "hospitals": [
+    {
+      "type": "Super-speciality",
+      "name": "Asian Heart Institute, BKC",
+      "description": "One of India's leading cardiac-care super-speciality hospitals, located in BKC, Bandra East.",
+      "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=400&q=80"
+    },
+    {
+      "type": "Government Hospital",
+      "name": "Bhabha Hospital, Bandra",
+      "description": "Major municipal hospital serving the Bandra belt with affordable general medicine and 24-hour emergency.",
+      "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=400&q=80"
+    },
+    {
+      "type": "Multi-speciality",
+      "name": "Guru Nanak Hospital, Bandra",
+      "description": "A well-established hospital serving the Bandra belt with emergency, surgery and general medicine.",
+      "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=400&q=80"
+    },
+    {
+      "type": "General Hospital",
+      "name": "Kala Nagar Nursing Home, Bandra East",
+      "description": "Accessible nursing home serving the Kala Nagar and Government Colony belt with OPD, ICU and maternity.",
+      "image": "https://images.unsplash.com/photo-1516841273335-e39b37888115?w=400&q=80"
+    },
+    {
+      "type": "24-Hour Clinic",
+      "name": "Kherwadi Medical Centre, Bandra East",
+      "description": "Local 24-hour clinic serving Kherwadi and Bharat Nagar - general physician, minor surgery, diagnostics.",
+      "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=400&q=80"
+    },
+    {
+      "type": "Diagnostics",
+      "name": "Metropolis / Suburban Diagnostics, Bandra East",
+      "description": "Multiple diagnostic collection centres across Bandra East for blood tests, reports and health packages.",
+      "image": "https://images.unsplash.com/photo-1587351021759-3e566b6af7cc?w=400&q=80"
+    }
+  ],
+  "banks": [
+    {
+      "name": "State Bank of India",
+      "image": "https://images.unsplash.com/photo-1556742031-c6961e8560b0?w=300&q=80"
+    },
+    {
+      "name": "HDFC Bank",
+      "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=300&q=80"
+    },
+    {
+      "name": "ICICI Bank",
+      "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=300&q=80"
+    },
+    {
+      "name": "Axis Bank",
+      "image": "https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?w=300&q=80"
+    },
+    {
+      "name": "Citibank",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=300&q=80"
+    },
+    {
+      "name": "Kotak Mahindra Bank",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=300&q=80"
+    },
+    {
+      "name": "NSE / SEBI (BKC)",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=300&q=80"
+    },
+    {
+      "name": "HSBC Bank",
+      "image": "https://images.unsplash.com/photo-1567427017947-545c5f8d16ad?w=300&q=80"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Kherwadi Market, Bandra East",
+      "description": "The area's busy daily market - vegetables, fish, meat, spices and local provisions.",
+      "image": "https://images.unsplash.com/photo-1488459716781-31db52582fe9?w=600&q=80"
+    },
+    {
+      "name": "Bharat Nagar Market, Bandra East",
+      "description": "A lively local market serving the Bharat Nagar belt - daily provisions, street food and small retail.",
+      "image": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=600&q=80"
+    },
+    {
+      "name": "BKC Premium Retail & Jio World Drive",
+      "description": "High-end retail, luxury brands and the Jio World Drive mall - BKC's upscale shopping destination.",
+      "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=600&q=80"
+    },
+    {
+      "name": "Government Colony Shopping Lane",
+      "description": "Daily provisions, household goods and eateries serving the colony's many residents.",
+      "image": "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=600&q=80"
+    },
+    {
+      "name": "Bandra Terminus Market",
+      "description": "Commuter-focused shops, food stalls and quick-buy essentials around the outstation rail terminus.",
+      "image": "https://images.unsplash.com/photo-1533900298318-6b8da08a523e?w=600&q=80"
+    },
+    {
+      "name": "Kala Nagar Local Shops",
+      "description": "Convenience stores, pharmacies and daily-need shops serving the Kala Nagar residential pocket.",
+      "image": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=600&q=80"
+    }
+  ],
+  "travelling_connectivity": [
+    {
+      "name": "Churchgate by Train",
+      "icon": "🚆",
+      "distance": "22 min",
+      "tag": ""
+    },
+    {
+      "name": "South Mumbai via Sea Link",
+      "icon": "🌉",
+      "distance": "15 min",
+      "tag": ""
+    },
+    {
+      "name": "To BKC Offices",
+      "icon": "🏢",
+      "distance": "Walk",
+      "tag": ""
+    },
+    {
+      "name": "Airport (T1/T2)",
+      "icon": "✈️",
+      "distance": "20 min",
+      "tag": ""
+    }
+  ],
+  "commute_description": "One of Mumbai's best-connected nodes - local train, the Sea Link, two express highways, Metro and the Bandra Terminus all converge here.",
+  "commute_detail_items": [
+    {
+      "name": "Western Railway - Bandra Station & Terminus",
+      "description": "Fast and slow trains to Churchgate (22 min), plus the Bandra Terminus for outstation and long-distance trains.",
+      "icon": "🚗",
+      "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?w=200&q=80"
+    },
+    {
+      "name": "Bandra-Worli Sea Link (East Landing)",
+      "description": "A direct expressway to South Mumbai - cutting the Worli-Bandra drive to around 15 minutes.",
+      "icon": "🚗",
+      "image": "https://images.unsplash.com/photo-1581262208435-41726149a759?w=200&q=80"
+    },
+    {
+      "name": "BEST Bus Routes from Bandra East",
+      "description": "Key routes: 313, 318 (Bandra–Kurla), A-74 (BKC), and feeder services connecting Kherwadi, BKC and the station.",
+      "icon": "🚗",
+      "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?w=200&q=80"
+    },
+    {
+      "name": "WEH, EEH & Metro Access",
+      "description": "Bandra East connects directly to both the Western and Eastern Express Highways, plus Metro Line 2B - ideal for any direction.",
+      "icon": "🚗",
+      "image": "https://images.unsplash.com/photo-1566378246598-5b11a0d486cc?w=200&q=80"
+    }
+  ],
+  "major_employers": [
+    {
+      "sector": "Finance & Corporate",
+      "name": "Bandra-Kurla Complex (BKC)",
+      "description": "India's premier business district - banks, MNCs, consultancies and the diamond bourse employing 2 lakh+ professionals.",
+      "image": "https://images.unsplash.com/photo-1554469384-e58fac16e23a?w=400&q=80"
+    },
+    {
+      "sector": "Banking & Regulators",
+      "name": "NSE, SEBI & Bank Headquarters",
+      "description": "The National Stock Exchange, SEBI and headquarters of major banks anchor BKC's financial ecosystem.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=400&q=80"
+    },
+    {
+      "sector": "Technology & Consulting",
+      "name": "MNCs & Consulting Firms, BKC",
+      "description": "Global consulting firms, tech companies and professional-services majors operate large offices in BKC.",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=400&q=80"
+    },
+    {
+      "sector": "Government",
+      "name": "State Government Offices & Colony",
+      "description": "Government Colony and nearby civic offices employ thousands of state-government staff and administrators.",
+      "image": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=400&q=80"
+    },
+    {
+      "sector": "Hospitality",
+      "name": "BKC Hotels & Convention Venues",
+      "description": "Trident BKC, Sofitel and the Jio World Convention Centre employ significant local staff.",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400&q=80"
+    },
+    {
+      "sector": "Trade & Retail",
+      "name": "Bharat Diamond Bourse, BKC",
+      "description": "The world's largest diamond trading hub, employing thousands across the gems & jewellery trade.",
+      "image": "https://images.unsplash.com/photo-1541746972996-4e0b0f43e02a?w=400&q=80"
+    }
+  ],
+  "residential_societies": [
+    {
+      "name": "Kala Nagar Co-op Housing, Bandra East",
+      "description": "Kala Nagar - premium society near BKC",
+      "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=200&q=80"
+    },
+    {
+      "name": "Government Colony Quarters, Bandra East",
+      "description": "Government Colony - state staff housing, open layouts",
+      "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=200&q=80"
+    },
+    {
+      "name": "Kherwadi CHS, Bandra East",
+      "description": "Kherwadi - mid-income, well-connected, near market",
+      "image": "https://images.unsplash.com/photo-1560185127-6a8c3f6b8f3c?w=200&q=80"
+    },
+    {
+      "name": "Bharat Nagar Colonies, Bandra East",
+      "description": "Bharat Nagar - dense residential, community-strong",
+      "image": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?w=200&q=80"
+    },
+    {
+      "name": "BKC-Facing Premium Towers",
+      "description": "BKC Edge - luxury high-rises with skyline views",
+      "image": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=200&q=80"
+    },
+    {
+      "name": "Naupada Residences, Bandra East",
+      "description": "Naupada - established locality, affordable rentals",
+      "image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=200&q=80"
+    },
+    {
+      "name": "MIG Colony, Bandra East",
+      "description": "MIG - middle-income society near Government Colony",
+      "image": "https://images.unsplash.com/photo-1600607687644-c7f34b5e9d56?w=200&q=80"
+    },
+    {
+      "name": "Bandra Terminus Residences",
+      "description": "Near Terminus - transit-friendly, affordable housing",
+      "image": "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=200&q=80"
+    }
+  ],
+  "local_events": [
+    {
+      "name": "Concerts & Expos at BKC",
+      "description": "The MMRDA Grounds and Jio World Convention Centre host India's biggest concerts, trade expos and festivals.",
+      "date": "Year Round",
+      "image": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=400&q=80"
+    },
+    {
+      "name": "Ganesh Chaturthi in Bandra East",
+      "description": "Kherwadi and Government Colony mandals host vibrant Ganesh festivals with music and grand visarjan processions.",
+      "date": "Aug – Sep",
+      "image": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?w=400&q=80"
+    },
+    {
+      "name": "Navratri Garba in Bandra East",
+      "description": "Colony grounds in Government Colony and Kherwadi host lively Navratri garba and dandiya nights.",
+      "date": "Oct",
+      "image": "https://images.unsplash.com/photo-1547573854-74d2a71d0826?w=400&q=80"
+    },
+    {
+      "name": "Diamond & Jewellery Trade Shows, BKC",
+      "description": "The Bharat Diamond Bourse hosts major gems & jewellery trade exhibitions - among Asia's key trade events.",
+      "date": "Jan – Feb",
+      "image": "https://images.unsplash.com/photo-1533900298318-6b8da08a523e?w=400&q=80"
+    },
+    {
+      "name": "Christmas & New Year in Bandra East",
+      "description": "Local communities celebrate with festivities, while BKC hotels host glittering NYE parties.",
+      "date": "Dec – Jan",
+      "image": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=400&q=80"
+    },
+    {
+      "name": "Local Cricket Leagues in Bandra East",
+      "description": "Society and colony cricket leagues run through winter - a key part of Bandra East's community sporting culture.",
+      "date": "Nov – Mar",
+      "image": "https://images.unsplash.com/photo-1531058020387-3be344556be6?w=400&q=80"
+    }
+  ],
+  "upcoming_projects": [
+    {
+      "name": "Metro Line 3 (Aqua Line) - BKC Station",
+      "description": "The underground Colaba-Bandra-SEEPZ Metro with a BKC station will transform connectivity for Bandra East.",
+      "status": "Ongoing",
+      "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=400&q=80"
+    },
+    {
+      "name": "Mumbai-Ahmedabad Bullet Train Terminus, BKC",
+      "description": "The underground bullet-train terminus at BKC will make Bandra East a national high-speed-rail gateway.",
+      "status": "Ongoing",
+      "image": "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=400&q=80"
+    },
+    {
+      "name": "New Grade-A Commercial Towers, BKC",
+      "description": "Several new commercial towers are planned in BKC, expanding office capacity and local employment.",
+      "status": "Upcoming",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&q=80"
+    },
+    {
+      "name": "BKC-Coastal Road & Sea Link Connector",
+      "description": "Planned connectors linking BKC to the Coastal Road and Sea Link will ease Bandra East's road traffic.",
+      "status": "Upcoming",
+      "image": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=400&q=80"
+    },
+    {
+      "name": "Government Colony Redevelopment",
+      "description": "Proposed redevelopment of ageing Government Colony quarters into modern residential towers and amenities.",
+      "status": "Planned",
+      "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?w=400&q=80"
+    },
+    {
+      "name": "Kherwadi & Bharat Nagar SRA Redevelopment",
+      "description": "SRA-approved redevelopment of older Kherwadi and Bharat Nagar pockets - new supply and improved livability.",
+      "status": "Planned",
+      "image": "https://images.unsplash.com/photo-1568992687947-868a62a9f521?w=400&q=80"
+    }
+  ],
+  "civic_data": {
+    "pin_codes": {
+      "label": "Pin Codes",
+      "value": "400051, 400055",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=300&q=80"
+    },
+    "municipal_body": {
+      "label": "Municipal Body",
+      "value": "MCGM (BMC) - H/E Ward",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=300&q=80"
+    },
+    "assembly_constituency": {
+      "label": "Assembly Constituency",
+      "value": "Vandre East (Bandra East)",
+      "image": "https://images.unsplash.com/photo-1503551723145-6c040742065b?w=300&q=80"
+    },
+    "police_station": {
+      "label": "Police Station",
+      "value": "Nirmal Nagar, Kherwadi, BKC",
+      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=300&q=80"
+    },
+    "post_offices": {
+      "label": "Post Offices",
+      "value": "Government Colony, Kherwadi",
+      "image": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=300&q=80"
+    },
+    "fire_station": {
+      "label": "Fire Station",
+      "value": "Bandra Fire Station",
+      "image": "https://images.unsplash.com/photo-1534536281715-e28d76689b4d?w=300&q=80"
+    },
+    "est_popul": {
+      "label": "Est. Popul.",
+      "value": "4 Lakh+ (2026 est.)",
+      "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=300&q=80"
+    },
+    "bmc_ward_office": {
+      "label": "BMC Ward Office",
+      "value": "H/E Ward - Bandra East",
+      "image": "https://images.unsplash.com/photo-1487958449943-2429e8be8625?w=300&q=80"
+    }
+  },
+  "area_report_card": {
+    "connectivity_in_bandra_east": 5,
+    "daily_essentials_in_bandra_east": 4,
+    "affordability_bandra_east": 3,
+    "schools_education": 5,
+    "job_opportunities_in_bandra_east": 5,
+    "safety_in_bandra_east": 4
+  },
+  "living_style": [
+    {
+      "name": "Housing & Property in Bandra East",
+      "description": "₹1.4Cr-₹8Cr+ depending on sub-area - Kherwadi accessible, Kala Nagar/BKC premium. Strong rental demand from BKC workers.",
+      "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=80&q=80",
+      "icon": "🏠"
+    },
+    {
+      "name": "Schools & Education in Bandra East",
+      "description": "Dhirubhai Ambani International, American School of Bombay, MET Rishikul - from elite IB to solid local boards.",
+      "image": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=80&q=80",
+      "icon": "🏠"
+    },
+    {
+      "name": "Healthcare in Bandra East",
+      "description": "Asian Heart Institute, Bhabha and Guru Nanak hospitals - plus diagnostic centres and 24-hour pharmacies throughout.",
+      "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=80&q=80",
+      "icon": "🏠"
+    },
+    {
+      "name": "Community Character of Bandra East",
+      "description": "BKC professionals, government employees, old Kherwadi families - a genuine mix of high finance and everyday Mumbai.",
+      "image": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=80&q=80",
+      "icon": "🏠"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is Bandra East known for?",
+      "answer": "Bandra East is best known for the Bandra-Kurla Complex (BKC) - one of India's largest planned business districts - along with Kala Nagar (home to political residences), Government Colony, the Bandra Terminus and the eastern landing of the Bandra-Worli Sea Link."
+    },
+    {
+      "question": "What is the pin code of Bandra East?",
+      "answer": "Bandra East falls primarily under pin codes 400051 (BKC / Kala Nagar / Government Colony) and 400055 (Kherwadi / Bharat Nagar belt), within the H/East ward."
+    },
+    {
+      "question": "What are the sub-areas within Bandra East?",
+      "answer": "The main micro-localities within Bandra East are BKC, Kala Nagar, Government Colony, Kherwadi, Bharat Nagar, Behrampada, Garib Nagar, Naupada and the Bandra Terminus area."
+    },
+    {
+      "question": "What is the property price in Bandra East?",
+      "answer": "Property prices in Bandra East range from ₹1.4–2.2 Cr for a 1BHK in Kherwadi/Government Colony pockets to ₹3–5 Cr for a 2BHK near BKC and Kala Nagar, and ₹6 Cr+ for premium BKC-facing apartments. Rental rates range from ₹30,000 to ₹1,50,000 per month depending on the sub-area and flat size (as of May 2026)."
+    },
+    {
+      "question": "How to commute from Bandra East?",
+      "answer": "Bandra East is served by Western Railway's Bandra Station, the Bandra Terminus for outstation trains, Metro Line 2B, direct access to the Western Express Highway and Eastern Express Highway, BEST bus routes 313, 318, A-74, and the Bandra-Worli Sea Link. BKC is within walking distance."
+    },
+    {
+      "question": "Which hospitals are in Bandra East?",
+      "answer": "Major hospitals in and near Bandra East include Asian Heart Institute (BKC), Bhabha Hospital, Bandra Holy Family (Bandra West reach), and several multi-speciality clinics along the BKC and Government Colony belt."
+    },
+    {
+      "question": "Which schools are in Bandra East?",
+      "answer": "Notable schools in and around Bandra East include MET Rishikul Vidyalaya, Dhirubhai Ambani International School (BKC), American School of Bombay (BKC), IES Manik Vidyamandir and Government Colony municipal schools."
+    },
+    {
+      "question": "How do I find the best dentists in Bandra East?",
+      "answer": "Browse Mumbai96's Bandra East listings, read reviews from locals and call directly. Our verified directory makes it easy."
+    }
+  ],
+  "category_sections": [
+    {
+      "key": "section_1",
+      "heading": "Food, Real Estate & Health",
+      "categories": [
+        {
+          "slug": "street-food",
+          "name": "Street Food",
+          "emoji": "🌮"
+        },
+        {
+          "slug": "biryani-restaurants",
+          "name": "Biryani Restaurants",
+          "emoji": "🍚"
+        },
+        {
+          "slug": "chinese-restaurants",
+          "name": "Chinese Restaurants",
+          "emoji": "🥢"
+        },
+        {
+          "slug": "south-indian-restaurants",
+          "name": "South Indian Restaurants",
+          "emoji": "🥘"
+        },
+        {
+          "slug": "cafes-coffee-shops",
+          "name": "Cafes & Coffee Shops",
+          "emoji": "☕"
+        },
+        {
+          "slug": "bakeries",
+          "name": "Bakeries",
+          "emoji": "🥐"
+        },
+        {
+          "slug": "sweet-shops",
+          "name": "Sweet Shops",
+          "emoji": "🍬"
+        },
+        {
+          "slug": "ice-cream-shops",
+          "name": "Ice Cream Shops",
+          "emoji": "🍦"
+        },
+        {
+          "slug": "juice-shops",
+          "name": "Juice Shops",
+          "emoji": "🥤"
+        },
+        {
+          "slug": "seafood-restaurants",
+          "name": "Seafood Restaurants",
+          "emoji": "🦞"
+        },
+        {
+          "slug": "vegetarian-restaurants",
+          "name": "Vegetarian Restaurants",
+          "emoji": "🥗"
+        },
+        {
+          "slug": "fast-food-restaurants",
+          "name": "Fast Food Restaurants",
+          "emoji": "🍔"
+        },
+        {
+          "slug": "real-estate-agents",
+          "name": "Real Estate Agents",
+          "emoji": "🏠"
+        },
+        {
+          "slug": "flats-for-rent",
+          "name": "Flats for Rent",
+          "emoji": "🏢"
+        },
+        {
+          "slug": "flats-for-sale",
+          "name": "Flats for Sale",
+          "emoji": "🔑"
+        },
+        {
+          "slug": "paying-guest-accommodation",
+          "name": "Paying Guest Accommodation",
+          "emoji": "🛏️"
+        },
+        {
+          "slug": "office-space-for-rent",
+          "name": "Office Space for Rent",
+          "emoji": "🏬"
+        },
+        {
+          "slug": "property-management",
+          "name": "Property Management",
+          "emoji": "📋"
+        },
+        {
+          "slug": "pharmacies",
+          "name": "Pharmacies",
+          "emoji": "💊"
+        },
+        {
+          "slug": "eye-doctors",
+          "name": "Eye Doctors",
+          "emoji": "👁️"
+        },
+        {
+          "slug": "physiotherapists",
+          "name": "Physiotherapists",
+          "emoji": "🩹"
+        },
+        {
+          "slug": "ayurvedic-doctors",
+          "name": "Ayurvedic Doctors",
+          "emoji": "🌿"
+        },
+        {
+          "slug": "homeopathy-doctors",
+          "name": "Homeopathy Doctors",
+          "emoji": "🫙"
+        },
+        {
+          "slug": "blood-banks",
+          "name": "Blood Banks",
+          "emoji": "🩸"
+        },
+        {
+          "slug": "diagnostic-centres",
+          "name": "Diagnostic Centres",
+          "emoji": "🔬"
+        }
+      ]
+    },
+    {
+      "key": "section_2",
+      "heading": "Clinics, Shopping & Home Services",
+      "categories": [
+        {
+          "slug": "dental-clinics",
+          "name": "Dental Clinics",
+          "emoji": "🪥"
+        },
+        {
+          "slug": "deaddiction-centres",
+          "name": "Deaddiction Centres",
+          "emoji": "🫁"
+        },
+        {
+          "slug": "clothing-stores",
+          "name": "Clothing Stores",
+          "emoji": "👗"
+        },
+        {
+          "slug": "jewellery-shops",
+          "name": "Jewellery Shops",
+          "emoji": "💍"
+        },
+        {
+          "slug": "mobile-phone-shops",
+          "name": "Mobile Phone Shops",
+          "emoji": "📱"
+        },
+        {
+          "slug": "electronics-stores",
+          "name": "Electronics Stores",
+          "emoji": "💻"
+        },
+        {
+          "slug": "optical-shops",
+          "name": "Optical Shops",
+          "emoji": "👓"
+        },
+        {
+          "slug": "grocery-stores",
+          "name": "Grocery Stores",
+          "emoji": "🛒"
+        },
+        {
+          "slug": "shoe-stores",
+          "name": "Shoe Stores",
+          "emoji": "👟"
+        },
+        {
+          "slug": "sports-goods-stores",
+          "name": "Sports Goods Stores",
+          "emoji": "⚽"
+        },
+        {
+          "slug": "book-stores",
+          "name": "Book Stores",
+          "emoji": "📚"
+        },
+        {
+          "slug": "stationery-stores",
+          "name": "Stationery Stores",
+          "emoji": "✏️"
+        },
+        {
+          "slug": "baby-products-stores",
+          "name": "Baby Products Stores",
+          "emoji": "🍼"
+        },
+        {
+          "slug": "hardware-stores",
+          "name": "Hardware Stores",
+          "emoji": "🪛"
+        },
+        {
+          "slug": "pest-control",
+          "name": "Pest Control",
+          "emoji": "🐛"
+        },
+        {
+          "slug": "home-cleaning-services",
+          "name": "Home Cleaning Services",
+          "emoji": "🧹"
+        },
+        {
+          "slug": "painting-services",
+          "name": "Painting Services",
+          "emoji": "🖌️"
+        },
+        {
+          "slug": "laundry-dry-cleaners",
+          "name": "Laundry & Dry Cleaners",
+          "emoji": "👕"
+        },
+        {
+          "slug": "water-purifier-services",
+          "name": "Water Purifier Services",
+          "emoji": "💧"
+        },
+        {
+          "slug": "cctv-installation",
+          "name": "CCTV Installation",
+          "emoji": "📷"
+        },
+        {
+          "slug": "false-ceiling-contractors",
+          "name": "False Ceiling Contractors",
+          "emoji": "🏗️"
+        },
+        {
+          "slug": "sofa-repair-services",
+          "name": "Sofa Repair Services",
+          "emoji": "🪜"
+        },
+        {
+          "slug": "car-dealers",
+          "name": "Car Dealers",
+          "emoji": "🚕"
+        },
+        {
+          "slug": "bike-dealers",
+          "name": "Bike Dealers",
+          "emoji": "🛵"
+        },
+        {
+          "slug": "car-wash-services",
+          "name": "Car Wash Services",
+          "emoji": "🚿"
+        }
+      ]
+    },
+    {
+      "key": "section_3",
+      "heading": "Automobiles, Entertainment & Education",
+      "categories": [
+        {
+          "slug": "second-hand-cars",
+          "name": "Second Hand Cars",
+          "emoji": "🚐"
+        },
+        {
+          "slug": "auto-parts-stores",
+          "name": "Auto Parts Stores",
+          "emoji": "⚙️"
+        },
+        {
+          "slug": "petrol-pumps",
+          "name": "Petrol Pumps",
+          "emoji": "⛽"
+        },
+        {
+          "slug": "ev-charging-stations",
+          "name": "EV Charging Stations",
+          "emoji": "🔋"
+        },
+        {
+          "slug": "photographers",
+          "name": "Photographers",
+          "emoji": "📸"
+        },
+        {
+          "slug": "videographers",
+          "name": "Videographers",
+          "emoji": "🎥"
+        },
+        {
+          "slug": "photo-studios",
+          "name": "Photo Studios",
+          "emoji": "🎞️"
+        },
+        {
+          "slug": "printing-shops",
+          "name": "Printing Shops",
+          "emoji": "🖨️"
+        },
+        {
+          "slug": "movie-theatres",
+          "name": "Movie Theatres",
+          "emoji": "🎬"
+        },
+        {
+          "slug": "bowling-alleys",
+          "name": "Bowling Alleys",
+          "emoji": "🎳"
+        },
+        {
+          "slug": "gaming-zones",
+          "name": "Gaming Zones",
+          "emoji": "🎮"
+        },
+        {
+          "slug": "escape-rooms",
+          "name": "Escape Rooms",
+          "emoji": "🗝️"
+        },
+        {
+          "slug": "stand-up-comedy-shows",
+          "name": "Stand-Up Comedy Shows",
+          "emoji": "🎤"
+        },
+        {
+          "slug": "creches-daycare",
+          "name": "Creches & Daycare",
+          "emoji": "🪆"
+        },
+        {
+          "slug": "playschools",
+          "name": "Playschools",
+          "emoji": "🧸"
+        },
+        {
+          "slug": "schools",
+          "name": "Schools",
+          "emoji": "🏫"
+        },
+        {
+          "slug": "colleges",
+          "name": "Colleges",
+          "emoji": "🎓"
+        },
+        {
+          "slug": "spoken-english-classes",
+          "name": "Spoken English Classes",
+          "emoji": "🗣️"
+        },
+        {
+          "slug": "computer-classes",
+          "name": "Computer Classes",
+          "emoji": "⌨️"
+        },
+        {
+          "slug": "swimming-classes",
+          "name": "Swimming Classes",
+          "emoji": "🏊"
+        },
+        {
+          "slug": "courier-services",
+          "name": "Courier Services",
+          "emoji": "🚚"
+        },
+        {
+          "slug": "co-working-spaces",
+          "name": "Co-Working Spaces",
+          "emoji": "💼"
+        },
+        {
+          "slug": "event-photographers",
+          "name": "Event Photographers",
+          "emoji": "🤳"
+        },
+        {
+          "slug": "digital-marketing-agencies",
+          "name": "Digital Marketing Agencies",
+          "emoji": "📣"
+        },
+        {
+          "slug": "web-designers",
+          "name": "Web Designers",
+          "emoji": "🌐"
+        }
+      ]
+    },
+    {
+      "key": "section_4",
+      "heading": "Culture, Spirituality & Medical Specialists",
+      "categories": [
+        {
+          "slug": "astrologers",
+          "name": "Astrologers",
+          "emoji": "🔮"
+        },
+        {
+          "slug": "vastu-consultants",
+          "name": "Vastu Consultants",
+          "emoji": "🧭"
+        },
+        {
+          "slug": "temples",
+          "name": "Temples",
+          "emoji": "🛕"
+        },
+        {
+          "slug": "mosques",
+          "name": "Mosques",
+          "emoji": "🕌"
+        },
+        {
+          "slug": "churches",
+          "name": "Churches",
+          "emoji": "⛪"
+        },
+        {
+          "slug": "detective-agencies-spy-agents",
+          "name": "Detective Agencies",
+          "emoji": "🕵️"
+        },
+        {
+          "slug": "heritage-walks",
+          "name": "Heritage Walks",
+          "emoji": "🏛️"
+        },
+        {
+          "slug": "convention-centres",
+          "name": "Convention Centres",
+          "emoji": "🏟️"
+        },
+        {
+          "slug": "gurudwaras",
+          "name": "Gurudwaras",
+          "emoji": "🪯"
+        },
+        {
+          "slug": "dabbawalas",
+          "name": "Dabbawalas",
+          "emoji": "🍱"
+        },
+        {
+          "slug": "recording-studios",
+          "name": "Recording Studios",
+          "emoji": "🎪"
+        },
+        {
+          "slug": "dentists",
+          "name": "Dentists",
+          "emoji": "🦷"
+        },
+        {
+          "slug": "skin-doctors",
+          "name": "Skin Doctors",
+          "emoji": "🧴"
+        },
+        {
+          "slug": "ent-doctors",
+          "name": "ENT Doctors",
+          "emoji": "👂"
+        },
+        {
+          "slug": "spine-doctors",
+          "name": "Spine Doctors",
+          "emoji": "🦴"
+        },
+        {
+          "slug": "ortho-doctors",
+          "name": "Ortho Doctors",
+          "emoji": "🩼"
+        },
+        {
+          "slug": "heart-doctors",
+          "name": "Heart Doctors",
+          "emoji": "❤️"
+        },
+        {
+          "slug": "gynecologist-obstetricians",
+          "name": "Gynecologists",
+          "emoji": "👩‍⚕️"
+        },
+        {
+          "slug": "pediatrician-child-doctors",
+          "name": "Pediatricians",
+          "emoji": "🧒"
+        },
+        {
+          "slug": "maternity-hospitals",
+          "name": "Maternity Hospitals",
+          "emoji": "🤰"
+        },
+        {
+          "slug": "ivf-centers",
+          "name": "IVF Centers",
+          "emoji": "🧬"
+        },
+        {
+          "slug": "hospitals",
+          "name": "Hospitals",
+          "emoji": "🏥"
+        },
+        {
+          "slug": "medical-pathology-labs",
+          "name": "Pathology Labs",
+          "emoji": "🫧"
+        },
+        {
+          "slug": "psychologists",
+          "name": "Psychologists",
+          "emoji": "🧠"
+        },
+        {
+          "slug": "psychiatrists",
+          "name": "Psychiatrists",
+          "emoji": "💬"
+        }
+      ]
+    },
+    {
+      "key": "section_5",
+      "heading": "Wellness, Beauty & Events",
+      "categories": [
+        {
+          "slug": "xray-sonography-centres",
+          "name": "X-Ray & Sonography",
+          "emoji": "🩻"
+        },
+        {
+          "slug": "spas",
+          "name": "Spas",
+          "emoji": "💆"
+        },
+        {
+          "slug": "salons",
+          "name": "Salons",
+          "emoji": "✂️"
+        },
+        {
+          "slug": "beauty-parlours",
+          "name": "Beauty Parlours",
+          "emoji": "💄"
+        },
+        {
+          "slug": "makeover-artists",
+          "name": "Makeover Artists",
+          "emoji": "🪞"
+        },
+        {
+          "slug": "tattoo-artists",
+          "name": "Tattoo Artists",
+          "emoji": "🪡"
+        },
+        {
+          "slug": "gyms",
+          "name": "Gyms",
+          "emoji": "💪"
+        },
+        {
+          "slug": "personal-trainers",
+          "name": "Personal Trainers",
+          "emoji": "🏋️"
+        },
+        {
+          "slug": "dietitians-nutritionists",
+          "name": "Dietitians & Nutritionists",
+          "emoji": "🥦"
+        },
+        {
+          "slug": "bridal-makeup-artists",
+          "name": "Bridal Makeup Artists",
+          "emoji": "👰"
+        },
+        {
+          "slug": "groom-makeup-artists",
+          "name": "Groom Makeup Artists",
+          "emoji": "🤵"
+        },
+        {
+          "slug": "dance-classes",
+          "name": "Dance Classes",
+          "emoji": "💃"
+        },
+        {
+          "slug": "zumba-classes",
+          "name": "Zumba Classes",
+          "emoji": "🕺"
+        },
+        {
+          "slug": "yoga-classes",
+          "name": "Yoga Classes",
+          "emoji": "🧘"
+        },
+        {
+          "slug": "music-classes",
+          "name": "Music Classes",
+          "emoji": "🎵"
+        },
+        {
+          "slug": "drawing-classes",
+          "name": "Drawing Classes",
+          "emoji": "🖍️"
+        },
+        {
+          "slug": "wedding-planners",
+          "name": "Wedding Planners",
+          "emoji": "💒"
+        },
+        {
+          "slug": "destination-wedding-planners",
+          "name": "Destination Wedding Planners",
+          "emoji": "✈️"
+        },
+        {
+          "slug": "birthday-event-planners",
+          "name": "Birthday Event Planners",
+          "emoji": "🎈"
+        },
+        {
+          "slug": "anniversary-event-planners",
+          "name": "Anniversary Planners",
+          "emoji": "🎊"
+        },
+        {
+          "slug": "baby-shower-planners",
+          "name": "Baby Shower Planners",
+          "emoji": "🎀"
+        },
+        {
+          "slug": "caterers",
+          "name": "Caterers",
+          "emoji": "🍽️"
+        },
+        {
+          "slug": "banquet-halls",
+          "name": "Banquet Halls",
+          "emoji": "🏩"
+        },
+        {
+          "slug": "cars-on-rent",
+          "name": "Cars on Rent",
+          "emoji": "🚘"
+        },
+        {
+          "slug": "costumes-on-rent",
+          "name": "Costumes on Rent",
+          "emoji": "🎭"
+        }
+      ]
+    },
+    {
+      "key": "section_6",
+      "heading": "Care, Community & Safety",
+      "categories": [
+        {
+          "slug": "neet-tutorials",
+          "name": "NEET Tutorials",
+          "emoji": "🩺"
+        },
+        {
+          "slug": "pet-food-shops",
+          "name": "Pet Food Shops",
+          "emoji": "🐟"
+        },
+        {
+          "slug": "pet-doctors",
+          "name": "Pet Doctors",
+          "emoji": "🐶"
+        },
+        {
+          "slug": "elders-care",
+          "name": "Elders Care",
+          "emoji": "👴"
+        },
+        {
+          "slug": "women-care-centres",
+          "name": "Women Care Centres",
+          "emoji": "🩷"
+        },
+        {
+          "slug": "relationship-counsellor",
+          "name": "Relationship Counsellor",
+          "emoji": "💑"
+        },
+        {
+          "slug": "ngos",
+          "name": "NGOs",
+          "emoji": "🤝"
+        },
+        {
+          "slug": "ambulance-services",
+          "name": "Ambulance Services",
+          "emoji": "🚑"
+        },
+        {
+          "slug": "animal-shelters",
+          "name": "Animal Shelters",
+          "emoji": "🐕"
+        },
+        {
+          "slug": "security-services",
+          "name": "Security Services",
+          "emoji": "🔐"
+        }
+      ]
+    },
+    {
+      "key": "section_7",
+      "heading": "Repairs, Tutoring & Hospitality",
+      "categories": [
+        {
+          "slug": "artifact-shops",
+          "name": "Artifact Shops",
+          "emoji": "🏺"
+        },
+        {
+          "slug": "carpenters",
+          "name": "Carpenters",
+          "emoji": "🪚"
+        },
+        {
+          "slug": "plumbers",
+          "name": "Plumbers",
+          "emoji": "🪠"
+        },
+        {
+          "slug": "electricians",
+          "name": "Electricians",
+          "emoji": "⚡"
+        },
+        {
+          "slug": "gift-shops",
+          "name": "Gift Shops",
+          "emoji": "🎁"
+        },
+        {
+          "slug": "cake-shops",
+          "name": "Cake Shops",
+          "emoji": "🎂"
+        },
+        {
+          "slug": "girls-hostel-pg",
+          "name": "Girls Hostel & PG",
+          "emoji": "👩"
+        },
+        {
+          "slug": "boys-hostel-pg",
+          "name": "Boys Hostel & PG",
+          "emoji": "👨"
+        },
+        {
+          "slug": "tiffin-services",
+          "name": "Tiffin Services",
+          "emoji": "🥡"
+        },
+        {
+          "slug": "driving-schools",
+          "name": "Driving Schools",
+          "emoji": "🚦"
+        },
+        {
+          "slug": "packers-and-movers",
+          "name": "Packers & Movers",
+          "emoji": "🏚️"
+        },
+        {
+          "slug": "ac-service-and-repair-experts",
+          "name": "AC Service & Repair",
+          "emoji": "❄️"
+        },
+        {
+          "slug": "mobile-phone-repair-experts",
+          "name": "Mobile Phone Repair",
+          "emoji": "🔩"
+        },
+        {
+          "slug": "laptop-repair-service-experts",
+          "name": "Laptop Repair",
+          "emoji": "💾"
+        },
+        {
+          "slug": "car-repair-shops",
+          "name": "Car Repair Shops",
+          "emoji": "🔨"
+        },
+        {
+          "slug": "bike-repair-shops",
+          "name": "Bike Repair Shops",
+          "emoji": "🛠️"
+        },
+        {
+          "slug": "science-classes",
+          "name": "Science Classes",
+          "emoji": "🔭"
+        },
+        {
+          "slug": "maths-tutorials",
+          "name": "Maths Tutorials",
+          "emoji": "➗"
+        },
+        {
+          "slug": "physics-tutorials",
+          "name": "Physics Tutorials",
+          "emoji": "⚛️"
+        },
+        {
+          "slug": "chemistry-tutorials",
+          "name": "Chemistry Tutorials",
+          "emoji": "🧪"
+        },
+        {
+          "slug": "ielts-classes",
+          "name": "IELTS Classes",
+          "emoji": "📝"
+        },
+        {
+          "slug": "jee-classes",
+          "name": "JEE Classes",
+          "emoji": "🔢"
+        },
+        {
+          "slug": "mht-cet-classes",
+          "name": "MHT-CET Classes",
+          "emoji": "📏"
+        },
+        {
+          "slug": "gmat-classes",
+          "name": "GMAT Classes",
+          "emoji": "🎯"
+        },
+        {
+          "slug": "gre-classes",
+          "name": "GRE Classes",
+          "emoji": "🏆"
+        }
+      ]
+    },
+    {
+      "key": "section_8",
+      "heading": "Finance, Insurance & Home Decor",
+      "categories": [
+        {
+          "slug": "furniture-on-rent",
+          "name": "Furniture on Rent",
+          "emoji": "🪑"
+        },
+        {
+          "slug": "stock-brokers",
+          "name": "Stock Brokers",
+          "emoji": "📈"
+        },
+        {
+          "slug": "financial-advisors",
+          "name": "Financial Advisors",
+          "emoji": "💰"
+        },
+        {
+          "slug": "chartered-accountants-ca",
+          "name": "Chartered Accountants",
+          "emoji": "🧾"
+        },
+        {
+          "slug": "income-tax-consultants",
+          "name": "Income Tax Consultants",
+          "emoji": "📊"
+        },
+        {
+          "slug": "lawyers-and-advocates",
+          "name": "Lawyers & Advocates",
+          "emoji": "⚖️"
+        },
+        {
+          "slug": "personal-loan-providers",
+          "name": "Personal Loan Providers",
+          "emoji": "💳"
+        },
+        {
+          "slug": "gold-loan-providers",
+          "name": "Gold Loan Providers",
+          "emoji": "🥇"
+        },
+        {
+          "slug": "home-loan-providers",
+          "name": "Home Loan Providers",
+          "emoji": "🏡"
+        },
+        {
+          "slug": "auto-loan-providers",
+          "name": "Auto Loan Providers",
+          "emoji": "🚌"
+        },
+        {
+          "slug": "business-loan-providers",
+          "name": "Business Loan Providers",
+          "emoji": "🏦"
+        },
+        {
+          "slug": "loan-against-property",
+          "name": "Loan Against Property",
+          "emoji": "📜"
+        },
+        {
+          "slug": "health-insurance-providers",
+          "name": "Health Insurance",
+          "emoji": "🛡️"
+        },
+        {
+          "slug": "term-life-insurance-providers",
+          "name": "Life Insurance",
+          "emoji": "🌱"
+        },
+        {
+          "slug": "car-insurance-providers",
+          "name": "Car Insurance",
+          "emoji": "💥"
+        },
+        {
+          "slug": "bike-insurance-providers",
+          "name": "Bike Insurance",
+          "emoji": "🚲"
+        },
+        {
+          "slug": "travel-agents",
+          "name": "Travel Agents",
+          "emoji": "🧳"
+        },
+        {
+          "slug": "visa-consultants",
+          "name": "Visa Consultants",
+          "emoji": "🛂"
+        },
+        {
+          "slug": "passport-agents",
+          "name": "Passport Agents",
+          "emoji": "🛃"
+        },
+        {
+          "slug": "honeymoon-travel-agents",
+          "name": "Honeymoon Travel Agents",
+          "emoji": "🌅"
+        },
+        {
+          "slug": "medical-tourism",
+          "name": "Medical Tourism",
+          "emoji": "🏨"
+        },
+        {
+          "slug": "architects",
+          "name": "Architects",
+          "emoji": "📐"
+        },
+        {
+          "slug": "interior-designers",
+          "name": "Interior Designers",
+          "emoji": "🪟"
+        },
+        {
+          "slug": "furniture-and-decor-stores",
+          "name": "Furniture & Decor Stores",
+          "emoji": "🪵"
+        },
+        {
+          "slug": "light-decor-shops",
+          "name": "Light & Decor Shops",
+          "emoji": "💡"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "slug": "dentists",
+      "name": "Dentists",
+      "emoji": "🦷",
+      "image": "https://mumbai96.com/bandra-east/images/01-dentists-in-bandra-east.jpg",
+      "description": "Local Services · Bandra East"
+    },
+    {
+      "slug": "skin-doctors",
+      "name": "Skin Doctors",
+      "emoji": "🧴",
+      "image": "https://mumbai96.com/bandra-east/images/02-skin-doctors-in-bandra-east.jpg",
+      "description": "Local Services · Bandra East"
+    },
+    {
+      "slug": "gynecologists",
+      "name": "Gynecologists in Bandra East",
+      "emoji": "👩‍⚕️",
+      "image": "https://mumbai96.com/bandra-east/images/03-gynecologists-in-bandra-east.jpg",
+      "description": "Local Services · Bandra East"
+    },
+    {
+      "slug": "salons",
+      "name": "Salons",
+      "emoji": "✂️",
+      "image": "https://mumbai96.com/bandra-east/images/04-salons-in-bandra-east.jpg",
+      "description": "Local Services · Bandra East"
+    },
+    {
+      "slug": "plumbers",
+      "name": "Plumbers",
+      "emoji": "🪠",
+      "image": "https://mumbai96.com/bandra-east/images/05-plumbers-in-bandra-east.jpg",
+      "description": "Local Services · Bandra East"
+    },
+    {
+      "slug": "electricians",
+      "name": "Electricians",
+      "emoji": "⚡",
+      "image": "https://mumbai96.com/bandra-east/images/06-electricians-in-bandra-east.jpg",
+      "description": "Local Services · Bandra East"
+    },
+    {
+      "slug": "gyms",
+      "name": "Gyms",
+      "emoji": "💪",
+      "image": "https://mumbai96.com/bandra-east/images/07-gyms-in-bandra-east.jpg",
+      "description": "Local Services · Bandra East"
+    },
+    {
+      "slug": "restaurants",
+      "name": "Restaurants in Bandra East",
+      "emoji": "🍽️",
+      "image": "https://mumbai96.com/bandra-east/images/08-restaurants-in-bandra-east.jpg",
+      "description": "Local Services · Bandra East"
+    },
+    {
+      "slug": "tiffin-services",
+      "name": "Tiffin Services",
+      "emoji": "🥡",
+      "image": "https://mumbai96.com/bandra-east/images/09-tiffin-services-in-bandra-east.jpg",
+      "description": "Local Services · Bandra East"
+    },
+    {
+      "slug": "real-estate",
+      "name": "Real Estate in Bandra East",
+      "emoji": "🏠",
+      "image": "https://mumbai96.com/bandra-east/images/10-real-estate-in-bandra-east.jpg",
+      "description": "Local Services · Bandra East"
+    }
+  ],
+  "best_services": [
+    {
+      "name": "Best Services in Bandra East, Mumbai - Mumbai96 Guide",
+      "description": "Finding trusted local services in Bandra East just got easier. Mumbai96 is Bandra East's dedicated local directory - a Mumbaikar-built platform that connects residents with verified dentists, skin doctors, salons, plumbers, electricians, gyms, restaurants and 90+ other service categories."
+    },
+    {
+      "name": "Why Bandra East residents trust Mumbai96",
+      "description": "Unlike generic national directories, Mumbai96 focuses exclusively on Mumbai localities. Every listing in Bandra East is verified for contact accuracy, and our review system ensures only genuine Mumbaikars leave feedback. Whether you just moved to Bandra East or have lived here for years, Mumbai96 is your local companion."
+    },
+    {
+      "name": "Services available in Bandra East",
+      "description": "From healthcare (dentists, skin doctors, gynecologists, pediatricians) to home services (plumbers, electricians, carpenters), from lifestyle (salons, gyms, yoga) to food (restaurants, tiffin services, caterers) - Mumbai96 covers everything Bandra East residents need, all in one place."
+    },
+    {
+      "name": "About Bandra East",
+      "description": "Bandra East is part of Western Suburbs, one of Mumbai's most important commercial areas - home to the Bandra-Kurla Complex (BKC). With a population of 4L+ residents and lakhs of daily commuters to BKC, the demand for quality local services has never been higher. Mumbai96 is here to bridge that gap - making it easier for Bandra East businesses to be found and for residents to find exactly what they need."
+    }
+  ],
+  "nearby_locations": [
+    {
+      "slug": "bandra-west",
+      "name": "Bandra West"
+    },
+    {
+      "slug": "khar-east",
+      "name": "Khar East"
+    },
+    {
+      "slug": "santacruz-east",
+      "name": "Santacruz East"
+    },
+    {
+      "slug": "kurla",
+      "name": "Kurla"
+    },
+    {
+      "slug": "khar-west",
+      "name": "Khar West"
+    },
+    {
+      "slug": "vakola",
+      "name": "Vakola"
+    }
+  ],
+  "population": "4L+",
+  "municipal_body": "MCGM"
+}

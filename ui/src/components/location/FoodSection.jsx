@@ -1,4 +1,7 @@
+
+
 import { getIcon } from "@/lib/iconMapper";
+import styles from "./locationPage.module.css";
 
 export default function FoodSection({
   location,
@@ -6,35 +9,35 @@ export default function FoodSection({
   tags = [],
   items = [],
 }) {
-  const formattedLocation = location?.replace(/-/g, " ");
+  const formattedLocation = location?.replace(/-/g, " ").replace(/\b\w/g, char => char.toUpperCase());
 
   return (
-    <section className="guide-sec" id="food">
-      <div className="con">
-        <p className="sl">🍽️ Food to Explore</p>
+    <section className={styles.guideSec} id="food">
+      <div className={styles.con}>
+        <p className={styles.sl}>Food to Explore</p>
 
-        <h2 className="st">
+        <h2 className={styles.st}>
           Food to Explore in <em>{formattedLocation}</em>
         </h2>
 
-        <p className="sd">{description}</p>
+        <p className={styles.sd}>{description}</p>
 
         {/* TAGS */}
-        <div className="food-tags">
+        <div className={styles.foodTags}>
           {tags.map((tag, i) => (
-            <span className="food-tag" key={i}>
+            <span className={styles.foodTag} key={i}>
               {tag}
             </span>
           ))}
         </div>
 
         {/* LIST ITEMS */}
-        <div className="list-grid">
+        <div className={styles.listGrid}>
           {items.map((item, i) => (
-            <div className="list-item" key={i}>
-              <span className="li-icon">{getIcon(item)}</span>
+            <div className={styles.listItem} key={i}>
+              <span className={styles.liIcon}>{getIcon(item)}</span>
               <div>
-                <h5>{item.name}</h5>
+                <h3>{item.name}</h3>
                 <p>{item.description}</p>
               </div>
             </div>

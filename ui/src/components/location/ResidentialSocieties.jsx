@@ -1,26 +1,34 @@
-export default function ResidentialSocieties({ location, items = [] }) {
-  const formattedLocation = location?.replace(/-/g, " ");
 
-  if (!items || items.length === 0) return null;
+// ResidentialSocieties.js
+import styles from './locationPage.module.css';
+
+export default function ResidentialSocieties({ location, items = [] }) {
+  const formattedLocation = location?.replace(/-/g, " ").replace(/\b\w/g, char => char.toUpperCase()) || "Bhayandar East";
+
+  // Default data - exactly like HTML
+  const displayItems = items && items.length > 0 ? items : [];
+
+  const displayDescription = `Prominent housing societies and townships that define community life in ${formattedLocation}.`;
 
   return (
-    <section className="guide-sec" id="residential-societies">
+    <section className="guide-sec" id="societies">
       <div className="con">
-        <p className="sl">🏘️ Housing Societies</p>
+        <p className="sl">Housing Societies</p>
         <h2 className="st">
-          Residential Societies in <em>{formattedLocation}</em>
+          Residential Societies in  <em>{formattedLocation}</em>
         </h2>
         <p className="sd">
-          Prominent housing societies and residential complexes that define
-          community life in {formattedLocation}.
+          {displayDescription}
         </p>
 
-        <div className="soc-grid">
-          {items.map((item, i) => (
-            <div className="soc-item" key={i}>
-              {item.type && <span className="soc-type">{item.type}</span>}
-              <h4>{item.name}</h4>
-              {item.description && <p>{item.description}</p>}
+        <div className={styles.socGrid}>
+          {displayItems.map((item, index) => (
+            <div className={styles.socItem} key={index}>
+              <img src={item.image} alt={item.name} width="200" height="200" />
+              <div>
+                <h3>{item.name}</h3>
+                <span>{item.description}</span>
+              </div>
             </div>
           ))}
         </div>

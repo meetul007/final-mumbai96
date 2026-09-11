@@ -1,31 +1,39 @@
-export default function LocalEvents({ location, items = [] }) {
-  const formattedLocation = location?.replace(/-/g, " ");
 
-  if (!items || items.length === 0) return null;
+// LocalEvents.js
+import styles from './locationPage.module.css';
+
+export default function LocalEvents({ location, items = [] }) {
+  const formattedLocation = location?.replace(/-/g, " ") || "Bhayandar East";
+
+  // Default data - exactly like HTML
+  const displayItems = items && items.length > 0 ? items : [];
+
+  const displayDescription = `From grand Ganesh and Navratri celebrations to society events and food fairs - ${formattedLocation}'s calendar is always full.`;
 
   return (
-    <section className="guide-sec" id="local-events">
+    <section className="guide-sec" id="events">
       <div className="con">
-        <p className="sl">🎉 Events &amp; Festivals</p>
+        <p className="sl">Events &amp; Festivals</p>
         <h2 className="st">
-          Local Events in <em>{formattedLocation}</em>
+          Local Events in <em>{formattedLocation.split(" ").map(word => 
+      word.charAt(0).toUpperCase() + word.slice(1)
+    ).join(" ")}</em>
         </h2>
         <p className="sd">
-          From grand festivals to community gatherings — {formattedLocation}
-          &apos;s calendar reflects its vibrant culture.
+          {displayDescription}
         </p>
 
-        <div className="events-grid">
-          {items.map((item, i) => (
-            <div className="event-card" key={i}>
+        <div className={styles.eventsGrid}>
+          {displayItems.map((item, index) => (
+            <div className={styles.eventCard} key={index}>
               {item.image ? (
-                <img src={item.image} alt={item.name} />
+                <img src={item.image} alt={item.name} width="400" height="320" />
               ) : (
-                <div className="event-card-ph">🎉</div>
+                <div className={styles.eventCardPh}>🎉</div>
               )}
-              <div className="event-body">
-                {item.date && <span className="event-month">{item.date}</span>}
-                <h5>{item.name}</h5>
+              <div className={styles.eventBody}>
+                {item.date && <div className={styles.eventMonth}>{item.date}</div>}
+                <h3>{item.name}</h3>
                 {item.description && <p>{item.description}</p>}
               </div>
             </div>

@@ -1,3 +1,6 @@
+
+import styles from "./locationPage.module.css";
+
 export default function AboutSection({
   location,
   title,
@@ -9,23 +12,43 @@ export default function AboutSection({
   stats = [],
 }) {
   return (
-    <section className="about">
-      <div className="con">
-        <div className="ag">
+    <section className={styles.about}>
+      <div className={styles.con}>
+        <div className={styles.ag}>
           {/* LEFT CONTENT */}
           <div>
-            <p className="sl">About the Area</p>
+            <p className={styles.sl}>About the Area</p>
 
             <h2>{title}</h2>
 
             <p dangerouslySetInnerHTML={{ __html: description1 }}></p>
 
+            {description2 && (
+              <p dangerouslySetInnerHTML={{ __html: description2 }}></p>
+            )}
+
+            {(commute || tag) && (
+              <p>
+                {commute && (
+                  <>
+                    <strong>Commute:</strong> {commute}
+                  </>
+                )}
+                {commute && tag && <>&nbsp;|&nbsp;</>}
+                {tag && (
+                  <>
+                    <strong>Tag:</strong> {tag}
+                  </>
+                )}
+              </p>
+            )}
+
             {stats.length > 0 && (
-              <div className="civic-wrap" style={{ marginTop: "20px" }}>
+              <div className={styles.ahs}>
                 {stats.map((stat, i) => (
-                  <div className="civic-chip" key={i}>
-                    <span className="cv-val">{stat.value}</span>
-                    <span className="cv-label">{stat.label}</span>
+                  <div className={styles.ahc} key={i}>
+                    <strong>{stat.value}</strong>
+                    <span>{stat.label}</span>
                   </div>
                 ))}
               </div>
@@ -33,21 +56,17 @@ export default function AboutSection({
           </div>
 
           {/* RIGHT IMAGE */}
-          <div className="ai">
+          <div className={styles.ai}>
             {image ? (
               <img
                 src={image}
                 alt={`${location} Mumbai neighbourhood`}
                 loading="lazy"
-                style={{ width: "100%", height: "100%", objectFit: "cover" }}
               />
             ) : (
-              <div className="ai-placeholder">
-                <span className="ai-placeholder-emoji">📍</span>
-                <span className="ai-placeholder-text">{location}</span>
-              </div>
+              <span>📍</span>
             )}
-            <div className="aic">📍 {location} — Mumbai</div>
+            <div className={styles.aic}>📍 {location} — Mumbai</div>
           </div>
         </div>
       </div>

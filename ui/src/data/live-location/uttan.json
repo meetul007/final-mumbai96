@@ -1,0 +1,1758 @@
+{
+  "seo_title": "Uttan Mumbai - Complete Local Guide 2026 | Beaches, Food, Property, Schools, Resorts | Mumbai96",
+  "seo_description": "Complete guide to Uttan, Mira-Bhayandar - sub-areas (Pali, Dongri, Chowk, Tarodi), beaches, fishing harbours, beach resorts, churches, property prices, schools, clinics, commute and 100+ local services. Mumbai96 - Mumbaikars' Very Own Platform.",
+  "seo_keywords": "Uttan Mumbai, Uttan beach, Uttan guide, things to do in Uttan, Pali beach Uttan, Dongri Uttan, beach resorts in Uttan, fishing village Uttan, Velankanni Church Uttan, restaurants in Uttan, seafood in Uttan, property prices Uttan, schools in Uttan, clinics in Uttan, commute from Uttan, Uttan pin code, Uttan area guide 2026",
+  "image": "/images/locations/below-hero/north/uttan.webp",
+  "location_icon": "/images/locations/name-boards/uttan.webp",
+  "name": "Uttan",
+  "about_title": "Uttan, Mira-Bhayandar - Coastal Villages, Beaches & Weekend Getaways",
+  "about": "Uttan is a scenic coastal belt at the northwestern tip of the Mira-Bhayandar Municipal Corporation (MBMC). Made up of traditional Koli fishing villages and East Indian Catholic hamlets, it is known for its beaches, fishing harbours, beach resorts, churches and a calm, semi-rural character that feels worlds away from city Mumbai. Whether you need a seafood eatery in Pali, a beach resort in Dongri, or a local handyman in Uttan Village - Mumbai96 has verified listings with real reviews, direct numbers and everything a Mumbaikar needs to find the right service fast.",
+  "about_commute": "No station - nearest Bhayandar (~7-9 km) by road",
+  "about_tag": "Coastal Village Belt",
+  "about_stats": [
+    {
+      "value": "Beaches",
+      "label": "Uttan, Pali & Dongri"
+    },
+    {
+      "value": "MBMC",
+      "label": "Municipal Body"
+    },
+    {
+      "value": "401106",
+      "label": "Primary Pin Code"
+    },
+    {
+      "value": "Koli",
+      "label": "Fishing Community Hub"
+    }
+  ],
+  "places_to_visit": [
+    {
+      "tag": "Beach",
+      "name": "Uttan & Pali Beach, Uttan",
+      "description": "Quiet, scenic beaches popular for weekend getaways, sunsets, beach resorts and occasional film shoots - the heart of Uttan's appeal.",
+      "icon": "🏖️"
+    },
+    {
+      "tag": "Heritage",
+      "name": "Our Lady of the Sea Church, Uttan",
+      "description": "A historic seaside church central to Uttan's East Indian Catholic community - a serene landmark overlooking the coast.",
+      "icon": "⛪"
+    },
+    {
+      "tag": "Working Coast",
+      "name": "Uttan Fishing Harbour & Jetty",
+      "description": "The bustling Koli fishing harbour where the daily catch comes in - a vivid glimpse of Uttan's traditional coastal life.",
+      "icon": "⛵"
+    }
+  ],
+  "food_tags": "Koli Seafood, East Indian Cuisine, Fresh Fish Curry, Beach Shacks, Bombil & Prawns, Resort Dining, Bottle Masala, Toddy & Local Brews",
+  "food": [
+    {
+      "name": "Koli Seafood Eateries, Uttan",
+      "description": "Fresh daily catch cooked Koli-style - fish curry, fried bombil, prawns and crab straight from the Uttan harbour.",
+      "icon": "🦀"
+    },
+    {
+      "name": "East Indian Home Kitchens, Uttan",
+      "description": "The East Indian community's signature bottle-masala curries, sorpotel and fugias served at local homes and small eateries.",
+      "icon": "🍲"
+    },
+    {
+      "name": "Beach Resort Restaurants, Dongri",
+      "description": "Resort dining along the Dongri-Pali belt offering coastal thalis, grills and family-friendly multi-cuisine menus.",
+      "icon": "🍤"
+    },
+    {
+      "name": "Beach Shacks & Stalls, Uttan",
+      "description": "Casual beachside stalls serving fried fish, bhajiyas, tender coconut and snacks for weekend day-trippers.",
+      "icon": "🥥"
+    }
+  ],
+  "night_life": [
+    {
+      "name": "Beach Sunsets, Uttan & Pali",
+      "description": "The west-facing beaches make Uttan one of the best sunset spots in the Mira-Bhayandar region.",
+      "icon": "🌅"
+    },
+    {
+      "name": "Resort Evenings, Dongri",
+      "description": "Beach resorts host dinners, bonfires and weekend entertainment for staycation guests and day visitors.",
+      "icon": "🏨"
+    },
+    {
+      "name": "Beach Bonfires & Gatherings",
+      "description": "Group bonfires and family beach gatherings are a popular weekend tradition along the Uttan coast.",
+      "icon": "🔥"
+    },
+    {
+      "name": "Community & Church Events, Uttan",
+      "description": "The East Indian community's evening feasts, music and church gatherings shape Uttan's social calendar.",
+      "icon": "⛪"
+    }
+  ],
+  "night_life_tips": [
+    "Carry your own transport - autos are limited late at night",
+    "Beaches get dark & quiet early - plan accordingly",
+    "Book resort stays in advance on weekends",
+    "Last buses to Bhayandar run early - check timings"
+  ],
+  "sub_areas": [
+    {
+      "tag": "Village Core",
+      "name": "Uttan Village",
+      "description": "The traditional heart of the belt - Koli fishing homes, the harbour, local eateries and a strong community life.",
+      "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=600&q=80"
+    },
+    {
+      "tag": "Beach Belt",
+      "name": "Pali, Uttan",
+      "description": "A scenic beach pocket popular for weekend getaways, resorts and sunsets - one of Uttan's best-known beach areas.",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&q=80"
+    },
+    {
+      "tag": "Resorts",
+      "name": "Dongri, Uttan",
+      "description": "The resort and getaway hub of Uttan - beach resorts, banquet venues and quiet sea-facing stretches.",
+      "image": "https://images.unsplash.com/photo-1471922694854-ff1b63b20054?w=600&q=80"
+    },
+    {
+      "tag": "Junction",
+      "name": "Chowk, Uttan",
+      "description": "The central junction connecting Uttan's villages - shops, eateries and the main transit point for buses and autos.",
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=80"
+    },
+    {
+      "tag": "Green Belt",
+      "name": "Tarodi, Uttan",
+      "description": "A quieter, greener pocket with farms, bungalows and open land on the way to the Uttan coast.",
+      "image": "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?w=600&q=80"
+    },
+    {
+      "tag": "Approach Road",
+      "name": "Uttan-Bhayandar Road Belt",
+      "description": "The connecting corridor past salt pans and creeks linking Uttan to Bhayandar - newer homes are rising along it.",
+      "image": "https://images.unsplash.com/photo-1559825481-12a05cc00344?w=600&q=80"
+    }
+  ],
+  "character_vibe": [
+    {
+      "keyword": "Coastal & Calm"
+    },
+    {
+      "keyword": "Fishing Village"
+    },
+    {
+      "keyword": "East Indian Culture"
+    },
+    {
+      "keyword": "Weekend Getaway"
+    },
+    {
+      "keyword": "Seafood Heaven"
+    },
+    {
+      "keyword": "Semi-Rural"
+    },
+    {
+      "keyword": "Beaches & Resorts"
+    }
+  ],
+  "character_vibe_description": "Character & Vibe An honest snapshot - the energy, the people, the pace. The kind of thing no other directory tells you. Uttan moves to the rhythm of the sea, not the local train. Mornings begin with fishing boats returning to the harbour, the day passes slowly across villages and beaches, and weekends bring city visitors looking for a quick coastal escape. It's the most laid-back, semi-rural pocket of Mira-Bhayandar. The community is deeply rooted - generations of Koli fisherfolk and East Indian Catholic families give Uttan a distinct cultural identity built around the sea, the church and the harvest of the coast. It feels like a village holding its ground at the edge of a fast-growing city.",
+  "character_vibe_image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+  "resident_profile": [
+    {
+      "segment": "Koli Fishing Community",
+      "description": "The backbone of Uttan - generations of fisherfolk"
+    },
+    {
+      "segment": "East Indian Catholics",
+      "description": "Rooted community centred around the churches"
+    },
+    {
+      "segment": "Farming Households",
+      "description": "Families on the greener Tarodi & inland pockets"
+    },
+    {
+      "segment": "Resort & Hospitality Staff",
+      "description": "Employed across Uttan's beach resorts"
+    },
+    {
+      "segment": "Weekend Home Owners",
+      "description": "City residents with villas & second homes"
+    },
+    {
+      "segment": "Small Traders",
+      "description": "Shopkeepers serving the villages & visitors"
+    }
+  ],
+  "resident_profile_image": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=800&q=80",
+  "resident_profile_description": "Resident Profile A close-knit coastal cross-section - here's who you'll find calling Uttan home. Uttan is home, above all, to its traditional Koli fishing community and East Indian Catholic families who have lived here for generations. Alongside them are farming households in the greener pockets, resort and hospitality workers, and a growing number of city residents buying weekend villas and second homes along the coast.",
+  "property_prices": [
+    {
+      "sub_area": "Uttan Village / Chowk - 1BHK (newer)",
+      "price": "₹40 – 60 L",
+      "rental": "₹9,000 – ₹15,000/mo",
+      "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=200&q=80"
+    },
+    {
+      "sub_area": "Pali / Dongri - Independent House",
+      "price": "₹70 L – 1.3 Cr",
+      "rental": "₹16,000 – ₹30,000/mo",
+      "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=200&q=80"
+    },
+    {
+      "sub_area": "Sea-Facing Villas / Weekend Homes",
+      "price": "₹1.5 – 4 Cr+",
+      "rental": "Premium for sea views & plots",
+      "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=200&q=80"
+    },
+    {
+      "sub_area": "NA Plots / Open Land (per sqft)",
+      "price": "₹6,000 – ₹15,000/sqft",
+      "rental": "Varies sharply by location & access",
+      "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=200&q=80"
+    }
+  ],
+  "schools": [
+    {
+      "name": "St. Joseph's School, Uttan",
+      "location": "Uttan Village",
+      "badge": "SSC / Mission",
+      "image": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=200&q=80"
+    },
+    {
+      "name": "Zilla Parishad / MBMC School, Uttan",
+      "location": "Uttan & Pali",
+      "badge": "Marathi Medium",
+      "image": "https://images.unsplash.com/photo-1588072432836-e10032774350?w=200&q=80"
+    },
+    {
+      "name": "Sea View English School, Uttan",
+      "location": "Chowk, Uttan",
+      "badge": "SSC",
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=200&q=80"
+    },
+    {
+      "name": "Convent School, Dongri",
+      "location": "Dongri, Uttan",
+      "badge": "SSC / Convent",
+      "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=200&q=80"
+    },
+    {
+      "name": "St. Xavier's High School (nearby), Bhayandar",
+      "location": "Serving Uttan students",
+      "badge": "SSC",
+      "image": "https://images.unsplash.com/photo-1600195077077-7c815b6fd7b5?w=200&q=80"
+    },
+    {
+      "name": "Colleges (nearby), Bhayandar & Mira Road",
+      "location": "Shankar Narayan, N L Dalmia & more",
+      "badge": "Colleges",
+      "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=200&q=80"
+    }
+  ],
+  "hospitals": [
+    {
+      "type": "Local Clinic",
+      "name": "Village Health Clinics, Uttan",
+      "description": "General physicians and small clinics across Uttan Village, Pali and Chowk handle everyday medical needs and first aid.",
+      "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=400&q=80"
+    },
+    {
+      "type": "Health Centre",
+      "name": "MBMC Primary Health Centre, Uttan",
+      "description": "Government primary healthcare and basic maternity/OPD services for the Uttan coastal villages.",
+      "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=400&q=80"
+    },
+    {
+      "type": "Multi-speciality (nearby)",
+      "name": "Jaslok / Apex Hospital, Bhayandar",
+      "description": "The nearest larger multi-speciality hospitals for Uttan residents - emergency, surgery and maternity care in Bhayandar.",
+      "image": "https://images.unsplash.com/photo-1516841273335-e39b37888115?w=400&q=80"
+    },
+    {
+      "type": "Super-speciality (nearby)",
+      "name": "Bhaktivedanta Hospital, Mira Road",
+      "description": "A leading super-speciality hospital and the go-to for advanced treatment and emergencies for the Uttan belt.",
+      "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=400&q=80"
+    },
+    {
+      "type": "Super-speciality (nearby)",
+      "name": "Wockhardt Hospital, Mira Road",
+      "description": "A major private super-speciality hospital serving the Mira-Bhayandar belt, including Uttan residents.",
+      "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=400&q=80"
+    },
+    {
+      "type": "Emergency",
+      "name": "Ambulance & Emergency Transport, Uttan",
+      "description": "Local and MBMC ambulance services connect Uttan to Bhayandar and Mira Road hospitals for emergencies.",
+      "image": "https://images.unsplash.com/photo-1587351021759-3e566b6af7cc?w=400&q=80"
+    }
+  ],
+  "banks": [
+    {
+      "name": "State Bank of India",
+      "image": "https://images.unsplash.com/photo-1556742031-c6961e8560b0?w=300&q=80"
+    },
+    {
+      "name": "Bank of Maharashtra",
+      "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=300&q=80"
+    },
+    {
+      "name": "Maharashtra Gramin Bank",
+      "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=300&q=80"
+    },
+    {
+      "name": "HDFC Bank ATM",
+      "image": "https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?w=300&q=80"
+    },
+    {
+      "name": "Mira-Bhayandar Co-op Bank",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=300&q=80"
+    },
+    {
+      "name": "ICICI Bank ATM",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=300&q=80"
+    },
+    {
+      "name": "India Post Payments Bank",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=300&q=80"
+    },
+    {
+      "name": "Axis Bank ATM",
+      "image": "https://images.unsplash.com/photo-1567427017947-545c5f8d16ad?w=300&q=80"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Uttan Fish Market",
+      "description": "The heart of Uttan's economy - the daily catch sold fresh off the boats by the Koli fishing community.",
+      "image": "https://images.unsplash.com/photo-1533900298318-6b8da08a523e?w=600&q=80"
+    },
+    {
+      "name": "Uttan Chowk Bazaar",
+      "description": "The central village market - vegetables, provisions, fish, household goods and small eateries in one spot.",
+      "image": "https://images.unsplash.com/photo-1488459716781-31db52582fe9?w=600&q=80"
+    },
+    {
+      "name": "Pali Village Shops, Uttan",
+      "description": "Provision stores, bakeries and local shops serving the Pali beach belt and its residents.",
+      "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=600&q=80"
+    },
+    {
+      "name": "Weekend Beach Stalls, Uttan",
+      "description": "Snack stalls, coconut water and souvenir vendors that pop up along the beaches on busy weekends.",
+      "image": "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=600&q=80"
+    },
+    {
+      "name": "Dongri Local Market, Uttan",
+      "description": "Daily essentials, eateries and small retail serving the Dongri resort and residential pocket.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=600&q=80"
+    },
+    {
+      "name": "Bhayandar Markets (nearby)",
+      "description": "For bigger shopping, Uttan residents head to the Bhayandar markets and malls a short drive away.",
+      "image": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=600&q=80"
+    }
+  ],
+  "travelling_connectivity": [
+    {
+      "name": "To Bhayandar Station",
+      "icon": "🚉",
+      "distance": "7-9 km",
+      "tag": ""
+    },
+    {
+      "name": "Bus to Bhayandar",
+      "icon": "🚌",
+      "distance": "MBMC",
+      "tag": ""
+    },
+    {
+      "name": "Main Local Transport",
+      "icon": "🛺",
+      "distance": "Share Auto",
+      "tag": ""
+    },
+    {
+      "name": "Marve / Gorai Crossing",
+      "icon": "⛴️",
+      "distance": "Ferry",
+      "tag": ""
+    }
+  ],
+  "commute_description": "Uttan is a road-and-bus belt - it has no railway station, so most journeys run via Bhayandar by bus, auto or private vehicle.",
+  "commute_detail_items": [
+    {
+      "name": "MBMC Buses - Uttan to Bhayandar",
+      "description": "Regular MBMC buses run between Uttan, Pali, Dongri and Bhayandar station - the main public transport lifeline for the coast.",
+      "icon": "🚗",
+      "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?w=200&q=80"
+    },
+    {
+      "name": "Autos & Share Autos, Uttan",
+      "description": "Share autos along the Uttan-Bhayandar road are the most common everyday transport for villagers and visitors.",
+      "icon": "🚗",
+      "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=200&q=80"
+    },
+    {
+      "name": "Bhayandar Station (Nearest Rail)",
+      "description": "The nearest Western Railway station is Bhayandar, about 7-9 km away - the rail gateway to the rest of Mumbai.",
+      "icon": "🚗",
+      "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?w=200&q=80"
+    },
+    {
+      "name": "Ferry Crossings near Uttan",
+      "description": "Seasonal ferry links across the creek toward the Gorai/Marve side offer a scenic shortcut for nearby trips.",
+      "icon": "🚗",
+      "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=200&q=80"
+    }
+  ],
+  "major_employers": [
+    {
+      "sector": "Fishing",
+      "name": "Fishing & Harbour Trade, Uttan",
+      "description": "The backbone of Uttan - boat owners, fisherfolk, drying yards and fish traders sustain the local economy.",
+      "image": "https://images.unsplash.com/photo-1545671913-b89ac1b4ac10?w=400&q=80"
+    },
+    {
+      "sector": "Tourism & Hospitality",
+      "name": "Beach Resorts & Hospitality, Uttan",
+      "description": "Resorts, banquet venues and weekend tourism along Pali and Dongri are a major source of local employment.",
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=400&q=80"
+    },
+    {
+      "sector": "Agriculture",
+      "name": "Farming & Horticulture, Tarodi",
+      "description": "Vegetable farms, orchards and small holdings in the greener inland pockets support farming families.",
+      "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=400&q=80"
+    },
+    {
+      "sector": "Salt & Coastal",
+      "name": "Salt Pans & Coastal Work, Uttan Belt",
+      "description": "The salt pans along the Uttan-Bhayandar belt remain a traditional seasonal livelihood for the area.",
+      "image": "https://images.unsplash.com/photo-1559825481-12a05cc00344?w=400&q=80"
+    },
+    {
+      "sector": "Local Trade",
+      "name": "Village Shops & Eateries, Uttan",
+      "description": "Provision stores, seafood eateries and small businesses serve both villagers and weekend visitors.",
+      "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=400&q=80"
+    },
+    {
+      "sector": "Commuter Workforce",
+      "name": "Commuters to Bhayandar & Beyond",
+      "description": "Younger residents commute via Bhayandar to jobs in Borivali, Andheri and the western suburbs.",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&q=80"
+    }
+  ],
+  "residential_societies": [
+    {
+      "name": "Uttan Village Gaothan Homes",
+      "description": "Traditional Koli & East Indian village houses",
+      "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=200&q=80"
+    },
+    {
+      "name": "Pali Bungalows & Cottages",
+      "description": "Independent homes near the beach belt",
+      "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=200&q=80"
+    },
+    {
+      "name": "Dongri Weekend Villas",
+      "description": "Sea-facing villas & second homes",
+      "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=200&q=80"
+    },
+    {
+      "name": "Newer Buildings, Chowk",
+      "description": "Small apartment projects near the junction",
+      "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=200&q=80"
+    },
+    {
+      "name": "Tarodi Farmhouses",
+      "description": "Greener inland plots & farmhouses",
+      "image": "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?w=200&q=80"
+    },
+    {
+      "name": "East Indian Community Homes",
+      "description": "Clustered near the churches & chapels",
+      "image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=200&q=80"
+    },
+    {
+      "name": "Uttan-Bhayandar Road Homes",
+      "description": "Newer developments along the approach road",
+      "image": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?w=200&q=80"
+    },
+    {
+      "name": "Fishermen's Colony, Uttan",
+      "description": "Close-knit Koli community housing near the harbour",
+      "image": "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=200&q=80"
+    }
+  ],
+  "local_events": [
+    {
+      "name": "Church Feasts & Processions, Uttan",
+      "description": "The East Indian community celebrates parish feast days with processions, music and grand community meals.",
+      "date": "Varies",
+      "image": "https://images.unsplash.com/photo-1438232992991-995b7058bbb3?w=400&q=80"
+    },
+    {
+      "name": "Narali Purnima, Uttan",
+      "description": "The Koli community offers coconuts to the sea to mark the start of the fishing season - a key coastal festival.",
+      "date": "Aug",
+      "image": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=400&q=80"
+    },
+    {
+      "name": "Monsoon Fishing Ban, Uttan",
+      "description": "During the breeding-season ban, boats rest at harbour and the village prepares nets and vessels for the new season.",
+      "date": "Jun – Jul",
+      "image": "https://images.unsplash.com/photo-1545671913-b89ac1b4ac10?w=400&q=80"
+    },
+    {
+      "name": "Christmas & New Year, Uttan",
+      "description": "Midnight masses, decorated homes and resort NYE parties make the festive season special along the Uttan coast.",
+      "date": "Dec – Jan",
+      "image": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=400&q=80"
+    },
+    {
+      "name": "Ganesh Chaturthi, Uttan",
+      "description": "Village mandals and the local Hindu community celebrate with festivities and seaside visarjan processions.",
+      "date": "Aug – Sep",
+      "image": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?w=400&q=80"
+    },
+    {
+      "name": "Weekend Beach Getaways, Uttan",
+      "description": "Every weekend brings city visitors to Uttan's beaches and resorts - the area's biggest year-round draw.",
+      "date": "Year Round",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=400&q=80"
+    }
+  ],
+  "upcoming_projects": [
+    {
+      "name": "Versova–Bhayandar Coastal Road & Link",
+      "description": "The proposed coastal road and sea link is set to transform access to the Uttan belt, dramatically cutting travel time to the western suburbs.",
+      "status": "Ongoing",
+      "image": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=400&q=80"
+    },
+    {
+      "name": "Uttan-Pali Beach Tourism Upgrade",
+      "description": "MBMC plans to develop the Uttan-Pali beach belt with better access, parking and amenities to boost weekend tourism.",
+      "status": "Upcoming",
+      "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=400&q=80"
+    },
+    {
+      "name": "New Resorts & Hospitality, Dongri",
+      "description": "New beach resorts and hospitality projects are planned along the Dongri belt as weekend tourism demand grows.",
+      "status": "Upcoming",
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=400&q=80"
+    },
+    {
+      "name": "Weekend Villa & Second-Home Projects",
+      "description": "Developers are planning gated villa and second-home schemes targeting city buyers along the Uttan coast.",
+      "status": "Planned",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&q=80"
+    },
+    {
+      "name": "Fishing Harbour Modernisation, Uttan",
+      "description": "Proposed upgrades to the Uttan fishing harbour and jetty aim to support the Koli community's livelihood.",
+      "status": "Planned",
+      "image": "https://images.unsplash.com/photo-1559825481-12a05cc00344?w=400&q=80"
+    },
+    {
+      "name": "MBMC Water & Road Upgrades, Uttan",
+      "description": "Planned water supply, drainage and road improvements across the Uttan villages to support residents and tourism.",
+      "status": "Planned",
+      "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?w=400&q=80"
+    }
+  ],
+  "civic_data": {
+    "pin_code": {
+      "label": "Pin Code",
+      "value": "401106",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=300&q=80"
+    },
+    "municipal_body": {
+      "label": "Municipal Body",
+      "value": "MBMC (Mira-Bhayandar)",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=300&q=80"
+    },
+    "assembly_constituency": {
+      "label": "Assembly Constituency",
+      "value": "Mira Bhayandar (147)",
+      "image": "https://images.unsplash.com/photo-1503551723145-6c040742065b?w=300&q=80"
+    },
+    "police_station": {
+      "label": "Police Station",
+      "value": "Uttan Sagari (Coastal)",
+      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=300&q=80"
+    },
+    "post_office": {
+      "label": "Post Office",
+      "value": "Uttan (401106)",
+      "image": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=300&q=80"
+    },
+    "fire_station": {
+      "label": "Fire Station",
+      "value": "MBMC (via Bhayandar)",
+      "image": "https://images.unsplash.com/photo-1534536281715-e28d76689b4d?w=300&q=80"
+    },
+    "nearest_station": {
+      "label": "Nearest Station",
+      "value": "Bhayandar (~7-9 km)",
+      "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=300&q=80"
+    },
+    "coastline": {
+      "label": "Coastline",
+      "value": "Arabian Sea (West)",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=300&q=80"
+    }
+  },
+  "area_report_card": {
+    "beaches_scenery_in_uttan": 5,
+    "food_seafood_in_uttan": 5,
+    "peace_safety_in_uttan": 4,
+    "connectivity_in_uttan": 2,
+    "daily_essentials_in_uttan": 3,
+    "healthcare_access_in_uttan": 3
+  },
+  "living_style": [
+    {
+      "name": "Housing & Property in Uttan",
+      "description": "Mostly village homes, bungalows, plots and weekend villas - from ₹40L flats to multi-crore sea-facing homes. Verify titles carefully.",
+      "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=80&q=80",
+      "icon": "🏠"
+    },
+    {
+      "name": "Getting Around Uttan",
+      "description": "No station - plan around MBMC buses, autos and your own vehicle via Bhayandar (~7-9 km). A two-wheeler or car helps a lot.",
+      "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=80&q=80",
+      "icon": "🏠"
+    },
+    {
+      "name": "Food & Daily Needs in Uttan",
+      "description": "Fresh fish, village markets and seafood eateries cover daily needs; head to Bhayandar for malls, big stores and brands.",
+      "image": "https://images.unsplash.com/photo-1533900298318-6b8da08a523e?w=80&q=80",
+      "icon": "🏠"
+    },
+    {
+      "name": "Community Character of Uttan",
+      "description": "A warm, rooted coastal community of Koli fisherfolk and East Indian Catholic families - peaceful, traditional and welcoming.",
+      "image": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=80&q=80",
+      "icon": "🏠"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is Uttan known for?",
+      "answer": "Uttan is known for its scenic beaches (Uttan, Pali and Dongri), traditional Koli fishing villages, the East Indian Catholic community, beach resorts and weekend getaways, churches like Our Lady of the Sea, and a quiet, semi-rural coastal character at the northwestern tip of Mira-Bhayandar."
+    },
+    {
+      "question": "What is the pin code of Uttan?",
+      "answer": "Uttan comes under pin code 401106, which covers the Uttan, Pali, Dongri, Chowk and Tarodi village belt."
+    },
+    {
+      "question": "What are the sub-areas within Uttan?",
+      "answer": "The main pockets within Uttan are Uttan Village, Pali, Dongri, Chowk, Tarodi and the Uttan-Bhayandar road belt that connects to the rest of Mira-Bhayandar."
+    },
+    {
+      "question": "What is the property price in Uttan?",
+      "answer": "Property in Uttan is largely village homes, bungalows, NA plots and a few newer projects. Indicative rates range from ₹40-60 lakh for a 1BHK in newer buildings to ₹70 lakh-1.3 Cr for independent houses and sea-facing plots, with weekend villas commanding a premium (as of May 2026)."
+    },
+    {
+      "question": "How to commute from Uttan?",
+      "answer": "Uttan has no railway station of its own - the nearest is Bhayandar (about 7-9 km), reached by MBMC buses, autos and share autos via the Uttan-Bhayandar road. From Bhayandar, the Western Railway connects to the rest of Mumbai."
+    },
+    {
+      "question": "Which hospitals are near Uttan?",
+      "answer": "Uttan has local clinics and small nursing homes, while major hospitals like Jaslok and Apex (Bhayandar) and Bhaktivedanta and Wockhardt (Mira Road) are the nearest large facilities."
+    },
+    {
+      "question": "Which beaches are in Uttan?",
+      "answer": "Uttan is home to Uttan Beach, Pali Beach and Dongri Beach - relatively quiet, scenic beaches popular for weekend getaways, beach resorts and film shoots."
+    },
+    {
+      "question": "How do I find the best seafood restaurants in Uttan?",
+      "answer": "Browse Mumbai96's Uttan listings, read reviews from locals and call directly. Our verified directory makes it easy."
+    }
+  ],
+  "category_sections": [
+    {
+      "key": "section_1",
+      "heading": "Food, Real Estate & Health",
+      "categories": [
+        {
+          "slug": "seafood-restaurants",
+          "name": "Seafood Restaurants",
+          "emoji": "🦞"
+        },
+        {
+          "slug": "east-indian-restaurants",
+          "name": "East Indian Restaurants",
+          "emoji": "🍲"
+        },
+        {
+          "slug": "beach-shacks",
+          "name": "Beach Shacks",
+          "emoji": "🏖️"
+        },
+        {
+          "slug": "street-food",
+          "name": "Street Food",
+          "emoji": "🌮"
+        },
+        {
+          "slug": "cafes-coffee-shops",
+          "name": "Cafes & Coffee Shops",
+          "emoji": "☕"
+        },
+        {
+          "slug": "bakeries",
+          "name": "Bakeries",
+          "emoji": "🥐"
+        },
+        {
+          "slug": "sweet-shops",
+          "name": "Sweet Shops",
+          "emoji": "🍬"
+        },
+        {
+          "slug": "ice-cream-shops",
+          "name": "Ice Cream Shops",
+          "emoji": "🍦"
+        },
+        {
+          "slug": "juice-shops",
+          "name": "Juice Shops",
+          "emoji": "🥤"
+        },
+        {
+          "slug": "vegetarian-restaurants",
+          "name": "Vegetarian Restaurants",
+          "emoji": "🥗"
+        },
+        {
+          "slug": "fast-food-restaurants",
+          "name": "Fast Food Restaurants",
+          "emoji": "🍔"
+        },
+        {
+          "slug": "fish-markets",
+          "name": "Fish Markets",
+          "emoji": "🐟"
+        },
+        {
+          "slug": "real-estate-agents",
+          "name": "Real Estate Agents",
+          "emoji": "🏠"
+        },
+        {
+          "slug": "houses-for-rent",
+          "name": "Houses for Rent",
+          "emoji": "🏢"
+        },
+        {
+          "slug": "plots-for-sale",
+          "name": "Plots for Sale",
+          "emoji": "🔑"
+        },
+        {
+          "slug": "villas-for-rent",
+          "name": "Villas for Rent",
+          "emoji": "🏡"
+        },
+        {
+          "slug": "homestays",
+          "name": "Homestays",
+          "emoji": "🛏️"
+        },
+        {
+          "slug": "property-management",
+          "name": "Property Management",
+          "emoji": "📋"
+        },
+        {
+          "slug": "pharmacies",
+          "name": "Pharmacies",
+          "emoji": "💊"
+        },
+        {
+          "slug": "eye-doctors",
+          "name": "Eye Doctors",
+          "emoji": "👁️"
+        },
+        {
+          "slug": "physiotherapists",
+          "name": "Physiotherapists",
+          "emoji": "🩹"
+        },
+        {
+          "slug": "ayurvedic-doctors",
+          "name": "Ayurvedic Doctors",
+          "emoji": "🌿"
+        },
+        {
+          "slug": "homeopathy-doctors",
+          "name": "Homeopathy Doctors",
+          "emoji": "🫙"
+        },
+        {
+          "slug": "clinics",
+          "name": "Clinics",
+          "emoji": "🏥"
+        },
+        {
+          "slug": "diagnostic-centres",
+          "name": "Diagnostic Centres",
+          "emoji": "🔬"
+        }
+      ]
+    },
+    {
+      "key": "section_2",
+      "heading": "Clinics, Shopping & Home Services",
+      "categories": [
+        {
+          "slug": "dental-clinics",
+          "name": "Dental Clinics",
+          "emoji": "🪥"
+        },
+        {
+          "slug": "general-physicians",
+          "name": "General Physicians",
+          "emoji": "🩺"
+        },
+        {
+          "slug": "clothing-stores",
+          "name": "Clothing Stores",
+          "emoji": "👗"
+        },
+        {
+          "slug": "jewellery-shops",
+          "name": "Jewellery Shops",
+          "emoji": "💍"
+        },
+        {
+          "slug": "mobile-phone-shops",
+          "name": "Mobile Phone Shops",
+          "emoji": "📱"
+        },
+        {
+          "slug": "electronics-stores",
+          "name": "Electronics Stores",
+          "emoji": "💻"
+        },
+        {
+          "slug": "optical-shops",
+          "name": "Optical Shops",
+          "emoji": "👓"
+        },
+        {
+          "slug": "grocery-stores",
+          "name": "Grocery Stores",
+          "emoji": "🛒"
+        },
+        {
+          "slug": "fishing-supplies",
+          "name": "Fishing Supplies",
+          "emoji": "🎣"
+        },
+        {
+          "slug": "sports-goods-stores",
+          "name": "Sports Goods Stores",
+          "emoji": "⚽"
+        },
+        {
+          "slug": "book-stores",
+          "name": "Book Stores",
+          "emoji": "📚"
+        },
+        {
+          "slug": "stationery-stores",
+          "name": "Stationery Stores",
+          "emoji": "✏️"
+        },
+        {
+          "slug": "baby-products-stores",
+          "name": "Baby Products Stores",
+          "emoji": "🍼"
+        },
+        {
+          "slug": "hardware-stores",
+          "name": "Hardware Stores",
+          "emoji": "🪛"
+        },
+        {
+          "slug": "pest-control",
+          "name": "Pest Control",
+          "emoji": "🐛"
+        },
+        {
+          "slug": "home-cleaning-services",
+          "name": "Home Cleaning Services",
+          "emoji": "🧹"
+        },
+        {
+          "slug": "painting-services",
+          "name": "Painting Services",
+          "emoji": "🖌️"
+        },
+        {
+          "slug": "laundry-dry-cleaners",
+          "name": "Laundry & Dry Cleaners",
+          "emoji": "👕"
+        },
+        {
+          "slug": "water-supply-services",
+          "name": "Water Supply Services",
+          "emoji": "💧"
+        },
+        {
+          "slug": "cctv-installation",
+          "name": "CCTV Installation",
+          "emoji": "📷"
+        },
+        {
+          "slug": "borewell-services",
+          "name": "Borewell Services",
+          "emoji": "🕳️"
+        },
+        {
+          "slug": "solar-installers",
+          "name": "Solar Installers",
+          "emoji": "🔆"
+        },
+        {
+          "slug": "car-dealers",
+          "name": "Car Dealers",
+          "emoji": "🚕"
+        },
+        {
+          "slug": "bike-dealers",
+          "name": "Bike Dealers",
+          "emoji": "🛵"
+        },
+        {
+          "slug": "car-wash-services",
+          "name": "Car Wash Services",
+          "emoji": "🚿"
+        }
+      ]
+    },
+    {
+      "key": "section_3",
+      "heading": "Tourism, Automobiles & Education",
+      "categories": [
+        {
+          "slug": "beach-resorts",
+          "name": "Beach Resorts",
+          "emoji": "🏝️"
+        },
+        {
+          "slug": "banquet-lawns",
+          "name": "Banquet Lawns",
+          "emoji": "⛺"
+        },
+        {
+          "slug": "boat-rides",
+          "name": "Boat Rides",
+          "emoji": "🚤"
+        },
+        {
+          "slug": "film-shoot-locations",
+          "name": "Film Shoot Locations",
+          "emoji": "🎬"
+        },
+        {
+          "slug": "photographers",
+          "name": "Photographers",
+          "emoji": "📸"
+        },
+        {
+          "slug": "videographers",
+          "name": "Videographers",
+          "emoji": "🎥"
+        },
+        {
+          "slug": "pre-wedding-shoots",
+          "name": "Pre-Wedding Shoots",
+          "emoji": "💑"
+        },
+        {
+          "slug": "petrol-pumps",
+          "name": "Petrol Pumps",
+          "emoji": "⛽"
+        },
+        {
+          "slug": "auto-rickshaw-services",
+          "name": "Auto Rickshaw Services",
+          "emoji": "🛺"
+        },
+        {
+          "slug": "cars-on-rent",
+          "name": "Cars on Rent",
+          "emoji": "🚘"
+        },
+        {
+          "slug": "car-repair-shops",
+          "name": "Car Repair Shops",
+          "emoji": "🔨"
+        },
+        {
+          "slug": "bike-repair-shops",
+          "name": "Bike Repair Shops",
+          "emoji": "🛠️"
+        },
+        {
+          "slug": "creches-daycare",
+          "name": "Creches & Daycare",
+          "emoji": "🪆"
+        },
+        {
+          "slug": "playschools",
+          "name": "Playschools",
+          "emoji": "🧸"
+        },
+        {
+          "slug": "schools",
+          "name": "Schools",
+          "emoji": "🏫"
+        },
+        {
+          "slug": "tuition-classes",
+          "name": "Tuition Classes",
+          "emoji": "📖"
+        },
+        {
+          "slug": "spoken-english-classes",
+          "name": "Spoken English Classes",
+          "emoji": "🗣️"
+        },
+        {
+          "slug": "computer-classes",
+          "name": "Computer Classes",
+          "emoji": "⌨️"
+        },
+        {
+          "slug": "swimming-classes",
+          "name": "Swimming Classes",
+          "emoji": "🏊"
+        },
+        {
+          "slug": "courier-services",
+          "name": "Courier Services",
+          "emoji": "🚚"
+        },
+        {
+          "slug": "music-classes",
+          "name": "Music Classes",
+          "emoji": "🎵"
+        },
+        {
+          "slug": "dance-classes",
+          "name": "Dance Classes",
+          "emoji": "💃"
+        },
+        {
+          "slug": "event-photographers",
+          "name": "Event Photographers",
+          "emoji": "🤳"
+        },
+        {
+          "slug": "tour-guides",
+          "name": "Tour Guides",
+          "emoji": "🗺️"
+        },
+        {
+          "slug": "water-sports",
+          "name": "Water Sports",
+          "emoji": "🏄"
+        }
+      ]
+    },
+    {
+      "key": "section_4",
+      "heading": "Culture, Spirituality & Health Specialists",
+      "categories": [
+        {
+          "slug": "churches",
+          "name": "Churches",
+          "emoji": "⛪"
+        },
+        {
+          "slug": "temples",
+          "name": "Temples",
+          "emoji": "🛕"
+        },
+        {
+          "slug": "chapels-crosses",
+          "name": "Chapels & Crosses",
+          "emoji": "✝️"
+        },
+        {
+          "slug": "astrologers",
+          "name": "Astrologers",
+          "emoji": "🔮"
+        },
+        {
+          "slug": "vastu-consultants",
+          "name": "Vastu Consultants",
+          "emoji": "🧭"
+        },
+        {
+          "slug": "heritage-walks",
+          "name": "Heritage Walks",
+          "emoji": "🏛️"
+        },
+        {
+          "slug": "fishing-cooperatives",
+          "name": "Fishing Cooperatives",
+          "emoji": "🐟"
+        },
+        {
+          "slug": "community-halls",
+          "name": "Community Halls",
+          "emoji": "🎪"
+        },
+        {
+          "slug": "yoga-meditation-centres",
+          "name": "Yoga & Meditation",
+          "emoji": "🧘‍♂️"
+        },
+        {
+          "slug": "self-help-groups",
+          "name": "Self Help Groups",
+          "emoji": "🤲"
+        },
+        {
+          "slug": "dentists",
+          "name": "Dentists",
+          "emoji": "🦷"
+        },
+        {
+          "slug": "skin-doctors",
+          "name": "Skin Doctors",
+          "emoji": "🧴"
+        },
+        {
+          "slug": "ent-doctors",
+          "name": "ENT Doctors",
+          "emoji": "👂"
+        },
+        {
+          "slug": "ortho-doctors",
+          "name": "Ortho Doctors",
+          "emoji": "🩼"
+        },
+        {
+          "slug": "heart-doctors",
+          "name": "Heart Doctors",
+          "emoji": "❤️"
+        },
+        {
+          "slug": "gynecologist-obstetricians",
+          "name": "Gynecologists",
+          "emoji": "👩‍⚕️"
+        },
+        {
+          "slug": "pediatrician-child-doctors",
+          "name": "Pediatricians",
+          "emoji": "🧒"
+        },
+        {
+          "slug": "general-physicians",
+          "name": "General Physicians",
+          "emoji": "🩺"
+        },
+        {
+          "slug": "maternity-clinics",
+          "name": "Maternity Clinics",
+          "emoji": "🤰"
+        },
+        {
+          "slug": "medical-pathology-labs",
+          "name": "Pathology Labs",
+          "emoji": "🫧"
+        },
+        {
+          "slug": "veterinary-doctors",
+          "name": "Veterinary Doctors",
+          "emoji": "🐶"
+        },
+        {
+          "slug": "hospitals",
+          "name": "Hospitals",
+          "emoji": "🏥"
+        },
+        {
+          "slug": "ambulance-services",
+          "name": "Ambulance Services",
+          "emoji": "🚑"
+        },
+        {
+          "slug": "psychologists",
+          "name": "Psychologists",
+          "emoji": "🧠"
+        },
+        {
+          "slug": "physiotherapists",
+          "name": "Physiotherapists",
+          "emoji": "🩹"
+        }
+      ]
+    },
+    {
+      "key": "section_5",
+      "heading": "Wellness, Beauty & Events",
+      "categories": [
+        {
+          "slug": "spas",
+          "name": "Spas",
+          "emoji": "💆"
+        },
+        {
+          "slug": "salons",
+          "name": "Salons",
+          "emoji": "✂️"
+        },
+        {
+          "slug": "beauty-parlours",
+          "name": "Beauty Parlours",
+          "emoji": "💄"
+        },
+        {
+          "slug": "makeover-artists",
+          "name": "Makeover Artists",
+          "emoji": "🪞"
+        },
+        {
+          "slug": "bridal-makeup-artists",
+          "name": "Bridal Makeup Artists",
+          "emoji": "👰"
+        },
+        {
+          "slug": "gyms",
+          "name": "Gyms",
+          "emoji": "💪"
+        },
+        {
+          "slug": "personal-trainers",
+          "name": "Personal Trainers",
+          "emoji": "🏋️"
+        },
+        {
+          "slug": "yoga-classes",
+          "name": "Yoga Classes",
+          "emoji": "🧘"
+        },
+        {
+          "slug": "dietitians-nutritionists",
+          "name": "Dietitians & Nutritionists",
+          "emoji": "🥦"
+        },
+        {
+          "slug": "zumba-classes",
+          "name": "Zumba Classes",
+          "emoji": "🕺"
+        },
+        {
+          "slug": "wedding-planners",
+          "name": "Wedding Planners",
+          "emoji": "💒"
+        },
+        {
+          "slug": "beach-wedding-venues",
+          "name": "Beach Wedding Venues",
+          "emoji": "🏖️"
+        },
+        {
+          "slug": "destination-wedding-planners",
+          "name": "Destination Wedding Planners",
+          "emoji": "✈️"
+        },
+        {
+          "slug": "birthday-event-planners",
+          "name": "Birthday Event Planners",
+          "emoji": "🎈"
+        },
+        {
+          "slug": "anniversary-event-planners",
+          "name": "Anniversary Planners",
+          "emoji": "🎊"
+        },
+        {
+          "slug": "caterers",
+          "name": "Caterers",
+          "emoji": "🍽️"
+        },
+        {
+          "slug": "seafood-caterers",
+          "name": "Seafood Caterers",
+          "emoji": "🦐"
+        },
+        {
+          "slug": "banquet-halls",
+          "name": "Banquet Halls",
+          "emoji": "🏩"
+        },
+        {
+          "slug": "tent-decorators",
+          "name": "Tent & Decorators",
+          "emoji": "⛺"
+        },
+        {
+          "slug": "live-bands-djs",
+          "name": "Live Bands & DJs",
+          "emoji": "🎶"
+        },
+        {
+          "slug": "sound-light-services",
+          "name": "Sound & Light Services",
+          "emoji": "🔊"
+        },
+        {
+          "slug": "florists",
+          "name": "Florists",
+          "emoji": "💐"
+        },
+        {
+          "slug": "cake-shops",
+          "name": "Cake Shops",
+          "emoji": "🎂"
+        },
+        {
+          "slug": "costumes-on-rent",
+          "name": "Costumes on Rent",
+          "emoji": "🎭"
+        },
+        {
+          "slug": "tattoo-artists",
+          "name": "Tattoo Artists",
+          "emoji": "🪡"
+        }
+      ]
+    },
+    {
+      "key": "section_6",
+      "heading": "Care, Community & Safety",
+      "categories": [
+        {
+          "slug": "pet-doctors",
+          "name": "Pet Doctors",
+          "emoji": "🐶"
+        },
+        {
+          "slug": "pet-food-shops",
+          "name": "Pet Food Shops",
+          "emoji": "🐟"
+        },
+        {
+          "slug": "animal-shelters",
+          "name": "Animal Shelters",
+          "emoji": "🐕"
+        },
+        {
+          "slug": "elders-care",
+          "name": "Elders Care",
+          "emoji": "👴"
+        },
+        {
+          "slug": "women-care-centres",
+          "name": "Women Care Centres",
+          "emoji": "🩷"
+        },
+        {
+          "slug": "ngos",
+          "name": "NGOs",
+          "emoji": "🤝"
+        },
+        {
+          "slug": "lifeguard-services",
+          "name": "Lifeguard Services",
+          "emoji": "🛟"
+        },
+        {
+          "slug": "ambulance-services",
+          "name": "Ambulance Services",
+          "emoji": "🚑"
+        },
+        {
+          "slug": "security-services",
+          "name": "Security Services",
+          "emoji": "🔐"
+        },
+        {
+          "slug": "police-stations",
+          "name": "Police Stations",
+          "emoji": "🚓"
+        }
+      ]
+    },
+    {
+      "key": "section_7",
+      "heading": "Repairs, Trades & Hospitality",
+      "categories": [
+        {
+          "slug": "carpenters",
+          "name": "Carpenters",
+          "emoji": "🪚"
+        },
+        {
+          "slug": "plumbers",
+          "name": "Plumbers",
+          "emoji": "🪠"
+        },
+        {
+          "slug": "electricians",
+          "name": "Electricians",
+          "emoji": "⚡"
+        },
+        {
+          "slug": "boat-repair",
+          "name": "Boat Repair",
+          "emoji": "🛶"
+        },
+        {
+          "slug": "welders-fabricators",
+          "name": "Welders & Fabricators",
+          "emoji": "🔩"
+        },
+        {
+          "slug": "masons-contractors",
+          "name": "Masons & Contractors",
+          "emoji": "🧱"
+        },
+        {
+          "slug": "homestays",
+          "name": "Homestays",
+          "emoji": "🏡"
+        },
+        {
+          "slug": "guest-houses",
+          "name": "Guest Houses",
+          "emoji": "🛏️"
+        },
+        {
+          "slug": "tiffin-services",
+          "name": "Tiffin Services",
+          "emoji": "🥡"
+        },
+        {
+          "slug": "driving-schools",
+          "name": "Driving Schools",
+          "emoji": "🚦"
+        },
+        {
+          "slug": "packers-and-movers",
+          "name": "Packers & Movers",
+          "emoji": "🏚️"
+        },
+        {
+          "slug": "ac-service-and-repair-experts",
+          "name": "AC Service & Repair",
+          "emoji": "❄️"
+        },
+        {
+          "slug": "mobile-phone-repair-experts",
+          "name": "Mobile Phone Repair",
+          "emoji": "📱"
+        },
+        {
+          "slug": "appliance-repair",
+          "name": "Appliance Repair",
+          "emoji": "🧰"
+        },
+        {
+          "slug": "gardeners-landscaping",
+          "name": "Gardeners & Landscaping",
+          "emoji": "🌴"
+        },
+        {
+          "slug": "tailors",
+          "name": "Tailors",
+          "emoji": "🧵"
+        },
+        {
+          "slug": "tuition-classes",
+          "name": "Tuition Classes",
+          "emoji": "📖"
+        },
+        {
+          "slug": "maths-tutorials",
+          "name": "Maths Tutorials",
+          "emoji": "➗"
+        },
+        {
+          "slug": "science-classes",
+          "name": "Science Classes",
+          "emoji": "🔭"
+        },
+        {
+          "slug": "spoken-english-classes",
+          "name": "Spoken English Classes",
+          "emoji": "🗣️"
+        },
+        {
+          "slug": "swimming-classes",
+          "name": "Swimming Classes",
+          "emoji": "🏊"
+        },
+        {
+          "slug": "cooking-classes",
+          "name": "Cooking Classes",
+          "emoji": "🍳"
+        },
+        {
+          "slug": "water-tanker-services",
+          "name": "Water Tanker Services",
+          "emoji": "🚛"
+        },
+        {
+          "slug": "scrap-dealers",
+          "name": "Scrap Dealers",
+          "emoji": "♻️"
+        },
+        {
+          "slug": "laundry-dry-cleaners",
+          "name": "Laundry & Dry Cleaners",
+          "emoji": "👕"
+        }
+      ]
+    },
+    {
+      "key": "section_8",
+      "heading": "Finance, Insurance & Home Decor",
+      "categories": [
+        {
+          "slug": "financial-advisors",
+          "name": "Financial Advisors",
+          "emoji": "💰"
+        },
+        {
+          "slug": "chartered-accountants-ca",
+          "name": "Chartered Accountants",
+          "emoji": "🧾"
+        },
+        {
+          "slug": "income-tax-consultants",
+          "name": "Income Tax Consultants",
+          "emoji": "📊"
+        },
+        {
+          "slug": "lawyers-and-advocates",
+          "name": "Lawyers & Advocates",
+          "emoji": "⚖️"
+        },
+        {
+          "slug": "property-lawyers",
+          "name": "Property Lawyers",
+          "emoji": "📜"
+        },
+        {
+          "slug": "personal-loan-providers",
+          "name": "Personal Loan Providers",
+          "emoji": "💳"
+        },
+        {
+          "slug": "gold-loan-providers",
+          "name": "Gold Loan Providers",
+          "emoji": "🥇"
+        },
+        {
+          "slug": "home-loan-providers",
+          "name": "Home Loan Providers",
+          "emoji": "🏡"
+        },
+        {
+          "slug": "business-loan-providers",
+          "name": "Business Loan Providers",
+          "emoji": "🏦"
+        },
+        {
+          "slug": "loan-against-property",
+          "name": "Loan Against Property",
+          "emoji": "📃"
+        },
+        {
+          "slug": "health-insurance-providers",
+          "name": "Health Insurance",
+          "emoji": "🛡️"
+        },
+        {
+          "slug": "term-life-insurance-providers",
+          "name": "Life Insurance",
+          "emoji": "🌱"
+        },
+        {
+          "slug": "boat-insurance",
+          "name": "Boat Insurance",
+          "emoji": "⛵"
+        },
+        {
+          "slug": "car-insurance-providers",
+          "name": "Car Insurance",
+          "emoji": "💥"
+        },
+        {
+          "slug": "bike-insurance-providers",
+          "name": "Bike Insurance",
+          "emoji": "🚲"
+        },
+        {
+          "slug": "travel-agents",
+          "name": "Travel Agents",
+          "emoji": "🧳"
+        },
+        {
+          "slug": "visa-consultants",
+          "name": "Visa Consultants",
+          "emoji": "🛂"
+        },
+        {
+          "slug": "passport-agents",
+          "name": "Passport Agents",
+          "emoji": "🛃"
+        },
+        {
+          "slug": "architects",
+          "name": "Architects",
+          "emoji": "📐"
+        },
+        {
+          "slug": "interior-designers",
+          "name": "Interior Designers",
+          "emoji": "🪟"
+        },
+        {
+          "slug": "building-contractors",
+          "name": "Building Contractors",
+          "emoji": "🏗️"
+        },
+        {
+          "slug": "furniture-and-decor-stores",
+          "name": "Furniture & Decor Stores",
+          "emoji": "🪵"
+        },
+        {
+          "slug": "light-decor-shops",
+          "name": "Light & Decor Shops",
+          "emoji": "💡"
+        },
+        {
+          "slug": "furniture-on-rent",
+          "name": "Furniture on Rent",
+          "emoji": "🪑"
+        },
+        {
+          "slug": "solar-installers",
+          "name": "Solar Installers",
+          "emoji": "🔆"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "slug": "dentists",
+      "name": "Dentists",
+      "emoji": "🦷",
+      "image": "https://mumbai96.com/uttan/images/03-dentists-in-uttan.jpg",
+      "description": "Local Services · Uttan"
+    },
+    {
+      "slug": "skin-doctors",
+      "name": "Skin Doctors",
+      "emoji": "🧴",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "salons",
+      "name": "Salons",
+      "emoji": "✂️",
+      "image": "https://mumbai96.com/uttan/images/04-salons-in-uttan.jpg",
+      "description": "Local Services · Uttan"
+    },
+    {
+      "slug": "plumbers",
+      "name": "Plumbers",
+      "emoji": "🪠",
+      "image": "https://mumbai96.com/uttan/images/05-plumbers-in-uttan.jpg",
+      "description": "Local Services · Uttan"
+    },
+    {
+      "slug": "electricians",
+      "name": "Electricians",
+      "emoji": "⚡",
+      "image": "https://mumbai96.com/uttan/images/06-electricians-in-uttan.jpg",
+      "description": "Local Services · Uttan"
+    },
+    {
+      "slug": "gyms",
+      "name": "Gyms",
+      "emoji": "💪",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "tiffin-services",
+      "name": "Tiffin Services",
+      "emoji": "🥡",
+      "image": "",
+      "description": ""
+    },
+    {
+      "slug": "real-estate",
+      "name": "Real Estate in Uttan",
+      "emoji": "🏠",
+      "image": "https://mumbai96.com/uttan/images/10-real-estate-in-uttan.jpg",
+      "description": "Local Services · Uttan"
+    }
+  ],
+  "best_services": [
+    {
+      "name": "Best Services in Uttan, Mira-Bhayandar - Mumbai96 Guide",
+      "description": "Finding trusted local services in Uttan just got easier. Mumbai96 is Uttan's dedicated local directory - a Mumbaikar-built platform that connects residents and visitors with verified seafood restaurants, beach resorts, dentists, salons, plumbers, electricians, caterers and many other service categories."
+    },
+    {
+      "name": "Why Uttan residents trust Mumbai96",
+      "description": "Unlike generic national directories, Mumbai96 focuses exclusively on Mumbai-region localities. Every listing in Uttan is verified for contact accuracy, and our review system ensures only genuine people leave feedback. Whether you live in Uttan's villages or are planning a weekend getaway, Mumbai96 is your local companion."
+    },
+    {
+      "name": "Services available in Uttan",
+      "description": "From coastal essentials (seafood restaurants, fish markets, beach resorts, homestays) to home services (plumbers, electricians, carpenters, boat repair), from healthcare (clinics, dentists, general physicians) to events (caterers, banquet halls, wedding venues) - Mumbai96 covers what Uttan residents and visitors need, all in one place."
+    },
+    {
+      "name": "About Uttan",
+      "description": "Uttan is a coastal fishing-village belt at the northwestern tip of the Mira-Bhayandar Municipal Corporation. Known for its beaches, Koli and East Indian communities, resorts and churches, it offers a rare slice of calm, seaside living near Mumbai. Mumbai96 is here to connect this close-knit community and its weekend visitors with the local services they need."
+    }
+  ],
+  "nearby_locations": [
+    {
+      "slug": "bhayandar-west",
+      "name": "Bhayandar West"
+    },
+    {
+      "slug": "bhayandar-east",
+      "name": "Bhayandar East"
+    },
+    {
+      "slug": "mira-road-east",
+      "name": "Mira Road East"
+    },
+    {
+      "slug": "gorai",
+      "name": "Gorai"
+    },
+    {
+      "slug": "dahisar",
+      "name": "Dahisar"
+    },
+    {
+      "slug": "borivali-west",
+      "name": "Borivali West"
+    }
+  ],
+  "population": "",
+  "municipal_body": "MBMC"
+}

@@ -1,5 +1,8 @@
+
+
 import LocationHero from "@/components/location/LocationHero";
 import ServiceSection from "@/components/location/ServiceSection";
+
 import Link from "next/link";
 import AboutSection from "@/components/location/About";
 import GuideSection from "@/components/location/GuideSection";
@@ -24,14 +27,16 @@ import CategoryGroupSection from "@/components/location/CategoryGroupSection";
 import { cache } from "react";
 import fs from "node:fs/promises";
 import path from "node:path";
+// import MicroLocalities from './../../../components/location/MicroLocalities';
 
 export const revalidate = 600;
 
-const STATIC_DATA_DIR = path.join(process.cwd(), "src", "data", "locations-static");
+// const STATIC_DATA_DIR = path.join(process.cwd(), "src", "data", "locations-static");
+const STATIC_DATA_DIR = path.join(process.cwd(), "src", "data", "live-location");
+
 const STATIC_ONLY_MODE = process.env.LOCATION_DATA_SOURCE === "static";
 
 // ── Location → Region mapping ────────────────────────────────
-// Determines the breadcrumb region link for each location slug.
 const LOCATION_REGIONS = {
   // Central Mumbai
   "mulund-west": { slug: "central-mumbai", label: "Central Mumbai" },
@@ -107,23 +112,6 @@ function toDisplayName(slug) {
     .join(" ");
 }
 
-// ── Category group render order ─────────────────────────────────
-// Each entry is an array of group keys that should be rendered at
-// a specific position in the page. Groups appear in this order.
-// NOTE: group keys here must match those in backend CATEGORY_GROUPS
-// and get_visible_groups(). Only groups returned by the API are rendered.
-const GROUP_POSITIONS = [
-  ["restaurants", "real_estate"], // After Nightlife
-  ["shopping", "home_services", "electronics_repair"], // After Resident Profile
-  ["hospitals", "doctors"], // After Hospitals section
-  ["automotive", "entertainment"], // After GroupedListings
-  ["spa_beauty", "fitness", "sports"], // After Commute
-  ["wedding_events", "religion_community", "professional_services"], // After UpcomingProjects
-  ["coaching", "schools", "childcare"], // After Local Life
-  ["banks_finance"], // Before FAQ
-  ["miscellaneous"], // At end
-];
-
 // Build a quick lookup: group_key → group data
 function buildGroupMap(categoryGroups) {
   const map = {};
@@ -135,50 +123,27 @@ function buildGroupMap(categoryGroups) {
   return map;
 }
 
-function hasMeaningfulStaticData(data) {
-  if (!data || typeof data !== "object") return false;
-
-  // A populated location page needs real content. If the static JSON is just
-  // an empty shell, prefer the backend API so users see useful data.
-  const hasCategories = Array.isArray(data.category_groups)
-    ? data.category_groups.length > 0
-    : data.category_groups && typeof data.category_groups === "object"
-      ? Object.keys(data.category_groups).length > 0
-      : false;
-
-  const hasFood = Array.isArray(data.food) && data.food.length > 0;
-  const hasPlaces = Array.isArray(data.places_to_visit) && data.places_to_visit.length > 0;
-  const hasAbout = typeof data.about === "string" && data.about.trim().length > 20;
-
-  return hasCategories || hasFood || hasPlaces || hasAbout;
-}
-
 const getLocationData = cache(async (slug) => {
   if (!slug) return null;
 
-  // 1) Try local static file: src/data/locations-static/<slug>.json
-  let staticData = null;
-  let staticFileExists = false;
+  // 1) Prefer local static file
   try {
     const staticFilePath = path.join(STATIC_DATA_DIR, `${slug}.json`);
     const raw = await fs.readFile(staticFilePath, "utf8");
-    staticData = JSON.parse(raw);
-    staticFileExists = true;
+    const parsed = JSON.parse(raw);
+    if (parsed && typeof parsed === "object") {
+      return parsed;
+    }
   } catch {
-    // No static file for this slug; fallback logic below.
+    // No static file for this slug
   }
 
-  // 2) If the static file has real content, use it.
-  if (staticData && hasMeaningfulStaticData(staticData)) {
-    return staticData;
-  }
-
-  // 3) If static-only mode is enabled, return the shell (or null).
+  // 2) Static-only mode
   if (STATIC_ONLY_MODE) {
-    return staticFileExists ? staticData : null;
+    return null;
   }
 
-  // 4) Static file is missing or empty → fetch from backend API.
+  // 3) Fallback to remote API
   try {
     const res = await fetch(
       `${process.env.NEXT_PUBLIC_API_BASE_URL}/api/public/location/${slug}`,
@@ -191,9 +156,7 @@ const getLocationData = cache(async (slug) => {
 
     return res.json();
   } catch (err) {
-    // 5) API also failed: return the empty static shell if we have one,
-    //    otherwise report location not found.
-    return staticFileExists ? staticData : null;
+    return null;
   }
 });
 
@@ -204,7 +167,6 @@ export async function generateMetadata({ params }) {
   const data = await getLocationData(slug);
 
   if (data) {
-
     const title =
       data.seo_title ||
       `${data.name} Mumbai - Complete Local Guide 2026 | Mumbai96`;
@@ -251,13 +213,15 @@ export default async function LocationPage({ params }) {
   const region = getRegion(location);
 
   const data = await getLocationData(location);
+  console.log(data);
+
   if (!data) {
     return <div className="container py-5">Location not found</div>;
   }
 
   const formattedLocation = data?.name || toDisplayName(location);
 
-  // Build food tags array for FoodSection
+  // Build food tags array
   const foodTags = data.food_tags
     ? data.food_tags.split(",").map((t) => t.trim())
     : [];
@@ -266,11 +230,23 @@ export default async function LocationPage({ params }) {
   const highlights = [
     { value: data.population || "—", label: "Est. Popul. 2026" },
     { value: data.municipal_body || "—", label: "Municipal Body" },
-    { value: data.civic_data?.ward || "—", label: "Ward" },
-    { value: data.civic_data?.assembly_constituency || "—", label: "Assembly" },
+    {
+      value: typeof data.civic_data?.ward === "object"
+        ? data.civic_data.ward.value
+        : data.civic_data?.ward || "—",
+      label: "Ward",
+    },
+    {
+      value: typeof data.civic_data?.assembly_constituency === "object"
+        ? data.civic_data.assembly_constituency.value
+        : data.civic_data?.assembly_constituency || "—",
+      label: "Assembly",
+    },
   ];
 
-  const visibleHighlights = highlights.filter((h) => h.value !== "—");
+  const visibleHighlights = highlights.filter(
+    (h) => h.value !== "—" && h.value !== "",
+  );
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -282,47 +258,29 @@ export default async function LocationPage({ params }) {
       "@type": "City",
       name: "Mumbai",
     },
-    ...(data.civic_data?.ward && {
-      additionalProperty: [
-        {
-          "@type": "PropertyValue",
-          name: "Ward",
-          value: data.civic_data.ward,
-        },
-      ],
-    }),
   };
 
-  // ── Build category group lookup ──
-  const groupMap = buildGroupMap(data.category_groups);
+  const sections = data.category_sections || [];
 
-  // Helper to render a category group section at a position
-  const renderGroup = (positionIndex) => {
-    const keys = GROUP_POSITIONS[positionIndex];
-    if (!keys) return null;
-    const groupsWithData = [];
-    for (const key of keys) {
-      const group = groupMap[key];
-      if (group && group.categories && group.categories.length > 0) {
-        groupsWithData.push(group);
-      }
-    }
-    if (groupsWithData.length === 0) return null;
-    // Merge categories from all groups at this position into one section
-    const merged = {
-      key: `pos-${positionIndex}`,
-      label: groupsWithData.map((g) => g.label).join(" & "),
-      icon: groupsWithData[0].icon,
-      categories: groupsWithData.flatMap((g) => g.categories),
-    };
-    return (
-      <CategoryGroupSection
-        key={`catgroup-${positionIndex}`}
-        group={merged}
-        location={location}
-      />
-    );
-  };
+  const renderGroup = (index) => {
+  const section = sections[index];
+  if (!section || !section.categories || section.categories.length === 0) {
+    return null;
+  }
+  return (
+    <CategoryGroupSection
+      key={section.key || `section-${index}`}
+      group={{
+        key: section.key || `section-${index}`,
+        label: section.heading,        // component label use karta hai
+        heading: section.heading,       // ya heading — dono support
+        icon: '',
+        categories: section.categories,
+      }}
+      location={location}
+    />
+  );
+};
 
   return (
     <>
@@ -330,6 +288,8 @@ export default async function LocationPage({ params }) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
+
+      {/* ── Hero ── */}
       <LocationHero
         location={formattedLocation}
         regionLabel={region.label}
@@ -342,33 +302,25 @@ export default async function LocationPage({ params }) {
         stats={visibleHighlights}
       />
 
+      {/* ── Breadcrumb ── */}
       <nav className="bc">
         <Link href={"/"}> Home › </Link>
         <Link href={`/${region.slug}`}>{region.label} › </Link>
         {formattedLocation}
       </nav>
 
+
       <AboutSection
-        location={location}
-        description1={data.about}
-        stats={visibleHighlights}
-        image={data?.image}
-      />
+  location={location}
+  title={data?.about_title}
+  description1={data.about}
+  commute={data.about_commute}
+  tag={data.about_tag}
+  stats={data.about_stats || []}
+  image={data?.image}
+/>
 
-      <SubAreas items={data.sub_areas} location={location} />
-
-      <CharacterVibe
-        location={location}
-        items={data.character_vibe}
-        description={
-          data.character_vibe
-            ? data.character_vibe.map((c) => c.description).join(" ")
-            : ""
-        }
-      />
-
-      <PropertyPrices items={data.property_prices} location={location} />
-
+      {/* ── Places to See ── */}
       <GuideSection
         id="places"
         label="📍 Places to See"
@@ -378,6 +330,7 @@ export default async function LocationPage({ params }) {
         items={data.places_to_visit}
       />
 
+      {/* ── Food ── */}
       <FoodSection
         location={location}
         description={`${formattedLocation} has a diverse food scene with local specialities and popular eateries.`}
@@ -385,81 +338,87 @@ export default async function LocationPage({ params }) {
         items={data.food}
       />
 
+      {/* ── Nightlife ── */}
       <GuideSection
         id="nightlife"
         label="🌙 Nightlife"
         title="Nightlife"
         location={location}
         description="After dark — bars, lounges and evening spots."
-        items={data.night_life}
+        items={data?.night_life}
         variant="list"
+        tips={data?.night_life_tips}
       />
 
-      {/* ── Category Group: Food & Real Estate ── */}
+      {/* ── Category Group 0: Food, Real Estate & Health ── */}
       {renderGroup(0)}
 
+      {/* ── Sub-Areas ── */}
+      <SubAreas
+        items={data.sub_areas}
+        location={location}
+        description={`${location} is a collection of distinct micro-areas, each with its own character, community and livability quotient.`}
+      />
+
+      {/* ── Character / Vibe ── */}
+      <CharacterVibe
+        location={location}
+        items={data.character_vibe}
+        description={data.character_vibe_description}
+        image={data.character_vibe_image}
+      />
+
+      {/* ── Category Group 1: Clinics, Shopping & Home Services ── */}
+      {renderGroup(1)}
+
+      {/* ── Resident Profile ── */}
       <ResidentProfile
         location={location}
         items={data.resident_profile}
-        description={
-          data.resident_profile
-            ? data.resident_profile.map((r) => r.description).join(" ")
-            : ""
-        }
+        description={data.resident_profile_description}
+        image={data.resident_profile_image}
       />
 
-      {/* ── Category Group: Shopping & Home Services ── */}
-      {renderGroup(1)}
+      {/* ── Property Prices ── */}
+      <PropertyPrices
+        items={data.property_prices}
+        location={location}
+        // note={data.property_note}
+      />
 
-      {/* Schools from Excel data (static) */}
-      {data.schools && data.schools.length > 0 && (
-        <GuideSection
-          id="schools"
-          label="🏫 Schools"
-          title="Schools"
-          location={location}
-          description={`Notable schools and educational institutions in ${formattedLocation}.`}
-          items={data.schools.map((s) => ({
-            name: s.name,
-            description: s.board ? `Board: ${s.board}` : "",
-          }))}
-        />
-      )}
-
-      {/* Hospitals from Excel data (static) */}
-      {data.hospitals && data.hospitals.length > 0 && (
-        <GuideSection
-          id="hospitals"
-          label="🏥 Hospitals"
-          title="Hospitals & Healthcare"
-          location={location}
-          description={`Major hospitals and healthcare facilities serving ${formattedLocation}.`}
-          items={data.hospitals.map((h) => ({
-            name: h.name,
-            description: h.type ? `Type: ${h.type}` : "",
-          }))}
-        />
-      )}
-
-      {/* ── Category Group: Doctors & Health ── */}
+      {/* ── Category Group 2: Culture, Spirituality & Medical Specialists ── */}
       {renderGroup(2)}
 
-      {/* Major Employers */}
-      {data.major_employers && data.major_employers.length > 0 && (
-        <GuideSection
-          id="employers"
-          label="🏢 Major Employers"
-          title="Major Employers"
-          location={location}
-          description={`Key employers and economic drivers in ${formattedLocation}.`}
-          items={data.major_employers.map((e) => ({
-            name: e.name,
-            description: e.sector ? `Sector: ${e.sector}` : "",
-          }))}
-        />
-      )}
+      {/* ── Schools ── */}
+      <GuideSection
+        id="schools"
+        label="🏫 Schools"
+        title="Schools"
+        location={location}
+        description={`Notable schools and educational institutions in ${formattedLocation}.`}
+        items={data?.schools}
+        variant="list"
+      />
 
-      {/* Grouped Listings from DB (dynamic — banks, etc.) */}
+      {/* ── Hospitals ── */}
+      <GuideSection
+        id="hospitals"
+        label="🏥 Hospitals"
+        title="Hospitals & Healthcare"
+        location={location}
+        description={`Major hospitals and healthcare facilities serving ${formattedLocation}.`}
+        items={data?.hospitals}
+        variant="list"
+      />
+
+      {/* ── Category Group 3: Automobiles, Entertainment & Education ── */}
+      {renderGroup(3)}
+
+      {/* ── Banks / Markets ── */}
+      <GuideSection id="banks" location={location} items={data.banks} />
+      <GuideSection id="markets" location={location} items={data.markets} />
+
+      {/* ── Grouped Listings ── */}
       {data.grouped_listings &&
         Object.entries(data.grouped_listings).map(([groupKey, group]) => (
           <GroupedListingSection
@@ -470,49 +429,63 @@ export default async function LocationPage({ params }) {
           />
         ))}
 
-      {/* ── Category Group: Automotive & Entertainment ── */}
-      {renderGroup(3)}
+      {/* ── Category Group 4: Wellness, Beauty & Events ── */}
+      {renderGroup(4)}
 
+      {/* ── Commute ── */}
       <CommuteSection
         location={location}
-        description={`${formattedLocation} is one of Mumbai's well-connected areas...`}
+        description={data.commute_description || `${formattedLocation} is one of Mumbai's well-connected areas...`}
         items={data.travelling_connectivity}
       />
 
-      {/* ── Category Group: Spa, Beauty, Fitness, Sports ── */}
-      {renderGroup(4)}
+      {/* ── Major Employers ── */}
+      <GuideSection
+        id="employers"
+        label="🏢 Major Employers"
+        title="Major Employers"
+        location={location}
+        description={`Key employers and economic drivers in ${formattedLocation}.`}
+        items={data?.major_employers}
+        variant="list"
+      />
 
+      {/* ── Residential Societies ── */}
       <ResidentialSocieties
         items={data.residential_societies}
         location={location}
       />
 
+      {/* ── Local Events ── */}
       <LocalEvents items={data.local_events} location={location} />
 
+      {/* ── Upcoming Projects ── */}
       <UpcomingProjects items={data.upcoming_projects} location={location} />
 
-      {/* ── Category Group: Weddings, Religion, Professional ── */}
+      {/* ── Category Group 5: Care, Community & Safety ── */}
       {renderGroup(5)}
 
+      {/* ── Civic Data ── */}
       <CivicData data={data.civic_data} location={location} />
 
+      {/* ── Area Report Card ── */}
       <AreaReportCard data={data.area_report_card} location={location} />
 
+      {/* ── Local Life ── */}
       <LocalLifeSection
         location={location}
         description={`Everything you need to know about daily life, housing and community in ${formattedLocation}.`}
         items={data.living_style}
       />
 
-      {/* ── Category Group: Coaching, Schools, Childcare ── */}
+      {/* ── Category Group 6: Repairs, Tutoring & Hospitality ── */}
       {renderGroup(6)}
 
-      {/* ── Category Group: Banks & Finance ── */}
-      {renderGroup(7)}
+      {/* ── FAQ ── */}
+      {/* <FaqSection items={data.faq} location={location} /> */}
 
-      <FaqSection items={data.faq} location={location} />
-
-      {data.categories.slice(0, 5).map((cat, index) => (
+      {/* ── Per-category Service Sections ── */}
+      {data.categories?.slice(0, 10).map((cat, index) => (
         <ServiceSection
           location={location}
           category={cat.name}
@@ -535,49 +508,51 @@ export default async function LocationPage({ params }) {
         />
       ))}
 
-      {/* ── Category Group: Miscellaneous ── */}
-      {renderGroup(8)}
+      {/* ── Category Group 7: Finance, Insurance & Home Decor ── */}
+      {renderGroup(7)}
 
+      {/* ── Why Mumbai96 ── */}
       <WhySection
         location={location}
         items={[
           {
             icon: "✅",
-            title: "100% Verified Listings",
+            title: "Trusted Businesses",
             description: `Every business in ${formattedLocation} on Mumbai96 is verified for contact accuracy and legitimacy.`,
           },
           {
             icon: "⭐",
-            title: "Real Reviews",
-            description: `Genuine reviews from ${formattedLocation} residents — no fake ratings, no paid promotions.`,
+            title: "Real Reviews from Mumbaikars",
+            description: `Genuine reviews from ${formattedLocation} residents - no fake ratings, no paid promotions.`,
           },
           {
             icon: "📞",
-            title: "Direct Contact",
-            description: `Call any ${formattedLocation} business directly from Mumbai96 — no middlemen, no commissions.`,
+            title: "Direct Contact - No Middlemen",
+            description: `Call any ${formattedLocation} business directly from Mumbai96 - no middlemen, no commissions.`,
           },
           {
             icon: "🏘️",
-            title: "Hyperlocal",
-            description: `Built for Mumbai's neighbourhoods — ${formattedLocation}-specific results, not generic national listings.`,
+            title: "Local - Mumbai Region Only",
+            description: `Built for Mumbai's localities - ${formattedLocation}-specific results, not generic national listings.`,
           },
           {
             icon: "🔄",
-            title: "Always Updated",
-            description: `Listings are regularly updated — you always get current numbers and information for ${formattedLocation}.`,
+            title: "Updated Promptly",
+            description: `Listings are regularly updated - you always get current numbers and information for ${formattedLocation}.`,
           },
           {
             icon: "🆓",
-            title: "Free for Users",
+            title: "Free for All Users",
             description: `Finding any service in ${formattedLocation} on Mumbai96 is completely free for residents.`,
           },
         ]}
       />
 
+      {/* ── Prose ── */}
       <ProseSection location={location} sections={data.best_services} />
-      {data.nearby_locations?.length > 0 && (
-        <NearbySection locations={data.nearby_locations} />
-      )}
+
+      {/* ── Nearby ── */}
+      <NearbySection locations={data.nearby_locations} />
     </>
   );
 }

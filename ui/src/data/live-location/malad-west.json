@@ -1,0 +1,1772 @@
+{
+  "seo_title": "Malad West Mumbai - Complete Local Guide 2026 | Places, Food, Property, Schools, Hospitals | Mumbai96",
+  "seo_description": "Complete guide to Malad West, Mumbai - sub-areas (Mindspace, Marve, Orlem, Evershine Nagar, Malvani), property prices, top schools, hospitals, banks, markets, commute, employers, events and 100+ local services. Mumbai96 - Mumbaikars' Very Own Platform.",
+  "seo_keywords": "Malad West Mumbai, Malad West guide, things to do in Malad West, places in Malad West, restaurants in Malad West, property prices Malad West, schools in Malad West, hospitals in Malad West, Mindspace Malad, Marve Beach Mumbai, Orlem Mumbai, Evershine Nagar Mumbai, Malvani Mumbai, Inorbit Mall Malad, dentists in Malad West, salons in Malad West, gyms in Malad West, plumbers in Malad West, electricians in Malad West, tiffin services Malad West, banks in Malad West, commute from Malad West, Malad West pin code, Malad West area guide 2026",
+  "image": "/images/locations/below-hero/west/malad-west.webp",
+  "location_icon": "/images/locations/name-boards/malad-west.webp",
+  "name": "Malad West",
+  "about_title": "Malad West, Mumbai - IT Hub, Beach & Residential Haven",
+  "about": "Malad West is one of Mumbai's most well-rounded suburbs - a seamless blend of a booming IT corridor at Mindspace, a laid-back coastal stretch at Marve, a vibrant Christian community in Orlem, and dense residential pockets in Evershine Nagar and Malvani. It's a suburb that genuinely has something for everyone. Whether you need a dentist near Orlem, a salon in Evershine Nagar, or a reliable plumber in Malvani - Mumbai96 has verified listings with real reviews, direct numbers and everything a Mumbaikar needs to find the right service fast.",
+  "about_commute": "Western Line - 25 min to Churchgate",
+  "about_tag": "IT Hub, Beach & Residential",
+  "about_stats": [
+    {
+      "value": "7L+",
+      "label": "Est. Popul. 2026"
+    },
+    {
+      "value": "MCGM",
+      "label": "Municipal Body (P/N Ward)"
+    },
+    {
+      "value": "Mindspace",
+      "label": "Major IT Business Park"
+    },
+    {
+      "value": "Inorbit Mall",
+      "label": "Landmark Shopping Destination"
+    }
+  ],
+  "places_to_visit": [
+    {
+      "tag": "Beach",
+      "name": "Marve Beach, Malad West",
+      "description": "A quiet, less-crowded beach at the western tip of Malad West - popular for sunrise walks, fishing boats and a ferry to Manori and Madh Island.",
+      "icon": "🏖️"
+    },
+    {
+      "tag": "Shopping",
+      "name": "Inorbit Mall, Malad West",
+      "description": "One of Mumbai's most popular malls - 200+ stores, multiplex, food court and entertainment zone anchoring the Malad West commercial belt.",
+      "icon": "🛍️"
+    },
+    {
+      "tag": "Heritage",
+      "name": "Our Lady of Lourdes Church, Orlem",
+      "description": "A landmark Catholic church in the heart of Orlem - one of Mumbai's oldest and most beloved parish churches, central to the East Indian community's identity in Malad West.",
+      "icon": "⛪"
+    }
+  ],
+  "food_tags": "East Indian Cuisine, Malvani Seafood, Mangalorean Food, Corporate Cafeterias, Gujarati Thalis, Street Food near Station, Chinese Street Food, Juice Bars",
+  "food": [
+    {
+      "name": "Malvani Seafood Restaurants, Malad West",
+      "description": "Authentic Malvani fish curry, bombil fry and crab masala - the coastal belt near Marve and Malvani is a seafood lover's paradise.",
+      "icon": "🦞"
+    },
+    {
+      "name": "Orlem Food Street, Malad West",
+      "description": "East Indian sorpotel, vindaloo and bebinca alongside Goan-style cafés - Orlem's food culture is unique in all of Mumbai.",
+      "icon": "🍽️"
+    },
+    {
+      "name": "Mindspace Food Court & Cafes",
+      "description": "A dense cluster of restaurants, cloud kitchens and cafés serving the Mindspace IT crowd - everything from South Indian to sushi.",
+      "icon": "🍜"
+    },
+    {
+      "name": "Tiffin Services, Malad West",
+      "description": "Home-style Gujarati, Maharashtrian and South Indian tiffin delivered to offices and PGs - a lifeline for Malad West's working population.",
+      "icon": "🥘"
+    }
+  ],
+  "night_life": [
+    {
+      "name": "Bars & Pubs near Mindspace",
+      "description": "Several stylish bars and gastropubs cater to Malad West's IT crowd - good cocktails, live sport screenings and a relaxed vibe.",
+      "icon": "🍻"
+    },
+    {
+      "name": "PVR Cinemas, Inorbit Mall",
+      "description": "Inorbit's multiplex screens the latest Bollywood, Hollywood and regional films daily - a go-to for Malad West families and couples.",
+      "icon": "🎬"
+    },
+    {
+      "name": "Marve Beach Evening Walks",
+      "description": "Marve Beach comes alive at sunset - local vendors, fishing boats returning and a peaceful coastal atmosphere unlike anywhere else in the suburb.",
+      "icon": "🌊"
+    },
+    {
+      "name": "Late Night Food near Malad Station",
+      "description": "Stalls near Malad West station stay open past midnight - pav bhaji, rolls and chai for night owls and late commuters.",
+      "icon": "🌙"
+    }
+  ],
+  "night_life_tips": [
+    "Inorbit Mall open till 10pm most days",
+    "Ola/Uber easily available late nights",
+    "Food delivery apps active till midnight",
+    "Western Railway last train - check apps"
+  ],
+  "sub_areas": [
+    {
+      "tag": "IT Hub",
+      "name": "Mindspace, Malad West",
+      "description": "Mumbai's premier IT business park - home to TCS, Vodafone, HDFC, Citibank and dozens of MNCs. Busy, polished and corporate.",
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=600&q=80"
+    },
+    {
+      "tag": "Coastal",
+      "name": "Marve, Malad West",
+      "description": "A quiet fishing village turned weekend retreat - Marve Beach, ferry to Manori, seafood shacks and a distinctly unhurried pace.",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&q=80"
+    },
+    {
+      "tag": "Community Hub",
+      "name": "Orlem, Malad West",
+      "description": "The heart of Mumbai's East Indian Catholic community - charming lanes, old churches, unique cuisine and a strong neighbourhood identity.",
+      "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=600&q=80"
+    },
+    {
+      "tag": "Residential",
+      "name": "Evershine Nagar, Malad West",
+      "description": "A well-planned residential colony with wide roads, good schools and a strong middle-class family community - one of Malad West's most livable pockets.",
+      "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=600&q=80"
+    },
+    {
+      "tag": "Dense Residential",
+      "name": "Malvani, Malad West",
+      "description": "A large, densely populated locality with strong community ties, affordable housing and excellent local markets - the working-class backbone of Malad West.",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600&q=80"
+    },
+    {
+      "tag": "Gated Township",
+      "name": "Raheja Township / Jankalyan Nagar",
+      "description": "Large gated township with parks, clubhouse and amenities - popular with IT professionals working at Mindspace. Calm and well-maintained.",
+      "image": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?w=600&q=80"
+    }
+  ],
+  "character_vibe": [
+    {
+      "keyword": "IT Professional Hub"
+    },
+    {
+      "keyword": "Coastal & Relaxed"
+    },
+    {
+      "keyword": "East Indian Heritage"
+    },
+    {
+      "keyword": "Family Friendly"
+    },
+    {
+      "keyword": "Affordable vs Bandra"
+    },
+    {
+      "keyword": "Well Connected"
+    },
+    {
+      "keyword": "Food Lover's Zone"
+    }
+  ],
+  "character_vibe_description": "Character & Vibe An honest snapshot - the energy, the people, the pace. The kind of thing no other directory tells you. Malad West is a suburb of contrasts that somehow works beautifully. By 9am, Mindspace is buzzing with IT professionals in branded tees; by noon, Orlem's lanes smell of sorpotel and fresh bread; by evening, families crowd Inorbit Mall while fishermen return to Marve Beach. It's a suburb that refuses to be just one thing. The East Indian Catholic community gives Orlem a distinctly Goan-Portuguese flavour, while Malvani's dense lanes pulse with Maharashtrian and Muslim working-class energy. Evershine Nagar and Raheja Township attract young IT couples. The result is a suburb that's cosmopolitan, grounded and genuinely livable - without the pretension of Bandra or the chaos of Andheri.",
+  "character_vibe_image": "https://images.unsplash.com/photo-1561612217-4f5d0b4c6ea8?w=800&q=80",
+  "resident_profile": [
+    {
+      "segment": "IT Professionals",
+      "description": "Mindspace MNCs attract thousands of young tech workers"
+    },
+    {
+      "segment": "East Indian Catholics",
+      "description": "Multi-generational community, heart of Orlem's identity"
+    },
+    {
+      "segment": "Maharashtrian Families",
+      "description": "Strong presence in Malvani and Jankalyan Nagar"
+    },
+    {
+      "segment": "Muslim Community",
+      "description": "Large, established community in Malvani and Kurar"
+    },
+    {
+      "segment": "Gujarati Traders",
+      "description": "Business families along Link Road and Malad station belt"
+    },
+    {
+      "segment": "South Indian Community",
+      "description": "Growing presence near Mindspace and Evershine Nagar"
+    }
+  ],
+  "resident_profile_image": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=800&q=80",
+  "resident_profile_description": "Resident Profile A cosmopolitan cross-section of Mumbai - here's who you'll find calling Malad West home. Malad West draws a fascinating mix - East Indian Catholic families who have lived in Orlem for generations, young IT professionals renting in Evershine Nagar and Raheja Township, Maharashtrian and Muslim working-class families in Malvani, and Gujarati business families along the Link Road belt. Mindspace has brought a new wave of corporate migrants who've made Malad West their home.",
+  "property_prices": [
+    {
+      "sub_area": "Orlem / Evershine Nagar - 2BHK",
+      "price": "₹1.4 – 2.0 Cr",
+      "rental": "₹28,000 – ₹45,000/mo",
+      "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=200&q=80"
+    },
+    {
+      "sub_area": "Mindspace / Raheja Township - 2BHK",
+      "price": "₹2.0 – 3.2 Cr",
+      "rental": "₹40,000 – ₹60,000/mo",
+      "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=200&q=80"
+    },
+    {
+      "sub_area": "Malvani / Jankalyan Nagar - 1BHK",
+      "price": "₹75 L – 1.1 Cr",
+      "rental": "₹16,000 – ₹26,000/mo",
+      "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=200&q=80"
+    },
+    {
+      "sub_area": "Mindspace - Commercial Office (per sqft)",
+      "price": "₹90 – ₹160/sqft",
+      "rental": "Lease: Negotiable, 3–5 year terms",
+      "image": "https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?w=200&q=80"
+    }
+  ],
+  "schools": [
+    {
+      "name": "St. Francis D'Assisi High School, Malad West",
+      "location": "Orlem, Malad West",
+      "badge": "SSC",
+      "image": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=200&q=80"
+    },
+    {
+      "name": "Orchids The International School, Malad West",
+      "location": "Evershine Nagar, Malad West",
+      "badge": "CBSE",
+      "image": "https://images.unsplash.com/photo-1588072432836-e10032774350?w=200&q=80"
+    },
+    {
+      "name": "Ryan International School, Malad West",
+      "location": "Malad West",
+      "badge": "ICSE",
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=200&q=80"
+    },
+    {
+      "name": "Podar International School, Malad West",
+      "location": "Malad West",
+      "badge": "CBSE / IB",
+      "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=200&q=80"
+    },
+    {
+      "name": "Vibgyor High School, Malad West",
+      "location": "Malad West",
+      "badge": "CBSE",
+      "image": "https://images.unsplash.com/photo-1600195077077-7c815b6fd7b5?w=200&q=80"
+    },
+    {
+      "name": "Patkar College of Arts & Science, Malad West",
+      "location": "Goregaon-Malad border, Malad West",
+      "badge": "Degree College",
+      "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=200&q=80"
+    }
+  ],
+  "hospitals": [
+    {
+      "type": "Multi-speciality",
+      "name": "Criticare Hospital, Malad West",
+      "description": "Well-regarded multi-speciality hospital in Malad West with 24-hour emergency, ICU, maternity and surgical units.",
+      "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=400&q=80"
+    },
+    {
+      "type": "Multi-speciality",
+      "name": "Lifeline Hospital, Malad West",
+      "description": "Trusted hospital serving Malad West and Malvani - strong in general medicine, orthopaedics and emergency care.",
+      "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=400&q=80"
+    },
+    {
+      "type": "Government Hospital",
+      "name": "Shatabdi Hospital, Malad West",
+      "description": "BMC-run government hospital in Malad West - serves the Malvani and Jankalyan Nagar belt with affordable OPD, maternity and emergency services.",
+      "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=400&q=80"
+    },
+    {
+      "type": "General Hospital",
+      "name": "Riddhi Vinayak Hospital, Malad West",
+      "description": "Accessible multi-speciality hospital in Malad West - serving the Evershine Nagar and Orlem belt with ICU, OPD and surgical services.",
+      "image": "https://images.unsplash.com/photo-1516841273335-e39b37888115?w=400&q=80"
+    },
+    {
+      "type": "24-Hour Clinic",
+      "name": "Orlem Medical Centre, Malad West",
+      "description": "Local 24-hour clinic serving Orlem and Evershine Nagar - general physician, minor surgery and diagnostics.",
+      "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=400&q=80"
+    },
+    {
+      "type": "Diagnostics",
+      "name": "Dr. Lal PathLabs / Thyrocare, Malad West",
+      "description": "Multiple diagnostic collection centres across Malad West for blood tests, reports and health packages.",
+      "image": "https://images.unsplash.com/photo-1587351021759-3e566b6af7cc?w=400&q=80"
+    }
+  ],
+  "banks": [
+    {
+      "name": "State Bank of India",
+      "image": "https://images.unsplash.com/photo-1556742031-c6961e8560b0?w=300&q=80"
+    },
+    {
+      "name": "HDFC Bank",
+      "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=300&q=80"
+    },
+    {
+      "name": "ICICI Bank",
+      "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=300&q=80"
+    },
+    {
+      "name": "Axis Bank",
+      "image": "https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?w=300&q=80"
+    },
+    {
+      "name": "Bank of Maharashtra",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=300&q=80"
+    },
+    {
+      "name": "Kotak Mahindra Bank",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=300&q=80"
+    },
+    {
+      "name": "Punjab National Bank",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=300&q=80"
+    },
+    {
+      "name": "Canara Bank",
+      "image": "https://images.unsplash.com/photo-1567427017947-545c5f8d16ad?w=300&q=80"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Malad West Station Market",
+      "description": "The bustling daily market around Malad West station - vegetables, fish, street food and local provisions for the entire suburb.",
+      "image": "https://images.unsplash.com/photo-1488459716781-31db52582fe9?w=600&q=80"
+    },
+    {
+      "name": "Inorbit Mall, Malad West",
+      "description": "One of Mumbai's most popular malls - 200+ brands, food court, PVR multiplex and entertainment zone on Link Road.",
+      "image": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=600&q=80"
+    },
+    {
+      "name": "Orlem Local Market, Malad West",
+      "description": "A charming neighbourhood market in Orlem - fresh produce, East Indian provisions, bakeries and local shops.",
+      "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=600&q=80"
+    },
+    {
+      "name": "Malvani Weekly Bazaar, Malad West",
+      "description": "Affordable clothes, household goods and street food - a popular weekly outing for Malvani and Jankalyan Nagar families.",
+      "image": "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=600&q=80"
+    },
+    {
+      "name": "Marve Fish Market, Malad West",
+      "description": "Fresh catch straight from Marve's fishing boats - pomfret, surmai, bombil and crabs at the best prices in the suburb.",
+      "image": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=600&q=80"
+    },
+    {
+      "name": "Evershine Nagar Market, Malad West",
+      "description": "A well-organised local market serving Evershine Nagar residents - daily provisions, pharmacies and small retail shops.",
+      "image": "https://images.unsplash.com/photo-1533900298318-6b8da08a523e?w=600&q=80"
+    }
+  ],
+  "travelling_connectivity": [
+    {
+      "name": "Churchgate by Train",
+      "icon": "🚆",
+      "distance": "25 min",
+      "tag": ""
+    },
+    {
+      "name": "Dahisar–Andheri Line",
+      "icon": "🚇",
+      "distance": "Metro 7",
+      "tag": ""
+    },
+    {
+      "name": "Auto Rickshaws",
+      "icon": "🛺",
+      "distance": "Abundant",
+      "tag": ""
+    },
+    {
+      "name": "Marve Ferry to Manori",
+      "icon": "⛴️",
+      "distance": "15 min",
+      "tag": ""
+    }
+  ],
+  "commute_description": "One of Mumbai's best-connected suburbs - local train, metro, Link Road, Western Express Highway and BEST buses all converge here.",
+  "commute_detail_items": [
+    {
+      "name": "Western Railway - Malad Station",
+      "description": "Fast, slow and semi-fast trains to Churchgate (25 min) and Virar (35 min). Malad is one of the Western Line's busiest stations with multiple entry/exit points.",
+      "icon": "🚗",
+      "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?w=200&q=80"
+    },
+    {
+      "name": "Metro Line 7 - Dahisar to Andheri West",
+      "description": "Metro Line 7 runs through Malad West with stops at Malad and Poisar - connecting north Mumbai to Andheri and reducing road congestion significantly.",
+      "icon": "🚗",
+      "image": "https://images.unsplash.com/photo-1581262208435-41726149a759?w=200&q=80"
+    },
+    {
+      "name": "BEST Bus Routes from Malad West",
+      "description": "Key routes: 271, 272 (Malad–Borivali), 295, 296 (Malad–Bandra), 455 (Malad–Goregaon). Covers Orlem, Evershine Nagar, Malvani and Marve Road well.",
+      "icon": "🚗",
+      "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?w=200&q=80"
+    },
+    {
+      "name": "Link Road & Western Express Highway",
+      "description": "Link Road connects Malad West to Goregaon, Andheri and Bandra. The Western Express Highway is accessible via Malad flyover - ideal for BKC and South Mumbai commuters.",
+      "icon": "🚗",
+      "image": "https://images.unsplash.com/photo-1566378246598-5b11a0d486cc?w=200&q=80"
+    }
+  ],
+  "major_employers": [
+    {
+      "sector": "Technology / IT",
+      "name": "Mindspace Business Park, Malad West",
+      "description": "Mumbai's largest IT business park - home to TCS, Vodafone India, HDFC Bank, Citibank, Accenture and 50+ MNCs employing 70,000+ professionals.",
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=400&q=80"
+    },
+    {
+      "sector": "Retail & Hospitality",
+      "name": "Inorbit Mall, Malad West",
+      "description": "200+ retail brands, food court, multiplex and entertainment - employs thousands of local staff in retail, F&B and operations.",
+      "image": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=400&q=80"
+    },
+    {
+      "sector": "Fishing & Coastal",
+      "name": "Marve Fishing Community, Malad West",
+      "description": "Traditional fishing families at Marve supply fresh catch to markets across Mumbai - a centuries-old livelihood sustaining hundreds of local families.",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=400&q=80"
+    },
+    {
+      "sector": "Healthcare",
+      "name": "Hospitals & Healthcare Sector, Malad West",
+      "description": "Criticare, Lifeline, Shatabdi and multiple clinics employ a significant number of medical professionals and support staff in Malad West.",
+      "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=400&q=80"
+    },
+    {
+      "sector": "Education",
+      "name": "Schools & Educational Institutions, Malad West",
+      "description": "Ryan International, St. Francis D'Assisi, Orchids, Vibgyor and Podar - Malad West's schools and colleges employ a large number of teachers and administrative staff.",
+      "image": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=400&q=80"
+    },
+    {
+      "sector": "Hospitality",
+      "name": "Hotels & Service Apartments, Malad West",
+      "description": "Business hotels and service apartments near Mindspace and Link Road cater to corporate travellers and employ significant local hospitality staff.",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400&q=80"
+    }
+  ],
+  "residential_societies": [
+    {
+      "name": "",
+      "description": "Malad West - large gated township, parks, clubhouse, pool",
+      "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=200&q=80"
+    },
+    {
+      "name": "",
+      "description": "Evershine Nagar - well-planned colony, wide roads, family-friendly",
+      "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=200&q=80"
+    },
+    {
+      "name": "",
+      "description": "Orlem - mid-income, community-strong, close to church and market",
+      "image": "https://images.unsplash.com/photo-1560185127-6a8c3f6b8f3c?w=200&q=80"
+    },
+    {
+      "name": "",
+      "description": "Jankalyan Nagar - affordable, dense, near Malvani market",
+      "image": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?w=200&q=80"
+    },
+    {
+      "name": "",
+      "description": "Near Mindspace - premium high-rise, IT professionals, amenities",
+      "image": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=200&q=80"
+    },
+    {
+      "name": "",
+      "description": "Kurar - affordable, community-strong, near Malad station",
+      "image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=200&q=80"
+    },
+    {
+      "name": "",
+      "description": "Marve - sea-facing bungalows and villas, quiet coastal living",
+      "image": "https://images.unsplash.com/photo-1600607687644-c7f34b5e9d56?w=200&q=80"
+    },
+    {
+      "name": "",
+      "description": "Poisar - established locality, affordable rentals, near Metro 7",
+      "image": "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=200&q=80"
+    }
+  ],
+  "local_events": [
+    {
+      "name": "",
+      "description": "Malvani and Evershine Nagar mandals host large Ganesh festivals with music, lighting and grand visarjan processions to Marve Beach.",
+      "date": "Aug – Sep",
+      "image": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?w=400&q=80"
+    },
+    {
+      "name": "",
+      "description": "Orlem transforms at Christmas - Our Lady of Lourdes Church hosts midnight mass, streets are lit up and the East Indian community celebrates with traditional food and carol singing.",
+      "date": "Dec",
+      "image": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=400&q=80"
+    },
+    {
+      "name": "",
+      "description": "Large Navratri grounds in Evershine Nagar and near Malad station - the Gujarati community makes this one of the suburb's most vibrant celebrations.",
+      "date": "Oct",
+      "image": "https://images.unsplash.com/photo-1547573854-74d2a71d0826?w=400&q=80"
+    },
+    {
+      "name": "",
+      "description": "Informal but lively weekend food gatherings near Malvani market - Malvani seafood, East Indian snacks and street food draw crowds from across Mumbai.",
+      "date": "Year Round",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=400&q=80"
+    },
+    {
+      "name": "",
+      "description": "Society and locality cricket leagues run through winter across Malad West's grounds - a major part of the suburb's community sporting culture.",
+      "date": "Nov – Mar",
+      "image": "https://images.unsplash.com/photo-1531058020387-3be344556be6?w=400&q=80"
+    },
+    {
+      "name": "",
+      "description": "Makar Sankranti kite flying at Marve Beach - families gather on the shore for a colourful, breezy celebration unique to Malad West's coastal belt.",
+      "date": "Jan – Feb",
+      "image": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=400&q=80"
+    }
+  ],
+  "upcoming_projects": [
+    {
+      "name": "",
+      "description": "Metro Line 7 (Dahisar–Andheri West) is operational with Malad and Poisar stations - dramatically easing north-south connectivity for Malad West residents.",
+      "status": "Ongoing",
+      "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=400&q=80"
+    },
+    {
+      "name": "",
+      "description": "Mindspace Business Park is expanding with new Grade A office towers - expected to add 15,000+ jobs and further boost Malad West's commercial profile.",
+      "status": "Ongoing",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&q=80"
+    },
+    {
+      "name": "",
+      "description": "BMC's proposed signal-free corridor on Link Road from Malad to Andheri - will significantly cut commute times for Malad West residents heading south.",
+      "status": "Upcoming",
+      "image": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=400&q=80"
+    },
+    {
+      "name": "",
+      "description": "SRA-approved redevelopment of older Malvani colonies - will release new residential supply and significantly upgrade the area's infrastructure and livability.",
+      "status": "Upcoming",
+      "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?w=400&q=80"
+    },
+    {
+      "name": "",
+      "description": "A private developer has proposed a mixed-use commercial and retail tower on Marve Road - targeting boutique offices, F&B and lifestyle brands.",
+      "status": "Planned",
+      "image": "https://images.unsplash.com/photo-1568992687947-868a62a9f521?w=400&q=80"
+    },
+    {
+      "name": "",
+      "description": "MMRDA's proposed coastal promenade at Marve Beach - a public walkway, seating and landscaping to make Marve a proper leisure destination for all Mumbaikars.",
+      "status": "Planned",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=400&q=80"
+    }
+  ],
+  "civic_data": {
+    "pin_codes": {
+      "label": "Pin Codes",
+      "value": "400064, 400095",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=300&q=80"
+    },
+    "municipal_body": {
+      "label": "Municipal Body",
+      "value": "MCGM (BMC) - P/N Ward",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=300&q=80"
+    },
+    "assembly_constituency": {
+      "label": "Assembly Constituency",
+      "value": "Malad West (175)",
+      "image": "https://images.unsplash.com/photo-1503551723145-6c040742065b?w=300&q=80"
+    },
+    "police_station": {
+      "label": "Police Station",
+      "value": "Malad, Malvani, Kurar",
+      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=300&q=80"
+    },
+    "post_offices": {
+      "label": "Post Offices",
+      "value": "Malad West, Orlem, Malvani",
+      "image": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=300&q=80"
+    },
+    "fire_station": {
+      "label": "Fire Station",
+      "value": "Malad Fire Station",
+      "image": "https://images.unsplash.com/photo-1534536281715-e28d76689b4d?w=300&q=80"
+    },
+    "est_popul": {
+      "label": "Est. Popul.",
+      "value": "7 Lakh+ (2026 est.)",
+      "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=300&q=80"
+    },
+    "bmc_ward_office": {
+      "label": "BMC Ward Office",
+      "value": "P/N Ward - Malad West",
+      "image": "https://images.unsplash.com/photo-1487958449943-2429e8be8625?w=300&q=80"
+    }
+  },
+  "area_report_card": {
+    "connectivity_in_malad_west": 5,
+    "daily_essentials_in_malad_west": 5,
+    "affordability_malad_west": 4,
+    "schools_education": 5,
+    "job_opportunities_in_malad_west": 5,
+    "safety_in_malad_west": 4
+  },
+  "living_style": [
+    {
+      "name": "",
+      "description": "₹75L–₹3.2Cr depending on sub-area - Malvani affordable, Mindspace/Raheja premium. Strong rental market for IT professionals.",
+      "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=80&q=80",
+      "icon": "🏠"
+    },
+    {
+      "name": "",
+      "description": "St. Francis D'Assisi, Orchids, Ryan International, Vibgyor, Podar - one of Mumbai's best school concentrations in a single suburb.",
+      "image": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=80&q=80",
+      "icon": "🏠"
+    },
+    {
+      "name": "",
+      "description": "Criticare, Lifeline, Shatabdi (BMC), Riddhi Vinayak and Orlem Medical Centre - plus multiple diagnostic centres and 24-hour pharmacies throughout.",
+      "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=80&q=80",
+      "icon": "🏠"
+    },
+    {
+      "name": "",
+      "description": "IT professionals, East Indian Catholics, Maharashtrian families, Gujarati traders, Muslim community - a genuinely cosmopolitan and grounded suburb.",
+      "image": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=80&q=80",
+      "icon": "🏠"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is Malad West known for?",
+      "answer": "Malad West is known for Mindspace IT Park (one of Mumbai's largest IT business districts), Inorbit Mall, Marve Beach, the Orlem Christian community, and being a major residential and commercial hub in Mumbai's Western Suburbs."
+    },
+    {
+      "question": "What is the pin code of Malad West?",
+      "answer": "Malad West has multiple pin codes: 400064 (Malad West main, Orlem, Evershine Nagar) and 400095 (Malvani, Marve, Jankalyan Nagar)."
+    },
+    {
+      "question": "What are the sub-areas within Malad West?",
+      "answer": "The main micro-localities within Malad West are Mindspace, Orlem, Evershine Nagar, Marve, Malvani, Jankalyan Nagar, Kurar Village, Raheja Township, and Poisar."
+    },
+    {
+      "question": "What is the property price in Malad West?",
+      "answer": "Property prices in Malad West range from ₹75 lakh for a 1BHK in Malvani/Jankalyan Nagar to ₹1.4–2.0 Cr for a 2BHK in Orlem/Evershine Nagar, and ₹2.0–3.2 Cr in Mindspace/Raheja Township. Rental rates range from ₹16,000 to ₹60,000 per month depending on the sub-area and flat size (as of June 2026)."
+    },
+    {
+      "question": "How to commute from Malad West?",
+      "answer": "Malad West is served by Western Railway's Malad Station (25 min to Churchgate), Metro Line 7 with stops at Malad and Poisar, BEST bus routes 271, 272, 295, 296, 455, and Link Road connecting to the Western Express Highway. Marve Road connects to Madh Island and Versova ferry."
+    },
+    {
+      "question": "Which hospitals are in Malad West?",
+      "answer": "Major hospitals in and near Malad West include Criticare Hospital Malad, Lifeline Hospital Malad, Shatabdi Hospital, Riddhi Vinayak Hospital, and Siddhi Vinayak Hospital Malad West."
+    },
+    {
+      "question": "Which schools are in Malad West?",
+      "answer": "Notable schools in Malad West include St. Francis D'Assisi High School (SSC), Orchids The International School (CBSE), Ryan International School (ICSE), Podar International School, and Vibgyor High School Malad West."
+    },
+    {
+      "question": "How do I find the best dentists in Malad West?",
+      "answer": "Browse Mumbai96's Malad West listings, read reviews from locals and call directly. Our verified directory makes it easy."
+    }
+  ],
+  "category_sections": [
+    {
+      "key": "section_1",
+      "heading": "Food, Real Estate & Health",
+      "categories": [
+        {
+          "slug": "street-food",
+          "name": "Street Food",
+          "emoji": "🌮"
+        },
+        {
+          "slug": "biryani-restaurants",
+          "name": "Biryani Restaurants",
+          "emoji": "🍚"
+        },
+        {
+          "slug": "chinese-restaurants",
+          "name": "Chinese Restaurants",
+          "emoji": "🥢"
+        },
+        {
+          "slug": "south-indian-restaurants",
+          "name": "South Indian Restaurants",
+          "emoji": "🥘"
+        },
+        {
+          "slug": "cafes-coffee-shops",
+          "name": "Cafes & Coffee Shops",
+          "emoji": "☕"
+        },
+        {
+          "slug": "bakeries",
+          "name": "Bakeries",
+          "emoji": "🥐"
+        },
+        {
+          "slug": "sweet-shops",
+          "name": "Sweet Shops",
+          "emoji": "🍬"
+        },
+        {
+          "slug": "ice-cream-shops",
+          "name": "Ice Cream Shops",
+          "emoji": "🍦"
+        },
+        {
+          "slug": "juice-shops",
+          "name": "Juice Shops",
+          "emoji": "🥤"
+        },
+        {
+          "slug": "seafood-restaurants",
+          "name": "Seafood Restaurants",
+          "emoji": "🦞"
+        },
+        {
+          "slug": "vegetarian-restaurants",
+          "name": "Vegetarian Restaurants",
+          "emoji": "🥗"
+        },
+        {
+          "slug": "fast-food-restaurants",
+          "name": "Fast Food Restaurants",
+          "emoji": "🍔"
+        },
+        {
+          "slug": "real-estate-agents",
+          "name": "Real Estate Agents",
+          "emoji": "🏠"
+        },
+        {
+          "slug": "flats-for-rent",
+          "name": "Flats for Rent",
+          "emoji": "🏢"
+        },
+        {
+          "slug": "flats-for-sale",
+          "name": "Flats for Sale",
+          "emoji": "🔑"
+        },
+        {
+          "slug": "paying-guest-accommodation",
+          "name": "Paying Guest Accommodation",
+          "emoji": "🛏️"
+        },
+        {
+          "slug": "office-space-for-rent",
+          "name": "Office Space for Rent",
+          "emoji": "🏬"
+        },
+        {
+          "slug": "property-management",
+          "name": "Property Management",
+          "emoji": "📋"
+        },
+        {
+          "slug": "pharmacies",
+          "name": "Pharmacies",
+          "emoji": "💊"
+        },
+        {
+          "slug": "eye-doctors",
+          "name": "Eye Doctors",
+          "emoji": "👁️"
+        },
+        {
+          "slug": "physiotherapists",
+          "name": "Physiotherapists",
+          "emoji": "🩹"
+        },
+        {
+          "slug": "ayurvedic-doctors",
+          "name": "Ayurvedic Doctors",
+          "emoji": "🌿"
+        },
+        {
+          "slug": "homeopathy-doctors",
+          "name": "Homeopathy Doctors",
+          "emoji": "🫙"
+        },
+        {
+          "slug": "blood-banks",
+          "name": "Blood Banks",
+          "emoji": "🩸"
+        },
+        {
+          "slug": "diagnostic-centres",
+          "name": "Diagnostic Centres",
+          "emoji": "🔬"
+        }
+      ]
+    },
+    {
+      "key": "section_2",
+      "heading": "Clinics, Shopping & Home Services",
+      "categories": [
+        {
+          "slug": "dental-clinics",
+          "name": "Dental Clinics",
+          "emoji": "🪥"
+        },
+        {
+          "slug": "deaddiction-centres",
+          "name": "Deaddiction Centres",
+          "emoji": "🫁"
+        },
+        {
+          "slug": "clothing-stores",
+          "name": "Clothing Stores",
+          "emoji": "👗"
+        },
+        {
+          "slug": "jewellery-shops",
+          "name": "Jewellery Shops",
+          "emoji": "💍"
+        },
+        {
+          "slug": "mobile-phone-shops",
+          "name": "Mobile Phone Shops",
+          "emoji": "📱"
+        },
+        {
+          "slug": "electronics-stores",
+          "name": "Electronics Stores",
+          "emoji": "💻"
+        },
+        {
+          "slug": "optical-shops",
+          "name": "Optical Shops",
+          "emoji": "👓"
+        },
+        {
+          "slug": "grocery-stores",
+          "name": "Grocery Stores",
+          "emoji": "🛒"
+        },
+        {
+          "slug": "shoe-stores",
+          "name": "Shoe Stores",
+          "emoji": "👟"
+        },
+        {
+          "slug": "sports-goods-stores",
+          "name": "Sports Goods Stores",
+          "emoji": "⚽"
+        },
+        {
+          "slug": "book-stores",
+          "name": "Book Stores",
+          "emoji": "📚"
+        },
+        {
+          "slug": "stationery-stores",
+          "name": "Stationery Stores",
+          "emoji": "✏️"
+        },
+        {
+          "slug": "baby-products-stores",
+          "name": "Baby Products Stores",
+          "emoji": "🍼"
+        },
+        {
+          "slug": "hardware-stores",
+          "name": "Hardware Stores",
+          "emoji": "🪛"
+        },
+        {
+          "slug": "pest-control",
+          "name": "Pest Control",
+          "emoji": "🐛"
+        },
+        {
+          "slug": "home-cleaning-services",
+          "name": "Home Cleaning Services",
+          "emoji": "🧹"
+        },
+        {
+          "slug": "painting-services",
+          "name": "Painting Services",
+          "emoji": "🖌️"
+        },
+        {
+          "slug": "laundry-dry-cleaners",
+          "name": "Laundry & Dry Cleaners",
+          "emoji": "👕"
+        },
+        {
+          "slug": "water-purifier-services",
+          "name": "Water Purifier Services",
+          "emoji": "💧"
+        },
+        {
+          "slug": "cctv-installation",
+          "name": "CCTV Installation",
+          "emoji": "📷"
+        },
+        {
+          "slug": "false-ceiling-contractors",
+          "name": "False Ceiling Contractors",
+          "emoji": "🏗️"
+        },
+        {
+          "slug": "sofa-repair-services",
+          "name": "Sofa Repair Services",
+          "emoji": "🪜"
+        },
+        {
+          "slug": "car-dealers",
+          "name": "Car Dealers",
+          "emoji": "🚕"
+        },
+        {
+          "slug": "bike-dealers",
+          "name": "Bike Dealers",
+          "emoji": "🛵"
+        },
+        {
+          "slug": "car-wash-services",
+          "name": "Car Wash Services",
+          "emoji": "🚿"
+        }
+      ]
+    },
+    {
+      "key": "section_3",
+      "heading": "Automobiles, Entertainment & Education",
+      "categories": [
+        {
+          "slug": "second-hand-cars",
+          "name": "Second Hand Cars",
+          "emoji": "🚐"
+        },
+        {
+          "slug": "auto-parts-stores",
+          "name": "Auto Parts Stores",
+          "emoji": "⚙️"
+        },
+        {
+          "slug": "petrol-pumps",
+          "name": "Petrol Pumps",
+          "emoji": "⛽"
+        },
+        {
+          "slug": "ev-charging-stations",
+          "name": "EV Charging Stations",
+          "emoji": "🔋"
+        },
+        {
+          "slug": "photographers",
+          "name": "Photographers",
+          "emoji": "📸"
+        },
+        {
+          "slug": "videographers",
+          "name": "Videographers",
+          "emoji": "🎥"
+        },
+        {
+          "slug": "photo-studios",
+          "name": "Photo Studios",
+          "emoji": "🎞️"
+        },
+        {
+          "slug": "printing-shops",
+          "name": "Printing Shops",
+          "emoji": "🖨️"
+        },
+        {
+          "slug": "movie-theatres",
+          "name": "Movie Theatres",
+          "emoji": "🎬"
+        },
+        {
+          "slug": "bowling-alleys",
+          "name": "Bowling Alleys",
+          "emoji": "🎳"
+        },
+        {
+          "slug": "gaming-zones",
+          "name": "Gaming Zones",
+          "emoji": "🎮"
+        },
+        {
+          "slug": "escape-rooms",
+          "name": "Escape Rooms",
+          "emoji": "🗝️"
+        },
+        {
+          "slug": "stand-up-comedy-shows",
+          "name": "Stand-Up Comedy Shows",
+          "emoji": "🎤"
+        },
+        {
+          "slug": "creches-daycare",
+          "name": "Creches & Daycare",
+          "emoji": "🪆"
+        },
+        {
+          "slug": "playschools",
+          "name": "Playschools",
+          "emoji": "🧸"
+        },
+        {
+          "slug": "schools",
+          "name": "Schools",
+          "emoji": "🏫"
+        },
+        {
+          "slug": "colleges",
+          "name": "Colleges",
+          "emoji": "🎓"
+        },
+        {
+          "slug": "spoken-english-classes",
+          "name": "Spoken English Classes",
+          "emoji": "🗣️"
+        },
+        {
+          "slug": "computer-classes",
+          "name": "Computer Classes",
+          "emoji": "⌨️"
+        },
+        {
+          "slug": "swimming-classes",
+          "name": "Swimming Classes",
+          "emoji": "🏊"
+        },
+        {
+          "slug": "courier-services",
+          "name": "Courier Services",
+          "emoji": "🚚"
+        },
+        {
+          "slug": "co-working-spaces",
+          "name": "Co-Working Spaces",
+          "emoji": "💼"
+        },
+        {
+          "slug": "event-photographers",
+          "name": "Event Photographers",
+          "emoji": "🤳"
+        },
+        {
+          "slug": "digital-marketing-agencies",
+          "name": "Digital Marketing Agencies",
+          "emoji": "📣"
+        },
+        {
+          "slug": "web-designers",
+          "name": "Web Designers",
+          "emoji": "🌐"
+        }
+      ]
+    },
+    {
+      "key": "section_4",
+      "heading": "Culture, Spirituality & Medical Specialists",
+      "categories": [
+        {
+          "slug": "astrologers",
+          "name": "Astrologers",
+          "emoji": "🔮"
+        },
+        {
+          "slug": "vastu-consultants",
+          "name": "Vastu Consultants",
+          "emoji": "🧭"
+        },
+        {
+          "slug": "temples",
+          "name": "Temples",
+          "emoji": "🛕"
+        },
+        {
+          "slug": "churches",
+          "name": "Churches",
+          "emoji": "⛪"
+        },
+        {
+          "slug": "gurudwaras",
+          "name": "Gurudwaras",
+          "emoji": "🪯"
+        },
+        {
+          "slug": "detective-agencies-spy-agents",
+          "name": "Detective Agencies",
+          "emoji": "🕵️"
+        },
+        {
+          "slug": "heritage-walks",
+          "name": "Heritage Walks",
+          "emoji": "🏛️"
+        },
+        {
+          "slug": "fishing-community",
+          "name": "Fishing Community",
+          "emoji": "🎣"
+        },
+        {
+          "slug": "slum-tours",
+          "name": "Slum Tours",
+          "emoji": "🗺️"
+        },
+        {
+          "slug": "dabbawalas",
+          "name": "Dabbawalas",
+          "emoji": "🍱"
+        },
+        {
+          "slug": "bollywood-studios",
+          "name": "Bollywood Studios",
+          "emoji": "🎪"
+        },
+        {
+          "slug": "dentists",
+          "name": "Dentists",
+          "emoji": "🦷"
+        },
+        {
+          "slug": "skin-doctors",
+          "name": "Skin Doctors",
+          "emoji": "🧴"
+        },
+        {
+          "slug": "ent-doctors",
+          "name": "ENT Doctors",
+          "emoji": "👂"
+        },
+        {
+          "slug": "spine-doctors",
+          "name": "Spine Doctors",
+          "emoji": "🦴"
+        },
+        {
+          "slug": "ortho-doctors",
+          "name": "Ortho Doctors",
+          "emoji": "🩼"
+        },
+        {
+          "slug": "heart-doctors",
+          "name": "Heart Doctors",
+          "emoji": "❤️"
+        },
+        {
+          "slug": "gynecologist-obstetricians",
+          "name": "Gynecologists",
+          "emoji": "👩‍⚕️"
+        },
+        {
+          "slug": "pediatrician-child-doctors",
+          "name": "Pediatricians",
+          "emoji": "🧒"
+        },
+        {
+          "slug": "maternity-hospitals",
+          "name": "Maternity Hospitals",
+          "emoji": "🤰"
+        },
+        {
+          "slug": "ivf-centers",
+          "name": "IVF Centers",
+          "emoji": "🧬"
+        },
+        {
+          "slug": "hospitals",
+          "name": "Hospitals",
+          "emoji": "🏥"
+        },
+        {
+          "slug": "medical-pathology-labs",
+          "name": "Pathology Labs",
+          "emoji": "🫧"
+        },
+        {
+          "slug": "psychologists",
+          "name": "Psychologists",
+          "emoji": "🧠"
+        },
+        {
+          "slug": "psychiatrists",
+          "name": "Psychiatrists",
+          "emoji": "💬"
+        }
+      ]
+    },
+    {
+      "key": "section_5",
+      "heading": "Wellness, Beauty & Events",
+      "categories": [
+        {
+          "slug": "xray-sonography-centres",
+          "name": "X-Ray & Sonography",
+          "emoji": "🩻"
+        },
+        {
+          "slug": "spas",
+          "name": "Spas",
+          "emoji": "💆"
+        },
+        {
+          "slug": "salons",
+          "name": "Salons",
+          "emoji": "✂️"
+        },
+        {
+          "slug": "beauty-parlours",
+          "name": "Beauty Parlours",
+          "emoji": "💄"
+        },
+        {
+          "slug": "makeover-artists",
+          "name": "Makeover Artists",
+          "emoji": "🪞"
+        },
+        {
+          "slug": "tattoo-artists",
+          "name": "Tattoo Artists",
+          "emoji": "🪡"
+        },
+        {
+          "slug": "gyms",
+          "name": "Gyms",
+          "emoji": "💪"
+        },
+        {
+          "slug": "personal-trainers",
+          "name": "Personal Trainers",
+          "emoji": "🏋️"
+        },
+        {
+          "slug": "dietitians-nutritionists",
+          "name": "Dietitians & Nutritionists",
+          "emoji": "🥦"
+        },
+        {
+          "slug": "bridal-makeup-artists",
+          "name": "Bridal Makeup Artists",
+          "emoji": "👰"
+        },
+        {
+          "slug": "groom-makeup-artists",
+          "name": "Groom Makeup Artists",
+          "emoji": "🤵"
+        },
+        {
+          "slug": "dance-classes",
+          "name": "Dance Classes",
+          "emoji": "💃"
+        },
+        {
+          "slug": "zumba-classes",
+          "name": "Zumba Classes",
+          "emoji": "🕺"
+        },
+        {
+          "slug": "yoga-classes",
+          "name": "Yoga Classes",
+          "emoji": "🧘"
+        },
+        {
+          "slug": "music-classes",
+          "name": "Music Classes",
+          "emoji": "🎵"
+        },
+        {
+          "slug": "drawing-classes",
+          "name": "Drawing Classes",
+          "emoji": "🖍️"
+        },
+        {
+          "slug": "wedding-planners",
+          "name": "Wedding Planners",
+          "emoji": "💒"
+        },
+        {
+          "slug": "destination-wedding-planners",
+          "name": "Destination Wedding Planners",
+          "emoji": "✈️"
+        },
+        {
+          "slug": "birthday-event-planners",
+          "name": "Birthday Event Planners",
+          "emoji": "🎈"
+        },
+        {
+          "slug": "anniversary-event-planners",
+          "name": "Anniversary Planners",
+          "emoji": "🎊"
+        },
+        {
+          "slug": "baby-shower-planners",
+          "name": "Baby Shower Planners",
+          "emoji": "🎀"
+        },
+        {
+          "slug": "caterers",
+          "name": "Caterers",
+          "emoji": "🍽️"
+        },
+        {
+          "slug": "banquet-halls",
+          "name": "Banquet Halls",
+          "emoji": "🏩"
+        },
+        {
+          "slug": "cars-on-rent",
+          "name": "Cars on Rent",
+          "emoji": "🚘"
+        },
+        {
+          "slug": "costumes-on-rent",
+          "name": "Costumes on Rent",
+          "emoji": "🎭"
+        }
+      ]
+    },
+    {
+      "key": "section_6",
+      "heading": "Care, Community & Safety",
+      "categories": [
+        {
+          "slug": "neet-tutorials",
+          "name": "NEET Tutorials",
+          "emoji": "🩺"
+        },
+        {
+          "slug": "pet-food-shops",
+          "name": "Pet Food Shops",
+          "emoji": "🐟"
+        },
+        {
+          "slug": "pet-doctors",
+          "name": "Pet Doctors",
+          "emoji": "🐶"
+        },
+        {
+          "slug": "elders-care",
+          "name": "Elders Care",
+          "emoji": "👴"
+        },
+        {
+          "slug": "women-care-centres",
+          "name": "Women Care Centres",
+          "emoji": "🩷"
+        },
+        {
+          "slug": "relationship-counsellor",
+          "name": "Relationship Counsellor",
+          "emoji": "💑"
+        },
+        {
+          "slug": "ngos",
+          "name": "NGOs",
+          "emoji": "🤝"
+        },
+        {
+          "slug": "ambulance-services",
+          "name": "Ambulance Services",
+          "emoji": "🚑"
+        },
+        {
+          "slug": "animal-shelters",
+          "name": "Animal Shelters",
+          "emoji": "🐕"
+        },
+        {
+          "slug": "security-services",
+          "name": "Security Services",
+          "emoji": "🔐"
+        }
+      ]
+    },
+    {
+      "key": "section_7",
+      "heading": "Repairs, Tutoring & Hospitality",
+      "categories": [
+        {
+          "slug": "artifact-shops",
+          "name": "Artifact Shops",
+          "emoji": "🏺"
+        },
+        {
+          "slug": "carpenters",
+          "name": "Carpenters",
+          "emoji": "🪚"
+        },
+        {
+          "slug": "plumbers",
+          "name": "Plumbers",
+          "emoji": "🪠"
+        },
+        {
+          "slug": "electricians",
+          "name": "Electricians",
+          "emoji": "⚡"
+        },
+        {
+          "slug": "gift-shops",
+          "name": "Gift Shops",
+          "emoji": "🎁"
+        },
+        {
+          "slug": "cake-shops",
+          "name": "Cake Shops",
+          "emoji": "🎂"
+        },
+        {
+          "slug": "girls-hostel-pg",
+          "name": "Girls Hostel & PG",
+          "emoji": "👩"
+        },
+        {
+          "slug": "boys-hostel-pg",
+          "name": "Boys Hostel & PG",
+          "emoji": "👨"
+        },
+        {
+          "slug": "tiffin-services",
+          "name": "Tiffin Services",
+          "emoji": "🥡"
+        },
+        {
+          "slug": "driving-schools",
+          "name": "Driving Schools",
+          "emoji": "🚦"
+        },
+        {
+          "slug": "packers-and-movers",
+          "name": "Packers & Movers",
+          "emoji": "🏚️"
+        },
+        {
+          "slug": "ac-service-and-repair-experts",
+          "name": "AC Service & Repair",
+          "emoji": "❄️"
+        },
+        {
+          "slug": "mobile-phone-repair-experts",
+          "name": "Mobile Phone Repair",
+          "emoji": "🔩"
+        },
+        {
+          "slug": "laptop-repair-service-experts",
+          "name": "Laptop Repair",
+          "emoji": "💾"
+        },
+        {
+          "slug": "car-repair-shops",
+          "name": "Car Repair Shops",
+          "emoji": "🔨"
+        },
+        {
+          "slug": "bike-repair-shops",
+          "name": "Bike Repair Shops",
+          "emoji": "🛠️"
+        },
+        {
+          "slug": "science-classes",
+          "name": "Science Classes",
+          "emoji": "🔭"
+        },
+        {
+          "slug": "maths-tutorials",
+          "name": "Maths Tutorials",
+          "emoji": "➗"
+        },
+        {
+          "slug": "physics-tutorials",
+          "name": "Physics Tutorials",
+          "emoji": "⚛️"
+        },
+        {
+          "slug": "chemistry-tutorials",
+          "name": "Chemistry Tutorials",
+          "emoji": "🧪"
+        },
+        {
+          "slug": "ielts-classes",
+          "name": "IELTS Classes",
+          "emoji": "📝"
+        },
+        {
+          "slug": "jee-classes",
+          "name": "JEE Classes",
+          "emoji": "🔢"
+        },
+        {
+          "slug": "mht-cet-classes",
+          "name": "MHT-CET Classes",
+          "emoji": "📏"
+        },
+        {
+          "slug": "gmat-classes",
+          "name": "GMAT Classes",
+          "emoji": "🎯"
+        },
+        {
+          "slug": "gre-classes",
+          "name": "GRE Classes",
+          "emoji": "🏆"
+        }
+      ]
+    },
+    {
+      "key": "section_8",
+      "heading": "Finance, Insurance & Home Decor",
+      "categories": [
+        {
+          "slug": "furniture-on-rent",
+          "name": "Furniture on Rent",
+          "emoji": "🪑"
+        },
+        {
+          "slug": "stock-brokers",
+          "name": "Stock Brokers",
+          "emoji": "📈"
+        },
+        {
+          "slug": "financial-advisors",
+          "name": "Financial Advisors",
+          "emoji": "💰"
+        },
+        {
+          "slug": "chartered-accountants-ca",
+          "name": "Chartered Accountants",
+          "emoji": "🧾"
+        },
+        {
+          "slug": "income-tax-consultants",
+          "name": "Income Tax Consultants",
+          "emoji": "📊"
+        },
+        {
+          "slug": "lawyers-and-advocates",
+          "name": "Lawyers & Advocates",
+          "emoji": "⚖️"
+        },
+        {
+          "slug": "personal-loan-providers",
+          "name": "Personal Loan Providers",
+          "emoji": "💳"
+        },
+        {
+          "slug": "gold-loan-providers",
+          "name": "Gold Loan Providers",
+          "emoji": "🥇"
+        },
+        {
+          "slug": "home-loan-providers",
+          "name": "Home Loan Providers",
+          "emoji": "🏡"
+        },
+        {
+          "slug": "auto-loan-providers",
+          "name": "Auto Loan Providers",
+          "emoji": "🚌"
+        },
+        {
+          "slug": "business-loan-providers",
+          "name": "Business Loan Providers",
+          "emoji": "🏦"
+        },
+        {
+          "slug": "loan-against-property",
+          "name": "Loan Against Property",
+          "emoji": "📜"
+        },
+        {
+          "slug": "health-insurance-providers",
+          "name": "Health Insurance",
+          "emoji": "🛡️"
+        },
+        {
+          "slug": "term-life-insurance-providers",
+          "name": "Life Insurance",
+          "emoji": "🌱"
+        },
+        {
+          "slug": "car-insurance-providers",
+          "name": "Car Insurance",
+          "emoji": "💥"
+        },
+        {
+          "slug": "bike-insurance-providers",
+          "name": "Bike Insurance",
+          "emoji": "🚲"
+        },
+        {
+          "slug": "travel-agents",
+          "name": "Travel Agents",
+          "emoji": "🧳"
+        },
+        {
+          "slug": "visa-consultants",
+          "name": "Visa Consultants",
+          "emoji": "🛂"
+        },
+        {
+          "slug": "passport-agents",
+          "name": "Passport Agents",
+          "emoji": "🛃"
+        },
+        {
+          "slug": "honeymoon-travel-agents",
+          "name": "Honeymoon Travel Agents",
+          "emoji": "🌅"
+        },
+        {
+          "slug": "medical-tourism",
+          "name": "Medical Tourism",
+          "emoji": "🏨"
+        },
+        {
+          "slug": "architects",
+          "name": "Architects",
+          "emoji": "📐"
+        },
+        {
+          "slug": "interior-designers",
+          "name": "Interior Designers",
+          "emoji": "🪟"
+        },
+        {
+          "slug": "furniture-and-decor-stores",
+          "name": "Furniture & Decor Stores",
+          "emoji": "🪵"
+        },
+        {
+          "slug": "light-decor-shops",
+          "name": "Light & Decor Shops",
+          "emoji": "💡"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "slug": "dentists",
+      "name": "Dentists",
+      "emoji": "🦷",
+      "image": "https://mumbai96.com/malad-west/images/01-dentists-in-malad-west.jpg",
+      "description": "Local Services · Malad West"
+    },
+    {
+      "slug": "skin-doctors",
+      "name": "Skin Doctors",
+      "emoji": "🧴",
+      "image": "https://mumbai96.com/malad-west/images/02-skin-doctors-in-malad-west.jpg",
+      "description": "Local Services · Malad West"
+    },
+    {
+      "slug": "gynecologists",
+      "name": "Gynecologists in Malad West",
+      "emoji": "👩‍⚕️",
+      "image": "https://mumbai96.com/malad-west/images/03-gynecologists-in-malad-west.jpg",
+      "description": "Local Services · Malad West"
+    },
+    {
+      "slug": "salons",
+      "name": "Salons",
+      "emoji": "✂️",
+      "image": "https://mumbai96.com/malad-west/images/04-salons-in-malad-west.jpg",
+      "description": "Local Services · Malad West"
+    },
+    {
+      "slug": "plumbers",
+      "name": "Plumbers",
+      "emoji": "🪠",
+      "image": "https://mumbai96.com/malad-west/images/05-plumbers-in-malad-west.jpg",
+      "description": "Local Services · Malad West"
+    },
+    {
+      "slug": "electricians",
+      "name": "Electricians",
+      "emoji": "⚡",
+      "image": "https://mumbai96.com/malad-west/images/06-electricians-in-malad-west.jpg",
+      "description": "Local Services · Malad West"
+    },
+    {
+      "slug": "gyms",
+      "name": "Gyms",
+      "emoji": "💪",
+      "image": "https://mumbai96.com/malad-west/images/07-gyms-in-malad-west.jpg",
+      "description": "Local Services · Malad West"
+    },
+    {
+      "slug": "restaurants",
+      "name": "Restaurants in Malad West",
+      "emoji": "🍽️",
+      "image": "https://mumbai96.com/malad-west/images/08-restaurants-in-malad-west.jpg",
+      "description": "Local Services · Malad West"
+    },
+    {
+      "slug": "tiffin-services",
+      "name": "Tiffin Services",
+      "emoji": "🥡",
+      "image": "https://mumbai96.com/malad-west/images/09-tiffin-services-in-malad-west.jpg",
+      "description": "Local Services · Malad West"
+    },
+    {
+      "slug": "real-estate",
+      "name": "Real Estate in Malad West",
+      "emoji": "🏠",
+      "image": "https://mumbai96.com/malad-west/images/10-real-estate-in-malad-west.jpg",
+      "description": "Local Services · Malad West"
+    }
+  ],
+  "best_services": [
+    {
+      "name": "Best Services in Malad West, Mumbai - Mumbai96 Guide",
+      "description": "Finding trusted local services in Malad West just got easier. Mumbai96 is Malad West's dedicated local directory - a Mumbaikar-built platform that connects residents with verified dentists, skin doctors, salons, plumbers, electricians, gyms, restaurants and 90+ other service categories."
+    },
+    {
+      "name": "Why Malad West residents trust Mumbai96",
+      "description": "Unlike generic national directories, Mumbai96 focuses exclusively on Mumbai localities. Every listing in Malad West is verified for contact accuracy, and our review system ensures only genuine Mumbaikars leave feedback. Whether you just moved to Malad West or have lived here for years, Mumbai96 is your local companion."
+    },
+    {
+      "name": "Services available in Malad West",
+      "description": "From healthcare (dentists, skin doctors, gynecologists, pediatricians) to home services (plumbers, electricians, carpenters), from lifestyle (salons, gyms, yoga) to food (restaurants, tiffin services, Malvani seafood, East Indian cuisine) - Mumbai96 covers everything Malad West residents need, all in one place."
+    },
+    {
+      "name": "About Malad West",
+      "description": "Malad West is part of Mumbai's Western Suburbs, one of the city's most dynamic and livable areas. With a growing population of 7L+ residents, a booming IT corridor at Mindspace, a unique coastal belt at Marve and a rich cultural identity in Orlem, the demand for quality local services has never been higher. Mumbai96 is here to bridge that gap - making it easier for Malad West businesses to be found and for residents to find exactly what they need."
+    }
+  ],
+  "nearby_locations": [
+    {
+      "slug": "goregaon-west",
+      "name": "Goregaon West"
+    },
+    {
+      "slug": "borivali-west",
+      "name": "Borivali West"
+    },
+    {
+      "slug": "kandivali-west",
+      "name": "Kandivali West"
+    },
+    {
+      "slug": "andheri-west",
+      "name": "Andheri West"
+    },
+    {
+      "slug": "goregaon-east",
+      "name": "Goregaon East"
+    },
+    {
+      "slug": "dahisar-west",
+      "name": "Dahisar West"
+    }
+  ],
+  "population": "7L+",
+  "municipal_body": "MCGM"
+}

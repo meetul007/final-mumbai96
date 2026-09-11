@@ -1,0 +1,1772 @@
+{
+  "seo_title": "Kurla Mumbai - Complete Local Guide 2026 | Places, Food, Property, Schools, Hospitals | Mumbai96",
+  "seo_description": "Complete guide to Kurla, Mumbai - sub-areas (Nehru Nagar, Kajupada, Halav Pool, Premier, Kurla West, Kalina belt), property prices, top schools, hospitals, banks, markets, commute, employers, events and 100+ local services. Mumbai96 - Mumbaikars' Very Own Platform.",
+  "seo_keywords": "Kurla Mumbai, Kurla guide, things to do in Kurla, places in Kurla, restaurants in Kurla, property prices Kurla, schools in Kurla, hospitals in Kurla, Nehru Nagar Kurla, Kajupada Kurla, Halav Pool Kurla, Premier Kurla, Kurla West, Phoenix Marketcity Kurla, BKC connectivity Kurla, dentists in Kurla, salons in Kurla, gyms in Kurla, plumbers in Kurla, electricians in Kurla, tiffin services Kurla, banks in Kurla, commute from Kurla, Kurla pin code, Kurla area guide 2026",
+  "image": "/images/locations/below-hero/central/kurla.webp",
+  "location_icon": "/images/locations/name-boards/kurla.webp",
+  "name": "Kurla",
+  "about_title": "Kurla, Mumbai - Transit, Retail & BKC-Adjacent Hub",
+  "about": "Kurla is one of Mumbai's busiest and most diverse localities, home to Phoenix Marketcity, the Kurla railway junction, the LTT long-distance terminus and a direct link to BKC. A vibrant mix of communities, traders, office-goers and migrants creates a high demand for every kind of local service. Whether you need a dentist near Nehru Nagar, a salon in Kamani, or a reliable plumber in Kajupada - Mumbai96 has verified listings with real reviews, direct numbers and everything a Mumbaikar needs to find the right service fast.",
+  "about_commute": "Central & Harbour Line - 20 min to CSMT",
+  "about_tag": "Transit & Retail Hub",
+  "about_stats": [
+    {
+      "value": "9L+",
+      "label": "Est. Popul. 2026"
+    },
+    {
+      "value": "MCGM",
+      "label": "Municipal Body (L Ward)"
+    },
+    {
+      "value": "Phoenix",
+      "label": "Marketcity Mega Mall"
+    },
+    {
+      "value": "LTT",
+      "label": "Long-Distance Terminus"
+    }
+  ],
+  "places_to_visit": [
+    {
+      "tag": "Landmark",
+      "name": "Phoenix Marketcity, Kurla",
+      "description": "One of Mumbai's largest malls - flagship brands, multiplex, food court and a major leisure destination for the East suburbs.",
+      "icon": "🛍️"
+    },
+    {
+      "tag": "Transit Hub",
+      "name": "Kurla Junction & LTT",
+      "description": "A critical railway junction linking Central and Harbour lines, plus Lokmanya Tilak Terminus for long-distance trains across India.",
+      "icon": "🚉"
+    },
+    {
+      "tag": "Heritage",
+      "name": "Holy Cross Church & Kurla Mosques",
+      "description": "Historic places of worship reflecting Kurla's deeply multicultural roots - among the oldest community landmarks in the area.",
+      "icon": "🕌"
+    }
+  ],
+  "food_tags": "Mughlai & Kebabs, Biryani, South Indian, Maharashtrian Misal, Street Food, Chinese Stalls, Bakeries, Mall Food Court",
+  "food": [
+    {
+      "name": "Nehru Nagar Food Street",
+      "description": "Famous for kebabs, rolls, grills and biryani - a buzzing late-night food destination in Kurla.",
+      "icon": "🍢"
+    },
+    {
+      "name": "Biryani & Mughlai Joints, Kurla",
+      "description": "Legendary biryani houses and Mughlai grills serving generous, flavour-packed plates to locals and visitors alike.",
+      "icon": "🍚"
+    },
+    {
+      "name": "Phoenix Marketcity Food Court",
+      "description": "Dozens of cuisines under one roof - from quick bites to full-service restaurants for families and shoppers.",
+      "icon": "🍽️"
+    },
+    {
+      "name": "Tiffin Services, Kurla",
+      "description": "Home-cooked meals delivered across Kurla and to nearby BKC offices - a lifeline for thousands of workers.",
+      "icon": "🥘"
+    }
+  ],
+  "night_life": [
+    {
+      "name": "PVR at Phoenix Marketcity",
+      "description": "Premium multiplex screening the latest Bollywood, Hollywood and regional films daily.",
+      "icon": "🎬"
+    },
+    {
+      "name": "Phoenix Lounges & Bars",
+      "description": "Stylish bars and lounges within and around Phoenix cater to the BKC corporate and young crowd.",
+      "icon": "🍻"
+    },
+    {
+      "name": "Late Night Food Streets, Kurla",
+      "description": "Nehru Nagar and station-area stalls stay open past midnight, serving hot food to night-shift and transit crowds.",
+      "icon": "🍢"
+    },
+    {
+      "name": "24/7 Station Buzz",
+      "description": "As a major junction and LTT terminus, Kurla never fully sleeps - cabs, autos and eateries operate round the clock.",
+      "icon": "🚉"
+    }
+  ],
+  "night_life_tips": [
+    "Check local Facebook groups for event updates",
+    "Ola/Uber are easily available late nights",
+    "Food delivery apps active till midnight",
+    "Railway/Metro last times vary - check apps"
+  ],
+  "sub_areas": [
+    {
+      "tag": "Food & Residential",
+      "name": "Nehru Nagar, Kurla",
+      "description": "A dense, lively pocket famous for its food street, markets and a strong, close-knit community vibe.",
+      "image": "https://images.unsplash.com/photo-1570168007204-dfb528c6958f?w=600&q=80"
+    },
+    {
+      "tag": "Commercial",
+      "name": "Kamani / Phoenix Belt, Kurla",
+      "description": "The commercial heart - Phoenix Marketcity, offices, premium towers and the gateway to BKC.",
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=80"
+    },
+    {
+      "tag": "Market Hub",
+      "name": "Kajupada, Kurla",
+      "description": "A bustling residential-commercial pocket with local markets, shops and an everyday working-class energy.",
+      "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=600&q=80"
+    },
+    {
+      "tag": "Redevelopment",
+      "name": "Premier, Kurla West",
+      "description": "The former Premier Automobiles belt - now a fast-redeveloping zone of new towers and commercial projects.",
+      "image": "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=600&q=80"
+    },
+    {
+      "tag": "Residential",
+      "name": "Halav Pool, Kurla",
+      "description": "An old, densely-settled residential pocket near the station - markets, mosques and a strong local identity.",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600&q=80"
+    },
+    {
+      "tag": "Mixed Use",
+      "name": "Kurla East / Tilak Nagar",
+      "description": "Residential colonies and markets on the east side, with easy access to the highway and Chembur.",
+      "image": "https://images.unsplash.com/photo-1582560475093-ba66accbc424?w=600&q=80"
+    }
+  ],
+  "character_vibe": [
+    {
+      "keyword": "High-Energy"
+    },
+    {
+      "keyword": "Cosmopolitan"
+    },
+    {
+      "keyword": "Transit Hub"
+    },
+    {
+      "keyword": "Food Lover's Zone"
+    },
+    {
+      "keyword": "BKC Adjacent"
+    },
+    {
+      "keyword": "Well Connected"
+    },
+    {
+      "keyword": "Value vs Bandra"
+    }
+  ],
+  "character_vibe_description": "Character & Vibe An honest snapshot - the energy, the people, the pace. The kind of thing no other directory tells you. Kurla is raw, real and relentlessly energetic. As a major junction, it wakes before dawn with the commuter and LTT crowd, hits full intensity through the day with markets, traffic and trade, and stays buzzing late into the night around Phoenix and the food streets. It's one of the most genuinely Bombay corners of the city. It's also one of Mumbai's most diverse pockets - Muslim, Maharashtrian, South Indian, North Indian and migrant communities live side by side, giving Kurla a gritty, cosmopolitan character. The Phoenix-BKC belt adds a layer of corporate polish, but the heart of Kurla remains working-class and unpretentious.",
+  "character_vibe_image": "https://images.unsplash.com/photo-1561612217-4f5d0b4c6ea8?w=800&q=80",
+  "resident_profile": [
+    {
+      "segment": "Muslim Community",
+      "description": "Strong, established presence around Nehru Nagar & Halav Pool"
+    },
+    {
+      "segment": "Maharashtrian Families",
+      "description": "Long-settled in Tilak Nagar & Kurla East colonies"
+    },
+    {
+      "segment": "South Indian Community",
+      "description": "Concentrated near the station and market belts"
+    },
+    {
+      "segment": "BKC Professionals",
+      "description": "Young workforce in Phoenix & Premier towers"
+    },
+    {
+      "segment": "Migrant Workers",
+      "description": "Large transient population near the transit hub"
+    },
+    {
+      "segment": "Traders & Businesses",
+      "description": "Retail and wholesale families across the markets"
+    }
+  ],
+  "resident_profile_image": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=800&q=80",
+  "resident_profile_description": "Resident Profile One of Mumbai's most diverse cross-sections - here's who you'll find calling Kurla home. Kurla is a true cross-section of Mumbai. Long-settled Muslim and Maharashtrian families live in the older Nehru Nagar and Halav Pool pockets, South Indian and migrant communities cluster near the station and markets, while young BKC professionals increasingly take up modern flats in the Phoenix and Premier belt. It's working Mumbai at its most diverse.",
+  "property_prices": [
+    {
+      "sub_area": "Phoenix / Kamani - 2BHK",
+      "price": "₹1.4 – 2.0 Cr",
+      "rental": "₹35,000 – ₹50,000/mo",
+      "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=200&q=80"
+    },
+    {
+      "sub_area": "Premier / BKC-facing - 2BHK",
+      "price": "₹2.2 – 3.0 Cr",
+      "rental": "₹40,000 – ₹55,000/mo",
+      "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=200&q=80"
+    },
+    {
+      "sub_area": "Nehru Nagar / Kajupada - 1BHK",
+      "price": "₹70 – 95 L",
+      "rental": "₹16,000 – ₹26,000/mo",
+      "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=200&q=80"
+    },
+    {
+      "sub_area": "Premier / Phoenix - Commercial Office (per sqft)",
+      "price": "₹150 – ₹280/sqft",
+      "rental": "Lease: Negotiable, 3–5 year terms",
+      "image": "https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?w=200&q=80"
+    }
+  ],
+  "schools": [
+    {
+      "name": "Holy Cross High School, Kurla",
+      "location": "Kurla West",
+      "badge": "SSC / ICSE",
+      "image": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=200&q=80"
+    },
+    {
+      "name": "Don Bosco High School, Kurla",
+      "location": "Nehru Nagar, Kurla",
+      "badge": "SSC",
+      "image": "https://images.unsplash.com/photo-1588072432836-e10032774350?w=200&q=80"
+    },
+    {
+      "name": "St. Joseph's High School, Kurla",
+      "location": "Kurla West",
+      "badge": "SSC",
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=200&q=80"
+    },
+    {
+      "name": "Premier High School & Junior College",
+      "location": "Premier, Kurla",
+      "badge": "SSC / HSC",
+      "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=200&q=80"
+    },
+    {
+      "name": "Oxford Public School, Kurla",
+      "location": "Kurla East",
+      "badge": "CBSE",
+      "image": "https://images.unsplash.com/photo-1600195077077-7c815b6fd7b5?w=200&q=80"
+    },
+    {
+      "name": "Anjuman-I-Islam School, Kurla",
+      "location": "Nehru Nagar, Kurla",
+      "badge": "SSC",
+      "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=200&q=80"
+    }
+  ],
+  "hospitals": [
+    {
+      "type": "Government",
+      "name": "Bhabha Hospital, Kurla",
+      "description": "Large MCGM-run general hospital serving the wider Kurla region with affordable care and 24-hour emergency.",
+      "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=400&q=80"
+    },
+    {
+      "type": "Super-speciality",
+      "name": "Kohinoor Hospital, Kurla",
+      "description": "Well-equipped multi-speciality hospital with cardiology, oncology and 24-hour emergency near the Phoenix belt.",
+      "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=400&q=80"
+    },
+    {
+      "type": "Multi-speciality",
+      "name": "Criticare Hospital, Kurla",
+      "description": "Trusted hospital with 24-hour emergency, ICU and a strong maternity unit serving the Kurla belt.",
+      "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=400&q=80"
+    },
+    {
+      "type": "General Hospital",
+      "name": "Sushrusha Hospital, Kurla",
+      "description": "Established hospital with maternity, surgery and general medicine - a trusted local name for decades.",
+      "image": "https://images.unsplash.com/photo-1516841273335-e39b37888115?w=400&q=80"
+    },
+    {
+      "type": "24-Hour Clinic",
+      "name": "Nehru Nagar Medical Centre, Kurla",
+      "description": "Local 24-hour clinic serving Nehru Nagar and the market belt - general physician, minor surgery, diagnostics.",
+      "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=400&q=80"
+    },
+    {
+      "type": "Diagnostics",
+      "name": "Dr. Lal PathLabs / Metropolis, Kurla",
+      "description": "Multiple diagnostic collection centres across Kurla for blood tests, reports and health packages.",
+      "image": "https://images.unsplash.com/photo-1587351021759-3e566b6af7cc?w=400&q=80"
+    }
+  ],
+  "banks": [
+    {
+      "name": "State Bank of India",
+      "image": "https://images.unsplash.com/photo-1556742031-c6961e8560b0?w=300&q=80"
+    },
+    {
+      "name": "HDFC Bank",
+      "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=300&q=80"
+    },
+    {
+      "name": "ICICI Bank",
+      "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=300&q=80"
+    },
+    {
+      "name": "Axis Bank",
+      "image": "https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?w=300&q=80"
+    },
+    {
+      "name": "Bank of Maharashtra",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=300&q=80"
+    },
+    {
+      "name": "Kotak Mahindra Bank",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=300&q=80"
+    },
+    {
+      "name": "Union Bank of India",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=300&q=80"
+    },
+    {
+      "name": "Canara Bank",
+      "image": "https://images.unsplash.com/photo-1567427017947-545c5f8d16ad?w=300&q=80"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Phoenix Marketcity, Kurla",
+      "description": "One of Mumbai's largest malls - flagship retail brands, food court, multiplex and family entertainment.",
+      "image": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=600&q=80"
+    },
+    {
+      "name": "Kurla Station Market",
+      "description": "The area's biggest daily market - vegetables, fruits, fish, meat and provisions right beside the junction.",
+      "image": "https://images.unsplash.com/photo-1488459716781-31db52582fe9?w=600&q=80"
+    },
+    {
+      "name": "Nehru Nagar Market, Kurla",
+      "description": "Bustling lane of food stalls, retail shops and everyday provisions - the heart of the East-side community.",
+      "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=600&q=80"
+    },
+    {
+      "name": "Kurla West Clothing Bazaar",
+      "description": "Affordable clothes, footwear and household goods - a popular shopping stretch for local families.",
+      "image": "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=600&q=80"
+    },
+    {
+      "name": "Kurla Wholesale Hub",
+      "description": "Hardware, electrical parts, packaging and trade supplies - serving businesses across the East suburbs.",
+      "image": "https://images.unsplash.com/photo-1533900298318-6b8da08a523e?w=600&q=80"
+    },
+    {
+      "name": "Kurla Jewellery Shops",
+      "description": "Trusted gold and diamond jewellers serving the local community for weddings and festivals.",
+      "image": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=600&q=80"
+    }
+  ],
+  "travelling_connectivity": [
+    {
+      "name": "CSMT by Train",
+      "icon": "🚆",
+      "distance": "20 min",
+      "tag": ""
+    },
+    {
+      "name": "BKC by Road",
+      "icon": "🏢",
+      "distance": "10 min",
+      "tag": ""
+    },
+    {
+      "name": "Auto Rickshaws",
+      "icon": "🛺",
+      "distance": "Abundant",
+      "tag": ""
+    },
+    {
+      "name": "Long-Distance Trains",
+      "icon": "🚉",
+      "distance": "LTT",
+      "tag": ""
+    }
+  ],
+  "commute_description": "One of Mumbai's most connected suburbs - Central & Harbour lines, LTT terminus, bus depot, BKC link and highways all converge here.",
+  "commute_detail_items": [
+    {
+      "name": "Kurla Junction - Central & Harbour Lines",
+      "description": "One of Mumbai's busiest junctions - fast trains to CSMT (20 min) and Harbour line links to Panvel and Vashi. Multiple platforms and exits.",
+      "icon": "🚗",
+      "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?w=200&q=80"
+    },
+    {
+      "name": "Lokmanya Tilak Terminus (LTT)",
+      "description": "A major long-distance terminus with trains across India - a key gateway for outstation travel from the East suburbs.",
+      "icon": "🚗",
+      "image": "https://images.unsplash.com/photo-1581262208435-41726149a759?w=200&q=80"
+    },
+    {
+      "name": "Kurla Bus Depot & BEST Routes",
+      "description": "A major BEST depot with routes across the city - key links to BKC, Bandra, Chembur, Sion and Andheri.",
+      "icon": "🚗",
+      "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?w=200&q=80"
+    },
+    {
+      "name": "SCLR, BKC & Highway Access",
+      "description": "The Santacruz–Chembur Link Road, BKC connector and Eastern Express Highway make Kurla ideal for road commuters across Mumbai.",
+      "icon": "🚗",
+      "image": "https://images.unsplash.com/photo-1566378246598-5b11a0d486cc?w=200&q=80"
+    }
+  ],
+  "major_employers": [
+    {
+      "sector": "Retail",
+      "name": "Phoenix Marketcity, Kurla",
+      "description": "One of Mumbai's largest malls - hundreds of retail, F&B and entertainment brands employing thousands locally.",
+      "image": "https://images.unsplash.com/photo-1464938050520-ef2270bb8ce8?w=400&q=80"
+    },
+    {
+      "sector": "Corporate (BKC)",
+      "name": "BKC Corporate Belt",
+      "description": "Adjacent BKC - banks, MNCs and corporate HQs - is a massive employer for a large share of Kurla residents.",
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=400&q=80"
+    },
+    {
+      "sector": "Commercial",
+      "name": "Premier Commercial & IT Belt",
+      "description": "The redeveloped Premier zone hosts commercial towers, IT and service offices - a growing employment hub.",
+      "image": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=400&q=80"
+    },
+    {
+      "sector": "Railways & Transit",
+      "name": "Kurla Junction, LTT & Bus Depot",
+      "description": "The railway junction, LTT terminus and bus depot employ thousands in operations, services and logistics.",
+      "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&q=80"
+    },
+    {
+      "sector": "Healthcare",
+      "name": "Kohinoor, Bhabha & Health Belt",
+      "description": "Kohinoor, Bhabha, Criticare and Sushrusha hospitals plus diagnostic chains form a significant local employment base.",
+      "image": "https://images.unsplash.com/photo-1541746972996-4e0b0f43e02a?w=400&q=80"
+    },
+    {
+      "sector": "Food & Trade",
+      "name": "Markets, Food Streets & Tiffin Trade",
+      "description": "The dense markets, food streets, restaurants and tiffin services employ a vast number of local workers.",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400&q=80"
+    }
+  ],
+  "residential_societies": [
+    {
+      "name": "Kohinoor City, Kurla West",
+      "description": "Kamani - premium gated township near Phoenix, amenities",
+      "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=200&q=80"
+    },
+    {
+      "name": "Lodha Premier Towers, Kurla West",
+      "description": "Premier - modern high-rises, BKC-facing, full amenities",
+      "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=200&q=80"
+    },
+    {
+      "name": "Nehru Nagar Societies, Kurla",
+      "description": "Nehru Nagar - mid-income, well-settled, near markets",
+      "image": "https://images.unsplash.com/photo-1560185127-6a8c3f6b8f3c?w=200&q=80"
+    },
+    {
+      "name": "Tilak Nagar Colonies, Kurla East",
+      "description": "Tilak Nagar - established colonies, families, near schools",
+      "image": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?w=200&q=80"
+    },
+    {
+      "name": "Halav Pool Residences, Kurla",
+      "description": "Halav Pool - dense, old societies, strong local community",
+      "image": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=200&q=80"
+    },
+    {
+      "name": "Kajupada Housing, Kurla",
+      "description": "Kajupada - affordable, community-strong, well-connected",
+      "image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=200&q=80"
+    },
+    {
+      "name": "Kamani Residences, Kurla West",
+      "description": "Kamani - mixed-use towers near Phoenix & station",
+      "image": "https://images.unsplash.com/photo-1600607687644-c7f34b5e9d56?w=200&q=80"
+    },
+    {
+      "name": "Kurla East CHS, Kurla East",
+      "description": "Kurla East - affordable rentals, near highway & Chembur",
+      "image": "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=200&q=80"
+    }
+  ],
+  "local_events": [
+    {
+      "name": "Ganesh Chaturthi in Kurla",
+      "description": "Kurla's mandals host large Ganesh festivals with music, lighting and grand visarjan processions across the area.",
+      "date": "Aug – Sep",
+      "image": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?w=400&q=80"
+    },
+    {
+      "name": "Eid Celebrations in Kurla",
+      "description": "Nehru Nagar and Halav Pool come alive for Eid - festive markets, special food streets and vibrant community gatherings.",
+      "date": "Varies",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?w=400&q=80"
+    },
+    {
+      "name": "Navratri Garba in Kurla",
+      "description": "Society and locality grounds host lively Navratri garba and dandiya nights through the festive season.",
+      "date": "Oct",
+      "image": "https://images.unsplash.com/photo-1547573854-74d2a71d0826?w=400&q=80"
+    },
+    {
+      "name": "Local Cricket Leagues in Kurla",
+      "description": "Multiple society and locality cricket leagues run through winter - a major part of Kurla's community sporting culture.",
+      "date": "Nov – Mar",
+      "image": "https://images.unsplash.com/photo-1531058020387-3be344556be6?w=400&q=80"
+    },
+    {
+      "name": "Diwali Shopping & Lights, Kurla",
+      "description": "Phoenix and the markets light up for Diwali - festive shopping, sweets and decorations draw huge crowds.",
+      "date": "Oct – Nov",
+      "image": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=400&q=80"
+    },
+    {
+      "name": "Nehru Nagar Food Crawls, Kurla",
+      "description": "Informal weekend foodie gatherings around the Nehru Nagar food street - kebabs, grills and family crowds all year.",
+      "date": "Year Round",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=400&q=80"
+    }
+  ],
+  "upcoming_projects": [
+    {
+      "name": "Metro Lines through the Kurla Belt",
+      "description": "New metro corridors connecting the Kurla–BKC–Chembur belt will dramatically ease the area's heavy congestion.",
+      "status": "Ongoing",
+      "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=400&q=80"
+    },
+    {
+      "name": "Premier Automobiles Land Redevelopment",
+      "description": "The vast former Premier site is being transformed into modern residential towers, commercial space and amenities.",
+      "status": "Ongoing",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&q=80"
+    },
+    {
+      "name": "Kurla–BKC Connector Upgrades",
+      "description": "Road and connector improvements to ease the Kurla–BKC commute and reduce junction bottlenecks.",
+      "status": "Upcoming",
+      "image": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=400&q=80"
+    },
+    {
+      "name": "Kurla Station & LTT Modernisation",
+      "description": "Planned upgrades to Kurla Junction and the LTT terminus - new platforms, skywalks and passenger amenities.",
+      "status": "Upcoming",
+      "image": "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=400&q=80"
+    },
+    {
+      "name": "New Commercial Towers - Kurla West",
+      "description": "Private developers have proposed Grade A commercial towers near the Phoenix belt - targeting BKC-overflow tenants.",
+      "status": "Planned",
+      "image": "https://images.unsplash.com/photo-1568992687947-868a62a9f521?w=400&q=80"
+    },
+    {
+      "name": "Kurla Slum Redevelopment (SRA)",
+      "description": "SRA-approved redevelopment of older Kurla pockets - will release new residential supply and upgrade livability.",
+      "status": "Planned",
+      "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?w=400&q=80"
+    }
+  ],
+  "civic_data": {
+    "pin_codes": {
+      "label": "Pin Codes",
+      "value": "400070, 400024, 400072",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=300&q=80"
+    },
+    "municipal_body": {
+      "label": "Municipal Body",
+      "value": "MCGM (BMC) - L Ward",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=300&q=80"
+    },
+    "assembly_constituency": {
+      "label": "Assembly Constituency",
+      "value": "Kurla (172)",
+      "image": "https://images.unsplash.com/photo-1503551723145-6c040742065b?w=300&q=80"
+    },
+    "police_station": {
+      "label": "Police Station",
+      "value": "Kurla, Nehru Nagar, Vinoba Bhave Nagar",
+      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=300&q=80"
+    },
+    "post_offices": {
+      "label": "Post Offices",
+      "value": "Kurla, Nehru Nagar",
+      "image": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=300&q=80"
+    },
+    "fire_station": {
+      "label": "Fire Station",
+      "value": "Kurla Fire Station",
+      "image": "https://images.unsplash.com/photo-1534536281715-e28d76689b4d?w=300&q=80"
+    },
+    "est_popul": {
+      "label": "Est. Popul.",
+      "value": "9 Lakh+ (2026 est.)",
+      "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=300&q=80"
+    },
+    "bmc_ward_office": {
+      "label": "BMC Ward Office",
+      "value": "L Ward - Kurla",
+      "image": "https://images.unsplash.com/photo-1487958449943-2429e8be8625?w=300&q=80"
+    }
+  },
+  "area_report_card": {
+    "connectivity_in_kurla": 5,
+    "daily_essentials_in_kurla": 5,
+    "affordability_kurla": 4,
+    "schools_education": 4,
+    "food_dining_in_kurla": 5,
+    "safety_in_kurla": 3
+  },
+  "living_style": [
+    {
+      "name": "Housing & Property in Kurla",
+      "description": "₹70L-₹3Cr depending on sub-area - Nehru Nagar affordable, Premier/Phoenix premium. Strong rental market for BKC workers.",
+      "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=80&q=80",
+      "icon": "🏠"
+    },
+    {
+      "name": "Schools & Education in Kurla",
+      "description": "Holy Cross, Don Bosco, St. Joseph's, Premier - a good spread of boards and levels.",
+      "image": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=80&q=80",
+      "icon": "🏠"
+    },
+    {
+      "name": "Healthcare in Kurla",
+      "description": "Kohinoor, Bhabha, Criticare and Sushrusha hospitals - plus multiple diagnostic centres and 24-hour pharmacies throughout.",
+      "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=80&q=80",
+      "icon": "🏠"
+    },
+    {
+      "name": "Community Character of Kurla",
+      "description": "Muslim, Maharashtrian, South Indian and BKC professionals - a genuinely diverse, cosmopolitan mix.",
+      "image": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=80&q=80",
+      "icon": "🏠"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is Kurla known for?",
+      "answer": "Kurla is known for Phoenix Marketcity (one of Mumbai's largest malls), the Kurla railway junction connecting Central and Harbour lines, the LTT (Lokmanya Tilak Terminus) for long-distance trains, its proximity to BKC, and being one of Mumbai's most diverse and densely populated localities."
+    },
+    {
+      "question": "What is the pin code of Kurla?",
+      "answer": "Kurla has multiple pin codes: 400070 (Kurla West / main Kurla), 400024 (Kurla / Nehru Nagar), and 400072 (Saki Naka / Kurla East border)."
+    },
+    {
+      "question": "What are the sub-areas within Kurla?",
+      "answer": "The main micro-localities within Kurla are Nehru Nagar, Kajupada, Halav Pool, Premier (Kurla West), Kurla East, Kamani, Tilak Nagar, and the Kalina belt."
+    },
+    {
+      "question": "What is the property price in Kurla?",
+      "answer": "Property prices in Kurla range from ₹70 lakh for a 1BHK in Nehru Nagar/Kajupada to ₹1.4–2.0 Cr for a 2BHK near Phoenix Marketcity/Kamani, and ₹2.2–3.0 Cr for premium BKC-facing flats. Rental rates range from ₹16,000 to ₹55,000 per month depending on the sub-area and flat size (as of May 2026)."
+    },
+    {
+      "question": "How to commute from Kurla?",
+      "answer": "Kurla is served by Central and Harbour Railway lines at Kurla Junction (20 min to CSMT), Lokmanya Tilak Terminus (LTT) for long-distance trains, BEST bus routes from the Kurla depot, the upcoming Metro lines, and direct access to BKC, the Santacruz–Chembur Link Road (SCLR) and the Eastern Express Highway."
+    },
+    {
+      "question": "Which hospitals are in Kurla?",
+      "answer": "Major hospitals in and near Kurla include Bhabha Hospital (Kurla), Kohinoor Hospital, Holy Family Hospital (Bandra border), Criticare Hospital, and Sushrusha Hospital."
+    },
+    {
+      "question": "Which schools are in Kurla?",
+      "answer": "Notable schools in Kurla include Holy Cross High School (SSC/ICSE), Don Bosco High School (Kurla), St. Joseph's High School, Premier High School, and Oxford Public School."
+    },
+    {
+      "question": "How do I find the best dentists in Kurla?",
+      "answer": "Browse Mumbai96's Kurla listings, read reviews from locals and call directly. Our verified directory makes it easy."
+    }
+  ],
+  "category_sections": [
+    {
+      "key": "section_1",
+      "heading": "Food, Real Estate & Health",
+      "categories": [
+        {
+          "slug": "street-food",
+          "name": "Street Food",
+          "emoji": "🌮"
+        },
+        {
+          "slug": "biryani-restaurants",
+          "name": "Biryani Restaurants",
+          "emoji": "🍚"
+        },
+        {
+          "slug": "chinese-restaurants",
+          "name": "Chinese Restaurants",
+          "emoji": "🥢"
+        },
+        {
+          "slug": "south-indian-restaurants",
+          "name": "South Indian Restaurants",
+          "emoji": "🥘"
+        },
+        {
+          "slug": "cafes-coffee-shops",
+          "name": "Cafes & Coffee Shops",
+          "emoji": "☕"
+        },
+        {
+          "slug": "bakeries",
+          "name": "Bakeries",
+          "emoji": "🥐"
+        },
+        {
+          "slug": "sweet-shops",
+          "name": "Sweet Shops",
+          "emoji": "🍬"
+        },
+        {
+          "slug": "ice-cream-shops",
+          "name": "Ice Cream Shops",
+          "emoji": "🍦"
+        },
+        {
+          "slug": "juice-shops",
+          "name": "Juice Shops",
+          "emoji": "🥤"
+        },
+        {
+          "slug": "seafood-restaurants",
+          "name": "Seafood Restaurants",
+          "emoji": "🦞"
+        },
+        {
+          "slug": "vegetarian-restaurants",
+          "name": "Vegetarian Restaurants",
+          "emoji": "🥗"
+        },
+        {
+          "slug": "fast-food-restaurants",
+          "name": "Fast Food Restaurants",
+          "emoji": "🍔"
+        },
+        {
+          "slug": "real-estate-agents",
+          "name": "Real Estate Agents",
+          "emoji": "🏠"
+        },
+        {
+          "slug": "flats-for-rent",
+          "name": "Flats for Rent",
+          "emoji": "🏢"
+        },
+        {
+          "slug": "flats-for-sale",
+          "name": "Flats for Sale",
+          "emoji": "🔑"
+        },
+        {
+          "slug": "paying-guest-accommodation",
+          "name": "Paying Guest Accommodation",
+          "emoji": "🛏️"
+        },
+        {
+          "slug": "office-space-for-rent",
+          "name": "Office Space for Rent",
+          "emoji": "🏬"
+        },
+        {
+          "slug": "property-management",
+          "name": "Property Management",
+          "emoji": "📋"
+        },
+        {
+          "slug": "pharmacies",
+          "name": "Pharmacies",
+          "emoji": "💊"
+        },
+        {
+          "slug": "eye-doctors",
+          "name": "Eye Doctors",
+          "emoji": "👁️"
+        },
+        {
+          "slug": "physiotherapists",
+          "name": "Physiotherapists",
+          "emoji": "🩹"
+        },
+        {
+          "slug": "ayurvedic-doctors",
+          "name": "Ayurvedic Doctors",
+          "emoji": "🌿"
+        },
+        {
+          "slug": "homeopathy-doctors",
+          "name": "Homeopathy Doctors",
+          "emoji": "🫙"
+        },
+        {
+          "slug": "blood-banks",
+          "name": "Blood Banks",
+          "emoji": "🩸"
+        },
+        {
+          "slug": "diagnostic-centres",
+          "name": "Diagnostic Centres",
+          "emoji": "🔬"
+        }
+      ]
+    },
+    {
+      "key": "section_2",
+      "heading": "Clinics, Shopping & Home Services",
+      "categories": [
+        {
+          "slug": "dental-clinics",
+          "name": "Dental Clinics",
+          "emoji": "🪥"
+        },
+        {
+          "slug": "deaddiction-centres",
+          "name": "Deaddiction Centres",
+          "emoji": "🫁"
+        },
+        {
+          "slug": "clothing-stores",
+          "name": "Clothing Stores",
+          "emoji": "👗"
+        },
+        {
+          "slug": "jewellery-shops",
+          "name": "Jewellery Shops",
+          "emoji": "💍"
+        },
+        {
+          "slug": "mobile-phone-shops",
+          "name": "Mobile Phone Shops",
+          "emoji": "📱"
+        },
+        {
+          "slug": "electronics-stores",
+          "name": "Electronics Stores",
+          "emoji": "💻"
+        },
+        {
+          "slug": "optical-shops",
+          "name": "Optical Shops",
+          "emoji": "👓"
+        },
+        {
+          "slug": "grocery-stores",
+          "name": "Grocery Stores",
+          "emoji": "🛒"
+        },
+        {
+          "slug": "shoe-stores",
+          "name": "Shoe Stores",
+          "emoji": "👟"
+        },
+        {
+          "slug": "sports-goods-stores",
+          "name": "Sports Goods Stores",
+          "emoji": "⚽"
+        },
+        {
+          "slug": "book-stores",
+          "name": "Book Stores",
+          "emoji": "📚"
+        },
+        {
+          "slug": "stationery-stores",
+          "name": "Stationery Stores",
+          "emoji": "✏️"
+        },
+        {
+          "slug": "baby-products-stores",
+          "name": "Baby Products Stores",
+          "emoji": "🍼"
+        },
+        {
+          "slug": "hardware-stores",
+          "name": "Hardware Stores",
+          "emoji": "🪛"
+        },
+        {
+          "slug": "pest-control",
+          "name": "Pest Control",
+          "emoji": "🐛"
+        },
+        {
+          "slug": "home-cleaning-services",
+          "name": "Home Cleaning Services",
+          "emoji": "🧹"
+        },
+        {
+          "slug": "painting-services",
+          "name": "Painting Services",
+          "emoji": "🖌️"
+        },
+        {
+          "slug": "laundry-dry-cleaners",
+          "name": "Laundry & Dry Cleaners",
+          "emoji": "👕"
+        },
+        {
+          "slug": "water-purifier-services",
+          "name": "Water Purifier Services",
+          "emoji": "💧"
+        },
+        {
+          "slug": "cctv-installation",
+          "name": "CCTV Installation",
+          "emoji": "📷"
+        },
+        {
+          "slug": "false-ceiling-contractors",
+          "name": "False Ceiling Contractors",
+          "emoji": "🏗️"
+        },
+        {
+          "slug": "sofa-repair-services",
+          "name": "Sofa Repair Services",
+          "emoji": "🪜"
+        },
+        {
+          "slug": "car-dealers",
+          "name": "Car Dealers",
+          "emoji": "🚕"
+        },
+        {
+          "slug": "bike-dealers",
+          "name": "Bike Dealers",
+          "emoji": "🛵"
+        },
+        {
+          "slug": "car-wash-services",
+          "name": "Car Wash Services",
+          "emoji": "🚿"
+        }
+      ]
+    },
+    {
+      "key": "section_3",
+      "heading": "Automobiles, Entertainment & Education",
+      "categories": [
+        {
+          "slug": "second-hand-cars",
+          "name": "Second Hand Cars",
+          "emoji": "🚐"
+        },
+        {
+          "slug": "auto-parts-stores",
+          "name": "Auto Parts Stores",
+          "emoji": "⚙️"
+        },
+        {
+          "slug": "petrol-pumps",
+          "name": "Petrol Pumps",
+          "emoji": "⛽"
+        },
+        {
+          "slug": "ev-charging-stations",
+          "name": "EV Charging Stations",
+          "emoji": "🔋"
+        },
+        {
+          "slug": "photographers",
+          "name": "Photographers",
+          "emoji": "📸"
+        },
+        {
+          "slug": "videographers",
+          "name": "Videographers",
+          "emoji": "🎥"
+        },
+        {
+          "slug": "photo-studios",
+          "name": "Photo Studios",
+          "emoji": "🎞️"
+        },
+        {
+          "slug": "printing-shops",
+          "name": "Printing Shops",
+          "emoji": "🖨️"
+        },
+        {
+          "slug": "movie-theatres",
+          "name": "Movie Theatres",
+          "emoji": "🎬"
+        },
+        {
+          "slug": "bowling-alleys",
+          "name": "Bowling Alleys",
+          "emoji": "🎳"
+        },
+        {
+          "slug": "gaming-zones",
+          "name": "Gaming Zones",
+          "emoji": "🎮"
+        },
+        {
+          "slug": "escape-rooms",
+          "name": "Escape Rooms",
+          "emoji": "🗝️"
+        },
+        {
+          "slug": "stand-up-comedy-shows",
+          "name": "Stand-Up Comedy Shows",
+          "emoji": "🎤"
+        },
+        {
+          "slug": "creches-daycare",
+          "name": "Creches & Daycare",
+          "emoji": "🪆"
+        },
+        {
+          "slug": "playschools",
+          "name": "Playschools",
+          "emoji": "🧸"
+        },
+        {
+          "slug": "schools",
+          "name": "Schools",
+          "emoji": "🏫"
+        },
+        {
+          "slug": "colleges",
+          "name": "Colleges",
+          "emoji": "🎓"
+        },
+        {
+          "slug": "spoken-english-classes",
+          "name": "Spoken English Classes",
+          "emoji": "🗣️"
+        },
+        {
+          "slug": "computer-classes",
+          "name": "Computer Classes",
+          "emoji": "⌨️"
+        },
+        {
+          "slug": "swimming-classes",
+          "name": "Swimming Classes",
+          "emoji": "🏊"
+        },
+        {
+          "slug": "courier-services",
+          "name": "Courier Services",
+          "emoji": "🚚"
+        },
+        {
+          "slug": "co-working-spaces",
+          "name": "Co-Working Spaces",
+          "emoji": "💼"
+        },
+        {
+          "slug": "event-photographers",
+          "name": "Event Photographers",
+          "emoji": "🤳"
+        },
+        {
+          "slug": "digital-marketing-agencies",
+          "name": "Digital Marketing Agencies",
+          "emoji": "📣"
+        },
+        {
+          "slug": "web-designers",
+          "name": "Web Designers",
+          "emoji": "🌐"
+        }
+      ]
+    },
+    {
+      "key": "section_4",
+      "heading": "Culture, Spirituality & Medical Specialists",
+      "categories": [
+        {
+          "slug": "astrologers",
+          "name": "Astrologers",
+          "emoji": "🔮"
+        },
+        {
+          "slug": "vastu-consultants",
+          "name": "Vastu Consultants",
+          "emoji": "🧭"
+        },
+        {
+          "slug": "temples",
+          "name": "Temples",
+          "emoji": "🛕"
+        },
+        {
+          "slug": "mosques",
+          "name": "Mosques",
+          "emoji": "🕌"
+        },
+        {
+          "slug": "churches",
+          "name": "Churches",
+          "emoji": "⛪"
+        },
+        {
+          "slug": "gurudwaras",
+          "name": "Gurudwaras",
+          "emoji": "🪯"
+        },
+        {
+          "slug": "heritage-walks",
+          "name": "Heritage Walks",
+          "emoji": "🏛️"
+        },
+        {
+          "slug": "detective-agencies-spy-agents",
+          "name": "Detective Agencies",
+          "emoji": "🕵️"
+        },
+        {
+          "slug": "food-walks",
+          "name": "Food Walks",
+          "emoji": "🗺️"
+        },
+        {
+          "slug": "dabbawalas",
+          "name": "Dabbawalas",
+          "emoji": "🍱"
+        },
+        {
+          "slug": "community-halls",
+          "name": "Community Halls",
+          "emoji": "🎪"
+        },
+        {
+          "slug": "dentists",
+          "name": "Dentists",
+          "emoji": "🦷"
+        },
+        {
+          "slug": "skin-doctors",
+          "name": "Skin Doctors",
+          "emoji": "🧴"
+        },
+        {
+          "slug": "ent-doctors",
+          "name": "ENT Doctors",
+          "emoji": "👂"
+        },
+        {
+          "slug": "spine-doctors",
+          "name": "Spine Doctors",
+          "emoji": "🦴"
+        },
+        {
+          "slug": "ortho-doctors",
+          "name": "Ortho Doctors",
+          "emoji": "🩼"
+        },
+        {
+          "slug": "heart-doctors",
+          "name": "Heart Doctors",
+          "emoji": "❤️"
+        },
+        {
+          "slug": "gynecologist-obstetricians",
+          "name": "Gynecologists",
+          "emoji": "👩‍⚕️"
+        },
+        {
+          "slug": "pediatrician-child-doctors",
+          "name": "Pediatricians",
+          "emoji": "🧒"
+        },
+        {
+          "slug": "maternity-hospitals",
+          "name": "Maternity Hospitals",
+          "emoji": "🤰"
+        },
+        {
+          "slug": "ivf-centers",
+          "name": "IVF Centers",
+          "emoji": "🧬"
+        },
+        {
+          "slug": "hospitals",
+          "name": "Hospitals",
+          "emoji": "🏥"
+        },
+        {
+          "slug": "medical-pathology-labs",
+          "name": "Pathology Labs",
+          "emoji": "🫧"
+        },
+        {
+          "slug": "psychologists",
+          "name": "Psychologists",
+          "emoji": "🧠"
+        },
+        {
+          "slug": "psychiatrists",
+          "name": "Psychiatrists",
+          "emoji": "💬"
+        }
+      ]
+    },
+    {
+      "key": "section_5",
+      "heading": "Wellness, Beauty & Events",
+      "categories": [
+        {
+          "slug": "xray-sonography-centres",
+          "name": "X-Ray & Sonography",
+          "emoji": "🩻"
+        },
+        {
+          "slug": "spas",
+          "name": "Spas",
+          "emoji": "💆"
+        },
+        {
+          "slug": "salons",
+          "name": "Salons",
+          "emoji": "✂️"
+        },
+        {
+          "slug": "beauty-parlours",
+          "name": "Beauty Parlours",
+          "emoji": "💄"
+        },
+        {
+          "slug": "makeover-artists",
+          "name": "Makeover Artists",
+          "emoji": "🪞"
+        },
+        {
+          "slug": "tattoo-artists",
+          "name": "Tattoo Artists",
+          "emoji": "🪡"
+        },
+        {
+          "slug": "gyms",
+          "name": "Gyms",
+          "emoji": "💪"
+        },
+        {
+          "slug": "personal-trainers",
+          "name": "Personal Trainers",
+          "emoji": "🏋️"
+        },
+        {
+          "slug": "dietitians-nutritionists",
+          "name": "Dietitians & Nutritionists",
+          "emoji": "🥦"
+        },
+        {
+          "slug": "bridal-makeup-artists",
+          "name": "Bridal Makeup Artists",
+          "emoji": "👰"
+        },
+        {
+          "slug": "groom-makeup-artists",
+          "name": "Groom Makeup Artists",
+          "emoji": "🤵"
+        },
+        {
+          "slug": "dance-classes",
+          "name": "Dance Classes",
+          "emoji": "💃"
+        },
+        {
+          "slug": "zumba-classes",
+          "name": "Zumba Classes",
+          "emoji": "🕺"
+        },
+        {
+          "slug": "yoga-classes",
+          "name": "Yoga Classes",
+          "emoji": "🧘"
+        },
+        {
+          "slug": "music-classes",
+          "name": "Music Classes",
+          "emoji": "🎵"
+        },
+        {
+          "slug": "drawing-classes",
+          "name": "Drawing Classes",
+          "emoji": "🖍️"
+        },
+        {
+          "slug": "wedding-planners",
+          "name": "Wedding Planners",
+          "emoji": "💒"
+        },
+        {
+          "slug": "destination-wedding-planners",
+          "name": "Destination Wedding Planners",
+          "emoji": "✈️"
+        },
+        {
+          "slug": "birthday-event-planners",
+          "name": "Birthday Event Planners",
+          "emoji": "🎈"
+        },
+        {
+          "slug": "anniversary-event-planners",
+          "name": "Anniversary Planners",
+          "emoji": "🎊"
+        },
+        {
+          "slug": "baby-shower-planners",
+          "name": "Baby Shower Planners",
+          "emoji": "🎀"
+        },
+        {
+          "slug": "caterers",
+          "name": "Caterers",
+          "emoji": "🍽️"
+        },
+        {
+          "slug": "banquet-halls",
+          "name": "Banquet Halls",
+          "emoji": "🏩"
+        },
+        {
+          "slug": "cars-on-rent",
+          "name": "Cars on Rent",
+          "emoji": "🚘"
+        },
+        {
+          "slug": "costumes-on-rent",
+          "name": "Costumes on Rent",
+          "emoji": "🎭"
+        }
+      ]
+    },
+    {
+      "key": "section_6",
+      "heading": "Care, Community & Safety",
+      "categories": [
+        {
+          "slug": "neet-tutorials",
+          "name": "NEET Tutorials",
+          "emoji": "🩺"
+        },
+        {
+          "slug": "pet-food-shops",
+          "name": "Pet Food Shops",
+          "emoji": "🐟"
+        },
+        {
+          "slug": "pet-doctors",
+          "name": "Pet Doctors",
+          "emoji": "🐶"
+        },
+        {
+          "slug": "elders-care",
+          "name": "Elders Care",
+          "emoji": "👴"
+        },
+        {
+          "slug": "women-care-centres",
+          "name": "Women Care Centres",
+          "emoji": "🩷"
+        },
+        {
+          "slug": "relationship-counsellor",
+          "name": "Relationship Counsellor",
+          "emoji": "💑"
+        },
+        {
+          "slug": "ngos",
+          "name": "NGOs",
+          "emoji": "🤝"
+        },
+        {
+          "slug": "ambulance-services",
+          "name": "Ambulance Services",
+          "emoji": "🚑"
+        },
+        {
+          "slug": "animal-shelters",
+          "name": "Animal Shelters",
+          "emoji": "🐕"
+        },
+        {
+          "slug": "security-services",
+          "name": "Security Services",
+          "emoji": "🔐"
+        }
+      ]
+    },
+    {
+      "key": "section_7",
+      "heading": "Repairs, Tutoring & Hospitality",
+      "categories": [
+        {
+          "slug": "artifact-shops",
+          "name": "Artifact Shops",
+          "emoji": "🏺"
+        },
+        {
+          "slug": "carpenters",
+          "name": "Carpenters",
+          "emoji": "🪚"
+        },
+        {
+          "slug": "plumbers",
+          "name": "Plumbers",
+          "emoji": "🪠"
+        },
+        {
+          "slug": "electricians",
+          "name": "Electricians",
+          "emoji": "⚡"
+        },
+        {
+          "slug": "gift-shops",
+          "name": "Gift Shops",
+          "emoji": "🎁"
+        },
+        {
+          "slug": "cake-shops",
+          "name": "Cake Shops",
+          "emoji": "🎂"
+        },
+        {
+          "slug": "girls-hostel-pg",
+          "name": "Girls Hostel & PG",
+          "emoji": "👩"
+        },
+        {
+          "slug": "boys-hostel-pg",
+          "name": "Boys Hostel & PG",
+          "emoji": "👨"
+        },
+        {
+          "slug": "tiffin-services",
+          "name": "Tiffin Services",
+          "emoji": "🥡"
+        },
+        {
+          "slug": "driving-schools",
+          "name": "Driving Schools",
+          "emoji": "🚦"
+        },
+        {
+          "slug": "packers-and-movers",
+          "name": "Packers & Movers",
+          "emoji": "🏚️"
+        },
+        {
+          "slug": "ac-service-and-repair-experts",
+          "name": "AC Service & Repair",
+          "emoji": "❄️"
+        },
+        {
+          "slug": "mobile-phone-repair-experts",
+          "name": "Mobile Phone Repair",
+          "emoji": "🔩"
+        },
+        {
+          "slug": "laptop-repair-service-experts",
+          "name": "Laptop Repair",
+          "emoji": "💾"
+        },
+        {
+          "slug": "car-repair-shops",
+          "name": "Car Repair Shops",
+          "emoji": "🔨"
+        },
+        {
+          "slug": "bike-repair-shops",
+          "name": "Bike Repair Shops",
+          "emoji": "🛠️"
+        },
+        {
+          "slug": "science-classes",
+          "name": "Science Classes",
+          "emoji": "🔭"
+        },
+        {
+          "slug": "maths-tutorials",
+          "name": "Maths Tutorials",
+          "emoji": "➗"
+        },
+        {
+          "slug": "physics-tutorials",
+          "name": "Physics Tutorials",
+          "emoji": "⚛️"
+        },
+        {
+          "slug": "chemistry-tutorials",
+          "name": "Chemistry Tutorials",
+          "emoji": "🧪"
+        },
+        {
+          "slug": "ielts-classes",
+          "name": "IELTS Classes",
+          "emoji": "📝"
+        },
+        {
+          "slug": "jee-classes",
+          "name": "JEE Classes",
+          "emoji": "🔢"
+        },
+        {
+          "slug": "mht-cet-classes",
+          "name": "MHT-CET Classes",
+          "emoji": "📏"
+        },
+        {
+          "slug": "gmat-classes",
+          "name": "GMAT Classes",
+          "emoji": "🎯"
+        },
+        {
+          "slug": "gre-classes",
+          "name": "GRE Classes",
+          "emoji": "🏆"
+        }
+      ]
+    },
+    {
+      "key": "section_8",
+      "heading": "Finance, Insurance & Home Decor",
+      "categories": [
+        {
+          "slug": "furniture-on-rent",
+          "name": "Furniture on Rent",
+          "emoji": "🪑"
+        },
+        {
+          "slug": "stock-brokers",
+          "name": "Stock Brokers",
+          "emoji": "📈"
+        },
+        {
+          "slug": "financial-advisors",
+          "name": "Financial Advisors",
+          "emoji": "💰"
+        },
+        {
+          "slug": "chartered-accountants-ca",
+          "name": "Chartered Accountants",
+          "emoji": "🧾"
+        },
+        {
+          "slug": "income-tax-consultants",
+          "name": "Income Tax Consultants",
+          "emoji": "📊"
+        },
+        {
+          "slug": "lawyers-and-advocates",
+          "name": "Lawyers & Advocates",
+          "emoji": "⚖️"
+        },
+        {
+          "slug": "personal-loan-providers",
+          "name": "Personal Loan Providers",
+          "emoji": "💳"
+        },
+        {
+          "slug": "gold-loan-providers",
+          "name": "Gold Loan Providers",
+          "emoji": "🥇"
+        },
+        {
+          "slug": "home-loan-providers",
+          "name": "Home Loan Providers",
+          "emoji": "🏡"
+        },
+        {
+          "slug": "auto-loan-providers",
+          "name": "Auto Loan Providers",
+          "emoji": "🚌"
+        },
+        {
+          "slug": "business-loan-providers",
+          "name": "Business Loan Providers",
+          "emoji": "🏦"
+        },
+        {
+          "slug": "loan-against-property",
+          "name": "Loan Against Property",
+          "emoji": "📜"
+        },
+        {
+          "slug": "health-insurance-providers",
+          "name": "Health Insurance",
+          "emoji": "🛡️"
+        },
+        {
+          "slug": "term-life-insurance-providers",
+          "name": "Life Insurance",
+          "emoji": "🌱"
+        },
+        {
+          "slug": "car-insurance-providers",
+          "name": "Car Insurance",
+          "emoji": "💥"
+        },
+        {
+          "slug": "bike-insurance-providers",
+          "name": "Bike Insurance",
+          "emoji": "🚲"
+        },
+        {
+          "slug": "travel-agents",
+          "name": "Travel Agents",
+          "emoji": "🧳"
+        },
+        {
+          "slug": "visa-consultants",
+          "name": "Visa Consultants",
+          "emoji": "🛂"
+        },
+        {
+          "slug": "passport-agents",
+          "name": "Passport Agents",
+          "emoji": "🛃"
+        },
+        {
+          "slug": "honeymoon-travel-agents",
+          "name": "Honeymoon Travel Agents",
+          "emoji": "🌅"
+        },
+        {
+          "slug": "medical-tourism",
+          "name": "Medical Tourism",
+          "emoji": "🏨"
+        },
+        {
+          "slug": "architects",
+          "name": "Architects",
+          "emoji": "📐"
+        },
+        {
+          "slug": "interior-designers",
+          "name": "Interior Designers",
+          "emoji": "🪟"
+        },
+        {
+          "slug": "furniture-and-decor-stores",
+          "name": "Furniture & Decor Stores",
+          "emoji": "🪵"
+        },
+        {
+          "slug": "light-decor-shops",
+          "name": "Light & Decor Shops",
+          "emoji": "💡"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "slug": "dentists",
+      "name": "Dentists",
+      "emoji": "🦷",
+      "image": "https://mumbai96.com/kurla/images/01-dentists-in-kurla.jpg",
+      "description": "Local Services · Kurla"
+    },
+    {
+      "slug": "skin-doctors",
+      "name": "Skin Doctors",
+      "emoji": "🧴",
+      "image": "https://mumbai96.com/kurla/images/02-skin-doctors-in-kurla.jpg",
+      "description": "Local Services · Kurla"
+    },
+    {
+      "slug": "gynecologists",
+      "name": "Gynecologists in Kurla",
+      "emoji": "👩‍⚕️",
+      "image": "https://mumbai96.com/kurla/images/03-gynecologists-in-kurla.jpg",
+      "description": "Local Services · Kurla"
+    },
+    {
+      "slug": "salons",
+      "name": "Salons",
+      "emoji": "✂️",
+      "image": "https://mumbai96.com/kurla/images/04-salons-in-kurla.jpg",
+      "description": "Local Services · Kurla"
+    },
+    {
+      "slug": "plumbers",
+      "name": "Plumbers",
+      "emoji": "🪠",
+      "image": "https://mumbai96.com/kurla/images/05-plumbers-in-kurla.jpg",
+      "description": "Local Services · Kurla"
+    },
+    {
+      "slug": "electricians",
+      "name": "Electricians",
+      "emoji": "⚡",
+      "image": "https://mumbai96.com/kurla/images/06-electricians-in-kurla.jpg",
+      "description": "Local Services · Kurla"
+    },
+    {
+      "slug": "gyms",
+      "name": "Gyms",
+      "emoji": "💪",
+      "image": "https://mumbai96.com/kurla/images/07-gyms-in-kurla.jpg",
+      "description": "Local Services · Kurla"
+    },
+    {
+      "slug": "restaurants",
+      "name": "Restaurants in Kurla",
+      "emoji": "🍽️",
+      "image": "https://mumbai96.com/kurla/images/08-restaurants-in-kurla.jpg",
+      "description": "Local Services · Kurla"
+    },
+    {
+      "slug": "tiffin-services",
+      "name": "Tiffin Services",
+      "emoji": "🥡",
+      "image": "https://mumbai96.com/kurla/images/09-tiffin-services-in-kurla.jpg",
+      "description": "Local Services · Kurla"
+    },
+    {
+      "slug": "real-estate",
+      "name": "Real Estate in Kurla",
+      "emoji": "🏠",
+      "image": "https://mumbai96.com/kurla/images/10-real-estate-in-kurla.jpg",
+      "description": "Local Services · Kurla"
+    }
+  ],
+  "best_services": [
+    {
+      "name": "Best Services in Kurla, Mumbai - Mumbai96 Guide",
+      "description": "Finding trusted local services in Kurla just got easier. Mumbai96 is Kurla's dedicated local directory - a Mumbaikar-built platform that connects residents with verified dentists, skin doctors, salons, plumbers, electricians, gyms, restaurants and 90+ other service categories."
+    },
+    {
+      "name": "Why Kurla residents trust Mumbai96",
+      "description": "Unlike generic national directories, Mumbai96 focuses exclusively on Mumbai localities. Every listing in Kurla is verified for contact accuracy, and our review system ensures only genuine Mumbaikars leave feedback. Whether you just moved to Kurla or have lived here for years, Mumbai96 is your local companion."
+    },
+    {
+      "name": "Services available in Kurla",
+      "description": "From healthcare (dentists, skin doctors, gynecologists, pediatricians) to home services (plumbers, electricians, carpenters), from lifestyle (salons, gyms, yoga) to food (restaurants, tiffin services, caterers) - Mumbai96 covers everything Kurla residents need, all in one place."
+    },
+    {
+      "name": "About Kurla",
+      "description": "Kurla is part of the Central Suburbs, one of Mumbai's busiest and most connected areas. With a growing population of 9L+ residents, the demand for quality local services has never been higher. Mumbai96 is here to bridge that gap - making it easier for Kurla businesses to be found and for residents to find exactly what they need."
+    }
+  ],
+  "nearby_locations": [
+    {
+      "slug": "ghatkopar-west",
+      "name": "Ghatkopar West"
+    },
+    {
+      "slug": "chembur",
+      "name": "Chembur"
+    },
+    {
+      "slug": "sion",
+      "name": "Sion"
+    },
+    {
+      "slug": "bandra-east",
+      "name": "Bandra East"
+    },
+    {
+      "slug": "santacruz-east",
+      "name": "Santacruz East"
+    },
+    {
+      "slug": "vidyavihar",
+      "name": "Vidyavihar"
+    }
+  ],
+  "population": "9L+",
+  "municipal_body": "MCGM"
+}

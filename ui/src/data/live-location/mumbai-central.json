@@ -1,0 +1,1772 @@
+{
+  "seo_title": "Mumbai Central Mumbai - Complete Local Guide 2026 | Places, Food, Property, Schools, Hospitals | Mumbai96",
+  "seo_description": "Complete guide to Mumbai Central, Mumbai - sub-areas (Mumbai Central Station, Bellasis Road, Nagpada, Foras Road, Tardeo border, Agripada), property prices, top schools, hospitals, banks, markets, commute, employers, events and 100+ local services. Mumbai96 - Mumbaikars' Very Own Platform.",
+  "seo_keywords": "Mumbai Central, Mumbai Central guide, things to do in Mumbai Central, restaurants in Mumbai Central, property prices Mumbai Central, schools in Mumbai Central, hospitals in Mumbai Central, Mumbai Central Station, Maratha Mandir, Bellasis Road, Nagpada, Foras Road, Agripada, Wockhardt Hospital, dentists in Mumbai Central, salons in Mumbai Central, gyms in Mumbai Central, plumbers in Mumbai Central, banks in Mumbai Central, commute from Mumbai Central, Mumbai Central pin code, Mumbai Central area guide 2026",
+  "image": "/images/locations/below-hero/south/mumbai-central.webp",
+  "location_icon": "/images/locations/name-boards/mumbai-central.webp",
+  "name": "Mumbai Central",
+  "about_title": "Mumbai Central, Mumbai - Railway Terminus, Markets & Cinema Heritage",
+  "about": "Mumbai Central is one of the city's great transit gateways - home to the historic railway terminus and bus depot that connect Mumbai to the rest of India. A dense, diverse and bustling neighbourhood, it blends commercial energy, cinema heritage at Maratha Mandir, and a vibrant mix of communities. Whether you need a dentist near Bellasis Road, a salon at Nagpada, or a reliable plumber near the station - Mumbai96 has verified listings with real reviews, direct numbers and everything a Mumbaikar needs to find the right service fast.",
+  "about_commute": "Western Line & Terminus - 6 min to Churchgate",
+  "about_tag": "Transit & Commercial Hub",
+  "about_stats": [
+    {
+      "value": "2.5L+",
+      "label": "Est. Popul. 2026"
+    },
+    {
+      "value": "MCGM",
+      "label": "Municipal Body (E Ward)"
+    },
+    {
+      "value": "Terminus",
+      "label": "Major Long-Distance Rail Hub"
+    },
+    {
+      "value": "Maratha Mandir",
+      "label": "Iconic Cinema Landmark"
+    }
+  ],
+  "places_to_visit": [
+    {
+      "tag": "Landmark",
+      "name": "Mumbai Central Terminus",
+      "description": "The historic railway terminus (Nana Jagannath Shankarseth Terminus) - a heritage gateway connecting Mumbai to all of India.",
+      "icon": "🚆"
+    },
+    {
+      "tag": "Cinema Heritage",
+      "name": "Maratha Mandir",
+      "description": "The legendary cinema famous for screening DDLJ for decades - an icon of Bollywood and Mumbai film culture.",
+      "icon": "🎬"
+    },
+    {
+      "tag": "Heritage",
+      "name": "Nagpada & Bellasis Road Heritage",
+      "description": "Old mosques, bazaars and a colourful multi-community streetscape that defines Mumbai Central's character.",
+      "icon": "🕌"
+    }
+  ],
+  "food_tags": "Mughlai & Kebabs, Nihari & Paya, Irani Cafés, Street Food, Biryani, Ramzan Food Trail, Bohra Cuisine, Juice Centres",
+  "food": [
+    {
+      "name": "Nagpada Kebabs & Nihari",
+      "description": "Legendary Mughlai eateries serving seekh kebabs, nihari and paya - a Mumbai Central institution.",
+      "icon": "🍢"
+    },
+    {
+      "name": "Irani Cafés near the Station",
+      "description": "Old-world bun maska, chai and kheema pav - classic Bombay breakfast spots.",
+      "icon": "☕"
+    },
+    {
+      "name": "Biryani Joints, Bellasis Road",
+      "description": "Aromatic biryani and Mughlai fare lining the bustling Bellasis Road belt.",
+      "icon": "🍚"
+    },
+    {
+      "name": "Ramzan Food Trail",
+      "description": "During Ramzan, the area's lanes become a legendary night-time food trail of kebabs, sweets and delicacies.",
+      "icon": "🌙"
+    }
+  ],
+  "night_life": [
+    {
+      "name": "24-Hour Eateries near the Station",
+      "description": "Tea stalls and eateries near the terminus serve travellers and night owls around the clock.",
+      "icon": "🌙"
+    },
+    {
+      "name": "Maratha Mandir & Cinemas",
+      "description": "Catch a film at the iconic Maratha Mandir or the area's classic single-screen theatres.",
+      "icon": "🎬"
+    },
+    {
+      "name": "Late-Night Kebab Streets",
+      "description": "The Mughlai food streets of Nagpada and Bellasis Road stay lively well into the night.",
+      "icon": "🍢"
+    },
+    {
+      "name": "Bars near Tardeo (Nearby)",
+      "description": "Lounges and bars around Tardeo and the racecourse belt are just minutes away.",
+      "icon": "🍸"
+    }
+  ],
+  "night_life_tips": [
+    "Check local Facebook groups for event updates",
+    "Ola/Uber are easily available late nights",
+    "Food delivery apps active till midnight",
+    "Railway/Metro last times vary - check apps"
+  ],
+  "sub_areas": [
+    {
+      "tag": "Transit Hub",
+      "name": "Station Area, Mumbai Central",
+      "description": "The bustling heart around the terminus and bus depot - hotels, eateries and round-the-clock activity.",
+      "image": "https://images.unsplash.com/photo-1570168007204-dfb528c6958f?w=600&q=80"
+    },
+    {
+      "tag": "Commercial",
+      "name": "Bellasis Road",
+      "description": "A busy commercial artery of shops, eateries and small businesses connecting the station to Nagpada.",
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=80"
+    },
+    {
+      "tag": "Heritage",
+      "name": "Nagpada",
+      "description": "A historic, vibrant multi-community pocket famous for its Mughlai food, mosques and bustling bazaars.",
+      "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=600&q=80"
+    },
+    {
+      "tag": "Residential",
+      "name": "Agripada",
+      "description": "An old residential pocket of chawls and societies with a strong, settled local community.",
+      "image": "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=600&q=80"
+    },
+    {
+      "tag": "Old Mumbai",
+      "name": "Foras Road",
+      "description": "A historic stretch with a colourful past, old buildings and a deeply rooted neighbourhood identity.",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600&q=80"
+    },
+    {
+      "tag": "Premium Edge",
+      "name": "Tardeo Border",
+      "description": "The upscale edge towards Tardeo - premium towers, malls and a more affluent residential character.",
+      "image": "https://images.unsplash.com/photo-1582560475093-ba66accbc424?w=600&q=80"
+    }
+  ],
+  "character_vibe": [
+    {
+      "keyword": "Transit Crossroads"
+    },
+    {
+      "keyword": "Foodie Heartland"
+    },
+    {
+      "keyword": "Multi-Community"
+    },
+    {
+      "keyword": "Cinema Heritage"
+    },
+    {
+      "keyword": "Always Awake"
+    },
+    {
+      "keyword": "Central & Connected"
+    },
+    {
+      "keyword": "Old Meets New"
+    }
+  ],
+  "character_vibe_description": "Character & Vibe An honest snapshot - the energy, the people, the pace. The kind of thing no other directory tells you. Mumbai Central never stops. Trains and buses pour travellers in and out around the clock, the bazaars of Nagpada and Bellasis Road hum with trade, and the aroma of kebabs fills the night air. It's gritty, energetic and unmistakably old Bombay - a true crossroads where the whole of India seems to pass through. It's one of the city's most cosmopolitan, multi-community neighbourhoods - Muslim, Gujarati, Marathi, Bohra and migrant families living shoulder to shoulder. As premium towers rise towards the Tardeo edge, Mumbai Central balances its working-class heritage with new aspirations, never losing its frenetic, soulful character.",
+  "character_vibe_image": "https://images.unsplash.com/photo-1561612217-4f5d0b4c6ea8?w=800&q=80",
+  "resident_profile": [
+    {
+      "segment": "Multi-Community Families",
+      "description": "Muslim, Gujarati, Bohra & Marathi households"
+    },
+    {
+      "segment": "Traders & Businessmen",
+      "description": "The market community of Nagpada & Bellasis Road"
+    },
+    {
+      "segment": "Hospitality Workforce",
+      "description": "Staff of hotels & eateries near the terminus"
+    },
+    {
+      "segment": "Migrant Community",
+      "description": "Travellers & settlers drawn by the transit hub"
+    },
+    {
+      "segment": "Tower Residents",
+      "description": "Professionals in the premium Tardeo-edge high-rises"
+    },
+    {
+      "segment": "Old Settled Families",
+      "description": "Multi-generational residents of Agripada & Foras Road"
+    }
+  ],
+  "resident_profile_image": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=800&q=80",
+  "resident_profile_description": "Resident Profile A diverse, multi-community cross-section of old Bombay - here's who you'll find calling Mumbai Central home. Mumbai Central is one of the city's most cosmopolitan neighbourhoods - home to Muslim, Gujarati, Bohra, Marathi and migrant communities living together for generations. Traders, small-business owners, hospitality workers tied to the station economy, and a growing set of professionals in the Tardeo-edge towers all give the area its energetic, diverse identity.",
+  "property_prices": [
+    {
+      "sub_area": "Tardeo Edge / Premium - 3BHK",
+      "price": "₹6 – 9 Cr",
+      "rental": "₹1,50,000 – ₹2,50,000/mo",
+      "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=200&q=80"
+    },
+    {
+      "sub_area": "Redeveloped Towers - 2BHK",
+      "price": "₹3.5 – 5.5 Cr",
+      "rental": "₹80,000 – ₹1,50,000/mo",
+      "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=200&q=80"
+    },
+    {
+      "sub_area": "Older Societies / Agripada - 1BHK",
+      "price": "₹1.8 – 2.5 Cr",
+      "rental": "₹45,000 – ₹70,000/mo",
+      "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=200&q=80"
+    },
+    {
+      "sub_area": "Bellasis Road - Commercial Shop",
+      "price": "₹30,000 – ₹55,000/sqft",
+      "rental": "Lease: High street retail rates",
+      "image": "https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?w=200&q=80"
+    }
+  ],
+  "schools": [
+    {
+      "name": "St. Anne's High School, Mumbai Central",
+      "location": "Mumbai Central",
+      "badge": "ICSE / SSC",
+      "image": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=200&q=80"
+    },
+    {
+      "name": "Anjuman-I-Islam School",
+      "location": "Nagpada, Mumbai Central",
+      "badge": "SSC",
+      "image": "https://images.unsplash.com/photo-1588072432836-e10032774350?w=200&q=80"
+    },
+    {
+      "name": "Agripada Municipal School",
+      "location": "Agripada, Mumbai Central",
+      "badge": "Municipal",
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=200&q=80"
+    },
+    {
+      "name": "Maharashtra College (Nagpada)",
+      "location": "Nagpada, near Mumbai Central",
+      "badge": "Degree College",
+      "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=200&q=80"
+    },
+    {
+      "name": "Aditya Birla World Academy (Tardeo)",
+      "location": "Tardeo, near Mumbai Central",
+      "badge": "IB / IGCSE",
+      "image": "https://images.unsplash.com/photo-1600195077077-7c815b6fd7b5?w=200&q=80"
+    },
+    {
+      "name": "TN Medical College (Nair Hospital)",
+      "location": "Mumbai Central",
+      "badge": "Medical College",
+      "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=200&q=80"
+    }
+  ],
+  "hospitals": [
+    {
+      "type": "Multi-speciality",
+      "name": "Wockhardt Hospital, Mumbai Central",
+      "description": "A leading multi-speciality hospital in Mumbai Central with 24-hour emergency, ICU and advanced care.",
+      "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=400&q=80"
+    },
+    {
+      "type": "Government",
+      "name": "BYL Nair Charitable Hospital",
+      "description": "A major public teaching hospital in Mumbai Central serving patients across every speciality.",
+      "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=400&q=80"
+    },
+    {
+      "type": "Super-speciality",
+      "name": "Saifee Hospital (Charni Road)",
+      "description": "A leading super-speciality hospital in South Mumbai, easily accessible from Mumbai Central.",
+      "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=400&q=80"
+    },
+    {
+      "type": "Multi-speciality",
+      "name": "Bhatia Hospital (Tardeo)",
+      "description": "A trusted multi-speciality hospital near Mumbai Central serving South Mumbai for decades.",
+      "image": "https://images.unsplash.com/photo-1516841273335-e39b37888115?w=400&q=80"
+    },
+    {
+      "type": "24-Hour Clinic",
+      "name": "Mumbai Central Polyclinic",
+      "description": "Local 24-hour clinic near the station and Bellasis Road - general physician, diagnostics and minor surgery.",
+      "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=400&q=80"
+    },
+    {
+      "type": "Diagnostics",
+      "name": "Diagnostic Labs, Mumbai Central",
+      "description": "Multiple diagnostic and pathology centres across Mumbai Central for blood tests, reports and packages.",
+      "image": "https://images.unsplash.com/photo-1587351021759-3e566b6af7cc?w=400&q=80"
+    }
+  ],
+  "banks": [
+    {
+      "name": "State Bank of India",
+      "image": "https://images.unsplash.com/photo-1556742031-c6961e8560b0?w=300&q=80"
+    },
+    {
+      "name": "HDFC Bank",
+      "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=300&q=80"
+    },
+    {
+      "name": "ICICI Bank",
+      "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=300&q=80"
+    },
+    {
+      "name": "Axis Bank",
+      "image": "https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?w=300&q=80"
+    },
+    {
+      "name": "Bank of Baroda",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=300&q=80"
+    },
+    {
+      "name": "Kotak Mahindra Bank",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=300&q=80"
+    },
+    {
+      "name": "Union Bank of India",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=300&q=80"
+    },
+    {
+      "name": "Canara Bank",
+      "image": "https://images.unsplash.com/photo-1567427017947-545c5f8d16ad?w=300&q=80"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Nagpada Market",
+      "description": "A vibrant bazaar of food, fabrics and everyday goods - the colourful heart of Mumbai Central.",
+      "image": "https://images.unsplash.com/photo-1488459716781-31db52582fe9?w=600&q=80"
+    },
+    {
+      "name": "Bellasis Road Bazaar",
+      "description": "A busy commercial stretch of shops, eateries and small businesses near the station.",
+      "image": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=600&q=80"
+    },
+    {
+      "name": "Agripada Local Market",
+      "description": "The neighbourhood market serving the chawls and societies of Agripada with daily essentials.",
+      "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=600&q=80"
+    },
+    {
+      "name": "Tardeo Malls (Nearby)",
+      "description": "The malls and showrooms of the Tardeo belt are minutes away for premium shopping and dining.",
+      "image": "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=600&q=80"
+    },
+    {
+      "name": "Foras Road Shops",
+      "description": "Old shops, hardware and electrical supplies along the historic Foras Road stretch.",
+      "image": "https://images.unsplash.com/photo-1533900298318-6b8da08a523e?w=600&q=80"
+    },
+    {
+      "name": "Ramzan Night Markets",
+      "description": "During Ramzan, the lanes of Nagpada turn into a legendary night-time food and shopping trail.",
+      "image": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?w=600&q=80"
+    }
+  ],
+  "travelling_connectivity": [
+    {
+      "name": "Churchgate by Train",
+      "icon": "🚆",
+      "distance": "6 min",
+      "tag": ""
+    },
+    {
+      "name": "Long-Distance Trains",
+      "icon": "🚉",
+      "distance": "Terminus",
+      "tag": ""
+    },
+    {
+      "name": "Major BEST Bus Hub",
+      "icon": "🚌",
+      "distance": "Depot",
+      "tag": ""
+    },
+    {
+      "name": "Airport (T2)",
+      "icon": "✈️",
+      "distance": "35 min",
+      "tag": ""
+    }
+  ],
+  "commute_description": "One of Mumbai's great transit hubs - the railway terminus, bus depot, upcoming Metro and easy road links put all of India within reach.",
+  "commute_detail_items": [
+    {
+      "name": "Mumbai Central Terminus",
+      "description": "Both suburban and long-distance trains - fast access to Churchgate (6 min) and direct links across India.",
+      "icon": "🚗",
+      "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?w=200&q=80"
+    },
+    {
+      "name": "Mumbai Central Bus Depot",
+      "description": "A major BEST and intercity bus hub - one of the city's busiest road-transport terminals.",
+      "icon": "🚗",
+      "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?w=200&q=80"
+    },
+    {
+      "name": "Metro Line 3 (Upcoming)",
+      "description": "The Colaba-Bandra-SEEPZ underground Metro 3 with a Mumbai Central station will boost connectivity.",
+      "icon": "🚗",
+      "image": "https://images.unsplash.com/photo-1581262208435-41726149a759?w=200&q=80"
+    },
+    {
+      "name": "Road Links & Sea Link Access",
+      "description": "Easy access to Tardeo, the Sea Link via Worli and arterial roads to South Mumbai and the suburbs.",
+      "icon": "🚗",
+      "image": "https://images.unsplash.com/photo-1566378246598-5b11a0d486cc?w=200&q=80"
+    }
+  ],
+  "major_employers": [
+    {
+      "sector": "Railways & Transit",
+      "name": "Indian Railways & BEST Depot",
+      "description": "The terminus and bus depot employ thousands across operations, retail and the surrounding transit economy.",
+      "image": "https://images.unsplash.com/photo-1464938050520-ef2270bb8ce8?w=400&q=80"
+    },
+    {
+      "sector": "Hospitality",
+      "name": "Hotels & Lodges, Mumbai Central",
+      "description": "The dense cluster of hotels and lodges near the terminus is a major local employer.",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400&q=80"
+    },
+    {
+      "sector": "Retail & Trade",
+      "name": "Nagpada & Bellasis Road Markets",
+      "description": "The bustling bazaars employ a large community of traders, vendors and retail workers.",
+      "image": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=400&q=80"
+    },
+    {
+      "sector": "Healthcare",
+      "name": "Wockhardt & Nair Hospitals",
+      "description": "The hospitals and TN Medical College employ large medical, academic and support teams.",
+      "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&q=80"
+    },
+    {
+      "sector": "Food & F&B",
+      "name": "Restaurants & Food Businesses",
+      "description": "The famous Mughlai eateries, bakeries and caterers form a thriving F&B employment base.",
+      "image": "https://images.unsplash.com/photo-1541746972996-4e0b0f43e02a?w=400&q=80"
+    },
+    {
+      "sector": "Corporate (Nearby)",
+      "name": "Tardeo Office Towers",
+      "description": "The corporate towers of the Tardeo edge house offices and businesses minutes from Mumbai Central.",
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=400&q=80"
+    }
+  ],
+  "residential_societies": [
+    {
+      "name": "Tardeo-Edge Premium Towers",
+      "description": "Tardeo border - luxury high-rises with city views",
+      "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=200&q=80"
+    },
+    {
+      "name": "Agripada Co-op Societies",
+      "description": "Agripada - established mid-income societies & chawls",
+      "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=200&q=80"
+    },
+    {
+      "name": "Nagpada Housing",
+      "description": "Nagpada - old buildings & community housing",
+      "image": "https://images.unsplash.com/photo-1560185127-6a8c3f6b8f3c?w=200&q=80"
+    },
+    {
+      "name": "Bellasis Road Residences",
+      "description": "Bellasis Road - mixed residential-commercial buildings",
+      "image": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?w=200&q=80"
+    },
+    {
+      "name": "Foras Road Old Buildings",
+      "description": "Foras Road - heritage residential stretch",
+      "image": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=200&q=80"
+    },
+    {
+      "name": "New Redevelopment Towers",
+      "description": "Mumbai Central - modern high-rises on old plots",
+      "image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=200&q=80"
+    },
+    {
+      "name": "Station-Area Residences",
+      "description": "Near the terminus - convenient mixed-use living",
+      "image": "https://images.unsplash.com/photo-1600607687644-c7f34b5e9d56?w=200&q=80"
+    },
+    {
+      "name": "Jacob Circle-Border Societies",
+      "description": "Towards Saat Rasta - established community housing",
+      "image": "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=200&q=80"
+    }
+  ],
+  "local_events": [
+    {
+      "name": "Ramzan Food Trail, Nagpada",
+      "description": "The legendary Ramzan night-food trail draws crowds from across Mumbai for kebabs, nihari and sweets.",
+      "date": "Varies",
+      "image": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?w=400&q=80"
+    },
+    {
+      "name": "Eid Celebrations",
+      "description": "Eid is celebrated with great fervour across Mumbai Central - festive markets, prayers and community feasts.",
+      "date": "Varies",
+      "image": "https://images.unsplash.com/photo-1547573854-74d2a71d0826?w=400&q=80"
+    },
+    {
+      "name": "Ganeshotsav in Mumbai Central",
+      "description": "Local mandals across Agripada and the area host vibrant Ganesh celebrations and processions.",
+      "date": "Aug – Sep",
+      "image": "https://images.unsplash.com/photo-1531058020387-3be344556be6?w=400&q=80"
+    },
+    {
+      "name": "Navratri & Festive Season",
+      "description": "The diverse communities of Mumbai Central celebrate Navratri, Diwali and festivals through the year.",
+      "date": "Oct",
+      "image": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=400&q=80"
+    },
+    {
+      "name": "Cinema & Film Culture at Maratha Mandir",
+      "description": "The iconic Maratha Mandir keeps Bollywood's golden-age film culture alive with classic screenings.",
+      "date": "Year Round",
+      "image": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=400&q=80"
+    },
+    {
+      "name": "Mughlai Food Festivals",
+      "description": "Seasonal food events celebrate Mumbai Central's legendary Mughlai and street-food heritage.",
+      "date": "Year Round",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=400&q=80"
+    }
+  ],
+  "upcoming_projects": [
+    {
+      "name": "Metro Line 3 - Mumbai Central",
+      "description": "The underground Colaba-Bandra-SEEPZ Metro 3 station will dramatically improve the area's connectivity.",
+      "status": "Ongoing",
+      "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=400&q=80"
+    },
+    {
+      "name": "Mumbai Central Terminus Upgrade",
+      "description": "Railway plans to modernise the historic terminus with better passenger facilities and circulation.",
+      "status": "Ongoing",
+      "image": "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=400&q=80"
+    },
+    {
+      "name": "Cluster Redevelopment Projects",
+      "description": "Older cessed buildings are being redeveloped into modern towers, unlocking new housing supply.",
+      "status": "Upcoming",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&q=80"
+    },
+    {
+      "name": "Traffic & Junction Decongestion",
+      "description": "Proposed improvements around the station and Bellasis Road to ease the area's heavy congestion.",
+      "status": "Upcoming",
+      "image": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=400&q=80"
+    },
+    {
+      "name": "New Commercial & Hotel Projects",
+      "description": "New commercial and hospitality developments are planned near the transit hub and Tardeo edge.",
+      "status": "Planned",
+      "image": "https://images.unsplash.com/photo-1568992687947-868a62a9f521?w=400&q=80"
+    },
+    {
+      "name": "Heritage Precinct Conservation",
+      "description": "Proposed conservation of the area's heritage buildings, cinemas and historic streetscapes.",
+      "status": "Planned",
+      "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?w=400&q=80"
+    }
+  ],
+  "civic_data": {
+    "pin_codes": {
+      "label": "Pin Codes",
+      "value": "400008, 400011",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=300&q=80"
+    },
+    "municipal_body": {
+      "label": "Municipal Body",
+      "value": "MCGM (BMC) - E Ward",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=300&q=80"
+    },
+    "assembly_constituency": {
+      "label": "Assembly Constituency",
+      "value": "Mumbadevi / Byculla region",
+      "image": "https://images.unsplash.com/photo-1503551723145-6c040742065b?w=300&q=80"
+    },
+    "police_station": {
+      "label": "Police Station",
+      "value": "Nagpada, Agripada, Tardeo",
+      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=300&q=80"
+    },
+    "post_offices": {
+      "label": "Post Offices",
+      "value": "Mumbai Central, Nagpada",
+      "image": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=300&q=80"
+    },
+    "fire_station": {
+      "label": "Fire Station",
+      "value": "Byculla (nearest)",
+      "image": "https://images.unsplash.com/photo-1534536281715-e28d76689b4d?w=300&q=80"
+    },
+    "est_popul": {
+      "label": "Est. Popul.",
+      "value": "2.5 Lakh+ (2026 est.)",
+      "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=300&q=80"
+    },
+    "bmc_ward_office": {
+      "label": "BMC Ward Office",
+      "value": "E Ward - Byculla",
+      "image": "https://images.unsplash.com/photo-1487958449943-2429e8be8625?w=300&q=80"
+    }
+  },
+  "area_report_card": {
+    "connectivity_in_mumbai_central": 5,
+    "food_street_food_in_mumbai_central": 5,
+    "affordability_mumbai_central": 3,
+    "shopping_daily_essentials": 5,
+    "healthcare_in_mumbai_central": 5,
+    "safety_in_mumbai_central": 4
+  },
+  "living_style": [
+    {
+      "name": "Housing & Property in Mumbai Central",
+      "description": "₹1.8Cr-₹9Cr depending on building - older societies affordable, Tardeo-edge and redeveloped towers premium.",
+      "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=80&q=80",
+      "icon": "🏠"
+    },
+    {
+      "name": "Schools & Education in Mumbai Central",
+      "description": "St. Anne's, Anjuman-I-Islam and TN Medical College locally, plus top schools nearby in Tardeo.",
+      "image": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=80&q=80",
+      "icon": "🏠"
+    },
+    {
+      "name": "Healthcare in Mumbai Central",
+      "description": "Wockhardt, Nair and Saifee/Bhatia nearby - plus countless clinics, pharmacies and diagnostic labs.",
+      "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=80&q=80",
+      "icon": "🏠"
+    },
+    {
+      "name": "Community Character of Mumbai Central",
+      "description": "Muslim, Gujarati, Bohra and Marathi communities - a vibrant, diverse, always-awake old-Bombay mix.",
+      "image": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=80&q=80",
+      "icon": "🏠"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is Mumbai Central known for?",
+      "answer": "Mumbai Central is known for its historic railway terminus (officially Nana Jagannath Shankarseth Terminus), one of Mumbai's major long-distance railway hubs, the adjoining Mumbai Central Bus Depot, the iconic Maratha Mandir cinema famous for screening DDLJ for decades, and a dense, vibrant commercial-and-residential neighbourhood."
+    },
+    {
+      "question": "What is the pin code of Mumbai Central?",
+      "answer": "The primary pin code of Mumbai Central is 400008, with adjoining areas covered under 400011 (Jacob Circle / Agripada) and 400007 (Tardeo / Grant Road border)."
+    },
+    {
+      "question": "What are the sub-areas within Mumbai Central?",
+      "answer": "The main micro-localities within Mumbai Central are the Station area, Bellasis Road, Nagpada, Foras Road, Agripada, the Tardeo border and the Belasis-Maratha Mandir belt."
+    },
+    {
+      "question": "What is the property price in Mumbai Central?",
+      "answer": "Property prices in Mumbai Central range from ₹1.8–2.5 Cr for a 1BHK to ₹3.5–5.5 Cr for a 2BHK, with premium redeveloped towers commanding ₹6–9 Cr for larger flats. Rental rates range from ₹45,000 to ₹1,75,000 per month depending on the building (as of May 2026)."
+    },
+    {
+      "question": "How to commute from Mumbai Central?",
+      "answer": "Mumbai Central is served by Western Railway's Mumbai Central Station (both suburban and long-distance), the major Mumbai Central Bus Depot, the upcoming Metro Line 3, BEST bus routes 10, 43, 70, 124, and easy access to Tardeo, the Sea Link and South Mumbai."
+    },
+    {
+      "question": "Which hospitals are in Mumbai Central?",
+      "answer": "Major hospitals in and near Mumbai Central include Wockhardt Hospital, Nair Hospital (BYL Nair Charitable Hospital), Saifee Hospital nearby, and several clinics along Bellasis Road and Nagpada."
+    },
+    {
+      "question": "Which schools are in Mumbai Central?",
+      "answer": "Notable schools in and near Mumbai Central include St. Anne's High School, Anjuman-I-Islam schools, schools in nearby Tardeo and Agripada, and reputed colleges in South Mumbai close by."
+    },
+    {
+      "question": "How do I find the best dentists in Mumbai Central?",
+      "answer": "Browse Mumbai96's Mumbai Central listings, read reviews from locals and call directly. Our verified directory makes it easy."
+    }
+  ],
+  "category_sections": [
+    {
+      "key": "section_1",
+      "heading": "Food, Real Estate & Health",
+      "categories": [
+        {
+          "slug": "street-food",
+          "name": "Street Food",
+          "emoji": "🌮"
+        },
+        {
+          "slug": "biryani-restaurants",
+          "name": "Biryani Restaurants",
+          "emoji": "🍚"
+        },
+        {
+          "slug": "chinese-restaurants",
+          "name": "Chinese Restaurants",
+          "emoji": "🥢"
+        },
+        {
+          "slug": "south-indian-restaurants",
+          "name": "South Indian Restaurants",
+          "emoji": "🥘"
+        },
+        {
+          "slug": "cafes-coffee-shops",
+          "name": "Cafes & Coffee Shops",
+          "emoji": "☕"
+        },
+        {
+          "slug": "bakeries",
+          "name": "Bakeries",
+          "emoji": "🥐"
+        },
+        {
+          "slug": "sweet-shops",
+          "name": "Sweet Shops",
+          "emoji": "🍬"
+        },
+        {
+          "slug": "ice-cream-shops",
+          "name": "Ice Cream Shops",
+          "emoji": "🍦"
+        },
+        {
+          "slug": "juice-shops",
+          "name": "Juice Shops",
+          "emoji": "🥤"
+        },
+        {
+          "slug": "seafood-restaurants",
+          "name": "Seafood Restaurants",
+          "emoji": "🦞"
+        },
+        {
+          "slug": "vegetarian-restaurants",
+          "name": "Vegetarian Restaurants",
+          "emoji": "🥗"
+        },
+        {
+          "slug": "fast-food-restaurants",
+          "name": "Fast Food Restaurants",
+          "emoji": "🍔"
+        },
+        {
+          "slug": "real-estate-agents",
+          "name": "Real Estate Agents",
+          "emoji": "🏠"
+        },
+        {
+          "slug": "flats-for-rent",
+          "name": "Flats for Rent",
+          "emoji": "🏢"
+        },
+        {
+          "slug": "flats-for-sale",
+          "name": "Flats for Sale",
+          "emoji": "🔑"
+        },
+        {
+          "slug": "paying-guest-accommodation",
+          "name": "Paying Guest Accommodation",
+          "emoji": "🛏️"
+        },
+        {
+          "slug": "office-space-for-rent",
+          "name": "Office Space for Rent",
+          "emoji": "🏬"
+        },
+        {
+          "slug": "property-management",
+          "name": "Property Management",
+          "emoji": "📋"
+        },
+        {
+          "slug": "pharmacies",
+          "name": "Pharmacies",
+          "emoji": "💊"
+        },
+        {
+          "slug": "eye-doctors",
+          "name": "Eye Doctors",
+          "emoji": "👁️"
+        },
+        {
+          "slug": "physiotherapists",
+          "name": "Physiotherapists",
+          "emoji": "🩹"
+        },
+        {
+          "slug": "ayurvedic-doctors",
+          "name": "Ayurvedic Doctors",
+          "emoji": "🌿"
+        },
+        {
+          "slug": "homeopathy-doctors",
+          "name": "Homeopathy Doctors",
+          "emoji": "🫙"
+        },
+        {
+          "slug": "blood-banks",
+          "name": "Blood Banks",
+          "emoji": "🩸"
+        },
+        {
+          "slug": "diagnostic-centres",
+          "name": "Diagnostic Centres",
+          "emoji": "🔬"
+        }
+      ]
+    },
+    {
+      "key": "section_2",
+      "heading": "Clinics, Shopping & Home Services",
+      "categories": [
+        {
+          "slug": "dental-clinics",
+          "name": "Dental Clinics",
+          "emoji": "🪥"
+        },
+        {
+          "slug": "deaddiction-centres",
+          "name": "Deaddiction Centres",
+          "emoji": "🫁"
+        },
+        {
+          "slug": "clothing-stores",
+          "name": "Clothing Stores",
+          "emoji": "👗"
+        },
+        {
+          "slug": "jewellery-shops",
+          "name": "Jewellery Shops",
+          "emoji": "💍"
+        },
+        {
+          "slug": "mobile-phone-shops",
+          "name": "Mobile Phone Shops",
+          "emoji": "📱"
+        },
+        {
+          "slug": "electronics-stores",
+          "name": "Electronics Stores",
+          "emoji": "💻"
+        },
+        {
+          "slug": "optical-shops",
+          "name": "Optical Shops",
+          "emoji": "👓"
+        },
+        {
+          "slug": "grocery-stores",
+          "name": "Grocery Stores",
+          "emoji": "🛒"
+        },
+        {
+          "slug": "shoe-stores",
+          "name": "Shoe Stores",
+          "emoji": "👟"
+        },
+        {
+          "slug": "sports-goods-stores",
+          "name": "Sports Goods Stores",
+          "emoji": "⚽"
+        },
+        {
+          "slug": "book-stores",
+          "name": "Book Stores",
+          "emoji": "📚"
+        },
+        {
+          "slug": "stationery-stores",
+          "name": "Stationery Stores",
+          "emoji": "✏️"
+        },
+        {
+          "slug": "baby-products-stores",
+          "name": "Baby Products Stores",
+          "emoji": "🍼"
+        },
+        {
+          "slug": "hardware-stores",
+          "name": "Hardware Stores",
+          "emoji": "🪛"
+        },
+        {
+          "slug": "pest-control",
+          "name": "Pest Control",
+          "emoji": "🐛"
+        },
+        {
+          "slug": "home-cleaning-services",
+          "name": "Home Cleaning Services",
+          "emoji": "🧹"
+        },
+        {
+          "slug": "painting-services",
+          "name": "Painting Services",
+          "emoji": "🖌️"
+        },
+        {
+          "slug": "laundry-dry-cleaners",
+          "name": "Laundry & Dry Cleaners",
+          "emoji": "👕"
+        },
+        {
+          "slug": "water-purifier-services",
+          "name": "Water Purifier Services",
+          "emoji": "💧"
+        },
+        {
+          "slug": "cctv-installation",
+          "name": "CCTV Installation",
+          "emoji": "📷"
+        },
+        {
+          "slug": "false-ceiling-contractors",
+          "name": "False Ceiling Contractors",
+          "emoji": "🏗️"
+        },
+        {
+          "slug": "sofa-repair-services",
+          "name": "Sofa Repair Services",
+          "emoji": "🪜"
+        },
+        {
+          "slug": "car-dealers",
+          "name": "Car Dealers",
+          "emoji": "🚕"
+        },
+        {
+          "slug": "bike-dealers",
+          "name": "Bike Dealers",
+          "emoji": "🛵"
+        },
+        {
+          "slug": "car-wash-services",
+          "name": "Car Wash Services",
+          "emoji": "🚿"
+        }
+      ]
+    },
+    {
+      "key": "section_3",
+      "heading": "Automobiles, Entertainment & Education",
+      "categories": [
+        {
+          "slug": "second-hand-cars",
+          "name": "Second Hand Cars",
+          "emoji": "🚐"
+        },
+        {
+          "slug": "auto-parts-stores",
+          "name": "Auto Parts Stores",
+          "emoji": "⚙️"
+        },
+        {
+          "slug": "petrol-pumps",
+          "name": "Petrol Pumps",
+          "emoji": "⛽"
+        },
+        {
+          "slug": "ev-charging-stations",
+          "name": "EV Charging Stations",
+          "emoji": "🔋"
+        },
+        {
+          "slug": "photographers",
+          "name": "Photographers",
+          "emoji": "📸"
+        },
+        {
+          "slug": "videographers",
+          "name": "Videographers",
+          "emoji": "🎥"
+        },
+        {
+          "slug": "photo-studios",
+          "name": "Photo Studios",
+          "emoji": "🎞️"
+        },
+        {
+          "slug": "printing-shops",
+          "name": "Printing Shops",
+          "emoji": "🖨️"
+        },
+        {
+          "slug": "movie-theatres",
+          "name": "Movie Theatres",
+          "emoji": "🎬"
+        },
+        {
+          "slug": "bowling-alleys",
+          "name": "Bowling Alleys",
+          "emoji": "🎳"
+        },
+        {
+          "slug": "gaming-zones",
+          "name": "Gaming Zones",
+          "emoji": "🎮"
+        },
+        {
+          "slug": "escape-rooms",
+          "name": "Escape Rooms",
+          "emoji": "🗝️"
+        },
+        {
+          "slug": "stand-up-comedy-shows",
+          "name": "Stand-Up Comedy Shows",
+          "emoji": "🎤"
+        },
+        {
+          "slug": "creches-daycare",
+          "name": "Creches & Daycare",
+          "emoji": "🪆"
+        },
+        {
+          "slug": "playschools",
+          "name": "Playschools",
+          "emoji": "🧸"
+        },
+        {
+          "slug": "schools",
+          "name": "Schools",
+          "emoji": "🏫"
+        },
+        {
+          "slug": "colleges",
+          "name": "Colleges",
+          "emoji": "🎓"
+        },
+        {
+          "slug": "spoken-english-classes",
+          "name": "Spoken English Classes",
+          "emoji": "🗣️"
+        },
+        {
+          "slug": "computer-classes",
+          "name": "Computer Classes",
+          "emoji": "⌨️"
+        },
+        {
+          "slug": "swimming-classes",
+          "name": "Swimming Classes",
+          "emoji": "🏊"
+        },
+        {
+          "slug": "courier-services",
+          "name": "Courier Services",
+          "emoji": "🚚"
+        },
+        {
+          "slug": "co-working-spaces",
+          "name": "Co-Working Spaces",
+          "emoji": "💼"
+        },
+        {
+          "slug": "event-photographers",
+          "name": "Event Photographers",
+          "emoji": "🤳"
+        },
+        {
+          "slug": "digital-marketing-agencies",
+          "name": "Digital Marketing Agencies",
+          "emoji": "📣"
+        },
+        {
+          "slug": "web-designers",
+          "name": "Web Designers",
+          "emoji": "🌐"
+        }
+      ]
+    },
+    {
+      "key": "section_4",
+      "heading": "Culture, Spirituality & Medical Specialists",
+      "categories": [
+        {
+          "slug": "astrologers",
+          "name": "Astrologers",
+          "emoji": "🔮"
+        },
+        {
+          "slug": "vastu-consultants",
+          "name": "Vastu Consultants",
+          "emoji": "🧭"
+        },
+        {
+          "slug": "temples",
+          "name": "Temples",
+          "emoji": "🛕"
+        },
+        {
+          "slug": "churches",
+          "name": "Churches",
+          "emoji": "⛪"
+        },
+        {
+          "slug": "mosques",
+          "name": "Mosques",
+          "emoji": "🕌"
+        },
+        {
+          "slug": "detective-agencies-spy-agents",
+          "name": "Detective Agencies",
+          "emoji": "🕵️"
+        },
+        {
+          "slug": "heritage-walks",
+          "name": "Heritage Walks",
+          "emoji": "🏛️"
+        },
+        {
+          "slug": "fishing-community",
+          "name": "Fishing Community",
+          "emoji": "🎣"
+        },
+        {
+          "slug": "food-walks",
+          "name": "Food Walks",
+          "emoji": "🗺️"
+        },
+        {
+          "slug": "dabbawalas",
+          "name": "Dabbawalas",
+          "emoji": "🍱"
+        },
+        {
+          "slug": "film-heritage-tours",
+          "name": "Film Heritage Tours",
+          "emoji": "🎪"
+        },
+        {
+          "slug": "dentists",
+          "name": "Dentists",
+          "emoji": "🦷"
+        },
+        {
+          "slug": "skin-doctors",
+          "name": "Skin Doctors",
+          "emoji": "🧴"
+        },
+        {
+          "slug": "ent-doctors",
+          "name": "ENT Doctors",
+          "emoji": "👂"
+        },
+        {
+          "slug": "spine-doctors",
+          "name": "Spine Doctors",
+          "emoji": "🦴"
+        },
+        {
+          "slug": "ortho-doctors",
+          "name": "Ortho Doctors",
+          "emoji": "🩼"
+        },
+        {
+          "slug": "heart-doctors",
+          "name": "Heart Doctors",
+          "emoji": "❤️"
+        },
+        {
+          "slug": "gynecologist-obstetricians",
+          "name": "Gynecologists",
+          "emoji": "👩‍⚕️"
+        },
+        {
+          "slug": "pediatrician-child-doctors",
+          "name": "Pediatricians",
+          "emoji": "🧒"
+        },
+        {
+          "slug": "maternity-hospitals",
+          "name": "Maternity Hospitals",
+          "emoji": "🤰"
+        },
+        {
+          "slug": "ivf-centers",
+          "name": "IVF Centers",
+          "emoji": "🧬"
+        },
+        {
+          "slug": "hospitals",
+          "name": "Hospitals",
+          "emoji": "🏥"
+        },
+        {
+          "slug": "medical-pathology-labs",
+          "name": "Pathology Labs",
+          "emoji": "🫧"
+        },
+        {
+          "slug": "psychologists",
+          "name": "Psychologists",
+          "emoji": "🧠"
+        },
+        {
+          "slug": "psychiatrists",
+          "name": "Psychiatrists",
+          "emoji": "💬"
+        }
+      ]
+    },
+    {
+      "key": "section_5",
+      "heading": "Wellness, Beauty & Events",
+      "categories": [
+        {
+          "slug": "xray-sonography-centres",
+          "name": "X-Ray & Sonography",
+          "emoji": "🩻"
+        },
+        {
+          "slug": "spas",
+          "name": "Spas",
+          "emoji": "💆"
+        },
+        {
+          "slug": "salons",
+          "name": "Salons",
+          "emoji": "✂️"
+        },
+        {
+          "slug": "beauty-parlours",
+          "name": "Beauty Parlours",
+          "emoji": "💄"
+        },
+        {
+          "slug": "makeover-artists",
+          "name": "Makeover Artists",
+          "emoji": "🪞"
+        },
+        {
+          "slug": "tattoo-artists",
+          "name": "Tattoo Artists",
+          "emoji": "🪡"
+        },
+        {
+          "slug": "gyms",
+          "name": "Gyms",
+          "emoji": "💪"
+        },
+        {
+          "slug": "personal-trainers",
+          "name": "Personal Trainers",
+          "emoji": "🏋️"
+        },
+        {
+          "slug": "dietitians-nutritionists",
+          "name": "Dietitians & Nutritionists",
+          "emoji": "🥦"
+        },
+        {
+          "slug": "bridal-makeup-artists",
+          "name": "Bridal Makeup Artists",
+          "emoji": "👰"
+        },
+        {
+          "slug": "groom-makeup-artists",
+          "name": "Groom Makeup Artists",
+          "emoji": "🤵"
+        },
+        {
+          "slug": "dance-classes",
+          "name": "Dance Classes",
+          "emoji": "💃"
+        },
+        {
+          "slug": "zumba-classes",
+          "name": "Zumba Classes",
+          "emoji": "🕺"
+        },
+        {
+          "slug": "yoga-classes",
+          "name": "Yoga Classes",
+          "emoji": "🧘"
+        },
+        {
+          "slug": "music-classes",
+          "name": "Music Classes",
+          "emoji": "🎵"
+        },
+        {
+          "slug": "drawing-classes",
+          "name": "Drawing Classes",
+          "emoji": "🖍️"
+        },
+        {
+          "slug": "wedding-planners",
+          "name": "Wedding Planners",
+          "emoji": "💒"
+        },
+        {
+          "slug": "destination-wedding-planners",
+          "name": "Destination Wedding Planners",
+          "emoji": "✈️"
+        },
+        {
+          "slug": "birthday-event-planners",
+          "name": "Birthday Event Planners",
+          "emoji": "🎈"
+        },
+        {
+          "slug": "anniversary-event-planners",
+          "name": "Anniversary Planners",
+          "emoji": "🎊"
+        },
+        {
+          "slug": "baby-shower-planners",
+          "name": "Baby Shower Planners",
+          "emoji": "🎀"
+        },
+        {
+          "slug": "caterers",
+          "name": "Caterers",
+          "emoji": "🍽️"
+        },
+        {
+          "slug": "banquet-halls",
+          "name": "Banquet Halls",
+          "emoji": "🏩"
+        },
+        {
+          "slug": "cars-on-rent",
+          "name": "Cars on Rent",
+          "emoji": "🚘"
+        },
+        {
+          "slug": "costumes-on-rent",
+          "name": "Costumes on Rent",
+          "emoji": "🎭"
+        }
+      ]
+    },
+    {
+      "key": "section_6",
+      "heading": "Care, Community & Safety",
+      "categories": [
+        {
+          "slug": "neet-tutorials",
+          "name": "NEET Tutorials",
+          "emoji": "🩺"
+        },
+        {
+          "slug": "pet-food-shops",
+          "name": "Pet Food Shops",
+          "emoji": "🐟"
+        },
+        {
+          "slug": "pet-doctors",
+          "name": "Pet Doctors",
+          "emoji": "🐶"
+        },
+        {
+          "slug": "elders-care",
+          "name": "Elders Care",
+          "emoji": "👴"
+        },
+        {
+          "slug": "women-care-centres",
+          "name": "Women Care Centres",
+          "emoji": "🩷"
+        },
+        {
+          "slug": "relationship-counsellor",
+          "name": "Relationship Counsellor",
+          "emoji": "💑"
+        },
+        {
+          "slug": "ngos",
+          "name": "NGOs",
+          "emoji": "🤝"
+        },
+        {
+          "slug": "ambulance-services",
+          "name": "Ambulance Services",
+          "emoji": "🚑"
+        },
+        {
+          "slug": "animal-shelters",
+          "name": "Animal Shelters",
+          "emoji": "🐕"
+        },
+        {
+          "slug": "security-services",
+          "name": "Security Services",
+          "emoji": "🔐"
+        }
+      ]
+    },
+    {
+      "key": "section_7",
+      "heading": "Repairs, Tutoring & Hospitality",
+      "categories": [
+        {
+          "slug": "artifact-shops",
+          "name": "Artifact Shops",
+          "emoji": "🏺"
+        },
+        {
+          "slug": "carpenters",
+          "name": "Carpenters",
+          "emoji": "🪚"
+        },
+        {
+          "slug": "plumbers",
+          "name": "Plumbers",
+          "emoji": "🪠"
+        },
+        {
+          "slug": "electricians",
+          "name": "Electricians",
+          "emoji": "⚡"
+        },
+        {
+          "slug": "gift-shops",
+          "name": "Gift Shops",
+          "emoji": "🎁"
+        },
+        {
+          "slug": "cake-shops",
+          "name": "Cake Shops",
+          "emoji": "🎂"
+        },
+        {
+          "slug": "girls-hostel-pg",
+          "name": "Girls Hostel & PG",
+          "emoji": "👩"
+        },
+        {
+          "slug": "boys-hostel-pg",
+          "name": "Boys Hostel & PG",
+          "emoji": "👨"
+        },
+        {
+          "slug": "tiffin-services",
+          "name": "Tiffin Services",
+          "emoji": "🥡"
+        },
+        {
+          "slug": "driving-schools",
+          "name": "Driving Schools",
+          "emoji": "🚦"
+        },
+        {
+          "slug": "packers-and-movers",
+          "name": "Packers & Movers",
+          "emoji": "🏚️"
+        },
+        {
+          "slug": "ac-service-and-repair-experts",
+          "name": "AC Service & Repair",
+          "emoji": "❄️"
+        },
+        {
+          "slug": "mobile-phone-repair-experts",
+          "name": "Mobile Phone Repair",
+          "emoji": "🔩"
+        },
+        {
+          "slug": "laptop-repair-service-experts",
+          "name": "Laptop Repair",
+          "emoji": "💾"
+        },
+        {
+          "slug": "car-repair-shops",
+          "name": "Car Repair Shops",
+          "emoji": "🔨"
+        },
+        {
+          "slug": "bike-repair-shops",
+          "name": "Bike Repair Shops",
+          "emoji": "🛠️"
+        },
+        {
+          "slug": "science-classes",
+          "name": "Science Classes",
+          "emoji": "🔭"
+        },
+        {
+          "slug": "maths-tutorials",
+          "name": "Maths Tutorials",
+          "emoji": "➗"
+        },
+        {
+          "slug": "physics-tutorials",
+          "name": "Physics Tutorials",
+          "emoji": "⚛️"
+        },
+        {
+          "slug": "chemistry-tutorials",
+          "name": "Chemistry Tutorials",
+          "emoji": "🧪"
+        },
+        {
+          "slug": "ielts-classes",
+          "name": "IELTS Classes",
+          "emoji": "📝"
+        },
+        {
+          "slug": "jee-classes",
+          "name": "JEE Classes",
+          "emoji": "🔢"
+        },
+        {
+          "slug": "mht-cet-classes",
+          "name": "MHT-CET Classes",
+          "emoji": "📏"
+        },
+        {
+          "slug": "gmat-classes",
+          "name": "GMAT Classes",
+          "emoji": "🎯"
+        },
+        {
+          "slug": "gre-classes",
+          "name": "GRE Classes",
+          "emoji": "🏆"
+        }
+      ]
+    },
+    {
+      "key": "section_8",
+      "heading": "Finance, Insurance & Home Decor",
+      "categories": [
+        {
+          "slug": "furniture-on-rent",
+          "name": "Furniture on Rent",
+          "emoji": "🪑"
+        },
+        {
+          "slug": "stock-brokers",
+          "name": "Stock Brokers",
+          "emoji": "📈"
+        },
+        {
+          "slug": "financial-advisors",
+          "name": "Financial Advisors",
+          "emoji": "💰"
+        },
+        {
+          "slug": "chartered-accountants-ca",
+          "name": "Chartered Accountants",
+          "emoji": "🧾"
+        },
+        {
+          "slug": "income-tax-consultants",
+          "name": "Income Tax Consultants",
+          "emoji": "📊"
+        },
+        {
+          "slug": "lawyers-and-advocates",
+          "name": "Lawyers & Advocates",
+          "emoji": "⚖️"
+        },
+        {
+          "slug": "personal-loan-providers",
+          "name": "Personal Loan Providers",
+          "emoji": "💳"
+        },
+        {
+          "slug": "gold-loan-providers",
+          "name": "Gold Loan Providers",
+          "emoji": "🥇"
+        },
+        {
+          "slug": "home-loan-providers",
+          "name": "Home Loan Providers",
+          "emoji": "🏡"
+        },
+        {
+          "slug": "auto-loan-providers",
+          "name": "Auto Loan Providers",
+          "emoji": "🚌"
+        },
+        {
+          "slug": "business-loan-providers",
+          "name": "Business Loan Providers",
+          "emoji": "🏦"
+        },
+        {
+          "slug": "loan-against-property",
+          "name": "Loan Against Property",
+          "emoji": "📜"
+        },
+        {
+          "slug": "health-insurance-providers",
+          "name": "Health Insurance",
+          "emoji": "🛡️"
+        },
+        {
+          "slug": "term-life-insurance-providers",
+          "name": "Life Insurance",
+          "emoji": "🌱"
+        },
+        {
+          "slug": "car-insurance-providers",
+          "name": "Car Insurance",
+          "emoji": "💥"
+        },
+        {
+          "slug": "bike-insurance-providers",
+          "name": "Bike Insurance",
+          "emoji": "🚲"
+        },
+        {
+          "slug": "travel-agents",
+          "name": "Travel Agents",
+          "emoji": "🧳"
+        },
+        {
+          "slug": "visa-consultants",
+          "name": "Visa Consultants",
+          "emoji": "🛂"
+        },
+        {
+          "slug": "passport-agents",
+          "name": "Passport Agents",
+          "emoji": "🛃"
+        },
+        {
+          "slug": "honeymoon-travel-agents",
+          "name": "Honeymoon Travel Agents",
+          "emoji": "🌅"
+        },
+        {
+          "slug": "medical-tourism",
+          "name": "Medical Tourism",
+          "emoji": "🏨"
+        },
+        {
+          "slug": "architects",
+          "name": "Architects",
+          "emoji": "📐"
+        },
+        {
+          "slug": "interior-designers",
+          "name": "Interior Designers",
+          "emoji": "🪟"
+        },
+        {
+          "slug": "furniture-and-decor-stores",
+          "name": "Furniture & Decor Stores",
+          "emoji": "🪵"
+        },
+        {
+          "slug": "light-decor-shops",
+          "name": "Light & Decor Shops",
+          "emoji": "💡"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "slug": "dentists",
+      "name": "Dentists",
+      "emoji": "🦷",
+      "image": "https://mumbai96.com/mumbai-central/images/01-dentists-in-mumbai-central.jpg",
+      "description": "Local Services · Mumbai Central"
+    },
+    {
+      "slug": "skin-doctors",
+      "name": "Skin Doctors",
+      "emoji": "🧴",
+      "image": "https://mumbai96.com/mumbai-central/images/02-skin-doctors-in-mumbai-central.jpg",
+      "description": "Local Services · Mumbai Central"
+    },
+    {
+      "slug": "gynecologists",
+      "name": "Gynecologists in Mumbai Central",
+      "emoji": "👩‍⚕️",
+      "image": "https://mumbai96.com/mumbai-central/images/03-gynecologists-in-mumbai-central.jpg",
+      "description": "Local Services · Mumbai Central"
+    },
+    {
+      "slug": "salons",
+      "name": "Salons",
+      "emoji": "✂️",
+      "image": "https://mumbai96.com/mumbai-central/images/04-salons-in-mumbai-central.jpg",
+      "description": "Local Services · Mumbai Central"
+    },
+    {
+      "slug": "plumbers",
+      "name": "Plumbers",
+      "emoji": "🪠",
+      "image": "https://mumbai96.com/mumbai-central/images/05-plumbers-in-mumbai-central.jpg",
+      "description": "Local Services · Mumbai Central"
+    },
+    {
+      "slug": "electricians",
+      "name": "Electricians",
+      "emoji": "⚡",
+      "image": "https://mumbai96.com/mumbai-central/images/06-electricians-in-mumbai-central.jpg",
+      "description": "Local Services · Mumbai Central"
+    },
+    {
+      "slug": "gyms",
+      "name": "Gyms",
+      "emoji": "💪",
+      "image": "https://mumbai96.com/mumbai-central/images/07-gyms-in-mumbai-central.jpg",
+      "description": "Local Services · Mumbai Central"
+    },
+    {
+      "slug": "restaurants",
+      "name": "Restaurants in Mumbai Central",
+      "emoji": "🍽️",
+      "image": "https://mumbai96.com/mumbai-central/images/08-restaurants-in-mumbai-central.jpg",
+      "description": "Local Services · Mumbai Central"
+    },
+    {
+      "slug": "tiffin-services",
+      "name": "Tiffin Services",
+      "emoji": "🥡",
+      "image": "https://mumbai96.com/mumbai-central/images/09-tiffin-services-in-mumbai-central.jpg",
+      "description": "Local Services · Mumbai Central"
+    },
+    {
+      "slug": "real-estate",
+      "name": "Real Estate in Mumbai Central",
+      "emoji": "🏠",
+      "image": "https://mumbai96.com/mumbai-central/images/10-real-estate-in-mumbai-central.jpg",
+      "description": "Local Services · Mumbai Central"
+    }
+  ],
+  "best_services": [
+    {
+      "name": "Best Services in Mumbai Central, Mumbai - Mumbai96 Guide",
+      "description": "Finding trusted local services in Mumbai Central just got easier. Mumbai96 is Mumbai Central's dedicated local directory - a Mumbaikar-built platform that connects residents with verified dentists, skin doctors, salons, plumbers, electricians, gyms, restaurants and 90+ other service categories."
+    },
+    {
+      "name": "Why Mumbai Central residents trust Mumbai96",
+      "description": "Unlike generic national directories, Mumbai96 focuses exclusively on Mumbai localities. Every listing in Mumbai Central is verified for contact accuracy, and our review system ensures only genuine Mumbaikars leave feedback. Whether you just moved to Mumbai Central or have lived here for generations, Mumbai96 is your local companion."
+    },
+    {
+      "name": "Services available in Mumbai Central",
+      "description": "From healthcare (dentists, skin doctors, gynecologists, pediatricians) to home services (plumbers, electricians, carpenters), from lifestyle (salons, gyms, yoga) to food (restaurants, tiffin services, caterers) - Mumbai96 covers everything Mumbai Central residents need, all in one place."
+    },
+    {
+      "name": "About Mumbai Central",
+      "description": "Mumbai Central is part of South Mumbai, one of the city's great transit gateways and a vibrant, multi-community neighbourhood. Home to the historic railway terminus, bus depot and the iconic Maratha Mandir, with a population of 2.5L+ residents, the demand for quality local services is high. Mumbai96 is here to bridge that gap - making it easier for Mumbai Central businesses to be found and for residents to find exactly what they need."
+    }
+  ],
+  "nearby_locations": [
+    {
+      "slug": "tardeo",
+      "name": "Tardeo"
+    },
+    {
+      "slug": "mahalaxmi",
+      "name": "Mahalaxmi"
+    },
+    {
+      "slug": "byculla",
+      "name": "Byculla"
+    },
+    {
+      "slug": "grant-road",
+      "name": "Grant Road"
+    },
+    {
+      "slug": "agripada",
+      "name": "Agripada"
+    },
+    {
+      "slug": "nagpada",
+      "name": "Nagpada"
+    }
+  ],
+  "population": "2.5L+",
+  "municipal_body": "MCGM"
+}

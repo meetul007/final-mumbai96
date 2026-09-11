@@ -1,25 +1,27 @@
+
 import Link from "next/link";
+import styles from "./locationPage.module.css";
 
 export default function NearbySection({
   locations = [],
   variant = "location",
-  // Listing variant props:
+  // Listing variant props (unrelated to this module — left as-is):
   locationName = "",
   locationSlug = "",
   category = {},
   nearbyLocations = [],
   otherCategories = [],
 }) {
-  // ── Location page variant (backward compatible) ──
+  // ── Location page variant (matches reference design) ──
   if (variant === "location") {
     return (
-      <section className="nearby">
-        <div className="con">
-          <p className="sl">Explore Nearby</p>
-          <h2 className="st">Nearby Neighbourhoods</h2>
-          <div className="ng">
+      <section className={styles.nearby}>
+        <div className={styles.con}>
+          <p className={styles.sl}>Explore Nearby</p>
+          <h2 className={styles.st}>Nearby Areas in the Mumbai Region</h2>
+          <div className={styles.ng}>
             {locations.map((loc) => (
-              <Link key={loc.slug} href={`/${loc.slug}`} className="nc">
+              <Link key={loc.slug} href={`/${loc.slug}`} className={styles.nc}>
                 📍 {loc.name}
               </Link>
             ))}
@@ -29,7 +31,7 @@ export default function NearbySection({
     );
   }
 
-  // ── Category listing page variant ──
+  // ── Category listing page variant (out of scope for this module — untouched) ──
   const catEmoji = category.emoji || "📌";
   const catName = category.name || "Services";
   const catSlug = category.slug || "";
@@ -37,7 +39,6 @@ export default function NearbySection({
   return (
     <section className="nearby">
       <div className="con">
-        {/* Also in {locationName} */}
         {otherCategories.length > 0 && (
           <>
             <p className="nb-kicker">Also in {locationName}</p>
@@ -56,7 +57,6 @@ export default function NearbySection({
           </>
         )}
 
-        {/* {catName} in Nearby Neighbourhoods */}
         {nearbyLocations.length > 0 && (
           <>
             <p className="nb-also-title">
@@ -79,7 +79,6 @@ export default function NearbySection({
           </>
         )}
 
-        {/* Fallback: plain locations list if no structured data */}
         {otherCategories.length === 0 && nearbyLocations.length === 0 && locations.length > 0 && (
           <div className="nb-grid">
             {locations.map((loc) => (

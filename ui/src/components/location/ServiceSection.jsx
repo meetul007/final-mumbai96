@@ -1,3 +1,9 @@
+
+// ServiceSection.js
+"use client";
+import styles from './locationPage.module.css';
+import { useState } from 'react';
+
 export default function ServiceSection({
   location,
   category,
@@ -9,14 +15,29 @@ export default function ServiceSection({
   reverse = false,
   slug = null,
 }) {
-  const formattedLocation = location?.replace(/-/g, " ");
+    const [isOpen, setIsOpen] = useState(false);
+
+  const formattedLocation = location?.replace(/-/g, " ").replace(/\b\w/g, char => char.toUpperCase()) || "Bhayandar East";
+
+  // Default benefits if not provided
+  const defaultBenefits = [
+    "Verified listings with real Mumbaikar reviews",
+    "Direct phone numbers - call instantly",
+    "Updated availability and contact details",
+    "Compare multiple options before you decide"
+  ];
+
+  const displayBenefits = benefits.length > 0 ? benefits : defaultBenefits;
+
+  // Default description if not provided
+  const displayDescription = description || `Find the best ${category} in ${formattedLocation}. Trusted by locals, verified by Mumbai96.`;
 
   return (
-    <section className="cs">
-      <div className="con">
-        <div className={`cg ${reverse ? "r" : ""}`}>
+    <section className={styles.cs}>
+      <div className={styles.con}>
+        <div className={`${styles.cg} ${reverse ? styles.r : ""}`}>
           {/* IMAGE */}
-          <div className="ci">
+          <div className={styles.ci}>
             {image ? (
               <img
                 src={image}
@@ -24,51 +45,65 @@ export default function ServiceSection({
                 loading="lazy"
               />
             ) : (
-              <div className="ci-placeholder">
-                <span className="ci-placeholder-emoji">{emoji || "📌"}</span>
+              <div className={styles.ciPlaceholder}>
+                <span className={styles.ciPlaceholderEmoji}>{emoji || "📌"}</span>
               </div>
             )}
-            <span className="it">{emoji ? <><span className="ci-emoji">{emoji}</span> {category}</> : category}</span>
+            <span className={styles.it}>
+              {emoji ? (
+                <>
+                  <span className={styles.ciEmoji}>{emoji}</span> {category}
+                </>
+              ) : (
+                category
+              )}
+            </span>
           </div>
 
           {/* CONTENT */}
-          <div className="cb">
-            <div className="ch">
-              <div className="chl">
-                <p className="sl">Local Services · {formattedLocation}</p>
-
+          <div className={styles.cb}>
+            <div className={styles.ch}>
+              <div className={styles.chl}>
+                <p className={styles.sl}>Local Services · {formattedLocation}</p>
                 <h3>
                   {category} in {formattedLocation}
                 </h3>
               </div>
 
-              <a href={`/${location}/${slug}`} className="cl">
+              <a href={`/${location}/${slug || category?.toLowerCase().replace(/\s+/g, '-')}`} className={styles.cl}>
                 View All →
               </a>
             </div>
 
-            <p>{description}</p>
+            <p>{displayDescription}</p>
 
             {/* BENEFITS */}
-            <div className="tb">
+            <div className={styles.tb}>
               <h4>
-                ⭐ Why use Mumbai96 to find {category.toLowerCase()} in{" "}
+                ⭐ Why use Mumbai96 to find {category?.toLowerCase() || "services"} in{" "}
                 {formattedLocation}?
               </h4>
-
               <ul>
-                {benefits.map((b, i) => (
+                {displayBenefits.map((b, i) => (
                   <li key={i}>{b}</li>
                 ))}
               </ul>
             </div>
 
             {/* FAQ */}
-            {faq && (
-              <div className="faq">
-                <div className="fqi">
-                  <div className="fqq">{faq.question}</div>
-                  <div className="fqa">{faq.answer}</div>
+ {faq && (
+              <div className={styles.faq}>
+                <div className={styles.fqi}>
+                  <div 
+                    className={styles.fqq} 
+                    onClick={() => setIsOpen(!isOpen)}
+                  >
+                    {faq.question}
+                    {/* <span className={styles.faqIcon}>{isOpen ? "−" : "+"}</span> */}
+                  </div>
+                  <div className={`${styles.fqa} ${isOpen ? styles.open : ""}`}>
+                    {faq.answer}
+                  </div>
                 </div>
               </div>
             )}

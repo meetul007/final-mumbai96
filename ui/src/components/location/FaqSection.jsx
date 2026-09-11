@@ -7,7 +7,7 @@ export default function FaqSection({ items = [], location }) {
 
   if (!items || items.length === 0) return null;
 
-  const formattedLocation = location?.replace(/-/g, " ");
+  const formattedLocation = location?.replace(/-/g, " ").replace(/\b\w/g, char => char.toUpperCase());
 
   return (
     <section className="guide-sec" id="faq">
