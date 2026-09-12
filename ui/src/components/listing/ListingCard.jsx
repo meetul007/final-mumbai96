@@ -1,3 +1,7 @@
+"use client";
+
+import { useEffect, useState } from "react";
+import { createPortal } from "react-dom";
 import { openableMapUrl } from "@/lib/mapUrl";
 import { waLink } from "@/lib/whatsapp";
 import ShareButton from "@/components/common/ShareButton";
@@ -6,6 +10,7 @@ export default function ListingCard({ data, index }) {
   const gallery = data.images?.gallery || [];
   const maxPhotos = 4;
   const directionsUrl = openableMapUrl(data.google_map_url, data.address);
+  const [lightboxIndex, setLightboxIndex] = useState(null);
 
   return (
     <div className={`lc ${data.featured ? "featured" : ""}`}>
@@ -18,6 +23,7 @@ export default function ListingCard({ data, index }) {
             {data.verified && <span className="badge-v">✓ Verified</span>}
             <span className="badge-cat">{data.category}</span>
             {data.open && <span className="badge-open">● Open Now</span>}
+            {data.featured && <span className="badge-featured">☆ Featured</span>}
           </div>
 
           {/* Name */}
@@ -93,7 +99,15 @@ export default function ListingCard({ data, index }) {
               i === maxPhotos - 1 ? gallery.length - maxPhotos : 0;
 
             return (
-              <div key={i} className="lc-photo">
+              <div
+                key={i}
+                className="lc-photo"
+                onClick={() => setLightboxIndex(i)}
+                role="button"
+                tabIndex={0}
+                aria-label={`View photos of ${data.name}`}
+                onKeyDown={(e) => e.key === "Enter" && setLightboxIndex(i)}
+              >
                 <img src={photoUrl} alt="" />
                 {remaining > 0 && (
                   <div className="lc-photo-more">+{remaining}</div>
@@ -103,6 +117,78 @@ export default function ListingCard({ data, index }) {
           })}
         </div>
       )}
+
+      {lightboxIndex !== null && (
+        <PhotoLightbox
+          photos={gallery}
+          startIndex={lightboxIndex}
+          onClose={() => setLightboxIndex(null)}
+        />
+      )}
     </div>
+  );
+}
+
+function PhotoLightbox({ photos, startIndex, onClose }) {
+  const [index, setIndex] = useState(startIndex);
+  const next = () => setIndex((i) => (i + 1) % photos.length);
+  const prev = () => setIndex((i) => (i - 1 + photos.length) % photos.length);
+
+  useEffect(() => {
+    function onKeyDown(e) {
+      if (e.key === "Escape") onClose();
+      if (e.key === "ArrowRight") next();
+      if (e.key === "ArrowLeft") prev();
+    }
+    document.addEventListener("keydown", onKeyDown);
+    return () => document.removeEventListener("keydown", onKeyDown);
+  });
+
+  // Rendered via a portal straight into <body> — the card it's opened from
+  // has `overflow: hidden` (for its rounded corners), which would otherwise
+  // clip this to the card's own box instead of covering the full screen.
+  return createPortal(
+    <div className="lc-lightbox" onClick={onClose}>
+      <button
+        type="button"
+        className="lc-lightbox-close"
+        onClick={onClose}
+        aria-label="Close gallery"
+      >
+        ✕
+      </button>
+      <button
+        type="button"
+        className="lc-lightbox-nav lc-lightbox-prev"
+        onClick={(e) => {
+          e.stopPropagation();
+          prev();
+        }}
+        aria-label="Previous photo"
+      >
+        ‹
+      </button>
+      <img
+        src={photos[index]}
+        alt=""
+        className="lc-lightbox-img"
+        onClick={(e) => e.stopPropagation()}
+      />
+      <button
+        type="button"
+        className="lc-lightbox-nav lc-lightbox-next"
+        onClick={(e) => {
+          e.stopPropagation();
+          next();
+        }}
+        aria-label="Next photo"
+      >
+        ›
+      </button>
+      <div className="lc-lightbox-count">
+        {index + 1} / {photos.length}
+      </div>
+    </div>,
+    document.body,
   );
 }
