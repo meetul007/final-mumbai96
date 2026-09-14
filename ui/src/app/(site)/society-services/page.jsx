@@ -37,7 +37,7 @@ export default function SocietyServicesPage() {
         ]}
       >
         <div className="ph-hero-actions">
-          <Link href="/society-requirements" className="cbtn-main">
+          <Link href="/contact-us" className="cbtn-main">
             Submit Your Requirement →
           </Link>
           <a href="#services" className="cbtn-sec">
