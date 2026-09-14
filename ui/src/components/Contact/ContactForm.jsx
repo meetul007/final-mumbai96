@@ -275,9 +275,9 @@ export default function ContactForm() {
                   <div className="cc-sub">Email our team directly</div>
                 </div>
               </div>
-              <div className="cc-val">hello@mumbai96.com</div>
+              <div className="cc-val">info@mumbai96.com</div>
               <div className="cc-time">Mon – Sat · Reply within 24 hrs</div>
-              <a href="mailto:hello@mumbai96.com" className="cc-action">
+              <a href="mailto:info@mumbai96.com" className="cc-action">
                 Send Email →
               </a>
             </div>
