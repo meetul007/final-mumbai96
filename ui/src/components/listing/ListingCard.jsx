@@ -6,11 +6,25 @@ import { openableMapUrl } from "@/lib/mapUrl";
 import { waLink } from "@/lib/whatsapp";
 import ShareButton from "@/components/common/ShareButton";
 
+// Some business names come from the data source fully in ALL CAPS
+// (e.g. "KOTA KACHORI - FAMOUS FOR KACHORI BHAYANDER WEST"). CSS
+// text-transform: capitalize can't fix that — it only capitalizes the
+// first letter of each word and leaves the rest untouched, so an
+// all-caps string stays all-caps. This normalizes to Title Case
+// instead, without touching the underlying data.
+function toTitleCase(str) {
+  if (!str) return str;
+  return str
+    .toLowerCase()
+    .replace(/(^|[\s\-(])\p{L}/gu, (c) => c.toUpperCase());
+}
+
 export default function ListingCard({ data, index }) {
   const gallery = data.images?.gallery || [];
   const maxPhotos = 4;
   const directionsUrl = openableMapUrl(data.google_map_url, data.address);
   const [lightboxIndex, setLightboxIndex] = useState(null);
+  const displayName = toTitleCase(data.name);
 
   return (
     <div className={`lc ${data.featured ? "featured" : ""}`}>
@@ -28,7 +42,7 @@ export default function ListingCard({ data, index }) {
 
           {/* Name */}
           <div className="lc-name">
-            <a href={data.url}>{data.name}</a>
+            <a href={data.url}>{displayName}</a>
           </div>
 
           {/* Rating */}
