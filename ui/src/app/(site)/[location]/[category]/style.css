@@ -568,7 +568,11 @@ input[type="checkbox"] {
   padding: 3px 9px;
   border-radius: 100px;
 }
-.lc-name {
+/* Scoped to .lc-inner so this always wins over the unrelated
+   "3-line explainer cards" homepage section, which also (coincidentally)
+   uses a plain .lc-name class — same specificity as ours meant whichever
+   stylesheet loaded last was winning, unpredictably. */
+.lc-inner .lc-name {
   font-size: 1.05rem;
   font-weight: 800;
   color: var(--ink);
@@ -577,13 +581,13 @@ input[type="checkbox"] {
   cursor: pointer;
   transition: color 0.18s;
 }
-.lc-name:hover {
+.lc-inner .lc-name:hover {
   color: var(--red);
 }
-.lc-name a {
+.lc-inner .lc-name a {
   color: inherit;
 }
-.lc-name a:hover {
+.lc-inner .lc-name a:hover {
   color: var(--red);
 }
 .lc-rating-row {
