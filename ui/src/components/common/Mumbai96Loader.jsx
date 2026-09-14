@@ -139,10 +139,10 @@ export default function Mumbai96Loader({ onComplete, duration = 3500 }) {
       <div ref={finalRef} className={styles.finalScreen}>
         <Image
           ref={logoRef}
-          src="/logo.svg"
+          src="/images/mumbai96-logo.jpg"
           alt="Mumbai96 — Everything Mumbai"
           width={460}
-          height={60}
+          height={137}
           priority
           className={styles.logo}
         />
