@@ -1231,7 +1231,7 @@ export default function Navbar() {
           </Link> */}
           <div className="m96-divider desktop" />
           <Link
-            href="/auth/signup"
+            href="/coming-soon"
             className="m96-signup desktop m96-add-listing"
           >
             AI
