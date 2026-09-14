@@ -18,6 +18,12 @@ export default function SplashGate() {
     } catch {
       // localStorage unavailable (SSR, private browsing edge case) — skip loader
     }
+
+    // Remove the instant solid cover painted by the blocking inline script
+    // in layout.js (see there for why it exists) — either the real animated
+    // loader below takes over now, or the loader was already seen and there's
+    // nothing to hand off to.
+    document.getElementById('mumbai96-preboot')?.remove();
   }, []);
 
   const handleComplete = () => {

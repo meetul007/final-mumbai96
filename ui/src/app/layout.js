@@ -70,6 +70,27 @@ export default function RootLayout({ children }) {
         />
       </head>
       <body className={`${geistSans.variable} ${geistMono.variable}`}>
+        {/* Blocking script — runs the instant the browser parses this point,
+            before Navbar/page content below is painted. Without this, the
+            real page flashes on screen first and the loader only pops in
+            after React hydrates (SplashGate's useEffect runs too late to
+            prevent that first paint). If the loader hasn't been seen yet,
+            paint an instant solid cover now; SplashGate removes it once its
+            real animated loader takes over. */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              try {
+                if (!localStorage.getItem('mumbai96_seen_loader')) {
+                  var d = document.createElement('div');
+                  d.id = 'mumbai96-preboot';
+                  d.style.cssText = 'position:fixed;inset:0;z-index:9999;background:#0d0520;';
+                  document.body.appendChild(d);
+                }
+              } catch (e) {}
+            `,
+          }}
+        />
                   <noscript>
         <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-57S2SGL3"
           height="0" width="0" style={{ display: 'none', visibility: 'hidden' }}>
