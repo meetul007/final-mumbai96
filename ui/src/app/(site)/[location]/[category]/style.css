@@ -573,7 +573,7 @@ input[type="checkbox"] {
    uses a plain .lc-name class — same specificity as ours meant whichever
    stylesheet loaded last was winning, unpredictably. */
 .lc-inner .lc-name {
-  font-size: 1.05rem;
+  font-size: 1.5rem;
   font-weight: 800;
   color: var(--ink);
   line-height: 1.3;
